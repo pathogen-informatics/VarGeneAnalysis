@@ -1,8 +1,11 @@
 import csv
+import logging
 import numpy
 import unittest
 
 from StringIO import StringIO
+
+logging.basicConfig(level=logging.DEBUG)
 
 NUMBER_OF_CLUSTERS = 27
 N_SAMPLES = 1000
@@ -75,21 +78,27 @@ def get_training_data(input_file):
   names of the training samples are taken to be the first N_SEQUENCES samples
   listed in the header row of input_file; the rest are assumed to be test
   data"""
+  logging.info("Getting training data")
   sample_names, row_labels, data = get_data(input_file)
   feature_names = numpy.sort(sample_names[:N_SAMPLES])
   training_data = sort_columns(data, sample_names, feature_names)
   training_data = filter_rows(training_data, row_labels, feature_names)
   training_sample_names = filter_row_labels(row_labels, feature_names)
 
+  logging.debug("Found %s samples and %s features" %
+                (len(training_sample_names), len(feature_names)))
   return training_sample_names, feature_names, training_data
 
 def get_testing_data(input_file, feature_names):
+  logging.info("Getting testing data")
   sample_names, row_labels, data = get_data(input_file)
   testing_names = numpy.sort(sample_names[N_SAMPLES:])
   testing_data = sort_columns(data, sample_names, feature_names)
   testing_data = filter_rows(testing_data, row_labels, testing_names)
   testing_sample_names = filter_row_labels(row_labels, testing_names)
 
+  logging.debug("Found %s samples using %s features" %
+                (len(testing_sample_names), len(feature_names)))
   return testing_sample_names, testing_data
 
 if __name__ == '__main__':

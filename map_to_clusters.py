@@ -109,9 +109,41 @@ def train_classifier(training_data, k=NUMBER_OF_CLUSTERS):
   classifier.fit(training_data)
   return classifier
 
+def get_cluster_sizes(sample_labels, k):
+  cluster_sizes = {cluster: 0 for cluster in xrange(k)}
+  for cluster in sample_labels:
+    cluster_sizes[cluster] = cluster_sizes.get(cluster, 0) + 1
+  return sorted(cluster_sizes.values())
+
 if __name__ == '__main__':
   sample_sets = get_sample_names()
   print_sample_similarity_matrix(sample_sets)
+  input_file_a, input_file_b = [open(fname, 'r') for fname in cluster_matrices]
+  training_sample_names_a, feature_names_a, training_data_a = get_training_data(input_file_a)
+  test_sample_names_a, testing_data_a = get_testing_data(input_file_a, feature_names_a)
+  training_sample_names_b, feature_names_b, training_data_b = get_training_data(input_file_b)
+  test_sample_names_b, testing_data_b = get_testing_data(input_file_b, feature_names_b)
+  for k in xrange(10,51):
+    classifier_a_original = train_classifier(training_data_a, k=k)
+    training_clusters_a_original = classifier_a_original.predict(training_data_a)
+    for i in xrange(10):
+      classifier_a = train_classifier(training_data_a, k=k)
+      training_clusters_a = classifier_a.predict(training_data_a)
+      # Check if input_file_a is clustered consistently
+      internal_consistency_score = metrics.adjusted_rand_score(training_clusters_a_original,
+                                                               training_clusters_a)
+      testing_clusters_a = classifier_a.predict(testing_data_a)
+
+      classifier_b = train_classifier(training_data_b, k=k)
+      testing_clusters_b = classifier_b.predict(testing_data_b)
+      # Check if clusters from input_a and input_b are consistent
+      test_data_consistency_score = metrics.adjusted_rand_score(testing_clusters_a,
+                                                                testing_clusters_b)
+
+      # What is the distribution of cluster sizes like?
+      cluster_sizes = ",".join(map(str,get_cluster_sizes(testing_clusters_a, k)))
+
+      print "\t".join(map(str,[k,internal_consistency_score,test_data_consistency_score,i,cluster_sizes]))
 
 class TestAll(unittest.TestCase):
   def test_sort_rows(self):

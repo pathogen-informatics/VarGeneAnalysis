@@ -3,6 +3,8 @@ import logging
 import numpy
 import unittest
 
+from sklearn import metrics
+from sklearn.cluster import KMeans
 from StringIO import StringIO
 
 logging.basicConfig(level=logging.DEBUG)
@@ -37,6 +39,7 @@ def get_test_sample_names(sample_names):
   return sample_names[N_SAMPLES:]
 
 def get_data(input_file):
+  input_file.seek(0)
   csv_file = csv.reader(input_file, delimiter='\t')
   column_labels = numpy.array(csv_file.next()[1:]).astype('str')
   row_labels = numpy.array([row[0] for row in csv_file]).astype('str')
@@ -100,6 +103,11 @@ def get_testing_data(input_file, feature_names):
   logging.debug("Found %s samples using %s features" %
                 (len(testing_sample_names), len(feature_names)))
   return testing_sample_names, testing_data
+
+def train_classifier(training_data, k=NUMBER_OF_CLUSTERS):
+  classifier = KMeans(n_clusters=k, n_init=100)
+  classifier.fit(training_data)
+  return classifier
 
 if __name__ == '__main__':
   sample_sets = get_sample_names()

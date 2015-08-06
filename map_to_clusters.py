@@ -105,8 +105,9 @@ def get_testing_data(input_file, feature_names):
   return testing_sample_names, testing_data
 
 def train_classifier(training_data, k=NUMBER_OF_CLUSTERS):
-  classifier = KMeans(n_clusters=k, n_init=100)
+  classifier = KMeans(n_clusters=k, n_init=100, max_iter=600, n_jobs=1)
   classifier.fit(training_data)
+  logging.debug("Trained a classifier with %s clusters" % k)
   return classifier
 
 def get_cluster_sizes(sample_labels, k):
@@ -116,6 +117,8 @@ def get_cluster_sizes(sample_labels, k):
   return sorted(cluster_sizes.values())
 
 if __name__ == '__main__':
+  output_file = open("results.100init.600iter.log", 'wa')
+
   sample_sets = get_sample_names()
   print_sample_similarity_matrix(sample_sets)
   input_file_a, input_file_b = [open(fname, 'r') for fname in cluster_matrices]
@@ -123,7 +126,7 @@ if __name__ == '__main__':
   test_sample_names_a, testing_data_a = get_testing_data(input_file_a, feature_names_a)
   training_sample_names_b, feature_names_b, training_data_b = get_training_data(input_file_b)
   test_sample_names_b, testing_data_b = get_testing_data(input_file_b, feature_names_b)
-  for k in xrange(10,51):
+  for k in xrange(25,30):
     classifier_a_original = train_classifier(training_data_a, k=k)
     training_clusters_a_original = classifier_a_original.predict(training_data_a)
     for i in xrange(10):
@@ -143,7 +146,9 @@ if __name__ == '__main__':
       # What is the distribution of cluster sizes like?
       cluster_sizes = ",".join(map(str,get_cluster_sizes(testing_clusters_a, k)))
 
-      print "\t".join(map(str,[k,internal_consistency_score,test_data_consistency_score,i,cluster_sizes]))
+      output_line = "\t".join(map(str,[k,internal_consistency_score,test_data_consistency_score,i,cluster_sizes]))
+      output_file.write(output_line + "\n")
+      output_file.flush()
 
 class TestAll(unittest.TestCase):
   def test_sort_rows(self):

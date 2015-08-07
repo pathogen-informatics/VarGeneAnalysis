@@ -6,11 +6,11 @@ import json
 import random
 import sys
 
-def get_isolate_counts(stats):
-  domain = stats['samples'][args.domain]
+def get_isolate_counts(stats, domain):
+  domain_data = stats['samples'][domain]
   
   isolate_counts = {}
-  for isolate,isolate_data in domain.items():
+  for isolate,isolate_data in domain_data.items():
     count = isolate_data['count']
     isolate_counts[isolate] = count
   return isolate_counts
@@ -35,7 +35,7 @@ if __name__ == '__main__':
   args = parser.parse_args()
   
   stats = json.load(args.stats_file)
-  isolate_counts = get_isolate_counts(stats)
+  isolate_counts = get_isolate_counts(stats, args.domain)
 
   for n_splits in range(1,len(isolate_counts)+1):
     splits = split_data(isolate_counts, n_splits)

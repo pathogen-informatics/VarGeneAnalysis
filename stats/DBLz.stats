@@ -1,0 +1,4596 @@
+{
+  "parsed_samples": 2813,
+  "samples": {
+    "DBLz": {
+      "MAL6P1": {
+        "count": 1,
+        "samples": [
+          "MAL6P1.316.DBLz.4951"
+        ]
+      },
+      "PA0012-C": {
+        "count": 6,
+        "samples": [
+          "PA0012-C.g57.DBLz.2710",
+          "PA0012-C.g18.DBLz.4771",
+          "PA0012-C.g47.DBLz.3493",
+          "PA0012-C.g20.DBLz.4801",
+          "PA0012-C.g11.DBLz.6790",
+          "PA0012-C.g52.DBLz.1315"
+        ]
+      },
+      "PA0017-C": {
+        "count": 9,
+        "samples": [
+          "PA0017-C.g34.DBLz.4798",
+          "PA0017-C.g14.DBLz.6964",
+          "PA0017-C.g39.DBLz.3547",
+          "PA0017-C.g10.DBLz.6439",
+          "PA0017-C.g7.DBLz.7198",
+          "PA0017-C.g11.DBLz.7309",
+          "PA0017-C.g22.DBLz.4936",
+          "PA0017-C.g27.DBLz.4594",
+          "PA0017-C.g9.DBLz.4744"
+        ]
+      },
+      "PA0032-C": {
+        "count": 4,
+        "samples": [
+          "PA0032-C.g15.DBLz.4660",
+          "PA0032-C.g24.DBLz.3631",
+          "PA0032-C.g21.DBLz.3649",
+          "PA0032-C.g2.DBLz.8107"
+        ]
+      },
+      "PA0035-C": {
+        "count": 5,
+        "samples": [
+          "PA0035-C.g36.DBLz.4960",
+          "PA0035-C.g62.DBLz.3550",
+          "PA0035-C.g67.DBLz.3754",
+          "PA0035-C.g32.DBLz.6688",
+          "PA0035-C.g33.DBLz.6964"
+        ]
+      },
+      "PA0041-C": {
+        "count": 9,
+        "samples": [
+          "PA0041-C.g11.DBLz.6208",
+          "PA0041-C.g43.DBLz.3757",
+          "PA0041-C.g9.DBLz.6502",
+          "PA0041-C.g27.DBLz.4594",
+          "PA0041-C.g18.DBLz.4768",
+          "PA0041-C.g8.DBLz.6829",
+          "PA0041-C.g10.DBLz.7348",
+          "PA0041-C.g14.DBLz.6892",
+          "PA0041-C.g37.DBLz.3568"
+        ]
+      },
+      "PA0042-C": {
+        "count": 4,
+        "samples": [
+          "PA0042-C.g12.DBLz.4960",
+          "PA0042-C.g6.DBLz.6409",
+          "PA0042-C.g28.DBLz.3478",
+          "PA0042-C.g20.DBLz.4762"
+        ]
+      },
+      "PA0066-C": {
+        "count": 9,
+        "samples": [
+          "PA0066-C.g105.DBLz.1285",
+          "PA0066-C.g68.DBLz.4534",
+          "PA0066-C.g39.DBLz.4867",
+          "PA0066-C.g63.DBLz.4987",
+          "PA0066-C.g37.DBLz.4786",
+          "PA0066-C.g23.DBLz.6844",
+          "PA0066-C.g60.DBLz.4789",
+          "PA0066-C.g65.DBLz.4903",
+          "PA0066-C.g96.DBLz.3487"
+        ]
+      },
+      "PA0081-C": {
+        "count": 17,
+        "samples": [
+          "PA0081-C.g53.DBLz.3640",
+          "PA0081-C.g57.DBLz.5107",
+          "PA0081-C.g34.DBLz.5797",
+          "PA0081-C.g72.DBLz.4009",
+          "PA0081-C.g44.DBLz.4978",
+          "PA0081-C.g46.DBLz.4948",
+          "PA0081-C.g94.DBLz.2506",
+          "PA0081-C.g41.DBLz.3901",
+          "PA0081-C.g56.DBLz.4870",
+          "PA0081-C.g43.DBLz.5119",
+          "PA0081-C.g11.DBLz.4594",
+          "PA0081-C.g42.DBLz.5020",
+          "PA0081-C.g62.DBLz.4702",
+          "PA0081-C.g24.DBLz.6730",
+          "PA0081-C.g23.DBLz.4618",
+          "PA0081-C.g45.DBLz.4948",
+          "PA0081-C.g13.DBLz.8143"
+        ]
+      },
+      "PA0084-C": {
+        "count": 4,
+        "samples": [
+          "PA0084-C.g20.DBLz.4960",
+          "PA0084-C.g10.DBLz.5878",
+          "PA0084-C.g29.DBLz.4762",
+          "PA0084-C.g33.DBLz.3478"
+        ]
+      },
+      "PA0104-C": {
+        "count": 5,
+        "samples": [
+          "PA0104-C.g48.DBLz.6676",
+          "PA0104-C.g77.DBLz.4786",
+          "PA0104-C.g35.DBLz.4585",
+          "PA0104-C.g96.DBLz.3454",
+          "PA0104-C.g43.DBLz.3715"
+        ]
+      },
+      "PA0106-C": {
+        "count": 6,
+        "samples": [
+          "PA0106-C.g57.DBLz.4597",
+          "PA0106-C.g21.DBLz.3421",
+          "PA0106-C.g87.DBLz.3661",
+          "PA0106-C.g56.DBLz.3997",
+          "PA0106-C.g31.DBLz.6409",
+          "PA0106-C.g132.DBLz.1282"
+        ]
+      },
+      "PA0109-C": {
+        "count": 6,
+        "samples": [
+          "PA0109-C.g55.DBLz.4783",
+          "PA0109-C.g18.DBLz.4522",
+          "PA0109-C.g41.DBLz.5779",
+          "PA0109-C.g32.DBLz.4864",
+          "PA0109-C.g19.DBLz.6385",
+          "PA0109-C.g31.DBLz.4849"
+        ]
+      },
+      "PA0111-C": {
+        "count": 6,
+        "samples": [
+          "PA0111-C.g8.DBLz.6385",
+          "PA0111-C.g58.DBLz.2794",
+          "PA0111-C.g37.DBLz.4849",
+          "PA0111-C.g28.DBLz.4783",
+          "PA0111-C.g5.DBLz.8464",
+          "PA0111-C.g24.DBLz.4522"
+        ]
+      },
+      "PA0113-C": {
+        "count": 6,
+        "samples": [
+          "PA0113-C.g14.DBLz.4849",
+          "PA0113-C.g75.DBLz.1660",
+          "PA0113-C.g5.DBLz.8464",
+          "PA0113-C.g13.DBLz.4864",
+          "PA0113-C.g11.DBLz.4522",
+          "PA0113-C.g19.DBLz.4783"
+        ]
+      },
+      "PA0119-C": {
+        "count": 4,
+        "samples": [
+          "PA0119-C.g36.DBLz.5677",
+          "PA0119-C.g38.DBLz.4864",
+          "PA0119-C.g21.DBLz.8605",
+          "PA0119-C.g46.DBLz.4756"
+        ]
+      },
+      "PA0120-C": {
+        "count": 2,
+        "samples": [
+          "PA0120-C.g22.DBLz.2260",
+          "PA0120-C.g11.DBLz.3547"
+        ]
+      },
+      "PA0121-C": {
+        "count": 4,
+        "samples": [
+          "PA0121-C.g8.DBLz.5677",
+          "PA0121-C.g32.DBLz.1405",
+          "PA0121-C.g12.DBLz.4756",
+          "PA0121-C.g6.DBLz.6295"
+        ]
+      },
+      "PA0127-C": {
+        "count": 2,
+        "samples": [
+          "PA0127-C.g10.DBLz.3274",
+          "PA0127-C.g1.DBLz.5068"
+        ]
+      },
+      "PA0132-C": {
+        "count": 3,
+        "samples": [
+          "PA0132-C.g40.DBLz.4864",
+          "PA0132-C.g38.DBLz.5677",
+          "PA0132-C.g58.DBLz.4756"
+        ]
+      },
+      "PA0134-C": {
+        "count": 3,
+        "samples": [
+          "PA0134-C.g20.DBLz.4810",
+          "PA0134-C.g103.DBLz.1717",
+          "PA0134-C.g31.DBLz.4540"
+        ]
+      },
+      "PA0138-C": {
+        "count": 6,
+        "samples": [
+          "PA0138-C.g30.DBLz.2563",
+          "PA0138-C.g32.DBLz.2428",
+          "PA0138-C.g5.DBLz.5731",
+          "PA0138-C.g31.DBLz.2059",
+          "PA0138-C.g7.DBLz.4225",
+          "PA0138-C.g6.DBLz.4450"
+        ]
+      },
+      "PA0142-C": {
+        "count": 14,
+        "samples": [
+          "PA0142-C.g34.DBLz.4918",
+          "PA0142-C.g20.DBLz.6367",
+          "PA0142-C.g11.DBLz.7492",
+          "PA0142-C.g43.DBLz.4846",
+          "PA0142-C.g28.DBLz.6286",
+          "PA0142-C.g33.DBLz.4840",
+          "PA0142-C.g25.DBLz.5809",
+          "PA0142-C.g57.DBLz.3514",
+          "PA0142-C.g36.DBLz.4789",
+          "PA0142-C.g97.DBLz.2248",
+          "PA0142-C.g50.DBLz.4831",
+          "PA0142-C.g24.DBLz.7045",
+          "PA0142-C.g131.DBLz.2698",
+          "PA0142-C.g23.DBLz.6640"
+        ]
+      },
+      "PA0145-C": {
+        "count": 17,
+        "samples": [
+          "PA0145-C.g10.DBLz.7945",
+          "PA0145-C.g23.DBLz.7174",
+          "PA0145-C.g46.DBLz.4846",
+          "PA0145-C.g20.DBLz.4576",
+          "PA0145-C.g26.DBLz.6214",
+          "PA0145-C.g2.DBLz.6646",
+          "PA0145-C.g55.DBLz.4693",
+          "PA0145-C.g65.DBLz.4813",
+          "PA0145-C.g19.DBLz.6070",
+          "PA0145-C.g24.DBLz.6601",
+          "PA0145-C.g44.DBLz.5089",
+          "PA0145-C.g45.DBLz.4621",
+          "PA0145-C.g43.DBLz.3544",
+          "PA0145-C.g21.DBLz.7270",
+          "PA0145-C.g27.DBLz.7096",
+          "PA0145-C.g40.DBLz.5221",
+          "PA0145-C.g12.DBLz.7123"
+        ]
+      },
+      "PA0148-C": {
+        "count": 9,
+        "samples": [
+          "PA0148-C.g17.DBLz.7111",
+          "PA0148-C.g64.DBLz.3577",
+          "PA0148-C.g37.DBLz.5164",
+          "PA0148-C.g36.DBLz.5209",
+          "PA0148-C.g27.DBLz.5962",
+          "PA0148-C.g38.DBLz.4846",
+          "PA0148-C.g55.DBLz.5029",
+          "PA0148-C.g15.DBLz.6796",
+          "PA0148-C.g71.DBLz.3538"
+        ]
+      },
+      "PA0153-C": {
+        "count": 11,
+        "samples": [
+          "PA0153-C.g125.DBLz.3235",
+          "PA0153-C.g27.DBLz.4792",
+          "PA0153-C.g26.DBLz.4834",
+          "PA0153-C.g25.DBLz.4912",
+          "PA0153-C.g8.DBLz.7162",
+          "PA0153-C.g46.DBLz.4726",
+          "PA0153-C.g24.DBLz.4768",
+          "PA0153-C.g14.DBLz.6862",
+          "PA0153-C.g5.DBLz.7963",
+          "PA0153-C.g23.DBLz.5044",
+          "PA0153-C.g9.DBLz.7012"
+        ]
+      },
+      "PA0154-C": {
+        "count": 4,
+        "samples": [
+          "PA0154-C.g8.DBLz.6397",
+          "PA0154-C.g16.DBLz.3517",
+          "PA0154-C.g63.DBLz.2227",
+          "PA0154-C.g13.DBLz.4834"
+        ]
+      },
+      "PA0159-C": {
+        "count": 4,
+        "samples": [
+          "PA0159-C.g58.DBLz.3847",
+          "PA0159-C.g29.DBLz.4972",
+          "PA0159-C.g68.DBLz.3535",
+          "PA0159-C.g24.DBLz.6298"
+        ]
+      },
+      "PA0161-C": {
+        "count": 8,
+        "samples": [
+          "PA0161-C.g39.DBLz.4735",
+          "PA0161-C.g44.DBLz.4663",
+          "PA0161-C.g67.DBLz.3421",
+          "PA0161-C.g28.DBLz.7036",
+          "PA0161-C.g23.DBLz.6934",
+          "PA0161-C.g46.DBLz.4897",
+          "PA0161-C.g47.DBLz.5167",
+          "PA0161-C.g38.DBLz.7021"
+        ]
+      },
+      "PA0165-C": {
+        "count": 11,
+        "samples": [
+          "PA0165-C.g26.DBLz.5080",
+          "PA0165-C.g28.DBLz.5812",
+          "PA0165-C.g38.DBLz.4984",
+          "PA0165-C.g36.DBLz.4840",
+          "PA0165-C.g8.DBLz.8314",
+          "PA0165-C.g17.DBLz.6922",
+          "PA0165-C.g34.DBLz.5104",
+          "PA0165-C.g32.DBLz.5020",
+          "PA0165-C.g29.DBLz.4537",
+          "PA0165-C.g12.DBLz.8011",
+          "PA0165-C.g35.DBLz.3406"
+        ]
+      },
+      "PA0167-C": {
+        "count": 6,
+        "samples": [
+          "PA0167-C.g15.DBLz.4660",
+          "PA0167-C.g67.DBLz.3391",
+          "PA0167-C.g33.DBLz.4954",
+          "PA0167-C.g31.DBLz.4849",
+          "PA0167-C.g59.DBLz.3610",
+          "PA0167-C.g35.DBLz.4600"
+        ]
+      },
+      "PA0172-C": {
+        "count": 4,
+        "samples": [
+          "PA0172-C.g21.DBLz.5953",
+          "PA0172-C.g63.DBLz.3787",
+          "PA0172-C.g88.DBLz.2818",
+          "PA0172-C.g24.DBLz.4618"
+        ]
+      },
+      "PA0173-C": {
+        "count": 8,
+        "samples": [
+          "PA0173-C.g18.DBLz.4858",
+          "PA0173-C.g11.DBLz.6886",
+          "PA0173-C.g13.DBLz.3940",
+          "PA0173-C.g41.DBLz.4972",
+          "PA0173-C.g29.DBLz.4729",
+          "PA0173-C.g14.DBLz.4825",
+          "PA0173-C.g66.DBLz.3433",
+          "PA0173-C.g7.DBLz.5599"
+        ]
+      },
+      "PA0177-C": {
+        "count": 10,
+        "samples": [
+          "PA0177-C.g44.DBLz.3454",
+          "PA0177-C.g43.DBLz.5005",
+          "PA0177-C.g35.DBLz.4990",
+          "PA0177-C.g28.DBLz.3712",
+          "PA0177-C.g42.DBLz.3394",
+          "PA0177-C.g13.DBLz.4825",
+          "PA0177-C.g10.DBLz.6919",
+          "PA0177-C.g15.DBLz.4843",
+          "PA0177-C.g89.DBLz.1831",
+          "PA0177-C.g67.DBLz.3553"
+        ]
+      },
+      "PA0178-C": {
+        "count": 4,
+        "samples": [
+          "PA0178-C.g59.DBLz.1315",
+          "PA0178-C.g14.DBLz.4858",
+          "PA0178-C.g2.DBLz.4786",
+          "PA0178-C.g26.DBLz.4864"
+        ]
+      },
+      "PA0181-C": {
+        "count": 14,
+        "samples": [
+          "PA0181-C.g92.DBLz.2293",
+          "PA0181-C.g36.DBLz.5104",
+          "PA0181-C.g16.DBLz.7072",
+          "PA0181-C.g11.DBLz.7996",
+          "PA0181-C.g82.DBLz.3466",
+          "PA0181-C.g18.DBLz.6922",
+          "PA0181-C.g42.DBLz.5002",
+          "PA0181-C.g17.DBLz.7129",
+          "PA0181-C.g29.DBLz.4903",
+          "PA0181-C.g22.DBLz.3871",
+          "PA0181-C.g33.DBLz.5152",
+          "PA0181-C.g21.DBLz.6460",
+          "PA0181-C.g43.DBLz.4759",
+          "PA0181-C.g39.DBLz.4882"
+        ]
+      },
+      "PA0186-C": {
+        "count": 5,
+        "samples": [
+          "PA0186-C.g18.DBLz.4891",
+          "PA0186-C.g27.DBLz.4555",
+          "PA0186-C.g78.DBLz.3517",
+          "PA0186-C.g32.DBLz.6922",
+          "PA0186-C.g17.DBLz.7165"
+        ]
+      },
+      "PA0187-C": {
+        "count": 3,
+        "samples": [
+          "PA0187-C.g43.DBLz.3658",
+          "PA0187-C.g82.DBLz.3958",
+          "PA0187-C.g14.DBLz.7519"
+        ]
+      },
+      "PA0189-C": {
+        "count": 5,
+        "samples": [
+          "PA0189-C.g16.DBLz.8485",
+          "PA0189-C.g17.DBLz.6934",
+          "PA0189-C.g22.DBLz.4576",
+          "PA0189-C.g34.DBLz.4972",
+          "PA0189-C.g38.DBLz.6040"
+        ]
+      },
+      "PA0193-C": {
+        "count": 6,
+        "samples": [
+          "PA0193-C.g14.DBLz.5674",
+          "PA0193-C.g90.DBLz.2152",
+          "PA0193-C.g29.DBLz.4912",
+          "PA0193-C.g48.DBLz.4747",
+          "PA0193-C.g31.DBLz.4930",
+          "PA0193-C.g44.DBLz.4846"
+        ]
+      },
+      "PA0196-C": {
+        "count": 8,
+        "samples": [
+          "PA0196-C.g34.DBLz.6790",
+          "PA0196-C.g28.DBLz.6154",
+          "PA0196-C.g42.DBLz.4843",
+          "PA0196-C.g41.DBLz.4915",
+          "PA0196-C.g22.DBLz.5713",
+          "PA0196-C.g30.DBLz.3394",
+          "PA0196-C.g43.DBLz.5107",
+          "PA0196-C.g100.DBLz.2725"
+        ]
+      },
+      "PA0199-C": {
+        "count": 7,
+        "samples": [
+          "PA0199-C.g13.DBLz.7210",
+          "PA0199-C.g35.DBLz.4813",
+          "PA0199-C.g20.DBLz.6715",
+          "PA0199-C.g27.DBLz.4537",
+          "PA0199-C.g36.DBLz.4828",
+          "PA0199-C.g83.DBLz.2347",
+          "PA0199-C.g82.DBLz.2518"
+        ]
+      },
+      "PA0200-C": {
+        "count": 6,
+        "samples": [
+          "PA0200-C.g46.DBLz.3679",
+          "PA0200-C.g39.DBLz.3574",
+          "PA0200-C.g27.DBLz.4912",
+          "PA0200-C.g32.DBLz.4552",
+          "PA0200-C.g22.DBLz.5062",
+          "PA0200-C.g26.DBLz.4861"
+        ]
+      },
+      "PA0202-C": {
+        "count": 9,
+        "samples": [
+          "PA0202-C.g45.DBLz.4804",
+          "PA0202-C.g11.DBLz.6640",
+          "PA0202-C.g52.DBLz.3451",
+          "PA0202-C.g18.DBLz.6985",
+          "PA0202-C.g17.DBLz.7024",
+          "PA0202-C.g43.DBLz.4819",
+          "PA0202-C.g19.DBLz.4567",
+          "PA0202-C.g44.DBLz.4837",
+          "PA0202-C.g42.DBLz.3550"
+        ]
+      },
+      "PA0206-C": {
+        "count": 13,
+        "samples": [
+          "PA0206-C.g48.DBLz.4750",
+          "PA0206-C.g10.DBLz.5989",
+          "PA0206-C.g18.DBLz.4975",
+          "PA0206-C.g19.DBLz.4633",
+          "PA0206-C.g6.DBLz.4858",
+          "PA0206-C.g5.DBLz.6604",
+          "PA0206-C.g40.DBLz.4543",
+          "PA0206-C.g17.DBLz.4921",
+          "PA0206-C.g7.DBLz.6226",
+          "PA0206-C.g52.DBLz.4894",
+          "PA0206-C.g16.DBLz.5335",
+          "PA0206-C.g15.DBLz.5074",
+          "PA0206-C.g14.DBLz.3895"
+        ]
+      },
+      "PA0207-C": {
+        "count": 7,
+        "samples": [
+          "PA0207-C.g90.DBLz.2551",
+          "PA0207-C.g94.DBLz.2491",
+          "PA0207-C.g42.DBLz.4792",
+          "PA0207-C.g61.DBLz.3508",
+          "PA0207-C.g9.DBLz.7873",
+          "PA0207-C.g41.DBLz.3418",
+          "PA0207-C.g93.DBLz.3388"
+        ]
+      },
+      "PA0208-C": {
+        "count": 5,
+        "samples": [
+          "PA0208-C.g12.DBLz.5584",
+          "PA0208-C.g11.DBLz.4993",
+          "PA0208-C.g36.DBLz.2005",
+          "PA0208-C.g16.DBLz.5158",
+          "PA0208-C.g21.DBLz.4867"
+        ]
+      },
+      "PA0209-C": {
+        "count": 5,
+        "samples": [
+          "PA0209-C.g54.DBLz.4777",
+          "PA0209-C.g26.DBLz.6730",
+          "PA0209-C.g67.DBLz.4429",
+          "PA0209-C.g18.DBLz.7021",
+          "PA0209-C.g63.DBLz.4822"
+        ]
+      },
+      "PA0210-C": {
+        "count": 11,
+        "samples": [
+          "PA0210-C.g31.DBLz.4648",
+          "PA0210-C.g19.DBLz.4744",
+          "PA0210-C.g3.DBLz.6715",
+          "PA0210-C.g5.DBLz.6676",
+          "PA0210-C.g68.DBLz.2803",
+          "PA0210-C.g109.DBLz.2479",
+          "PA0210-C.g99.DBLz.1837",
+          "PA0210-C.g26.DBLz.4768",
+          "PA0210-C.g7.DBLz.4552",
+          "PA0210-C.g23.DBLz.3712",
+          "PA0210-C.g2.DBLz.6877"
+        ]
+      },
+      "PA0211-C": {
+        "count": 5,
+        "samples": [
+          "PA0211-C.g22.DBLz.5149",
+          "PA0211-C.g31.DBLz.4735",
+          "PA0211-C.g15.DBLz.8083",
+          "PA0211-C.g24.DBLz.4888",
+          "PA0211-C.g20.DBLz.6202"
+        ]
+      },
+      "PA0212-C": {
+        "count": 12,
+        "samples": [
+          "PA0212-C.g37.DBLz.4828",
+          "PA0212-C.g16.DBLz.7192",
+          "PA0212-C.g22.DBLz.4909",
+          "PA0212-C.g108.DBLz.1642",
+          "PA0212-C.g23.DBLz.4633",
+          "PA0212-C.g30.DBLz.4813",
+          "PA0212-C.g6.DBLz.6661",
+          "PA0212-C.g3.DBLz.6973",
+          "PA0212-C.g24.DBLz.4918",
+          "PA0212-C.g4.DBLz.7396",
+          "PA0212-C.g31.DBLz.4891",
+          "PA0212-C.g100.DBLz.2011"
+        ]
+      },
+      "PA0213-C": {
+        "count": 8,
+        "samples": [
+          "PA0213-C.g3.DBLz.7162",
+          "PA0213-C.g53.DBLz.3391",
+          "PA0213-C.g78.DBLz.2101",
+          "PA0213-C.g12.DBLz.6841",
+          "PA0213-C.g35.DBLz.4009",
+          "PA0213-C.g25.DBLz.4732",
+          "PA0213-C.g71.DBLz.3700",
+          "PA0213-C.g1.DBLz.7999"
+        ]
+      },
+      "PA0216-C": {
+        "count": 7,
+        "samples": [
+          "PA0216-C.g72.DBLz.2992",
+          "PA0216-C.g4.DBLz.6010",
+          "PA0216-C.g8.DBLz.6640",
+          "PA0216-C.g25.DBLz.4885",
+          "PA0216-C.g28.DBLz.4627",
+          "PA0216-C.g9.DBLz.6118",
+          "PA0216-C.g24.DBLz.4993"
+        ]
+      },
+      "PA0227-C": {
+        "count": 15,
+        "samples": [
+          "PA0227-C.g1.DBLz.7225",
+          "PA0227-C.g5.DBLz.6556",
+          "PA0227-C.g59.DBLz.4915",
+          "PA0227-C.g15.DBLz.6361",
+          "PA0227-C.g2.DBLz.7123",
+          "PA0227-C.g85.DBLz.3544",
+          "PA0227-C.g50.DBLz.3745",
+          "PA0227-C.g17.DBLz.5020",
+          "PA0227-C.g107.DBLz.1309",
+          "PA0227-C.g6.DBLz.7018",
+          "PA0227-C.g28.DBLz.4582",
+          "PA0227-C.g56.DBLz.3745",
+          "PA0227-C.g46.DBLz.3535",
+          "PA0227-C.g26.DBLz.4162",
+          "PA0227-C.g33.DBLz.3391"
+        ]
+      },
+      "PA0230-C": {
+        "count": 6,
+        "samples": [
+          "PA0230-C.g46.DBLz.1954",
+          "PA0230-C.g3.DBLz.6586",
+          "PA0230-C.g4.DBLz.4813",
+          "PA0230-C.g23.DBLz.3430",
+          "PA0230-C.g65.DBLz.1564",
+          "PA0230-C.g8.DBLz.4678"
+        ]
+      },
+      "PA0237-C": {
+        "count": 4,
+        "samples": [
+          "PA0237-C.g38.DBLz.1306",
+          "PA0237-C.g65.DBLz.4789",
+          "PA0237-C.g6.DBLz.6796",
+          "PA0237-C.g20.DBLz.4609"
+        ]
+      },
+      "PA0245-C": {
+        "count": 6,
+        "samples": [
+          "PA0245-C.g27.DBLz.6571",
+          "PA0245-C.g38.DBLz.5260",
+          "PA0245-C.g36.DBLz.4834",
+          "PA0245-C.g57.DBLz.4870",
+          "PA0245-C.g28.DBLz.6790",
+          "PA0245-C.g103.DBLz.2293"
+        ]
+      },
+      "PA0256-C": {
+        "count": 7,
+        "samples": [
+          "PA0256-C.g40.DBLz.4729",
+          "PA0256-C.g36.DBLz.6082",
+          "PA0256-C.g25.DBLz.4975",
+          "PA0256-C.g51.DBLz.4735",
+          "PA0256-C.g24.DBLz.4774",
+          "PA0256-C.g31.DBLz.6790",
+          "PA0256-C.g22.DBLz.5902"
+        ]
+      },
+      "PA0274-C": {
+        "count": 6,
+        "samples": [
+          "PA0274-C.g5.DBLz.4783",
+          "PA0274-C.g33.DBLz.6520",
+          "PA0274-C.g60.DBLz.4864",
+          "PA0274-C.g44.DBLz.4522",
+          "PA0274-C.g13.DBLz.8464",
+          "PA0274-C.g35.DBLz.4849"
+        ]
+      },
+      "PA0277-C": {
+        "count": 4,
+        "samples": [
+          "PA0277-C.g39.DBLz.5677",
+          "PA0277-C.g27.DBLz.4864",
+          "PA0277-C.g20.DBLz.8605",
+          "PA0277-C.g44.DBLz.4756"
+        ]
+      },
+      "PD0039-C": {
+        "count": 8,
+        "samples": [
+          "PD0039-C.g20.DBLz.5935",
+          "PD0039-C.g3.DBLz.8650",
+          "PD0039-C.g23.DBLz.3712",
+          "PD0039-C.g32.DBLz.3568",
+          "PD0039-C.g12.DBLz.5182",
+          "PD0039-C.g2.DBLz.7687",
+          "PD0039-C.g22.DBLz.4981",
+          "PD0039-C.g26.DBLz.4921"
+        ]
+      },
+      "PD0078-C": {
+        "count": 12,
+        "samples": [
+          "PD0078-C.g27.DBLz.4759",
+          "PD0078-C.g22.DBLz.4528",
+          "PD0078-C.g11.DBLz.6964",
+          "PD0078-C.g18.DBLz.4660",
+          "PD0078-C.g69.DBLz.1540",
+          "PD0078-C.g21.DBLz.5935",
+          "PD0078-C.g13.DBLz.6469",
+          "PD0078-C.g31.DBLz.4825",
+          "PD0078-C.g24.DBLz.4906",
+          "PD0078-C.g9.DBLz.6925",
+          "PD0078-C.g28.DBLz.3685",
+          "PD0078-C.g7.DBLz.7456"
+        ]
+      },
+      "PD0082-C": {
+        "count": 8,
+        "samples": [
+          "PD0082-C.g8.DBLz.4423",
+          "PD0082-C.g65.DBLz.1954",
+          "PD0082-C.g5.DBLz.5551",
+          "PD0082-C.g47.DBLz.3301",
+          "PD0082-C.g16.DBLz.4456",
+          "PD0082-C.g14.DBLz.4582",
+          "PD0082-C.g41.DBLz.3307",
+          "PD0082-C.g19.DBLz.5128"
+        ]
+      },
+      "PD0086-C": {
+        "count": 8,
+        "samples": [
+          "PD0086-C.g64.DBLz.4465",
+          "PD0086-C.g49.DBLz.5896",
+          "PD0086-C.g57.DBLz.4870",
+          "PD0086-C.g26.DBLz.4690",
+          "PD0086-C.g22.DBLz.6088",
+          "PD0086-C.g59.DBLz.4651",
+          "PD0086-C.g35.DBLz.5080",
+          "PD0086-C.g21.DBLz.5869"
+        ]
+      },
+      "PD0089-C": {
+        "count": 16,
+        "samples": [
+          "PD0089-C.g40.DBLz.3622",
+          "PD0089-C.g33.DBLz.4711",
+          "PD0089-C.g32.DBLz.4831",
+          "PD0089-C.g1.DBLz.8014",
+          "PD0089-C.g39.DBLz.4756",
+          "PD0089-C.g14.DBLz.4123",
+          "PD0089-C.g3.DBLz.8032",
+          "PD0089-C.g19.DBLz.4456",
+          "PD0089-C.g6.DBLz.6796",
+          "PD0089-C.g71.DBLz.2659",
+          "PD0089-C.g31.DBLz.4804",
+          "PD0089-C.g43.DBLz.4777",
+          "PD0089-C.g51.DBLz.2131",
+          "PD0089-C.g10.DBLz.7558",
+          "PD0089-C.g11.DBLz.7024",
+          "PD0089-C.g12.DBLz.6997"
+        ]
+      },
+      "PD0091-C": {
+        "count": 9,
+        "samples": [
+          "PD0091-C.g77.DBLz.4594",
+          "PD0091-C.g35.DBLz.7978",
+          "PD0091-C.g12.DBLz.4456",
+          "PD0091-C.g90.DBLz.2956",
+          "PD0091-C.g16.DBLz.6964",
+          "PD0091-C.g76.DBLz.4663",
+          "PD0091-C.g52.DBLz.7093",
+          "PD0091-C.g59.DBLz.6457",
+          "PD0091-C.g58.DBLz.6988"
+        ]
+      },
+      "PD0092-C": {
+        "count": 6,
+        "samples": [
+          "PD0092-C.g11.DBLz.4726",
+          "PD0092-C.g19.DBLz.4456",
+          "PD0092-C.g10.DBLz.6148",
+          "PD0092-C.g16.DBLz.4531",
+          "PD0092-C.g3.DBLz.6940",
+          "PD0092-C.g63.DBLz.1870"
+        ]
+      },
+      "PD0094-C": {
+        "count": 11,
+        "samples": [
+          "PD0094-C.g36.DBLz.6718",
+          "PD0094-C.g31.DBLz.6856",
+          "PD0094-C.g35.DBLz.6883",
+          "PD0094-C.g84.DBLz.4516",
+          "PD0094-C.g15.DBLz.6964",
+          "PD0094-C.g82.DBLz.3160",
+          "PD0094-C.g30.DBLz.8167",
+          "PD0094-C.g39.DBLz.7261",
+          "PD0094-C.g45.DBLz.4873",
+          "PD0094-C.g68.DBLz.4600",
+          "PD0094-C.g46.DBLz.7540"
+        ]
+      },
+      "PD0096-C": {
+        "count": 5,
+        "samples": [
+          "PD0096-C.g26.DBLz.3160",
+          "PD0096-C.g31.DBLz.2935",
+          "PD0096-C.g20.DBLz.3886",
+          "PD0096-C.g2.DBLz.4318",
+          "PD0096-C.g29.DBLz.2011"
+        ]
+      },
+      "PD0097-C": {
+        "count": 9,
+        "samples": [
+          "PD0097-C.g18.DBLz.7978",
+          "PD0097-C.g19.DBLz.4528",
+          "PD0097-C.g7.DBLz.7132",
+          "PD0097-C.g17.DBLz.7540",
+          "PD0097-C.g34.DBLz.4690",
+          "PD0097-C.g26.DBLz.6121",
+          "PD0097-C.g22.DBLz.5080",
+          "PD0097-C.g33.DBLz.4942",
+          "PD0097-C.g32.DBLz.5755"
+        ]
+      },
+      "PD0098-C": {
+        "count": 5,
+        "samples": [
+          "PD0098-C.g11.DBLz.3709",
+          "PD0098-C.g3.DBLz.6667",
+          "PD0098-C.g16.DBLz.3733",
+          "PD0098-C.g13.DBLz.3931",
+          "PD0098-C.g4.DBLz.4162"
+        ]
+      },
+      "PD0100-C": {
+        "count": 6,
+        "samples": [
+          "PD0100-C.g8.DBLz.3808",
+          "PD0100-C.g2.DBLz.6574",
+          "PD0100-C.g3.DBLz.6247",
+          "PD0100-C.g9.DBLz.3337",
+          "PD0100-C.g6.DBLz.4786",
+          "PD0100-C.g7.DBLz.4708"
+        ]
+      },
+      "PD0103-C": {
+        "count": 6,
+        "samples": [
+          "PD0103-C.g30.DBLz.4651",
+          "PD0103-C.g22.DBLz.6718",
+          "PD0103-C.g31.DBLz.4825",
+          "PD0103-C.g93.DBLz.1762",
+          "PD0103-C.g23.DBLz.7261",
+          "PD0103-C.g74.DBLz.1924"
+        ]
+      },
+      "PD0105-C": {
+        "count": 5,
+        "samples": [
+          "PD0105-C.g50.DBLz.4927",
+          "PD0105-C.g32.DBLz.6889",
+          "PD0105-C.g82.DBLz.2476",
+          "PD0105-C.g59.DBLz.4867",
+          "PD0105-C.g90.DBLz.3175"
+        ]
+      },
+      "PD0106-C": {
+        "count": 6,
+        "samples": [
+          "PD0106-C.g29.DBLz.6478",
+          "PD0106-C.g28.DBLz.5869",
+          "PD0106-C.g74.DBLz.2314",
+          "PD0106-C.g20.DBLz.7087",
+          "PD0106-C.g44.DBLz.2023",
+          "PD0106-C.g30.DBLz.3445"
+        ]
+      },
+      "PD0112-C": {
+        "count": 6,
+        "samples": [
+          "PD0112-C.g28.DBLz.4885",
+          "PD0112-C.g35.DBLz.4516",
+          "PD0112-C.g23.DBLz.5869",
+          "PD0112-C.g32.DBLz.5413",
+          "PD0112-C.g20.DBLz.6394",
+          "PD0112-C.g27.DBLz.6883"
+        ]
+      },
+      "PD0113-C": {
+        "count": 8,
+        "samples": [
+          "PD0113-C.g41.DBLz.5935",
+          "PD0113-C.g32.DBLz.4927",
+          "PD0113-C.g59.DBLz.4543",
+          "PD0113-C.g24.DBLz.6964",
+          "PD0113-C.g47.DBLz.5929",
+          "PD0113-C.g63.DBLz.6013",
+          "PD0113-C.g42.DBLz.6928",
+          "PD0113-C.g73.DBLz.3835"
+        ]
+      },
+      "PD0118-C": {
+        "count": 8,
+        "samples": [
+          "PD0118-C.g19.DBLz.4819",
+          "PD0118-C.g12.DBLz.4609",
+          "PD0118-C.g7.DBLz.6961",
+          "PD0118-C.g21.DBLz.4852",
+          "PD0118-C.g40.DBLz.2128",
+          "PD0118-C.g9.DBLz.6589",
+          "PD0118-C.g35.DBLz.3262",
+          "PD0118-C.g5.DBLz.4942"
+        ]
+      },
+      "PD0121-C": {
+        "count": 9,
+        "samples": [
+          "PD0121-C.g27.DBLz.3871",
+          "PD0121-C.g51.DBLz.4795",
+          "PD0121-C.g17.DBLz.7132",
+          "PD0121-C.g57.DBLz.4816",
+          "PD0121-C.g23.DBLz.5095",
+          "PD0121-C.g22.DBLz.7174",
+          "PD0121-C.g13.DBLz.7180",
+          "PD0121-C.g21.DBLz.7873",
+          "PD0121-C.g35.DBLz.7609"
+        ]
+      },
+      "PD0123-C": {
+        "count": 4,
+        "samples": [
+          "PD0123-C.g13.DBLz.3805",
+          "PD0123-C.g20.DBLz.3679",
+          "PD0123-C.g26.DBLz.1003",
+          "PD0123-C.g40.DBLz.2749"
+        ]
+      },
+      "PD0125-C": {
+        "count": 6,
+        "samples": [
+          "PD0125-C.g27.DBLz.4540",
+          "PD0125-C.g24.DBLz.6901",
+          "PD0125-C.g14.DBLz.6193",
+          "PD0125-C.g6.DBLz.4456",
+          "PD0125-C.g11.DBLz.5935",
+          "PD0125-C.g44.DBLz.3490"
+        ]
+      },
+      "PD0126-C": {
+        "count": 10,
+        "samples": [
+          "PD0126-C.g2.DBLz.8167",
+          "PD0126-C.g25.DBLz.4582",
+          "PD0126-C.g6.DBLz.6964",
+          "PD0126-C.g78.DBLz.1969",
+          "PD0126-C.g22.DBLz.4807",
+          "PD0126-C.g7.DBLz.7534",
+          "PD0126-C.g32.DBLz.3547",
+          "PD0126-C.g21.DBLz.4693",
+          "PD0126-C.g34.DBLz.4525",
+          "PD0126-C.g74.DBLz.2059"
+        ]
+      },
+      "PD0127-C": {
+        "count": 5,
+        "samples": [
+          "PD0127-C.g15.DBLz.5047",
+          "PD0127-C.g6.DBLz.6727",
+          "PD0127-C.g24.DBLz.4771",
+          "PD0127-C.g21.DBLz.4726",
+          "PD0127-C.g12.DBLz.4600"
+        ]
+      },
+      "PD0128-C": {
+        "count": 13,
+        "samples": [
+          "PD0128-C.g153.DBLz.796",
+          "PD0128-C.g92.DBLz.3811",
+          "PD0128-C.g152.DBLz.3808",
+          "PD0128-C.g83.DBLz.5536",
+          "PD0128-C.g127.DBLz.3577",
+          "PD0128-C.g31.DBLz.7297",
+          "PD0128-C.g115.DBLz.4777",
+          "PD0128-C.g176.DBLz.742",
+          "PD0128-C.g49.DBLz.6148",
+          "PD0128-C.g27.DBLz.6943",
+          "PD0128-C.g58.DBLz.4870",
+          "PD0128-C.g121.DBLz.2515",
+          "PD0128-C.g103.DBLz.4786"
+        ]
+      },
+      "PD0129-C": {
+        "count": 7,
+        "samples": [
+          "PD0129-C.g21.DBLz.4729",
+          "PD0129-C.g9.DBLz.4726",
+          "PD0129-C.g44.DBLz.1864",
+          "PD0129-C.g1.DBLz.8167",
+          "PD0129-C.g8.DBLz.6796",
+          "PD0129-C.g22.DBLz.4579",
+          "PD0129-C.g49.DBLz.2470"
+        ]
+      },
+      "PD0130-C": {
+        "count": 11,
+        "samples": [
+          "PD0130-C.g40.DBLz.6088",
+          "PD0130-C.g60.DBLz.5095",
+          "PD0130-C.g72.DBLz.1306",
+          "PD0130-C.g89.DBLz.4585",
+          "PD0130-C.g29.DBLz.4660",
+          "PD0130-C.g12.DBLz.6223",
+          "PD0130-C.g67.DBLz.4981",
+          "PD0130-C.g10.DBLz.6856",
+          "PD0130-C.g93.DBLz.3655",
+          "PD0130-C.g64.DBLz.4789",
+          "PD0130-C.g46.DBLz.5623"
+        ]
+      },
+      "PD0131-C": {
+        "count": 9,
+        "samples": [
+          "PD0131-C.g14.DBLz.6994",
+          "PD0131-C.g6.DBLz.4801",
+          "PD0131-C.g49.DBLz.4603",
+          "PD0131-C.g66.DBLz.3565",
+          "PD0131-C.g59.DBLz.1885",
+          "PD0131-C.g69.DBLz.2023",
+          "PD0131-C.g31.DBLz.6856",
+          "PD0131-C.g39.DBLz.5782",
+          "PD0131-C.g10.DBLz.4786"
+        ]
+      },
+      "PD0132-C": {
+        "count": 10,
+        "samples": [
+          "PD0132-C.g18.DBLz.4456",
+          "PD0132-C.g19.DBLz.7873",
+          "PD0132-C.g27.DBLz.7078",
+          "PD0132-C.g51.DBLz.4819",
+          "PD0132-C.g87.DBLz.2599",
+          "PD0132-C.g20.DBLz.3403",
+          "PD0132-C.g39.DBLz.4729",
+          "PD0132-C.g32.DBLz.6607",
+          "PD0132-C.g82.DBLz.3514",
+          "PD0132-C.g65.DBLz.1969"
+        ]
+      },
+      "PD0133-C": {
+        "count": 10,
+        "samples": [
+          "PD0133-C.g73.DBLz.4900",
+          "PD0133-C.g36.DBLz.7180",
+          "PD0133-C.g66.DBLz.4519",
+          "PD0133-C.g37.DBLz.6706",
+          "PD0133-C.g82.DBLz.4879",
+          "PD0133-C.g108.DBLz.3028",
+          "PD0133-C.g32.DBLz.4942",
+          "PD0133-C.g18.DBLz.6565",
+          "PD0133-C.g16.DBLz.6964",
+          "PD0133-C.g27.DBLz.4660"
+        ]
+      },
+      "PD0134-C": {
+        "count": 4,
+        "samples": [
+          "PD0134-C.g49.DBLz.7603",
+          "PD0134-C.g54.DBLz.4789",
+          "PD0134-C.g41.DBLz.7993",
+          "PD0134-C.g55.DBLz.5980"
+        ]
+      },
+      "PD0136-C": {
+        "count": 11,
+        "samples": [
+          "PD0136-C.g25.DBLz.7978",
+          "PD0136-C.g26.DBLz.7093",
+          "PD0136-C.g37.DBLz.7261",
+          "PD0136-C.g16.DBLz.6964",
+          "PD0136-C.g18.DBLz.4789",
+          "PD0136-C.g115.DBLz.1816",
+          "PD0136-C.g67.DBLz.1963",
+          "PD0136-C.g11.DBLz.4456",
+          "PD0136-C.g34.DBLz.4600",
+          "PD0136-C.g33.DBLz.6988",
+          "PD0136-C.g99.DBLz.3538"
+        ]
+      },
+      "PD0138-C": {
+        "count": 9,
+        "samples": [
+          "PD0138-C.g85.DBLz.2638",
+          "PD0138-C.g4.DBLz.5071",
+          "PD0138-C.g11.DBLz.7108",
+          "PD0138-C.g29.DBLz.3406",
+          "PD0138-C.g58.DBLz.3070",
+          "PD0138-C.g13.DBLz.6958",
+          "PD0138-C.g68.DBLz.4030",
+          "PD0138-C.g22.DBLz.4456",
+          "PD0138-C.g24.DBLz.6868"
+        ]
+      },
+      "PD0139-C": {
+        "count": 8,
+        "samples": [
+          "PD0139-C.g76.DBLz.4882",
+          "PD0139-C.g85.DBLz.3850",
+          "PD0139-C.g75.DBLz.4927",
+          "PD0139-C.g86.DBLz.4693",
+          "PD0139-C.g40.DBLz.6589",
+          "PD0139-C.g28.DBLz.8578",
+          "PD0139-C.g41.DBLz.7174",
+          "PD0139-C.g99.DBLz.3379"
+        ]
+      },
+      "PD0143-C": {
+        "count": 9,
+        "samples": [
+          "PD0143-C.g26.DBLz.6634",
+          "PD0143-C.g23.DBLz.4333",
+          "PD0143-C.g34.DBLz.5371",
+          "PD0143-C.g33.DBLz.6430",
+          "PD0143-C.g25.DBLz.7147",
+          "PD0143-C.g17.DBLz.4729",
+          "PD0143-C.g30.DBLz.5782",
+          "PD0143-C.g22.DBLz.6964",
+          "PD0143-C.g60.DBLz.3847"
+        ]
+      },
+      "PD0472-C": {
+        "count": 11,
+        "samples": [
+          "PD0472-C.g41.DBLz.4720",
+          "PD0472-C.g39.DBLz.3574",
+          "PD0472-C.g68.DBLz.4189",
+          "PD0472-C.g7.DBLz.3355",
+          "PD0472-C.g28.DBLz.4636",
+          "PD0472-C.g18.DBLz.4456",
+          "PD0472-C.g5.DBLz.7249",
+          "PD0472-C.g112.DBLz.2080",
+          "PD0472-C.g15.DBLz.3844",
+          "PD0472-C.g17.DBLz.4651",
+          "PD0472-C.g9.DBLz.6958"
+        ]
+      },
+      "PD0477-C": {
+        "count": 13,
+        "samples": [
+          "PD0477-C.g90.DBLz.3577",
+          "PD0477-C.g51.DBLz.4519",
+          "PD0477-C.g52.DBLz.5902",
+          "PD0477-C.g33.DBLz.5884",
+          "PD0477-C.g44.DBLz.4825",
+          "PD0477-C.g19.DBLz.7936",
+          "PD0477-C.g46.DBLz.3919",
+          "PD0477-C.g57.DBLz.1918",
+          "PD0477-C.g49.DBLz.5869",
+          "PD0477-C.g54.DBLz.5647",
+          "PD0477-C.g21.DBLz.4456",
+          "PD0477-C.g29.DBLz.6412",
+          "PD0477-C.g28.DBLz.7174"
+        ]
+      },
+      "PD0479-C": {
+        "count": 13,
+        "samples": [
+          "PD0479-C.g8.DBLz.7936",
+          "PD0479-C.g17.DBLz.6814",
+          "PD0479-C.g36.DBLz.4825",
+          "PD0479-C.g81.DBLz.2356",
+          "PD0479-C.g90.DBLz.2317",
+          "PD0479-C.g35.DBLz.3616",
+          "PD0479-C.g73.DBLz.3076",
+          "PD0479-C.g58.DBLz.1075",
+          "PD0479-C.g44.DBLz.4777",
+          "PD0479-C.g4.DBLz.7216",
+          "PD0479-C.g24.DBLz.4876",
+          "PD0479-C.g6.DBLz.6964",
+          "PD0479-C.g43.DBLz.4870"
+        ]
+      },
+      "PD0480-C": {
+        "count": 7,
+        "samples": [
+          "PD0480-C.g12.DBLz.4456",
+          "PD0480-C.g30.DBLz.5890",
+          "PD0480-C.g32.DBLz.4843",
+          "PD0480-C.g22.DBLz.6019",
+          "PD0480-C.g27.DBLz.4582",
+          "PD0480-C.g13.DBLz.7249",
+          "PD0480-C.g9.DBLz.7312"
+        ]
+      },
+      "PD0481-C": {
+        "count": 9,
+        "samples": [
+          "PD0481-C.g38.DBLz.7129",
+          "PD0481-C.g42.DBLz.5902",
+          "PD0481-C.g29.DBLz.6856",
+          "PD0481-C.g35.DBLz.4984",
+          "PD0481-C.g28.DBLz.7255",
+          "PD0481-C.g33.DBLz.7261",
+          "PD0481-C.g27.DBLz.5860",
+          "PD0481-C.g10.DBLz.4576",
+          "PD0481-C.g100.DBLz.2077"
+        ]
+      },
+      "PD0482-C": {
+        "count": 14,
+        "samples": [
+          "PD0482-C.g31.DBLz.7174",
+          "PD0482-C.g7.DBLz.7993",
+          "PD0482-C.g47.DBLz.5902",
+          "PD0482-C.g122.DBLz.3703",
+          "PD0482-C.g17.DBLz.7936",
+          "PD0482-C.g50.DBLz.4876",
+          "PD0482-C.g44.DBLz.4555",
+          "PD0482-C.g28.DBLz.5551",
+          "PD0482-C.g29.DBLz.5860",
+          "PD0482-C.g37.DBLz.6901",
+          "PD0482-C.g38.DBLz.5749",
+          "PD0482-C.g36.DBLz.5914",
+          "PD0482-C.g26.DBLz.4456",
+          "PD0482-C.g14.DBLz.7078"
+        ]
+      },
+      "PD0483-C": {
+        "count": 7,
+        "samples": [
+          "PD0483-C.g43.DBLz.6013",
+          "PD0483-C.g57.DBLz.4531",
+          "PD0483-C.g50.DBLz.5665",
+          "PD0483-C.g72.DBLz.4633",
+          "PD0483-C.g58.DBLz.5215",
+          "PD0483-C.g60.DBLz.5662",
+          "PD0483-C.g44.DBLz.7174"
+        ]
+      },
+      "PD0484-C": {
+        "count": 15,
+        "samples": [
+          "PD0484-C.g118.DBLz.2362",
+          "PD0484-C.g22.DBLz.7993",
+          "PD0484-C.g39.DBLz.6718",
+          "PD0484-C.g32.DBLz.5749",
+          "PD0484-C.g128.DBLz.2794",
+          "PD0484-C.g54.DBLz.6013",
+          "PD0484-C.g139.DBLz.2743",
+          "PD0484-C.g36.DBLz.7054",
+          "PD0484-C.g94.DBLz.3208",
+          "PD0484-C.g29.DBLz.7600",
+          "PD0484-C.g55.DBLz.5902",
+          "PD0484-C.g38.DBLz.4603",
+          "PD0484-C.g13.DBLz.4456",
+          "PD0484-C.g86.DBLz.3682",
+          "PD0484-C.g26.DBLz.5551"
+        ]
+      },
+      "PD0485-C": {
+        "count": 15,
+        "samples": [
+          "PD0485-C.g33.DBLz.5623",
+          "PD0485-C.g13.DBLz.7993",
+          "PD0485-C.g35.DBLz.4897",
+          "PD0485-C.g17.DBLz.5551",
+          "PD0485-C.g25.DBLz.6964",
+          "PD0485-C.g45.DBLz.4450",
+          "PD0485-C.g57.DBLz.5902",
+          "PD0485-C.g54.DBLz.4876",
+          "PD0485-C.g163.DBLz.2932",
+          "PD0485-C.g53.DBLz.6013",
+          "PD0485-C.g27.DBLz.7600",
+          "PD0485-C.g32.DBLz.3856",
+          "PD0485-C.g139.DBLz.2860",
+          "PD0485-C.g48.DBLz.6082",
+          "PD0485-C.g91.DBLz.3715"
+        ]
+      },
+      "PD0487-C": {
+        "count": 6,
+        "samples": [
+          "PD0487-C.g131.DBLz.2134",
+          "PD0487-C.g59.DBLz.3721",
+          "PD0487-C.g28.DBLz.6964",
+          "PD0487-C.g38.DBLz.6856",
+          "PD0487-C.g21.DBLz.4456",
+          "PD0487-C.g48.DBLz.4918"
+        ]
+      },
+      "PD0488-C": {
+        "count": 12,
+        "samples": [
+          "PD0488-C.g26.DBLz.6964",
+          "PD0488-C.g24.DBLz.7018",
+          "PD0488-C.g69.DBLz.3451",
+          "PD0488-C.g15.DBLz.4564",
+          "PD0488-C.g7.DBLz.4576",
+          "PD0488-C.g28.DBLz.5080",
+          "PD0488-C.g19.DBLz.4840",
+          "PD0488-C.g43.DBLz.5755",
+          "PD0488-C.g82.DBLz.3649",
+          "PD0488-C.g41.DBLz.4456",
+          "PD0488-C.g42.DBLz.4756",
+          "PD0488-C.g23.DBLz.5080"
+        ]
+      },
+      "PD0489-C": {
+        "count": 14,
+        "samples": [
+          "PD0489-C.g20.DBLz.7144",
+          "PD0489-C.g6.DBLz.7993",
+          "PD0489-C.g21.DBLz.4552",
+          "PD0489-C.g118.DBLz.4132",
+          "PD0489-C.g49.DBLz.5134",
+          "PD0489-C.g78.DBLz.3652",
+          "PD0489-C.g102.DBLz.3043",
+          "PD0489-C.g110.DBLz.2689",
+          "PD0489-C.g4.DBLz.6868",
+          "PD0489-C.g22.DBLz.6910",
+          "PD0489-C.g5.DBLz.6964",
+          "PD0489-C.g48.DBLz.4744",
+          "PD0489-C.g25.DBLz.5119",
+          "PD0489-C.g8.DBLz.8011"
+        ]
+      },
+      "PD0490-C": {
+        "count": 6,
+        "samples": [
+          "PD0490-C.g48.DBLz.5929",
+          "PD0490-C.g34.DBLz.7600",
+          "PD0490-C.g56.DBLz.5755",
+          "PD0490-C.g41.DBLz.4573",
+          "PD0490-C.g47.DBLz.4735",
+          "PD0490-C.g6.DBLz.7075"
+        ]
+      },
+      "PD0492-C": {
+        "count": 19,
+        "samples": [
+          "PD0492-C.g21.DBLz.6109",
+          "PD0492-C.g7.DBLz.7624",
+          "PD0492-C.g6.DBLz.4876",
+          "PD0492-C.g26.DBLz.4582",
+          "PD0492-C.g20.DBLz.4825",
+          "PD0492-C.g97.DBLz.3538",
+          "PD0492-C.g70.DBLz.4786",
+          "PD0492-C.g44.DBLz.3373",
+          "PD0492-C.g5.DBLz.8152",
+          "PD0492-C.g102.DBLz.2578",
+          "PD0492-C.g67.DBLz.3400",
+          "PD0492-C.g4.DBLz.8032",
+          "PD0492-C.g18.DBLz.6205",
+          "PD0492-C.g30.DBLz.6004",
+          "PD0492-C.g135.DBLz.1657",
+          "PD0492-C.g9.DBLz.7102",
+          "PD0492-C.g40.DBLz.4819",
+          "PD0492-C.g19.DBLz.6964",
+          "PD0492-C.g35.DBLz.4456"
+        ]
+      },
+      "PD0493-C": {
+        "count": 7,
+        "samples": [
+          "PD0493-C.g49.DBLz.6286",
+          "PD0493-C.g8.DBLz.7195",
+          "PD0493-C.g40.DBLz.6088",
+          "PD0493-C.g39.DBLz.6997",
+          "PD0493-C.g48.DBLz.4957",
+          "PD0493-C.g54.DBLz.4846",
+          "PD0493-C.g61.DBLz.3187"
+        ]
+      },
+      "PD0494-C": {
+        "count": 10,
+        "samples": [
+          "PD0494-C.g27.DBLz.7015",
+          "PD0494-C.g66.DBLz.4543",
+          "PD0494-C.g47.DBLz.6964",
+          "PD0494-C.g73.DBLz.4927",
+          "PD0494-C.g44.DBLz.3373",
+          "PD0494-C.g63.DBLz.7018",
+          "PD0494-C.g56.DBLz.4981",
+          "PD0494-C.g42.DBLz.5563",
+          "PD0494-C.g64.DBLz.6028",
+          "PD0494-C.g46.DBLz.7390"
+        ]
+      },
+      "PD0496-C": {
+        "count": 7,
+        "samples": [
+          "PD0496-C.g26.DBLz.5860",
+          "PD0496-C.g18.DBLz.4456",
+          "PD0496-C.g17.DBLz.7015",
+          "PD0496-C.g37.DBLz.6718",
+          "PD0496-C.g51.DBLz.4519",
+          "PD0496-C.g6.DBLz.6964",
+          "PD0496-C.g52.DBLz.5134"
+        ]
+      },
+      "PD0499-C": {
+        "count": 21,
+        "samples": [
+          "PD0499-C.g20.DBLz.5248",
+          "PD0499-C.g76.DBLz.4888",
+          "PD0499-C.g162.DBLz.616",
+          "PD0499-C.g72.DBLz.4837",
+          "PD0499-C.g27.DBLz.5995",
+          "PD0499-C.g124.DBLz.3781",
+          "PD0499-C.g61.DBLz.4198",
+          "PD0499-C.g126.DBLz.2908",
+          "PD0499-C.g23.DBLz.7063",
+          "PD0499-C.g32.DBLz.5512",
+          "PD0499-C.g43.DBLz.4549",
+          "PD0499-C.g14.DBLz.6883",
+          "PD0499-C.g17.DBLz.4618",
+          "PD0499-C.g75.DBLz.3397",
+          "PD0499-C.g24.DBLz.6286",
+          "PD0499-C.g21.DBLz.6343",
+          "PD0499-C.g55.DBLz.4771",
+          "PD0499-C.g46.DBLz.4858",
+          "PD0499-C.g37.DBLz.4531",
+          "PD0499-C.g57.DBLz.4678",
+          "PD0499-C.g12.DBLz.6964"
+        ]
+      },
+      "PD0500-C": {
+        "count": 11,
+        "samples": [
+          "PD0500-C.g100.DBLz.2218",
+          "PD0500-C.g21.DBLz.4735",
+          "PD0500-C.g6.DBLz.7951",
+          "PD0500-C.g29.DBLz.4456",
+          "PD0500-C.g109.DBLz.1666",
+          "PD0500-C.g43.DBLz.3622",
+          "PD0500-C.g3.DBLz.6964",
+          "PD0500-C.g30.DBLz.4531",
+          "PD0500-C.g7.DBLz.7309",
+          "PD0500-C.g40.DBLz.3979",
+          "PD0500-C.g10.DBLz.6856"
+        ]
+      },
+      "PD0501-C": {
+        "count": 13,
+        "samples": [
+          "PD0501-C.g17.DBLz.6856",
+          "PD0501-C.g31.DBLz.3376",
+          "PD0501-C.g3.DBLz.6964",
+          "PD0501-C.g36.DBLz.4531",
+          "PD0501-C.g51.DBLz.3979",
+          "PD0501-C.g57.DBLz.3622",
+          "PD0501-C.g12.DBLz.7309",
+          "PD0501-C.g35.DBLz.4735",
+          "PD0501-C.g37.DBLz.4456",
+          "PD0501-C.g34.DBLz.4930",
+          "PD0501-C.g6.DBLz.7951",
+          "PD0501-C.g91.DBLz.2512",
+          "PD0501-C.g39.DBLz.4876"
+        ]
+      },
+      "PD0503-C": {
+        "count": 9,
+        "samples": [
+          "PD0503-C.g29.DBLz.5236",
+          "PD0503-C.g28.DBLz.6070",
+          "PD0503-C.g57.DBLz.4729",
+          "PD0503-C.g21.DBLz.7267",
+          "PD0503-C.g18.DBLz.6013",
+          "PD0503-C.g58.DBLz.4774",
+          "PD0503-C.g17.DBLz.7555",
+          "PD0503-C.g37.DBLz.4825",
+          "PD0503-C.g40.DBLz.4789"
+        ]
+      },
+      "PD0504-C": {
+        "count": 8,
+        "samples": [
+          "PD0504-C.g27.DBLz.6964",
+          "PD0504-C.g24.DBLz.5860",
+          "PD0504-C.g41.DBLz.4591",
+          "PD0504-C.g29.DBLz.6178",
+          "PD0504-C.g72.DBLz.2860",
+          "PD0504-C.g46.DBLz.4609",
+          "PD0504-C.g48.DBLz.5758",
+          "PD0504-C.g67.DBLz.3622"
+        ]
+      },
+      "PD0506-C": {
+        "count": 8,
+        "samples": [
+          "PD0506-C.g44.DBLz.3622",
+          "PD0506-C.g96.DBLz.4609",
+          "PD0506-C.g57.DBLz.6997",
+          "PD0506-C.g26.DBLz.8104",
+          "PD0506-C.g25.DBLz.6178",
+          "PD0506-C.g28.DBLz.5869",
+          "PD0506-C.g63.DBLz.6964",
+          "PD0506-C.g29.DBLz.5860"
+        ]
+      },
+      "PD0507-C": {
+        "count": 7,
+        "samples": [
+          "PD0507-C.g40.DBLz.5911",
+          "PD0507-C.g71.DBLz.4432",
+          "PD0507-C.g38.DBLz.7261",
+          "PD0507-C.g13.DBLz.6964",
+          "PD0507-C.g45.DBLz.5113",
+          "PD0507-C.g43.DBLz.5563",
+          "PD0507-C.g52.DBLz.4456"
+        ]
+      },
+      "PD0508-C": {
+        "count": 8,
+        "samples": [
+          "PD0508-C.g25.DBLz.6997",
+          "PD0508-C.g12.DBLz.8104",
+          "PD0508-C.g23.DBLz.5860",
+          "PD0508-C.g39.DBLz.5782",
+          "PD0508-C.g21.DBLz.6178",
+          "PD0508-C.g45.DBLz.4609",
+          "PD0508-C.g51.DBLz.3622",
+          "PD0508-C.g32.DBLz.6964"
+        ]
+      },
+      "PF0022-C": {
+        "count": 6,
+        "samples": [
+          "PF0022-C.g69.DBLz.4900",
+          "PF0022-C.g64.DBLz.3778",
+          "PF0022-C.g58.DBLz.3433",
+          "PF0022-C.g46.DBLz.8011",
+          "PF0022-C.g49.DBLz.5224",
+          "PF0022-C.g56.DBLz.4768"
+        ]
+      },
+      "PF0043-C": {
+        "count": 4,
+        "samples": [
+          "PF0043-C.g37.DBLz.5677",
+          "PF0043-C.g39.DBLz.6103",
+          "PF0043-C.g24.DBLz.8008",
+          "PF0043-C.g34.DBLz.4849"
+        ]
+      },
+      "PF0051-C": {
+        "count": 6,
+        "samples": [
+          "PF0051-C.g58.DBLz.3058",
+          "PF0051-C.g30.DBLz.4921",
+          "PF0051-C.g83.DBLz.3481",
+          "PF0051-C.g37.DBLz.3397",
+          "PF0051-C.g95.DBLz.2983",
+          "PF0051-C.g9.DBLz.6940"
+        ]
+      },
+      "PF0057-C": {
+        "count": 15,
+        "samples": [
+          "PF0057-C.g121.DBLz.3178",
+          "PF0057-C.g17.DBLz.7756",
+          "PF0057-C.g44.DBLz.4999",
+          "PF0057-C.g31.DBLz.3718",
+          "PF0057-C.g56.DBLz.4867",
+          "PF0057-C.g85.DBLz.3511",
+          "PF0057-C.g21.DBLz.6286",
+          "PF0057-C.g37.DBLz.5263",
+          "PF0057-C.g23.DBLz.6919",
+          "PF0057-C.g49.DBLz.4738",
+          "PF0057-C.g24.DBLz.4888",
+          "PF0057-C.g22.DBLz.5017",
+          "PF0057-C.g120.DBLz.3151",
+          "PF0057-C.g57.DBLz.4816",
+          "PF0057-C.g131.DBLz.2035"
+        ]
+      },
+      "PF0062-C": {
+        "count": 3,
+        "samples": [
+          "PF0062-C.g26.DBLz.7978",
+          "PF0062-C.g51.DBLz.4996",
+          "PF0062-C.g19.DBLz.8395"
+        ]
+      },
+      "PF0063-C": {
+        "count": 9,
+        "samples": [
+          "PF0063-C.g45.DBLz.3856",
+          "PF0063-C.g91.DBLz.3124",
+          "PF0063-C.g35.DBLz.3601",
+          "PF0063-C.g34.DBLz.4894",
+          "PF0063-C.g41.DBLz.3844",
+          "PF0063-C.g38.DBLz.4798",
+          "PF0063-C.g17.DBLz.5236",
+          "PF0063-C.g13.DBLz.6196",
+          "PF0063-C.g26.DBLz.4915"
+        ]
+      },
+      "PF0069-C": {
+        "count": 14,
+        "samples": [
+          "PF0069-C.g16.DBLz.6352",
+          "PF0069-C.g28.DBLz.7009",
+          "PF0069-C.g18.DBLz.7162",
+          "PF0069-C.g117.DBLz.1645",
+          "PF0069-C.g95.DBLz.3508",
+          "PF0069-C.g60.DBLz.4309",
+          "PF0069-C.g61.DBLz.3475",
+          "PF0069-C.g21.DBLz.5872",
+          "PF0069-C.g29.DBLz.6700",
+          "PF0069-C.g49.DBLz.4750",
+          "PF0069-C.g39.DBLz.5128",
+          "PF0069-C.g40.DBLz.4978",
+          "PF0069-C.g41.DBLz.5140",
+          "PF0069-C.g36.DBLz.6670"
+        ]
+      },
+      "PF0080-C": {
+        "count": 8,
+        "samples": [
+          "PF0080-C.g58.DBLz.3880",
+          "PF0080-C.g23.DBLz.4798",
+          "PF0080-C.g28.DBLz.4597",
+          "PF0080-C.g45.DBLz.4828",
+          "PF0080-C.g56.DBLz.3577",
+          "PF0080-C.g18.DBLz.6700",
+          "PF0080-C.g87.DBLz.2329",
+          "PF0080-C.g69.DBLz.3514"
+        ]
+      },
+      "PF0097-C": {
+        "count": 6,
+        "samples": [
+          "PF0097-C.g24.DBLz.6100",
+          "PF0097-C.g13.DBLz.7282",
+          "PF0097-C.g42.DBLz.5815",
+          "PF0097-C.g52.DBLz.4615",
+          "PF0097-C.g87.DBLz.1285",
+          "PF0097-C.g17.DBLz.7057"
+        ]
+      },
+      "PF0100-C": {
+        "count": 8,
+        "samples": [
+          "PF0100-C.g78.DBLz.4837",
+          "PF0100-C.g34.DBLz.6445",
+          "PF0100-C.g65.DBLz.2590",
+          "PF0100-C.g55.DBLz.4867",
+          "PF0100-C.g72.DBLz.5143",
+          "PF0100-C.g25.DBLz.6820",
+          "PF0100-C.g47.DBLz.4615",
+          "PF0100-C.g36.DBLz.4903"
+        ]
+      },
+      "PF0101-C": {
+        "count": 5,
+        "samples": [
+          "PF0101-C.g49.DBLz.4804",
+          "PF0101-C.g26.DBLz.6034",
+          "PF0101-C.g39.DBLz.4870",
+          "PF0101-C.g44.DBLz.4879",
+          "PF0101-C.g51.DBLz.3550"
+        ]
+      },
+      "PF0102-C": {
+        "count": 7,
+        "samples": [
+          "PF0102-C.g46.DBLz.4873",
+          "PF0102-C.g34.DBLz.7261",
+          "PF0102-C.g100.DBLz.2293",
+          "PF0102-C.g35.DBLz.4624",
+          "PF0102-C.g12.DBLz.6211",
+          "PF0102-C.g64.DBLz.4840",
+          "PF0102-C.g28.DBLz.6835"
+        ]
+      },
+      "PF0103-C": {
+        "count": 12,
+        "samples": [
+          "PF0103-C.g14.DBLz.4459",
+          "PF0103-C.g54.DBLz.4543",
+          "PF0103-C.g59.DBLz.7267",
+          "PF0103-C.g26.DBLz.8014",
+          "PF0103-C.g100.DBLz.4699",
+          "PF0103-C.g84.DBLz.4900",
+          "PF0103-C.g106.DBLz.4810",
+          "PF0103-C.g34.DBLz.8836",
+          "PF0103-C.g83.DBLz.4960",
+          "PF0103-C.g15.DBLz.5137",
+          "PF0103-C.g101.DBLz.4021",
+          "PF0103-C.g114.DBLz.3538"
+        ]
+      },
+      "PF0109-C": {
+        "count": 6,
+        "samples": [
+          "PF0109-C.g18.DBLz.6904",
+          "PF0109-C.g12.DBLz.7012",
+          "PF0109-C.g24.DBLz.4732",
+          "PF0109-C.g41.DBLz.3475",
+          "PF0109-C.g8.DBLz.4903",
+          "PF0109-C.g27.DBLz.5062"
+        ]
+      },
+      "PF0116-C": {
+        "count": 5,
+        "samples": [
+          "PF0116-C.g13.DBLz.5065",
+          "PF0116-C.g33.DBLz.4885",
+          "PF0116-C.g32.DBLz.4609",
+          "PF0116-C.g1.DBLz.7996",
+          "PF0116-C.g23.DBLz.5611"
+        ]
+      },
+      "PF0117-C": {
+        "count": 10,
+        "samples": [
+          "PF0117-C.g6.DBLz.5908",
+          "PF0117-C.g75.DBLz.3646",
+          "PF0117-C.g14.DBLz.4873",
+          "PF0117-C.g65.DBLz.3574",
+          "PF0117-C.g4.DBLz.6622",
+          "PF0117-C.g30.DBLz.3676",
+          "PF0117-C.g26.DBLz.4783",
+          "PF0117-C.g16.DBLz.3499",
+          "PF0117-C.g29.DBLz.3706",
+          "PF0117-C.g20.DBLz.4468"
+        ]
+      },
+      "PF0127-C": {
+        "count": 3,
+        "samples": [
+          "PF0127-C.g12.DBLz.4858",
+          "PF0127-C.g4.DBLz.7105",
+          "PF0127-C.g19.DBLz.4825"
+        ]
+      },
+      "PF0132-C": {
+        "count": 7,
+        "samples": [
+          "PF0132-C.g67.DBLz.2659",
+          "PF0132-C.g44.DBLz.4621",
+          "PF0132-C.g38.DBLz.7414",
+          "PF0132-C.g61.DBLz.5101",
+          "PF0132-C.g69.DBLz.3547",
+          "PF0132-C.g36.DBLz.5233",
+          "PF0132-C.g111.DBLz.2905"
+        ]
+      },
+      "PF0136-C": {
+        "count": 5,
+        "samples": [
+          "PF0136-C.g16.DBLz.3580",
+          "PF0136-C.g86.DBLz.4810",
+          "PF0136-C.g44.DBLz.4615",
+          "PF0136-C.g12.DBLz.3571",
+          "PF0136-C.g45.DBLz.3733"
+        ]
+      },
+      "PF0141-C": {
+        "count": 12,
+        "samples": [
+          "PF0141-C.g21.DBLz.4816",
+          "PF0141-C.g35.DBLz.4705",
+          "PF0141-C.g14.DBLz.6628",
+          "PF0141-C.g92.DBLz.2740",
+          "PF0141-C.g105.DBLz.2029",
+          "PF0141-C.g30.DBLz.4795",
+          "PF0141-C.g63.DBLz.2812",
+          "PF0141-C.g99.DBLz.3187",
+          "PF0141-C.g17.DBLz.4945",
+          "PF0141-C.g1.DBLz.8011",
+          "PF0141-C.g8.DBLz.6178",
+          "PF0141-C.g43.DBLz.3937"
+        ]
+      },
+      "PF0148-C": {
+        "count": 6,
+        "samples": [
+          "PF0148-C.g36.DBLz.4612",
+          "PF0148-C.g75.DBLz.2419",
+          "PF0148-C.g29.DBLz.4921",
+          "PF0148-C.g3.DBLz.4837",
+          "PF0148-C.g35.DBLz.4561",
+          "PF0148-C.g33.DBLz.4753"
+        ]
+      },
+      "PF0180-C": {
+        "count": 9,
+        "samples": [
+          "PF0180-C.g55.DBLz.4828",
+          "PF0180-C.g75.DBLz.4810",
+          "PF0180-C.g53.DBLz.8014",
+          "PF0180-C.g30.DBLz.7069",
+          "PF0180-C.g70.DBLz.4840",
+          "PF0180-C.g92.DBLz.3469",
+          "PF0180-C.g54.DBLz.6181",
+          "PF0180-C.g34.DBLz.8188",
+          "PF0180-C.g38.DBLz.7849"
+        ]
+      },
+      "PF0184-C": {
+        "count": 8,
+        "samples": [
+          "PF0184-C.g39.DBLz.6235",
+          "PF0184-C.g107.DBLz.2170",
+          "PF0184-C.g40.DBLz.4597",
+          "PF0184-C.g17.DBLz.8011",
+          "PF0184-C.g28.DBLz.4945",
+          "PF0184-C.g23.DBLz.6799",
+          "PF0184-C.g76.DBLz.3559",
+          "PF0184-C.g33.DBLz.6145"
+        ]
+      },
+      "PF0185-C": {
+        "count": 12,
+        "samples": [
+          "PF0185-C.g85.DBLz.4936",
+          "PF0185-C.g77.DBLz.4693",
+          "PF0185-C.g48.DBLz.4855",
+          "PF0185-C.g46.DBLz.4777",
+          "PF0185-C.g36.DBLz.6595",
+          "PF0185-C.g45.DBLz.3949",
+          "PF0185-C.g41.DBLz.7222",
+          "PF0185-C.g28.DBLz.6502",
+          "PF0185-C.g39.DBLz.5323",
+          "PF0185-C.g37.DBLz.4852",
+          "PF0185-C.g62.DBLz.4762",
+          "PF0185-C.g88.DBLz.3622"
+        ]
+      },
+      "PF0188-C": {
+        "count": 3,
+        "samples": [
+          "PF0188-C.g17.DBLz.6760",
+          "PF0188-C.g45.DBLz.6250",
+          "PF0188-C.g57.DBLz.5149"
+        ]
+      },
+      "PF0190-C": {
+        "count": 3,
+        "samples": [
+          "PF0190-C.g63.DBLz.4774",
+          "PF0190-C.g38.DBLz.8011",
+          "PF0190-C.g117.DBLz.1285"
+        ]
+      },
+      "PF0192-C": {
+        "count": 13,
+        "samples": [
+          "PF0192-C.g101.DBLz.1948",
+          "PF0192-C.g56.DBLz.3517",
+          "PF0192-C.g40.DBLz.4213",
+          "PF0192-C.g97.DBLz.2179",
+          "PF0192-C.g22.DBLz.4819",
+          "PF0192-C.g15.DBLz.6040",
+          "PF0192-C.g20.DBLz.4624",
+          "PF0192-C.g18.DBLz.4816",
+          "PF0192-C.g17.DBLz.6601",
+          "PF0192-C.g9.DBLz.8038",
+          "PF0192-C.g58.DBLz.2059",
+          "PF0192-C.g35.DBLz.4813",
+          "PF0192-C.g23.DBLz.5794"
+        ]
+      },
+      "PF0197-C": {
+        "count": 9,
+        "samples": [
+          "PF0197-C.g29.DBLz.6031",
+          "PF0197-C.g61.DBLz.4936",
+          "PF0197-C.g32.DBLz.4528",
+          "PF0197-C.g48.DBLz.4606",
+          "PF0197-C.g39.DBLz.4933",
+          "PF0197-C.g27.DBLz.6922",
+          "PF0197-C.g108.DBLz.1315",
+          "PF0197-C.g17.DBLz.4810",
+          "PF0197-C.g41.DBLz.6508"
+        ]
+      },
+      "PF0202-C": {
+        "count": 12,
+        "samples": [
+          "PF0202-C.g65.DBLz.1315",
+          "PF0202-C.g94.DBLz.3769",
+          "PF0202-C.g38.DBLz.3400",
+          "PF0202-C.g32.DBLz.4828",
+          "PF0202-C.g28.DBLz.4537",
+          "PF0202-C.g111.DBLz.2113",
+          "PF0202-C.g116.DBLz.2011",
+          "PF0202-C.g117.DBLz.1819",
+          "PF0202-C.g23.DBLz.7975",
+          "PF0202-C.g80.DBLz.3304",
+          "PF0202-C.g24.DBLz.6925",
+          "PF0202-C.g51.DBLz.3475"
+        ]
+      },
+      "PF0208-C": {
+        "count": 10,
+        "samples": [
+          "PF0208-C.g28.DBLz.4828",
+          "PF0208-C.g70.DBLz.5251",
+          "PF0208-C.g51.DBLz.4825",
+          "PF0208-C.g17.DBLz.4528",
+          "PF0208-C.g24.DBLz.4789",
+          "PF0208-C.g44.DBLz.5395",
+          "PF0208-C.g41.DBLz.5950",
+          "PF0208-C.g129.DBLz.3538",
+          "PF0208-C.g127.DBLz.3487",
+          "PF0208-C.g38.DBLz.5647"
+        ]
+      },
+      "PF0214-C": {
+        "count": 5,
+        "samples": [
+          "PF0214-C.g25.DBLz.4084",
+          "PF0214-C.g15.DBLz.6805",
+          "PF0214-C.g57.DBLz.2374",
+          "PF0214-C.g19.DBLz.4588",
+          "PF0214-C.g59.DBLz.1777"
+        ]
+      },
+      "PF0219-C": {
+        "count": 7,
+        "samples": [
+          "PF0219-C.g179.DBLz.3823",
+          "PF0219-C.g53.DBLz.6727",
+          "PF0219-C.g58.DBLz.4609",
+          "PF0219-C.g111.DBLz.4900",
+          "PF0219-C.g52.DBLz.8038",
+          "PF0219-C.g54.DBLz.7150",
+          "PF0219-C.g101.DBLz.5020"
+        ]
+      },
+      "PF0228-C": {
+        "count": 8,
+        "samples": [
+          "PF0228-C.g8.DBLz.4741",
+          "PF0228-C.g17.DBLz.4921",
+          "PF0228-C.g32.DBLz.4561",
+          "PF0228-C.g15.DBLz.3499",
+          "PF0228-C.g22.DBLz.4972",
+          "PF0228-C.g29.DBLz.3226",
+          "PF0228-C.g62.DBLz.2827",
+          "PF0228-C.g51.DBLz.3892"
+        ]
+      },
+      "PF0231-C": {
+        "count": 6,
+        "samples": [
+          "PF0231-C.g27.DBLz.7183",
+          "PF0231-C.g31.DBLz.6727",
+          "PF0231-C.g39.DBLz.7144",
+          "PF0231-C.g68.DBLz.3385",
+          "PF0231-C.g45.DBLz.4834",
+          "PF0231-C.g43.DBLz.4630"
+        ]
+      },
+      "PF0232-C": {
+        "count": 4,
+        "samples": [
+          "PF0232-C.g24.DBLz.4879",
+          "PF0232-C.g34.DBLz.7162",
+          "PF0232-C.g15.DBLz.7783",
+          "PF0232-C.g42.DBLz.5851"
+        ]
+      },
+      "PF0234-C": {
+        "count": 5,
+        "samples": [
+          "PF0234-C.g14.DBLz.5206",
+          "PF0234-C.g18.DBLz.4957",
+          "PF0234-C.g27.DBLz.4837",
+          "PF0234-C.g95.DBLz.3493",
+          "PF0234-C.g119.DBLz.1711"
+        ]
+      },
+      "PF0235-C": {
+        "count": 5,
+        "samples": [
+          "PF0235-C.g51.DBLz.4672",
+          "PF0235-C.g38.DBLz.4624",
+          "PF0235-C.g23.DBLz.7024",
+          "PF0235-C.g68.DBLz.2350",
+          "PF0235-C.g50.DBLz.4879"
+        ]
+      },
+      "PF0241-C": {
+        "count": 6,
+        "samples": [
+          "PF0241-C.g27.DBLz.5269",
+          "PF0241-C.g59.DBLz.3685",
+          "PF0241-C.g86.DBLz.2368",
+          "PF0241-C.g71.DBLz.3604",
+          "PF0241-C.g26.DBLz.4477",
+          "PF0241-C.g24.DBLz.6202"
+        ]
+      },
+      "PF0242-C": {
+        "count": 6,
+        "samples": [
+          "PF0242-C.g31.DBLz.4831",
+          "PF0242-C.g21.DBLz.6991",
+          "PF0242-C.g13.DBLz.6985",
+          "PF0242-C.g59.DBLz.3916",
+          "PF0242-C.g69.DBLz.3355",
+          "PF0242-C.g30.DBLz.5248"
+        ]
+      },
+      "PF0248-C": {
+        "count": 11,
+        "samples": [
+          "PF0248-C.g82.DBLz.4840",
+          "PF0248-C.g79.DBLz.4906",
+          "PF0248-C.g66.DBLz.5683",
+          "PF0248-C.g85.DBLz.4777",
+          "PF0248-C.g80.DBLz.4855",
+          "PF0248-C.g61.DBLz.4900",
+          "PF0248-C.g30.DBLz.6970",
+          "PF0248-C.g62.DBLz.6856",
+          "PF0248-C.g67.DBLz.7027",
+          "PF0248-C.g63.DBLz.6901",
+          "PF0248-C.g44.DBLz.5689"
+        ]
+      },
+      "PF0258-C": {
+        "count": 15,
+        "samples": [
+          "PF0258-C.g75.DBLz.4894",
+          "PF0258-C.g29.DBLz.7072",
+          "PF0258-C.g39.DBLz.4621",
+          "PF0258-C.g121.DBLz.3466",
+          "PF0258-C.g98.DBLz.4714",
+          "PF0258-C.g104.DBLz.3637",
+          "PF0258-C.g26.DBLz.8008",
+          "PF0258-C.g61.DBLz.4990",
+          "PF0258-C.g172.DBLz.2449",
+          "PF0258-C.g76.DBLz.4846",
+          "PF0258-C.g48.DBLz.6031",
+          "PF0258-C.g89.DBLz.4906",
+          "PF0258-C.g47.DBLz.4054",
+          "PF0258-C.g38.DBLz.5413",
+          "PF0258-C.g30.DBLz.3388"
+        ]
+      },
+      "PF0260-C": {
+        "count": 9,
+        "samples": [
+          "PF0260-C.g73.DBLz.5143",
+          "PF0260-C.g77.DBLz.4774",
+          "PF0260-C.g64.DBLz.4624",
+          "PF0260-C.g14.DBLz.4783",
+          "PF0260-C.g11.DBLz.2623",
+          "PF0260-C.g76.DBLz.4822",
+          "PF0260-C.g35.DBLz.7189",
+          "PF0260-C.g37.DBLz.6832",
+          "PF0260-C.g44.DBLz.4801"
+        ]
+      },
+      "PF0263-C": {
+        "count": 6,
+        "samples": [
+          "PF0263-C.g19.DBLz.4879",
+          "PF0263-C.g70.DBLz.3592",
+          "PF0263-C.g30.DBLz.4939",
+          "PF0263-C.g32.DBLz.4927",
+          "PF0263-C.g37.DBLz.7087",
+          "PF0263-C.g26.DBLz.6883"
+        ]
+      },
+      "PF0264-C": {
+        "count": 7,
+        "samples": [
+          "PF0264-C.g41.DBLz.4837",
+          "PF0264-C.g2.DBLz.8275",
+          "PF0264-C.g38.DBLz.4852",
+          "PF0264-C.g118.DBLz.1792",
+          "PF0264-C.g47.DBLz.3499",
+          "PF0264-C.g6.DBLz.7099",
+          "PF0264-C.g50.DBLz.4477"
+        ]
+      },
+      "PF0269-C": {
+        "count": 8,
+        "samples": [
+          "PF0269-C.g58.DBLz.4840",
+          "PF0269-C.g13.DBLz.3532",
+          "PF0269-C.g59.DBLz.5350",
+          "PF0269-C.g88.DBLz.3529",
+          "PF0269-C.g41.DBLz.4624",
+          "PF0269-C.g93.DBLz.2269",
+          "PF0269-C.g57.DBLz.5686",
+          "PF0269-C.g67.DBLz.3439"
+        ]
+      },
+      "PF0272-C": {
+        "count": 4,
+        "samples": [
+          "PF0272-C.g28.DBLz.4762",
+          "PF0272-C.g16.DBLz.6931",
+          "PF0272-C.g27.DBLz.5125",
+          "PF0272-C.g11.DBLz.7279"
+        ]
+      },
+      "PF0280-C": {
+        "count": 8,
+        "samples": [
+          "PF0280-C.g33.DBLz.3451",
+          "PF0280-C.g31.DBLz.4168",
+          "PF0280-C.g20.DBLz.4579",
+          "PF0280-C.g4.DBLz.7297",
+          "PF0280-C.g17.DBLz.5008",
+          "PF0280-C.g12.DBLz.4882",
+          "PF0280-C.g66.DBLz.3541",
+          "PF0280-C.g18.DBLz.5116"
+        ]
+      },
+      "PF0281-C": {
+        "count": 9,
+        "samples": [
+          "PF0281-C.g57.DBLz.5062",
+          "PF0281-C.g92.DBLz.2593",
+          "PF0281-C.g13.DBLz.7228",
+          "PF0281-C.g26.DBLz.4927",
+          "PF0281-C.g12.DBLz.7492",
+          "PF0281-C.g119.DBLz.2224",
+          "PF0281-C.g29.DBLz.4618",
+          "PF0281-C.g95.DBLz.3067",
+          "PF0281-C.g42.DBLz.4855"
+        ]
+      },
+      "PF0282-C": {
+        "count": 5,
+        "samples": [
+          "PF0282-C.g24.DBLz.4822",
+          "PF0282-C.g61.DBLz.3481",
+          "PF0282-C.g69.DBLz.3667",
+          "PF0282-C.g16.DBLz.7669",
+          "PF0282-C.g42.DBLz.4237"
+        ]
+      },
+      "PF0287-C": {
+        "count": 9,
+        "samples": [
+          "PF0287-C.g121.DBLz.2449",
+          "PF0287-C.g25.DBLz.6583",
+          "PF0287-C.g46.DBLz.3619",
+          "PF0287-C.g28.DBLz.3526",
+          "PF0287-C.g47.DBLz.7123",
+          "PF0287-C.g45.DBLz.5791",
+          "PF0287-C.g34.DBLz.6952",
+          "PF0287-C.g135.DBLz.2083",
+          "PF0287-C.g85.DBLz.3454"
+        ]
+      },
+      "PF0288-C": {
+        "count": 6,
+        "samples": [
+          "PF0288-C.g62.DBLz.4750",
+          "PF0288-C.g16.DBLz.4825",
+          "PF0288-C.g38.DBLz.6103",
+          "PF0288-C.g61.DBLz.4810",
+          "PF0288-C.g54.DBLz.5104",
+          "PF0288-C.g32.DBLz.8161"
+        ]
+      },
+      "PF0289-C": {
+        "count": 6,
+        "samples": [
+          "PF0289-C.g97.DBLz.3019",
+          "PF0289-C.g27.DBLz.7054",
+          "PF0289-C.g43.DBLz.5728",
+          "PF0289-C.g36.DBLz.3838",
+          "PF0289-C.g81.DBLz.4756",
+          "PF0289-C.g63.DBLz.3562"
+        ]
+      },
+      "PF0290-C": {
+        "count": 9,
+        "samples": [
+          "PF0290-C.g21.DBLz.7381",
+          "PF0290-C.g38.DBLz.7156",
+          "PF0290-C.g29.DBLz.4552",
+          "PF0290-C.g13.DBLz.4978",
+          "PF0290-C.g23.DBLz.6913",
+          "PF0290-C.g22.DBLz.6682",
+          "PF0290-C.g24.DBLz.5578",
+          "PF0290-C.g104.DBLz.2101",
+          "PF0290-C.g90.DBLz.2875"
+        ]
+      },
+      "PF0305-C": {
+        "count": 2,
+        "samples": [
+          "PF0305-C.g2.DBLz.4600",
+          "PF0305-C.g11.DBLz.4828"
+        ]
+      },
+      "PF0321-C": {
+        "count": 10,
+        "samples": [
+          "PF0321-C.g16.DBLz.5959",
+          "PF0321-C.g5.DBLz.7084",
+          "PF0321-C.g15.DBLz.6964",
+          "PF0321-C.g32.DBLz.4672",
+          "PF0321-C.g8.DBLz.6679",
+          "PF0321-C.g30.DBLz.4630",
+          "PF0321-C.g31.DBLz.4831",
+          "PF0321-C.g37.DBLz.4864",
+          "PF0321-C.g52.DBLz.3811",
+          "PF0321-C.g40.DBLz.4837"
+        ]
+      },
+      "PF0326-C": {
+        "count": 4,
+        "samples": [
+          "PF0326-C.g58.DBLz.3979",
+          "PF0326-C.g35.DBLz.7186",
+          "PF0326-C.g31.DBLz.7927",
+          "PF0326-C.g34.DBLz.6727"
+        ]
+      },
+      "PF0330-C": {
+        "count": 4,
+        "samples": [
+          "PF0330-C.g68.DBLz.6007",
+          "PF0330-C.g62.DBLz.3391",
+          "PF0330-C.g55.DBLz.4822",
+          "PF0330-C.g48.DBLz.6922"
+        ]
+      },
+      "PF0471-C": {
+        "count": 12,
+        "samples": [
+          "PF0471-C.g40.DBLz.5041",
+          "PF0471-C.g48.DBLz.5131",
+          "PF0471-C.g107.DBLz.2893",
+          "PF0471-C.g7.DBLz.6955",
+          "PF0471-C.g4.DBLz.6769",
+          "PF0471-C.g39.DBLz.4708",
+          "PF0471-C.g35.DBLz.4900",
+          "PF0471-C.g66.DBLz.3706",
+          "PF0471-C.g3.DBLz.7045",
+          "PF0471-C.g10.DBLz.6937",
+          "PF0471-C.g30.DBLz.3397",
+          "PF0471-C.g21.DBLz.6724"
+        ]
+      },
+      "PF0493-C": {
+        "count": 8,
+        "samples": [
+          "PF0493-C.g2.DBLz.6202",
+          "PF0493-C.g40.DBLz.4630",
+          "PF0493-C.g61.DBLz.5170",
+          "PF0493-C.g30.DBLz.6493",
+          "PF0493-C.g90.DBLz.3787",
+          "PF0493-C.g31.DBLz.5845",
+          "PF0493-C.g27.DBLz.4960",
+          "PF0493-C.g34.DBLz.6139"
+        ]
+      },
+      "PF0510-C": {
+        "count": 4,
+        "samples": [
+          "PF0510-C.g547.DBLz.5023",
+          "PF0510-C.g754.DBLz.4768",
+          "PF0510-C.g479.DBLz.4957",
+          "PF0510-C.g824.DBLz.4555"
+        ]
+      },
+      "PH0010-C": {
+        "count": 5,
+        "samples": [
+          "PH0010-C.g35.DBLz.1891",
+          "PH0010-C.g9.DBLz.4243",
+          "PH0010-C.g11.DBLz.3886",
+          "PH0010-C.g42.DBLz.2575",
+          "PH0010-C.g4.DBLz.4564"
+        ]
+      },
+      "PH0021-C": {
+        "count": 8,
+        "samples": [
+          "PH0021-C.g50.DBLz.2431",
+          "PH0021-C.g8.DBLz.6796",
+          "PH0021-C.g1.DBLz.6205",
+          "PH0021-C.g46.DBLz.3016",
+          "PH0021-C.g14.DBLz.6718",
+          "PH0021-C.g23.DBLz.2515",
+          "PH0021-C.g11.DBLz.3406",
+          "PH0021-C.g5.DBLz.5083"
+        ]
+      },
+      "PH0023-C": {
+        "count": 5,
+        "samples": [
+          "PH0023-C.g34.DBLz.3961",
+          "PH0023-C.g103.DBLz.2728",
+          "PH0023-C.g31.DBLz.7468",
+          "PH0023-C.g48.DBLz.5944",
+          "PH0023-C.g101.DBLz.3106"
+        ]
+      },
+      "PH0044-C": {
+        "count": 14,
+        "samples": [
+          "PH0044-C.g8.DBLz.5842",
+          "PH0044-C.g16.DBLz.7066",
+          "PH0044-C.g17.DBLz.7276",
+          "PH0044-C.g2.DBLz.4456",
+          "PH0044-C.g15.DBLz.6856",
+          "PH0044-C.g20.DBLz.3979",
+          "PH0044-C.g45.DBLz.3490",
+          "PH0044-C.g82.DBLz.2227",
+          "PH0044-C.g36.DBLz.4543",
+          "PH0044-C.g29.DBLz.4819",
+          "PH0044-C.g10.DBLz.7951",
+          "PH0044-C.g19.DBLz.4564",
+          "PH0044-C.g37.DBLz.4822",
+          "PH0044-C.g3.DBLz.4930"
+        ]
+      },
+      "PH0045-C": {
+        "count": 13,
+        "samples": [
+          "PH0045-C.g72.DBLz.2227",
+          "PH0045-C.g3.DBLz.4456",
+          "PH0045-C.g17.DBLz.7066",
+          "PH0045-C.g52.DBLz.3949",
+          "PH0045-C.g78.DBLz.2593",
+          "PH0045-C.g43.DBLz.4645",
+          "PH0045-C.g1.DBLz.4930",
+          "PH0045-C.g49.DBLz.4459",
+          "PH0045-C.g11.DBLz.6856",
+          "PH0045-C.g7.DBLz.7957",
+          "PH0045-C.g26.DBLz.3427",
+          "PH0045-C.g14.DBLz.3520",
+          "PH0045-C.g28.DBLz.4819"
+        ]
+      },
+      "PH0046-C": {
+        "count": 3,
+        "samples": [
+          "PH0046-C.g1.DBLz.6718",
+          "PH0046-C.g3.DBLz.3847",
+          "PH0046-C.g8.DBLz.2791"
+        ]
+      },
+      "PH0059-C": {
+        "count": 9,
+        "samples": [
+          "PH0059-C.g14.DBLz.4906",
+          "PH0059-C.g6.DBLz.6964",
+          "PH0059-C.g19.DBLz.4750",
+          "PH0059-C.g15.DBLz.4978",
+          "PH0059-C.g7.DBLz.6118",
+          "PH0059-C.g16.DBLz.4747",
+          "PH0059-C.g54.DBLz.2050",
+          "PH0059-C.g17.DBLz.4918",
+          "PH0059-C.g13.DBLz.5071"
+        ]
+      },
+      "PH0064-C": {
+        "count": 10,
+        "samples": [
+          "PH0064-C.g106.DBLz.1306",
+          "PH0064-C.g97.DBLz.4834",
+          "PH0064-C.g82.DBLz.6064",
+          "PH0064-C.g109.DBLz.3961",
+          "PH0064-C.g90.DBLz.5005",
+          "PH0064-C.g85.DBLz.6019",
+          "PH0064-C.g95.DBLz.5878",
+          "PH0064-C.g96.DBLz.4615",
+          "PH0064-C.g91.DBLz.4966",
+          "PH0064-C.g81.DBLz.7063"
+        ]
+      },
+      "PH0110-C": {
+        "count": 5,
+        "samples": [
+          "PH0110-C.g5.DBLz.7969",
+          "PH0110-C.g7.DBLz.6538",
+          "PH0110-C.g21.DBLz.3931",
+          "PH0110-C.g18.DBLz.4930",
+          "PH0110-C.g4.DBLz.7867"
+        ]
+      },
+      "PH0111-C": {
+        "count": 8,
+        "samples": [
+          "PH0111-C.g62.DBLz.3901",
+          "PH0111-C.g56.DBLz.4228",
+          "PH0111-C.g71.DBLz.3772",
+          "PH0111-C.g22.DBLz.9769",
+          "PH0111-C.g64.DBLz.4267",
+          "PH0111-C.g65.DBLz.4813",
+          "PH0111-C.g27.DBLz.7441",
+          "PH0111-C.g58.DBLz.5836"
+        ]
+      },
+      "PH0112-C": {
+        "count": 11,
+        "samples": [
+          "PH0112-C.g106.DBLz.1702",
+          "PH0112-C.g1.DBLz.7030",
+          "PH0112-C.g43.DBLz.6874",
+          "PH0112-C.g24.DBLz.6964",
+          "PH0112-C.g52.DBLz.7159",
+          "PH0112-C.g82.DBLz.4750",
+          "PH0112-C.g48.DBLz.7135",
+          "PH0112-C.g71.DBLz.4885",
+          "PH0112-C.g66.DBLz.4933",
+          "PH0112-C.g36.DBLz.4456",
+          "PH0112-C.g9.DBLz.6223"
+        ]
+      },
+      "PH0134-C": {
+        "count": 10,
+        "samples": [
+          "PH0134-C.g76.DBLz.4735",
+          "PH0134-C.g11.DBLz.3622",
+          "PH0134-C.g58.DBLz.3490",
+          "PH0134-C.g21.DBLz.4930",
+          "PH0134-C.g68.DBLz.4642",
+          "PH0134-C.g41.DBLz.6796",
+          "PH0134-C.g39.DBLz.6964",
+          "PH0134-C.g69.DBLz.4864",
+          "PH0134-C.g67.DBLz.4822",
+          "PH0134-C.g17.DBLz.4456"
+        ]
+      },
+      "PH0136-C": {
+        "count": 7,
+        "samples": [
+          "PH0136-C.g55.DBLz.4846",
+          "PH0136-C.g115.DBLz.1708",
+          "PH0136-C.g29.DBLz.5734",
+          "PH0136-C.g105.DBLz.2905",
+          "PH0136-C.g36.DBLz.4456",
+          "PH0136-C.g62.DBLz.3355",
+          "PH0136-C.g40.DBLz.4774"
+        ]
+      },
+      "PH0157-C": {
+        "count": 5,
+        "samples": [
+          "PH0157-C.g38.DBLz.7846",
+          "PH0157-C.g37.DBLz.4885",
+          "PH0157-C.g52.DBLz.3490",
+          "PH0157-C.g41.DBLz.4840",
+          "PH0157-C.g85.DBLz.4543"
+        ]
+      },
+      "PH0161-C": {
+        "count": 9,
+        "samples": [
+          "PH0161-C.g49.DBLz.4981",
+          "PH0161-C.g37.DBLz.4822",
+          "PH0161-C.g29.DBLz.5902",
+          "PH0161-C.g47.DBLz.5776",
+          "PH0161-C.g31.DBLz.4600",
+          "PH0161-C.g23.DBLz.7846",
+          "PH0161-C.g33.DBLz.4801",
+          "PH0161-C.g70.DBLz.1576",
+          "PH0161-C.g58.DBLz.4585"
+        ]
+      },
+      "PH0163-C": {
+        "count": 4,
+        "samples": [
+          "PH0163-C.g31.DBLz.6331",
+          "PH0163-C.g43.DBLz.4981",
+          "PH0163-C.g35.DBLz.4600",
+          "PH0163-C.g105.DBLz.2830"
+        ]
+      },
+      "PH0164-C": {
+        "count": 9,
+        "samples": [
+          "PH0164-C.g98.DBLz.3394",
+          "PH0164-C.g73.DBLz.4726",
+          "PH0164-C.g29.DBLz.7414",
+          "PH0164-C.g36.DBLz.7558",
+          "PH0164-C.g59.DBLz.4864",
+          "PH0164-C.g74.DBLz.3358",
+          "PH0164-C.g64.DBLz.4924",
+          "PH0164-C.g37.DBLz.6796",
+          "PH0164-C.g11.DBLz.4621"
+        ]
+      },
+      "PH0165-C": {
+        "count": 9,
+        "samples": [
+          "PH0165-C.g22.DBLz.4822",
+          "PH0165-C.g21.DBLz.4801",
+          "PH0165-C.g17.DBLz.3382",
+          "PH0165-C.g32.DBLz.4588",
+          "PH0165-C.g20.DBLz.5911",
+          "PH0165-C.g13.DBLz.7357",
+          "PH0165-C.g14.DBLz.7846",
+          "PH0165-C.g34.DBLz.4582",
+          "PH0165-C.g29.DBLz.5902"
+        ]
+      },
+      "PH0167-C": {
+        "count": 4,
+        "samples": [
+          "PH0167-C.g16.DBLz.4981",
+          "PH0167-C.g8.DBLz.6331",
+          "PH0167-C.g15.DBLz.4600",
+          "PH0167-C.g35.DBLz.3322"
+        ]
+      },
+      "PH0169-C": {
+        "count": 9,
+        "samples": [
+          "PH0169-C.g35.DBLz.4540",
+          "PH0169-C.g23.DBLz.5911",
+          "PH0169-C.g6.DBLz.7846",
+          "PH0169-C.g21.DBLz.5902",
+          "PH0169-C.g28.DBLz.4801",
+          "PH0169-C.g29.DBLz.5002",
+          "PH0169-C.g26.DBLz.4588",
+          "PH0169-C.g25.DBLz.4822",
+          "PH0169-C.g11.DBLz.3382"
+        ]
+      },
+      "PH0172-C": {
+        "count": 9,
+        "samples": [
+          "PH0172-C.g49.DBLz.4570",
+          "PH0172-C.g56.DBLz.6145",
+          "PH0172-C.g79.DBLz.4330",
+          "PH0172-C.g42.DBLz.7051",
+          "PH0172-C.g43.DBLz.6964",
+          "PH0172-C.g24.DBLz.4456",
+          "PH0172-C.g54.DBLz.4801",
+          "PH0172-C.g44.DBLz.4912",
+          "PH0172-C.g25.DBLz.7555"
+        ]
+      },
+      "PH0173-C": {
+        "count": 7,
+        "samples": [
+          "PH0173-C.g77.DBLz.4666",
+          "PH0173-C.g6.DBLz.6964",
+          "PH0173-C.g54.DBLz.4930",
+          "PH0173-C.g7.DBLz.6796",
+          "PH0173-C.g36.DBLz.6994",
+          "PH0173-C.g56.DBLz.5911",
+          "PH0173-C.g53.DBLz.5902"
+        ]
+      },
+      "PH0191-C": {
+        "count": 5,
+        "samples": [
+          "PH0191-C.g28.DBLz.4723",
+          "PH0191-C.g32.DBLz.3496",
+          "PH0191-C.g49.DBLz.4660",
+          "PH0191-C.g59.DBLz.4906",
+          "PH0191-C.g21.DBLz.6856"
+        ]
+      },
+      "PH0192-C": {
+        "count": 5,
+        "samples": [
+          "PH0192-C.g56.DBLz.3619",
+          "PH0192-C.g62.DBLz.3694",
+          "PH0192-C.g63.DBLz.4924",
+          "PH0192-C.g68.DBLz.5524",
+          "PH0192-C.g52.DBLz.4660"
+        ]
+      },
+      "PH0194-C": {
+        "count": 11,
+        "samples": [
+          "PH0194-C.g32.DBLz.7036",
+          "PH0194-C.g52.DBLz.4543",
+          "PH0194-C.g29.DBLz.4456",
+          "PH0194-C.g63.DBLz.4813",
+          "PH0194-C.g33.DBLz.6964",
+          "PH0194-C.g26.DBLz.7087",
+          "PH0194-C.g79.DBLz.4456",
+          "PH0194-C.g64.DBLz.3589",
+          "PH0194-C.g61.DBLz.4975",
+          "PH0194-C.g37.DBLz.7378",
+          "PH0194-C.g109.DBLz.3346"
+        ]
+      },
+      "PH0196-C": {
+        "count": 8,
+        "samples": [
+          "PH0196-C.g47.DBLz.3880",
+          "PH0196-C.g52.DBLz.3622",
+          "PH0196-C.g17.DBLz.4735",
+          "PH0196-C.g72.DBLz.3496",
+          "PH0196-C.g1.DBLz.4456",
+          "PH0196-C.g20.DBLz.5614",
+          "PH0196-C.g90.DBLz.1597",
+          "PH0196-C.g21.DBLz.3472"
+        ]
+      },
+      "PH0197-C": {
+        "count": 13,
+        "samples": [
+          "PH0197-C.g35.DBLz.4735",
+          "PH0197-C.g12.DBLz.6964",
+          "PH0197-C.g28.DBLz.6856",
+          "PH0197-C.g56.DBLz.4531",
+          "PH0197-C.g62.DBLz.3622",
+          "PH0197-C.g44.DBLz.4930",
+          "PH0197-C.g48.DBLz.5212",
+          "PH0197-C.g47.DBLz.3490",
+          "PH0197-C.g81.DBLz.1768",
+          "PH0197-C.g17.DBLz.4456",
+          "PH0197-C.g45.DBLz.3979",
+          "PH0197-C.g115.DBLz.1756",
+          "PH0197-C.g27.DBLz.7951"
+        ]
+      },
+      "PH0198-C": {
+        "count": 13,
+        "samples": [
+          "PH0198-C.g31.DBLz.6874",
+          "PH0198-C.g49.DBLz.4732",
+          "PH0198-C.g42.DBLz.4933",
+          "PH0198-C.g65.DBLz.4714",
+          "PH0198-C.g110.DBLz.1609",
+          "PH0198-C.g2.DBLz.6223",
+          "PH0198-C.g38.DBLz.6139",
+          "PH0198-C.g56.DBLz.5851",
+          "PH0198-C.g36.DBLz.4456",
+          "PH0198-C.g40.DBLz.6964",
+          "PH0198-C.g43.DBLz.7030",
+          "PH0198-C.g66.DBLz.4885",
+          "PH0198-C.g35.DBLz.7159"
+        ]
+      },
+      "PH0199-C": {
+        "count": 1,
+        "samples": [
+          "PH0199-C.g4.DBLz.6988"
+        ]
+      },
+      "PH0201-C": {
+        "count": 7,
+        "samples": [
+          "PH0201-C.g26.DBLz.5107",
+          "PH0201-C.g29.DBLz.4609",
+          "PH0201-C.g38.DBLz.5059",
+          "PH0201-C.g40.DBLz.3871",
+          "PH0201-C.g24.DBLz.4828",
+          "PH0201-C.g49.DBLz.3856",
+          "PH0201-C.g17.DBLz.7015"
+        ]
+      },
+      "PH0203-C": {
+        "count": 10,
+        "samples": [
+          "PH0203-C.g29.DBLz.5137",
+          "PH0203-C.g32.DBLz.4864",
+          "PH0203-C.g16.DBLz.6193",
+          "PH0203-C.g30.DBLz.5869",
+          "PH0203-C.g95.DBLz.1921",
+          "PH0203-C.g77.DBLz.3586",
+          "PH0203-C.g15.DBLz.4582",
+          "PH0203-C.g33.DBLz.4897",
+          "PH0203-C.g17.DBLz.5146",
+          "PH0203-C.g4.DBLz.9481"
+        ]
+      },
+      "PH0204-C": {
+        "count": 15,
+        "samples": [
+          "PH0204-C.g44.DBLz.2956",
+          "PH0204-C.g11.DBLz.6796",
+          "PH0204-C.g20.DBLz.4948",
+          "PH0204-C.g29.DBLz.4966",
+          "PH0204-C.g6.DBLz.6340",
+          "PH0204-C.g33.DBLz.4750",
+          "PH0204-C.g9.DBLz.4606",
+          "PH0204-C.g31.DBLz.4603",
+          "PH0204-C.g8.DBLz.4555",
+          "PH0204-C.g23.DBLz.4456",
+          "PH0204-C.g38.DBLz.4954",
+          "PH0204-C.g87.DBLz.3157",
+          "PH0204-C.g7.DBLz.6649",
+          "PH0204-C.g28.DBLz.4981",
+          "PH0204-C.g41.DBLz.3889"
+        ]
+      },
+      "PH0205-C": {
+        "count": 11,
+        "samples": [
+          "PH0205-C.g19.DBLz.3889",
+          "PH0205-C.g13.DBLz.4984",
+          "PH0205-C.g22.DBLz.4822",
+          "PH0205-C.g75.DBLz.2665",
+          "PH0205-C.g10.DBLz.4543",
+          "PH0205-C.g52.DBLz.3160",
+          "PH0205-C.g20.DBLz.4999",
+          "PH0205-C.g4.DBLz.7885",
+          "PH0205-C.g99.DBLz.1681",
+          "PH0205-C.g28.DBLz.4375",
+          "PH0205-C.g24.DBLz.5002"
+        ]
+      },
+      "PH0206-C": {
+        "count": 5,
+        "samples": [
+          "PH0206-C.g43.DBLz.4588",
+          "PH0206-C.g51.DBLz.3961",
+          "PH0206-C.g47.DBLz.5401",
+          "PH0206-C.g50.DBLz.5902",
+          "PH0206-C.g53.DBLz.4906"
+        ]
+      },
+      "PH0207-C": {
+        "count": 10,
+        "samples": [
+          "PH0207-C.g16.DBLz.6019",
+          "PH0207-C.g20.DBLz.4615",
+          "PH0207-C.g54.DBLz.1306",
+          "PH0207-C.g19.DBLz.7063",
+          "PH0207-C.g23.DBLz.6064",
+          "PH0207-C.g84.DBLz.2131",
+          "PH0207-C.g21.DBLz.4966",
+          "PH0207-C.g13.DBLz.7207",
+          "PH0207-C.g22.DBLz.5005",
+          "PH0207-C.g73.DBLz.3619"
+        ]
+      },
+      "PH0208-C": {
+        "count": 9,
+        "samples": [
+          "PH0208-C.g22.DBLz.4867",
+          "PH0208-C.g21.DBLz.3382",
+          "PH0208-C.g3.DBLz.7846",
+          "PH0208-C.g19.DBLz.4822",
+          "PH0208-C.g20.DBLz.4801",
+          "PH0208-C.g18.DBLz.4588",
+          "PH0208-C.g15.DBLz.5902",
+          "PH0208-C.g16.DBLz.5911",
+          "PH0208-C.g25.DBLz.4657"
+        ]
+      },
+      "PH0209-C": {
+        "count": 13,
+        "samples": [
+          "PH0209-C.g32.DBLz.4570",
+          "PH0209-C.g48.DBLz.5080",
+          "PH0209-C.g49.DBLz.4999",
+          "PH0209-C.g17.DBLz.7414",
+          "PH0209-C.g50.DBLz.7021",
+          "PH0209-C.g25.DBLz.7555",
+          "PH0209-C.g66.DBLz.4729",
+          "PH0209-C.g45.DBLz.4594",
+          "PH0209-C.g19.DBLz.6538",
+          "PH0209-C.g34.DBLz.6856",
+          "PH0209-C.g40.DBLz.4930",
+          "PH0209-C.g117.DBLz.2410",
+          "PH0209-C.g18.DBLz.6988"
+        ]
+      },
+      "PH0210-C": {
+        "count": 5,
+        "samples": [
+          "PH0210-C.g6.DBLz.5506",
+          "PH0210-C.g26.DBLz.3490",
+          "PH0210-C.g14.DBLz.4840",
+          "PH0210-C.g2.DBLz.7846",
+          "PH0210-C.g24.DBLz.4543"
+        ]
+      },
+      "PH0212-C": {
+        "count": 9,
+        "samples": [
+          "PH0212-C.g67.DBLz.5911",
+          "PH0212-C.g86.DBLz.4663",
+          "PH0212-C.g35.DBLz.3472",
+          "PH0212-C.g49.DBLz.6334",
+          "PH0212-C.g69.DBLz.3382",
+          "PH0212-C.g52.DBLz.4546",
+          "PH0212-C.g4.DBLz.4822",
+          "PH0212-C.g57.DBLz.7846",
+          "PH0212-C.g91.DBLz.4867"
+        ]
+      },
+      "PH0213-C": {
+        "count": 8,
+        "samples": [
+          "PH0213-C.g22.DBLz.4822",
+          "PH0213-C.g25.DBLz.3382",
+          "PH0213-C.g27.DBLz.4663",
+          "PH0213-C.g26.DBLz.4801",
+          "PH0213-C.g21.DBLz.4588",
+          "PH0213-C.g4.DBLz.7846",
+          "PH0213-C.g17.DBLz.5902",
+          "PH0213-C.g18.DBLz.5911"
+        ]
+      },
+      "PH0246-C": {
+        "count": 3,
+        "samples": [
+          "PH0246-C.g62.DBLz.3058",
+          "PH0246-C.g79.DBLz.3169",
+          "PH0246-C.g85.DBLz.2203"
+        ]
+      },
+      "PH0259-C": {
+        "count": 7,
+        "samples": [
+          "PH0259-C.g1.DBLz.6481",
+          "PH0259-C.g48.DBLz.2431",
+          "PH0259-C.g19.DBLz.6826",
+          "PH0259-C.g45.DBLz.2347",
+          "PH0259-C.g8.DBLz.7207",
+          "PH0259-C.g62.DBLz.2104",
+          "PH0259-C.g77.DBLz.1774"
+        ]
+      },
+      "PH0274-C": {
+        "count": 4,
+        "samples": [
+          "PH0274-C.g32.DBLz.2479",
+          "PH0274-C.g4.DBLz.7207",
+          "PH0274-C.g14.DBLz.2350",
+          "PH0274-C.g59.DBLz.2092"
+        ]
+      },
+      "PH0292-C": {
+        "count": 5,
+        "samples": [
+          "PH0292-C.g57.DBLz.2842",
+          "PH0292-C.g3.DBLz.7951",
+          "PH0292-C.g73.DBLz.3115",
+          "PH0292-C.g39.DBLz.4801",
+          "PH0292-C.g91.DBLz.2563"
+        ]
+      },
+      "PH0294-C": {
+        "count": 10,
+        "samples": [
+          "PH0294-C.g12.DBLz.4456",
+          "PH0294-C.g116.DBLz.1948",
+          "PH0294-C.g60.DBLz.4732",
+          "PH0294-C.g83.DBLz.4471",
+          "PH0294-C.g38.DBLz.4735",
+          "PH0294-C.g78.DBLz.3490",
+          "PH0294-C.g68.DBLz.4798",
+          "PH0294-C.g61.DBLz.3622",
+          "PH0294-C.g63.DBLz.3793",
+          "PH0294-C.g52.DBLz.4864"
+        ]
+      },
+      "PH0326-C": {
+        "count": 4,
+        "samples": [
+          "PH0326-C.g94.DBLz.1987",
+          "PH0326-C.g20.DBLz.4627",
+          "PH0326-C.g51.DBLz.4813",
+          "PH0326-C.g30.DBLz.4906"
+        ]
+      },
+      "PH0330-C": {
+        "count": 7,
+        "samples": [
+          "PH0330-C.g62.DBLz.5911",
+          "PH0330-C.g46.DBLz.7234",
+          "PH0330-C.g67.DBLz.4867",
+          "PH0330-C.g42.DBLz.3382",
+          "PH0330-C.g66.DBLz.4801",
+          "PH0330-C.g142.DBLz.2008",
+          "PH0330-C.g63.DBLz.4651"
+        ]
+      },
+      "PH0333-C": {
+        "count": 14,
+        "samples": [
+          "PH0333-C.g31.DBLz.7033",
+          "PH0333-C.g83.DBLz.4420",
+          "PH0333-C.g63.DBLz.4951",
+          "PH0333-C.g49.DBLz.4618",
+          "PH0333-C.g68.DBLz.4858",
+          "PH0333-C.g60.DBLz.6103",
+          "PH0333-C.g29.DBLz.4456",
+          "PH0333-C.g41.DBLz.4825",
+          "PH0333-C.g32.DBLz.6796",
+          "PH0333-C.g64.DBLz.4276",
+          "PH0333-C.g87.DBLz.4531",
+          "PH0333-C.g30.DBLz.8167",
+          "PH0333-C.g61.DBLz.5629",
+          "PH0333-C.g18.DBLz.6862"
+        ]
+      },
+      "PH0340-C": {
+        "count": 6,
+        "samples": [
+          "PH0340-C.g8.DBLz.7543",
+          "PH0340-C.g20.DBLz.6178",
+          "PH0340-C.g74.DBLz.2512",
+          "PH0340-C.g19.DBLz.6967",
+          "PH0340-C.g49.DBLz.3871",
+          "PH0340-C.g23.DBLz.4828"
+        ]
+      },
+      "PH0344-C": {
+        "count": 5,
+        "samples": [
+          "PH0344-C.g6.DBLz.4135",
+          "PH0344-C.g27.DBLz.3406",
+          "PH0344-C.g32.DBLz.2296",
+          "PH0344-C.g5.DBLz.5086",
+          "PH0344-C.g2.DBLz.5023"
+        ]
+      },
+      "PH0380-C": {
+        "count": 5,
+        "samples": [
+          "PH0380-C.g54.DBLz.4837",
+          "PH0380-C.g18.DBLz.6937",
+          "PH0380-C.g116.DBLz.1744",
+          "PH0380-C.g43.DBLz.4990",
+          "PH0380-C.g48.DBLz.6850"
+        ]
+      },
+      "PH0463-C": {
+        "count": 8,
+        "samples": [
+          "PH0463-C.g8.DBLz.7948",
+          "PH0463-C.g22.DBLz.4588",
+          "PH0463-C.g84.DBLz.2971",
+          "PH0463-C.g46.DBLz.4822",
+          "PH0463-C.g20.DBLz.4654",
+          "PH0463-C.g9.DBLz.7846",
+          "PH0463-C.g21.DBLz.3382",
+          "PH0463-C.g73.DBLz.3406"
+        ]
+      },
+      "PH0509-C": {
+        "count": 17,
+        "samples": [
+          "PH0509-C.g2074.DBLz.1807",
+          "PH0509-C.g1935.DBLz.5533",
+          "PH0509-C.g1933.DBLz.5338",
+          "PH0509-C.g1937.DBLz.4930",
+          "PH0509-C.g2000.DBLz.3853",
+          "PH0509-C.g2021.DBLz.2848",
+          "PH0509-C.g1955.DBLz.4810",
+          "PH0509-C.g1941.DBLz.4873",
+          "PH0509-C.g1940.DBLz.4603",
+          "PH0509-C.g2063.DBLz.2242",
+          "PH0509-C.g1947.DBLz.3847",
+          "PH0509-C.g1956.DBLz.4708",
+          "PH0509-C.g1951.DBLz.4747",
+          "PH0509-C.g2025.DBLz.3475",
+          "PH0509-C.g1939.DBLz.5026",
+          "PH0509-C.g1949.DBLz.4825",
+          "PH0509-C.g1916.DBLz.7063"
+        ]
+      },
+      "PH0518-C": {
+        "count": 9,
+        "samples": [
+          "PH0518-C.g34.DBLz.4825",
+          "PH0518-C.g29.DBLz.4864",
+          "PH0518-C.g12.DBLz.6796",
+          "PH0518-C.g18.DBLz.4735",
+          "PH0518-C.g52.DBLz.3622",
+          "PH0518-C.g31.DBLz.4744",
+          "PH0518-C.g21.DBLz.4519",
+          "PH0518-C.g104.DBLz.2563",
+          "PH0518-C.g26.DBLz.5902"
+        ]
+      },
+      "PH0523-C": {
+        "count": 9,
+        "samples": [
+          "PH0523-C.g57.DBLz.4813",
+          "PH0523-C.g28.DBLz.4999",
+          "PH0523-C.g29.DBLz.4795",
+          "PH0523-C.g41.DBLz.4906",
+          "PH0523-C.g24.DBLz.4960",
+          "PH0523-C.g32.DBLz.4543",
+          "PH0523-C.g65.DBLz.3904",
+          "PH0523-C.g30.DBLz.6205",
+          "PH0523-C.g33.DBLz.5893"
+        ]
+      },
+      "PH0524-C": {
+        "count": 11,
+        "samples": [
+          "PH0524-C.g76.DBLz.3202",
+          "PH0524-C.g37.DBLz.6103",
+          "PH0524-C.g40.DBLz.4933",
+          "PH0524-C.g27.DBLz.6832",
+          "PH0524-C.g21.DBLz.7579",
+          "PH0524-C.g92.DBLz.2584",
+          "PH0524-C.g17.DBLz.5659",
+          "PH0524-C.g35.DBLz.4957",
+          "PH0524-C.g51.DBLz.4678",
+          "PH0524-C.g33.DBLz.4882",
+          "PH0524-C.g28.DBLz.4570"
+        ]
+      },
+      "PH0527-C": {
+        "count": 10,
+        "samples": [
+          "PH0527-C.g92.DBLz.5818",
+          "PH0527-C.g79.DBLz.4801",
+          "PH0527-C.g82.DBLz.4651",
+          "PH0527-C.g66.DBLz.4585",
+          "PH0527-C.g80.DBLz.5911",
+          "PH0527-C.g81.DBLz.3472",
+          "PH0527-C.g48.DBLz.7846",
+          "PH0527-C.g69.DBLz.3382",
+          "PH0527-C.g20.DBLz.6910",
+          "PH0527-C.g60.DBLz.5902"
+        ]
+      },
+      "PH0596-C": {
+        "count": 9,
+        "samples": [
+          "PH0596-C.g49.DBLz.4933",
+          "PH0596-C.g26.DBLz.6712",
+          "PH0596-C.g21.DBLz.7189",
+          "PH0596-C.g30.DBLz.4846",
+          "PH0596-C.g16.DBLz.4456",
+          "PH0596-C.g48.DBLz.3661",
+          "PH0596-C.g22.DBLz.7030",
+          "PH0596-C.g60.DBLz.4720",
+          "PH0596-C.g37.DBLz.4543"
+        ]
+      },
+      "PH0820-C": {
+        "count": 11,
+        "samples": [
+          "PH0820-C.g29.DBLz.4588",
+          "PH0820-C.g12.DBLz.7390",
+          "PH0820-C.g55.DBLz.3622",
+          "PH0820-C.g18.DBLz.4735",
+          "PH0820-C.g37.DBLz.4456",
+          "PH0820-C.g41.DBLz.4864",
+          "PH0820-C.g59.DBLz.3490",
+          "PH0820-C.g2.DBLz.3460",
+          "PH0820-C.g36.DBLz.4369",
+          "PH0820-C.g25.DBLz.6331",
+          "PH0820-C.g95.DBLz.1738"
+        ]
+      },
+      "PH0824-C": {
+        "count": 17,
+        "samples": [
+          "PH0824-C.g2.DBLz.7390",
+          "PH0824-C.g105.DBLz.2281",
+          "PH0824-C.g36.DBLz.4444",
+          "PH0824-C.g29.DBLz.4882",
+          "PH0824-C.g4.DBLz.6601",
+          "PH0824-C.g51.DBLz.4603",
+          "PH0824-C.g37.DBLz.2905",
+          "PH0824-C.g119.DBLz.1585",
+          "PH0824-C.g33.DBLz.4588",
+          "PH0824-C.g32.DBLz.4456",
+          "PH0824-C.g46.DBLz.3622",
+          "PH0824-C.g47.DBLz.3490",
+          "PH0824-C.g27.DBLz.4864",
+          "PH0824-C.g12.DBLz.6331",
+          "PH0824-C.g23.DBLz.5911",
+          "PH0824-C.g14.DBLz.4735",
+          "PH0824-C.g6.DBLz.7846"
+        ]
+      },
+      "PT0001-CW": {
+        "count": 6,
+        "samples": [
+          "PT0001-CW.g14.DBLz.4645",
+          "PT0001-CW.g9.DBLz.4684",
+          "PT0001-CW.g20.DBLz.3064",
+          "PT0001-CW.g8.DBLz.3826",
+          "PT0001-CW.g29.DBLz.2572",
+          "PT0001-CW.g17.DBLz.3004"
+        ]
+      },
+      "PT0002-CW": {
+        "count": 3,
+        "samples": [
+          "PT0002-CW.g31.DBLz.2629",
+          "PT0002-CW.g16.DBLz.2185",
+          "PT0002-CW.g4.DBLz.5239"
+        ]
+      },
+      "PT0003-CW": {
+        "count": 6,
+        "samples": [
+          "PT0003-CW.g26.DBLz.4897",
+          "PT0003-CW.g93.DBLz.1783",
+          "PT0003-CW.g69.DBLz.2581",
+          "PT0003-CW.g35.DBLz.4945",
+          "PT0003-CW.g97.DBLz.2323",
+          "PT0003-CW.g19.DBLz.6130"
+        ]
+      },
+      "PT0004-CW": {
+        "count": 12,
+        "samples": [
+          "PT0004-CW.g25.DBLz.4783",
+          "PT0004-CW.g12.DBLz.5374",
+          "PT0004-CW.g33.DBLz.4681",
+          "PT0004-CW.g27.DBLz.3871",
+          "PT0004-CW.g62.DBLz.3004",
+          "PT0004-CW.g18.DBLz.4825",
+          "PT0004-CW.g35.DBLz.2794",
+          "PT0004-CW.g4.DBLz.6640",
+          "PT0004-CW.g24.DBLz.4798",
+          "PT0004-CW.g8.DBLz.3409",
+          "PT0004-CW.g53.DBLz.3478",
+          "PT0004-CW.g17.DBLz.4918"
+        ]
+      },
+      "PT0005-CW": {
+        "count": 10,
+        "samples": [
+          "PT0005-CW.g19.DBLz.8332",
+          "PT0005-CW.g46.DBLz.4858",
+          "PT0005-CW.g48.DBLz.5080",
+          "PT0005-CW.g55.DBLz.4594",
+          "PT0005-CW.g40.DBLz.6940",
+          "PT0005-CW.g52.DBLz.4924",
+          "PT0005-CW.g127.DBLz.1999",
+          "PT0005-CW.g75.DBLz.3574",
+          "PT0005-CW.g43.DBLz.4543",
+          "PT0005-CW.g42.DBLz.5254"
+        ]
+      },
+      "PT0006-CW": {
+        "count": 4,
+        "samples": [
+          "PT0006-CW.g12.DBLz.6700",
+          "PT0006-CW.g30.DBLz.4627",
+          "PT0006-CW.g51.DBLz.4912",
+          "PT0006-CW.g25.DBLz.6454"
+        ]
+      },
+      "PT0007-CW": {
+        "count": 3,
+        "samples": [
+          "PT0007-CW.g25.DBLz.4645",
+          "PT0007-CW.g26.DBLz.5776",
+          "PT0007-CW.g24.DBLz.4807"
+        ]
+      },
+      "PT0008-CW": {
+        "count": 7,
+        "samples": [
+          "PT0008-CW.g28.DBLz.3466",
+          "PT0008-CW.g17.DBLz.4141",
+          "PT0008-CW.g34.DBLz.2713",
+          "PT0008-CW.g20.DBLz.2668",
+          "PT0008-CW.g29.DBLz.2758",
+          "PT0008-CW.g8.DBLz.4984",
+          "PT0008-CW.g24.DBLz.3097"
+        ]
+      },
+      "PT0009-CW": {
+        "count": 3,
+        "samples": [
+          "PT0009-CW.g71.DBLz.5776",
+          "PT0009-CW.g59.DBLz.4807",
+          "PT0009-CW.g44.DBLz.4645"
+        ]
+      },
+      "PT0010-CW": {
+        "count": 8,
+        "samples": [
+          "PT0010-CW.g23.DBLz.4873",
+          "PT0010-CW.g33.DBLz.3478",
+          "PT0010-CW.g70.DBLz.2224",
+          "PT0010-CW.g83.DBLz.2506",
+          "PT0010-CW.g37.DBLz.2809",
+          "PT0010-CW.g7.DBLz.5830",
+          "PT0010-CW.g19.DBLz.4606",
+          "PT0010-CW.g9.DBLz.5086"
+        ]
+      },
+      "PT0013-CW": {
+        "count": 1,
+        "samples": [
+          "PT0013-CW.g12.DBLz.1624"
+        ]
+      },
+      "PT0014-CW": {
+        "count": 7,
+        "samples": [
+          "PT0014-CW.g20.DBLz.5635",
+          "PT0014-CW.g39.DBLz.6157",
+          "PT0014-CW.g23.DBLz.6124",
+          "PT0014-CW.g44.DBLz.4855",
+          "PT0014-CW.g36.DBLz.3385",
+          "PT0014-CW.g21.DBLz.7147",
+          "PT0014-CW.g47.DBLz.4864"
+        ]
+      },
+      "PT0015-CW": {
+        "count": 2,
+        "samples": [
+          "PT0015-CW.g7.DBLz.5680",
+          "PT0015-CW.g10.DBLz.5542"
+        ]
+      },
+      "PT0027-C": {
+        "count": 2,
+        "samples": [
+          "PT0027-C.g46.DBLz.3886",
+          "PT0027-C.g19.DBLz.5578"
+        ]
+      },
+      "PT0035-C": {
+        "count": 6,
+        "samples": [
+          "PT0035-C.g25.DBLz.5137",
+          "PT0035-C.g8.DBLz.6646",
+          "PT0035-C.g16.DBLz.7381",
+          "PT0035-C.g32.DBLz.4888",
+          "PT0035-C.g77.DBLz.778",
+          "PT0035-C.g12.DBLz.4612"
+        ]
+      },
+      "PT0044-C": {
+        "count": 10,
+        "samples": [
+          "PT0044-C.g23.DBLz.5218",
+          "PT0044-C.g41.DBLz.3523",
+          "PT0044-C.g104.DBLz.2170",
+          "PT0044-C.g26.DBLz.4807",
+          "PT0044-C.g100.DBLz.3181",
+          "PT0044-C.g8.DBLz.7093",
+          "PT0044-C.g98.DBLz.2476",
+          "PT0044-C.g27.DBLz.4903",
+          "PT0044-C.g13.DBLz.6331",
+          "PT0044-C.g64.DBLz.3394"
+        ]
+      },
+      "PT0048-C": {
+        "count": 10,
+        "samples": [
+          "PT0048-C.g38.DBLz.4819",
+          "PT0048-C.g37.DBLz.5089",
+          "PT0048-C.g50.DBLz.4822",
+          "PT0048-C.g33.DBLz.4609",
+          "PT0048-C.g34.DBLz.4954",
+          "PT0048-C.g19.DBLz.7045",
+          "PT0048-C.g24.DBLz.7324",
+          "PT0048-C.g35.DBLz.5044",
+          "PT0048-C.g23.DBLz.5650",
+          "PT0048-C.g60.DBLz.4774"
+        ]
+      },
+      "PT0051-C": {
+        "count": 1,
+        "samples": [
+          "PT0051-C.g7.DBLz.4042"
+        ]
+      },
+      "PT0055-C": {
+        "count": 3,
+        "samples": [
+          "PT0055-C.g49.DBLz.1780",
+          "PT0055-C.g32.DBLz.3631",
+          "PT0055-C.g29.DBLz.2680"
+        ]
+      },
+      "PT0056-C": {
+        "count": 4,
+        "samples": [
+          "PT0056-C.g19.DBLz.4894",
+          "PT0056-C.g45.DBLz.3481",
+          "PT0056-C.g23.DBLz.4744",
+          "PT0056-C.g12.DBLz.4999"
+        ]
+      },
+      "PT0058-C": {
+        "count": 8,
+        "samples": [
+          "PT0058-C.g45.DBLz.4885",
+          "PT0058-C.g57.DBLz.4897",
+          "PT0058-C.g47.DBLz.4528",
+          "PT0058-C.g62.DBLz.4765",
+          "PT0058-C.g49.DBLz.4903",
+          "PT0058-C.g75.DBLz.3985",
+          "PT0058-C.g46.DBLz.5005",
+          "PT0058-C.g67.DBLz.4588"
+        ]
+      },
+      "PT0059-C": {
+        "count": 9,
+        "samples": [
+          "PT0059-C.g42.DBLz.4738",
+          "PT0059-C.g30.DBLz.5188",
+          "PT0059-C.g97.DBLz.1549",
+          "PT0059-C.g73.DBLz.3451",
+          "PT0059-C.g34.DBLz.4921",
+          "PT0059-C.g3.DBLz.7165",
+          "PT0059-C.g27.DBLz.5062",
+          "PT0059-C.g13.DBLz.7075",
+          "PT0059-C.g85.DBLz.2617"
+        ]
+      },
+      "PT0060-C": {
+        "count": 5,
+        "samples": [
+          "PT0060-C.g17.DBLz.7258",
+          "PT0060-C.g58.DBLz.5062",
+          "PT0060-C.g40.DBLz.7063",
+          "PT0060-C.g14.DBLz.8590",
+          "PT0060-C.g15.DBLz.5725"
+        ]
+      },
+      "PT0069-C": {
+        "count": 18,
+        "samples": [
+          "PT0069-C.g81.DBLz.3859",
+          "PT0069-C.g83.DBLz.6226",
+          "PT0069-C.g122.DBLz.6865",
+          "PT0069-C.g310.DBLz.3526",
+          "PT0069-C.g126.DBLz.4924",
+          "PT0069-C.g344.DBLz.3610",
+          "PT0069-C.g84.DBLz.7309",
+          "PT0069-C.g130.DBLz.5233",
+          "PT0069-C.g144.DBLz.5017",
+          "PT0069-C.g150.DBLz.4891",
+          "PT0069-C.g47.DBLz.8485",
+          "PT0069-C.g212.DBLz.3403",
+          "PT0069-C.g201.DBLz.4804",
+          "PT0069-C.g82.DBLz.5659",
+          "PT0069-C.g111.DBLz.6010",
+          "PT0069-C.g92.DBLz.4594",
+          "PT0069-C.g151.DBLz.3301",
+          "PT0069-C.g113.DBLz.4720"
+        ]
+      },
+      "PT0070-C": {
+        "count": 12,
+        "samples": [
+          "PT0070-C.g53.DBLz.4813",
+          "PT0070-C.g49.DBLz.5059",
+          "PT0070-C.g33.DBLz.4858",
+          "PT0070-C.g21.DBLz.6178",
+          "PT0070-C.g41.DBLz.4942",
+          "PT0070-C.g61.DBLz.5098",
+          "PT0070-C.g52.DBLz.4870",
+          "PT0070-C.g26.DBLz.5815",
+          "PT0070-C.g28.DBLz.6109",
+          "PT0070-C.g59.DBLz.3583",
+          "PT0070-C.g19.DBLz.5959",
+          "PT0070-C.g42.DBLz.4867"
+        ]
+      },
+      "PT0072-C": {
+        "count": 10,
+        "samples": [
+          "PT0072-C.g78.DBLz.4234",
+          "PT0072-C.g41.DBLz.3802",
+          "PT0072-C.g29.DBLz.4975",
+          "PT0072-C.g129.DBLz.1666",
+          "PT0072-C.g95.DBLz.2737",
+          "PT0072-C.g28.DBLz.4885",
+          "PT0072-C.g14.DBLz.4951",
+          "PT0072-C.g42.DBLz.3631",
+          "PT0072-C.g19.DBLz.4789",
+          "PT0072-C.g52.DBLz.2959"
+        ]
+      },
+      "PT0073-C": {
+        "count": 11,
+        "samples": [
+          "PT0073-C.g33.DBLz.6481",
+          "PT0073-C.g61.DBLz.4801",
+          "PT0073-C.g36.DBLz.6208",
+          "PT0073-C.g27.DBLz.4618",
+          "PT0073-C.g34.DBLz.5329",
+          "PT0073-C.g45.DBLz.4774",
+          "PT0073-C.g40.DBLz.4684",
+          "PT0073-C.g67.DBLz.3550",
+          "PT0073-C.g43.DBLz.6445",
+          "PT0073-C.g35.DBLz.7240",
+          "PT0073-C.g49.DBLz.2488"
+        ]
+      },
+      "PT0074-C": {
+        "count": 7,
+        "samples": [
+          "PT0074-C.g5.DBLz.7435",
+          "PT0074-C.g71.DBLz.2101",
+          "PT0074-C.g12.DBLz.6121",
+          "PT0074-C.g69.DBLz.2116",
+          "PT0074-C.g9.DBLz.4576",
+          "PT0074-C.g3.DBLz.6667",
+          "PT0074-C.g24.DBLz.4834"
+        ]
+      },
+      "PT0076-C": {
+        "count": 12,
+        "samples": [
+          "PT0076-C.g69.DBLz.3571",
+          "PT0076-C.g6.DBLz.7138",
+          "PT0076-C.g25.DBLz.4843",
+          "PT0076-C.g39.DBLz.4723",
+          "PT0076-C.g7.DBLz.7213",
+          "PT0076-C.g37.DBLz.5887",
+          "PT0076-C.g36.DBLz.4558",
+          "PT0076-C.g41.DBLz.4756",
+          "PT0076-C.g112.DBLz.4030",
+          "PT0076-C.g9.DBLz.7144",
+          "PT0076-C.g8.DBLz.7048",
+          "PT0076-C.g21.DBLz.5134"
+        ]
+      },
+      "PT0077-Cx": {
+        "count": 11,
+        "samples": [
+          "PT0077-Cx.g50.DBLz.3490",
+          "PT0077-Cx.g13.DBLz.5104",
+          "PT0077-Cx.g88.DBLz.2614",
+          "PT0077-Cx.g5.DBLz.6550",
+          "PT0077-Cx.g119.DBLz.1990",
+          "PT0077-Cx.g32.DBLz.3637",
+          "PT0077-Cx.g10.DBLz.4846",
+          "PT0077-Cx.g3.DBLz.7396",
+          "PT0077-Cx.g22.DBLz.3718",
+          "PT0077-Cx.g76.DBLz.244",
+          "PT0077-Cx.g39.DBLz.4696"
+        ]
+      },
+      "PT0078-Cx": {
+        "count": 11,
+        "samples": [
+          "PT0078-Cx.g20.DBLz.5080",
+          "PT0078-Cx.g72.DBLz.3427",
+          "PT0078-Cx.g18.DBLz.7207",
+          "PT0078-Cx.g34.DBLz.6790",
+          "PT0078-Cx.g36.DBLz.4987",
+          "PT0078-Cx.g75.DBLz.3505",
+          "PT0078-Cx.g38.DBLz.4843",
+          "PT0078-Cx.g21.DBLz.7030",
+          "PT0078-Cx.g55.DBLz.4780",
+          "PT0078-Cx.g73.DBLz.3757",
+          "PT0078-Cx.g118.DBLz.2881"
+        ]
+      },
+      "PT0079-C": {
+        "count": 9,
+        "samples": [
+          "PT0079-C.g14.DBLz.7999",
+          "PT0079-C.g35.DBLz.7144",
+          "PT0079-C.g74.DBLz.3490",
+          "PT0079-C.g47.DBLz.4660",
+          "PT0079-C.g1.DBLz.4621",
+          "PT0079-C.g22.DBLz.6700",
+          "PT0079-C.g25.DBLz.6973",
+          "PT0079-C.g32.DBLz.5068",
+          "PT0079-C.g46.DBLz.4945"
+        ]
+      },
+      "PT0082-C": {
+        "count": 8,
+        "samples": [
+          "PT0082-C.g47.DBLz.2455",
+          "PT0082-C.g19.DBLz.3442",
+          "PT0082-C.g42.DBLz.2992",
+          "PT0082-C.g9.DBLz.4870",
+          "PT0082-C.g16.DBLz.4807",
+          "PT0082-C.g2.DBLz.4603",
+          "PT0082-C.g51.DBLz.2311",
+          "PT0082-C.g13.DBLz.4546"
+        ]
+      },
+      "PT0083-C": {
+        "count": 12,
+        "samples": [
+          "PT0083-C.g36.DBLz.4798",
+          "PT0083-C.g23.DBLz.7084",
+          "PT0083-C.g22.DBLz.7291",
+          "PT0083-C.g60.DBLz.3526",
+          "PT0083-C.g11.DBLz.7141",
+          "PT0083-C.g53.DBLz.5143",
+          "PT0083-C.g38.DBLz.5044",
+          "PT0083-C.g35.DBLz.5008",
+          "PT0083-C.g59.DBLz.3376",
+          "PT0083-C.g37.DBLz.4780",
+          "PT0083-C.g13.DBLz.7972",
+          "PT0083-C.g63.DBLz.3142"
+        ]
+      },
+      "PT0084-C": {
+        "count": 10,
+        "samples": [
+          "PT0084-C.g17.DBLz.4930",
+          "PT0084-C.g61.DBLz.1996",
+          "PT0084-C.g15.DBLz.5005",
+          "PT0084-C.g12.DBLz.5029",
+          "PT0084-C.g16.DBLz.4924",
+          "PT0084-C.g58.DBLz.1471",
+          "PT0084-C.g14.DBLz.5173",
+          "PT0084-C.g8.DBLz.5650",
+          "PT0084-C.g21.DBLz.5176",
+          "PT0084-C.g5.DBLz.7234"
+        ]
+      },
+      "PT0085-C": {
+        "count": 6,
+        "samples": [
+          "PT0085-C.g10.DBLz.5812",
+          "PT0085-C.g6.DBLz.4630",
+          "PT0085-C.g14.DBLz.4633",
+          "PT0085-C.g5.DBLz.5776",
+          "PT0085-C.g19.DBLz.5089",
+          "PT0085-C.g17.DBLz.5206"
+        ]
+      },
+      "PT0086-C": {
+        "count": 6,
+        "samples": [
+          "PT0086-C.g15.DBLz.7114",
+          "PT0086-C.g43.DBLz.4540",
+          "PT0086-C.g20.DBLz.6217",
+          "PT0086-C.g54.DBLz.4747",
+          "PT0086-C.g19.DBLz.6937",
+          "PT0086-C.g28.DBLz.6973"
+        ]
+      },
+      "PT0088-C": {
+        "count": 9,
+        "samples": [
+          "PT0088-C.g19.DBLz.7939",
+          "PT0088-C.g27.DBLz.4597",
+          "PT0088-C.g26.DBLz.4825",
+          "PT0088-C.g15.DBLz.7021",
+          "PT0088-C.g10.DBLz.7243",
+          "PT0088-C.g34.DBLz.4819",
+          "PT0088-C.g22.DBLz.5956",
+          "PT0088-C.g11.DBLz.7033",
+          "PT0088-C.g16.DBLz.6739"
+        ]
+      },
+      "PT0089-C": {
+        "count": 7,
+        "samples": [
+          "PT0089-C.g21.DBLz.5227",
+          "PT0089-C.g107.DBLz.2551",
+          "PT0089-C.g4.DBLz.7078",
+          "PT0089-C.g7.DBLz.6661",
+          "PT0089-C.g14.DBLz.5902",
+          "PT0089-C.g11.DBLz.6064",
+          "PT0089-C.g29.DBLz.4795"
+        ]
+      },
+      "PT0090-C": {
+        "count": 10,
+        "samples": [
+          "PT0090-C.g30.DBLz.4942",
+          "PT0090-C.g54.DBLz.5005",
+          "PT0090-C.g39.DBLz.4867",
+          "PT0090-C.g28.DBLz.4825",
+          "PT0090-C.g27.DBLz.6169",
+          "PT0090-C.g23.DBLz.6208",
+          "PT0090-C.g21.DBLz.6094",
+          "PT0090-C.g36.DBLz.5113",
+          "PT0090-C.g31.DBLz.5113",
+          "PT0090-C.g20.DBLz.3403"
+        ]
+      },
+      "PT0091-C": {
+        "count": 1,
+        "samples": [
+          "PT0091-C.g8.DBLz.4591"
+        ]
+      },
+      "PT0092-C": {
+        "count": 14,
+        "samples": [
+          "PT0092-C.g79.DBLz.2560",
+          "PT0092-C.g175.DBLz.2749",
+          "PT0092-C.g165.DBLz.2635",
+          "PT0092-C.g97.DBLz.3541",
+          "PT0092-C.g12.DBLz.5962",
+          "PT0092-C.g23.DBLz.4798",
+          "PT0092-C.g83.DBLz.3130",
+          "PT0092-C.g20.DBLz.4390",
+          "PT0092-C.g107.DBLz.2986",
+          "PT0092-C.g55.DBLz.2896",
+          "PT0092-C.g81.DBLz.2692",
+          "PT0092-C.g6.DBLz.4999",
+          "PT0092-C.g7.DBLz.4888",
+          "PT0092-C.g72.DBLz.2143"
+        ]
+      },
+      "PT0094-C": {
+        "count": 9,
+        "samples": [
+          "PT0094-C.g116.DBLz.3157",
+          "PT0094-C.g52.DBLz.3643",
+          "PT0094-C.g90.DBLz.2605",
+          "PT0094-C.g74.DBLz.4144",
+          "PT0094-C.g44.DBLz.4006",
+          "PT0094-C.g89.DBLz.3511",
+          "PT0094-C.g46.DBLz.4720",
+          "PT0094-C.g39.DBLz.3898",
+          "PT0094-C.g10.DBLz.7765"
+        ]
+      },
+      "PT0095-C": {
+        "count": 13,
+        "samples": [
+          "PT0095-C.g26.DBLz.4636",
+          "PT0095-C.g72.DBLz.3283",
+          "PT0095-C.g30.DBLz.4888",
+          "PT0095-C.g35.DBLz.4735",
+          "PT0095-C.g1.DBLz.8080",
+          "PT0095-C.g21.DBLz.4804",
+          "PT0095-C.g20.DBLz.4894",
+          "PT0095-C.g6.DBLz.6217",
+          "PT0095-C.g16.DBLz.6241",
+          "PT0095-C.g17.DBLz.4933",
+          "PT0095-C.g29.DBLz.5041",
+          "PT0095-C.g19.DBLz.4618",
+          "PT0095-C.g10.DBLz.4831"
+        ]
+      },
+      "PT0096-C": {
+        "count": 11,
+        "samples": [
+          "PT0096-C.g30.DBLz.4687",
+          "PT0096-C.g60.DBLz.3064",
+          "PT0096-C.g9.DBLz.3394",
+          "PT0096-C.g29.DBLz.3598",
+          "PT0096-C.g12.DBLz.4918",
+          "PT0096-C.g19.DBLz.4774",
+          "PT0096-C.g18.DBLz.4933",
+          "PT0096-C.g15.DBLz.5794",
+          "PT0096-C.g11.DBLz.4621",
+          "PT0096-C.g10.DBLz.5059",
+          "PT0096-C.g13.DBLz.4942"
+        ]
+      },
+      "PT0097-C": {
+        "count": 8,
+        "samples": [
+          "PT0097-C.g42.DBLz.2548",
+          "PT0097-C.g12.DBLz.4906",
+          "PT0097-C.g1.DBLz.7402",
+          "PT0097-C.g15.DBLz.6112",
+          "PT0097-C.g8.DBLz.5035",
+          "PT0097-C.g5.DBLz.6046",
+          "PT0097-C.g7.DBLz.5671",
+          "PT0097-C.g16.DBLz.4612"
+        ]
+      },
+      "PT0098-C": {
+        "count": 6,
+        "samples": [
+          "PT0098-C.g6.DBLz.4798",
+          "PT0098-C.g16.DBLz.5089",
+          "PT0098-C.g21.DBLz.4789",
+          "PT0098-C.g9.DBLz.6223",
+          "PT0098-C.g15.DBLz.5776",
+          "PT0098-C.g23.DBLz.4705"
+        ]
+      },
+      "PT0099-C": {
+        "count": 13,
+        "samples": [
+          "PT0099-C.g87.DBLz.4066",
+          "PT0099-C.g52.DBLz.3949",
+          "PT0099-C.g14.DBLz.7093",
+          "PT0099-C.g32.DBLz.6724",
+          "PT0099-C.g60.DBLz.4132",
+          "PT0099-C.g39.DBLz.4987",
+          "PT0099-C.g156.DBLz.2242",
+          "PT0099-C.g12.DBLz.7102",
+          "PT0099-C.g40.DBLz.4834",
+          "PT0099-C.g56.DBLz.3886",
+          "PT0099-C.g8.DBLz.4549",
+          "PT0099-C.g9.DBLz.7399",
+          "PT0099-C.g151.DBLz.2764"
+        ]
+      },
+      "PT0100-C": {
+        "count": 6,
+        "samples": [
+          "PT0100-C.g51.DBLz.3463",
+          "PT0100-C.g82.DBLz.3079",
+          "PT0100-C.g87.DBLz.1954",
+          "PT0100-C.g7.DBLz.5464",
+          "PT0100-C.g10.DBLz.4858",
+          "PT0100-C.g12.DBLz.3967"
+        ]
+      },
+      "PT0101-C": {
+        "count": 11,
+        "samples": [
+          "PT0101-C.g15.DBLz.4990",
+          "PT0101-C.g14.DBLz.4912",
+          "PT0101-C.g18.DBLz.4882",
+          "PT0101-C.g23.DBLz.4600",
+          "PT0101-C.g9.DBLz.6700",
+          "PT0101-C.g19.DBLz.4726",
+          "PT0101-C.g24.DBLz.4930",
+          "PT0101-C.g10.DBLz.4873",
+          "PT0101-C.g20.DBLz.4939",
+          "PT0101-C.g21.DBLz.4783",
+          "PT0101-C.g27.DBLz.5224"
+        ]
+      },
+      "PT0102-C": {
+        "count": 4,
+        "samples": [
+          "PT0102-C.g2.DBLz.7390",
+          "PT0102-C.g8.DBLz.6076",
+          "PT0102-C.g11.DBLz.4591",
+          "PT0102-C.g17.DBLz.4855"
+        ]
+      },
+      "PT0103-C": {
+        "count": 15,
+        "samples": [
+          "PT0103-C.g30.DBLz.4882",
+          "PT0103-C.g29.DBLz.5044",
+          "PT0103-C.g6.DBLz.6658",
+          "PT0103-C.g35.DBLz.4516",
+          "PT0103-C.g60.DBLz.3694",
+          "PT0103-C.g28.DBLz.5116",
+          "PT0103-C.g45.DBLz.4855",
+          "PT0103-C.g36.DBLz.5110",
+          "PT0103-C.g5.DBLz.7270",
+          "PT0103-C.g32.DBLz.4903",
+          "PT0103-C.g54.DBLz.3490",
+          "PT0103-C.g13.DBLz.7351",
+          "PT0103-C.g26.DBLz.5323",
+          "PT0103-C.g42.DBLz.5011",
+          "PT0103-C.g33.DBLz.4576"
+        ]
+      },
+      "PT0104-C": {
+        "count": 7,
+        "samples": [
+          "PT0104-C.g56.DBLz.4609",
+          "PT0104-C.g55.DBLz.4828",
+          "PT0104-C.g26.DBLz.7213",
+          "PT0104-C.g36.DBLz.4573",
+          "PT0104-C.g22.DBLz.7255",
+          "PT0104-C.g35.DBLz.5953",
+          "PT0104-C.g119.DBLz.2416"
+        ]
+      },
+      "PT0106-C": {
+        "count": 7,
+        "samples": [
+          "PT0106-C.g28.DBLz.6916",
+          "PT0106-C.g42.DBLz.4765",
+          "PT0106-C.g33.DBLz.6235",
+          "PT0106-C.g40.DBLz.5038",
+          "PT0106-C.g48.DBLz.4843",
+          "PT0106-C.g16.DBLz.7192",
+          "PT0106-C.g21.DBLz.6964"
+        ]
+      },
+      "PT0107-C": {
+        "count": 6,
+        "samples": [
+          "PT0107-C.g4.DBLz.6817",
+          "PT0107-C.g26.DBLz.3631",
+          "PT0107-C.g54.DBLz.2845",
+          "PT0107-C.g16.DBLz.4885",
+          "PT0107-C.g17.DBLz.4789",
+          "PT0107-C.g9.DBLz.5140"
+        ]
+      },
+      "PT0111-C": {
+        "count": 11,
+        "samples": [
+          "PT0111-C.g14.DBLz.4513",
+          "PT0111-C.g28.DBLz.4594",
+          "PT0111-C.g33.DBLz.5176",
+          "PT0111-C.g8.DBLz.7396",
+          "PT0111-C.g13.DBLz.4705",
+          "PT0111-C.g62.DBLz.2608",
+          "PT0111-C.g1.DBLz.9514",
+          "PT0111-C.g21.DBLz.5230",
+          "PT0111-C.g23.DBLz.4969",
+          "PT0111-C.g22.DBLz.4828",
+          "PT0111-C.g46.DBLz.3274"
+        ]
+      },
+      "PV0002-C": {
+        "count": 2,
+        "samples": [
+          "PV0002-C.g11.DBLz.5389",
+          "PV0002-C.g41.DBLz.2587"
+        ]
+      },
+      "PV0004-C": {
+        "count": 4,
+        "samples": [
+          "PV0004-C.g34.DBLz.3424",
+          "PV0004-C.g15.DBLz.3637",
+          "PV0004-C.g3.DBLz.5677",
+          "PV0004-C.g20.DBLz.3418"
+        ]
+      },
+      "PV0006-C": {
+        "count": 2,
+        "samples": [
+          "PV0006-C.g3.DBLz.4549",
+          "PV0006-C.g4.DBLz.4882"
+        ]
+      },
+      "PV0020-C": {
+        "count": 6,
+        "samples": [
+          "PV0020-C.g12.DBLz.4999",
+          "PV0020-C.g9.DBLz.6625",
+          "PV0020-C.g15.DBLz.4900",
+          "PV0020-C.g18.DBLz.3871",
+          "PV0020-C.g10.DBLz.4039",
+          "PV0020-C.g6.DBLz.6925"
+        ]
+      },
+      "PV0023-C": {
+        "count": 8,
+        "samples": [
+          "PV0023-C.g40.DBLz.4615",
+          "PV0023-C.g35.DBLz.4828",
+          "PV0023-C.g106.DBLz.2716",
+          "PV0023-C.g32.DBLz.4990",
+          "PV0023-C.g28.DBLz.5512",
+          "PV0023-C.g11.DBLz.5671",
+          "PV0023-C.g23.DBLz.5920",
+          "PV0023-C.g51.DBLz.4378"
+        ]
+      },
+      "PV0028-C": {
+        "count": 11,
+        "samples": [
+          "PV0028-C.g27.DBLz.4930",
+          "PV0028-C.g21.DBLz.6223",
+          "PV0028-C.g66.DBLz.4999",
+          "PV0028-C.g83.DBLz.5791",
+          "PV0028-C.g39.DBLz.6709",
+          "PV0028-C.g81.DBLz.4903",
+          "PV0028-C.g101.DBLz.3622",
+          "PV0028-C.g76.DBLz.4585",
+          "PV0028-C.g50.DBLz.6274",
+          "PV0028-C.g97.DBLz.2707",
+          "PV0028-C.g53.DBLz.4591"
+        ]
+      },
+      "PV0031-C": {
+        "count": 5,
+        "samples": [
+          "PV0031-C.g48.DBLz.4756",
+          "PV0031-C.g50.DBLz.4714",
+          "PV0031-C.g43.DBLz.4714",
+          "PV0031-C.g35.DBLz.5995",
+          "PV0031-C.g36.DBLz.4642"
+        ]
+      },
+      "PV0035-C": {
+        "count": 5,
+        "samples": [
+          "PV0035-C.g17.DBLz.4798",
+          "PV0035-C.g12.DBLz.5017",
+          "PV0035-C.g3.DBLz.6205",
+          "PV0035-C.g8.DBLz.4651",
+          "PV0035-C.g7.DBLz.3349"
+        ]
+      },
+      "PV0041-C": {
+        "count": 4,
+        "samples": [
+          "PV0041-C.g22.DBLz.3871",
+          "PV0041-C.g35.DBLz.6625",
+          "PV0041-C.g41.DBLz.5158",
+          "PV0041-C.g40.DBLz.4039"
+        ]
+      },
+      "PV0046-C": {
+        "count": 9,
+        "samples": [
+          "PV0046-C.g53.DBLz.3793",
+          "PV0046-C.g52.DBLz.5386",
+          "PV0046-C.g38.DBLz.4351",
+          "PV0046-C.g35.DBLz.7039",
+          "PV0046-C.g43.DBLz.3484",
+          "PV0046-C.g88.DBLz.2473",
+          "PV0046-C.g59.DBLz.5749",
+          "PV0046-C.g106.DBLz.2113",
+          "PV0046-C.g21.DBLz.6184"
+        ]
+      },
+      "PV0048-C": {
+        "count": 10,
+        "samples": [
+          "PV0048-C.g58.DBLz.3850",
+          "PV0048-C.g33.DBLz.4942",
+          "PV0048-C.g54.DBLz.4852",
+          "PV0048-C.g77.DBLz.3256",
+          "PV0048-C.g96.DBLz.1951",
+          "PV0048-C.g48.DBLz.3448",
+          "PV0048-C.g51.DBLz.6970",
+          "PV0048-C.g36.DBLz.2239",
+          "PV0048-C.g45.DBLz.6874",
+          "PV0048-C.g44.DBLz.4729"
+        ]
+      },
+      "PV0081-C": {
+        "count": 2,
+        "samples": [
+          "PV0081-C.g31.DBLz.4585",
+          "PV0081-C.g49.DBLz.4813"
+        ]
+      },
+      "PV0082-C": {
+        "count": 7,
+        "samples": [
+          "PV0082-C.g22.DBLz.7015",
+          "PV0082-C.g46.DBLz.4897",
+          "PV0082-C.g16.DBLz.4633",
+          "PV0082-C.g27.DBLz.6619",
+          "PV0082-C.g33.DBLz.5131",
+          "PV0082-C.g8.DBLz.8509",
+          "PV0082-C.g38.DBLz.5038"
+        ]
+      },
+      "PV0083-C": {
+        "count": 7,
+        "samples": [
+          "PV0083-C.g27.DBLz.7303",
+          "PV0083-C.g49.DBLz.4900",
+          "PV0083-C.g50.DBLz.4900",
+          "PV0083-C.g48.DBLz.4789",
+          "PV0083-C.g28.DBLz.4927",
+          "PV0083-C.g6.DBLz.4615",
+          "PV0083-C.g20.DBLz.4456"
+        ]
+      },
+      "PV0084-C": {
+        "count": 8,
+        "samples": [
+          "PV0084-C.g51.DBLz.5002",
+          "PV0084-C.g79.DBLz.4873",
+          "PV0084-C.g63.DBLz.4969",
+          "PV0084-C.g17.DBLz.4798",
+          "PV0084-C.g22.DBLz.6991",
+          "PV0084-C.g75.DBLz.4771",
+          "PV0084-C.g28.DBLz.6127",
+          "PV0084-C.g2.DBLz.4528"
+        ]
+      },
+      "PV0085-C": {
+        "count": 8,
+        "samples": [
+          "PV0085-C.g33.DBLz.5842",
+          "PV0085-C.g8.DBLz.7999",
+          "PV0085-C.g23.DBLz.8035",
+          "PV0085-C.g29.DBLz.4858",
+          "PV0085-C.g17.DBLz.7057",
+          "PV0085-C.g64.DBLz.4651",
+          "PV0085-C.g9.DBLz.4456",
+          "PV0085-C.g28.DBLz.7396"
+        ]
+      },
+      "PV0089-C": {
+        "count": 7,
+        "samples": [
+          "PV0089-C.g23.DBLz.6910",
+          "PV0089-C.g55.DBLz.4723",
+          "PV0089-C.g20.DBLz.4627",
+          "PV0089-C.g15.DBLz.4549",
+          "PV0089-C.g46.DBLz.4882",
+          "PV0089-C.g31.DBLz.6418",
+          "PV0089-C.g37.DBLz.5977"
+        ]
+      },
+      "PV0098-C": {
+        "count": 6,
+        "samples": [
+          "PV0098-C.g36.DBLz.4825",
+          "PV0098-C.g34.DBLz.5188",
+          "PV0098-C.g71.DBLz.4126",
+          "PV0098-C.g41.DBLz.4483",
+          "PV0098-C.g35.DBLz.4984",
+          "PV0098-C.g45.DBLz.3475"
+        ]
+      },
+      "PV0099-C": {
+        "count": 6,
+        "samples": [
+          "PV0099-C.g68.DBLz.4906",
+          "PV0099-C.g28.DBLz.6964",
+          "PV0099-C.g73.DBLz.4660",
+          "PV0099-C.g69.DBLz.4927",
+          "PV0099-C.g70.DBLz.4558",
+          "PV0099-C.g34.DBLz.4561"
+        ]
+      },
+      "PV0110-C": {
+        "count": 11,
+        "samples": [
+          "PV0110-C.g12.DBLz.6727",
+          "PV0110-C.g50.DBLz.4858",
+          "PV0110-C.g25.DBLz.7039",
+          "PV0110-C.g133.DBLz.3589",
+          "PV0110-C.g40.DBLz.4756",
+          "PV0110-C.g26.DBLz.4927",
+          "PV0110-C.g104.DBLz.3799",
+          "PV0110-C.g19.DBLz.4561",
+          "PV0110-C.g28.DBLz.7021",
+          "PV0110-C.g13.DBLz.5878",
+          "PV0110-C.g73.DBLz.2878"
+        ]
+      },
+      "PV0113-C": {
+        "count": 12,
+        "samples": [
+          "PV0113-C.g25.DBLz.4087",
+          "PV0113-C.g35.DBLz.5089",
+          "PV0113-C.g22.DBLz.6061",
+          "PV0113-C.g140.DBLz.2146",
+          "PV0113-C.g34.DBLz.4627",
+          "PV0113-C.g103.DBLz.2404",
+          "PV0113-C.g19.DBLz.7036",
+          "PV0113-C.g21.DBLz.4771",
+          "PV0113-C.g43.DBLz.5410",
+          "PV0113-C.g23.DBLz.6160",
+          "PV0113-C.g14.DBLz.6538",
+          "PV0113-C.g58.DBLz.3433"
+        ]
+      },
+      "PV0114-C": {
+        "count": 6,
+        "samples": [
+          "PV0114-C.g11.DBLz.7009",
+          "PV0114-C.g24.DBLz.6217",
+          "PV0114-C.g40.DBLz.3748",
+          "PV0114-C.g16.DBLz.6580",
+          "PV0114-C.g113.DBLz.2419",
+          "PV0114-C.g25.DBLz.6361"
+        ]
+      },
+      "PV0116-C": {
+        "count": 6,
+        "samples": [
+          "PV0116-C.g119.DBLz.2419",
+          "PV0116-C.g16.DBLz.6991",
+          "PV0116-C.g18.DBLz.7009",
+          "PV0116-C.g23.DBLz.6361",
+          "PV0116-C.g17.DBLz.6217",
+          "PV0116-C.g21.DBLz.4939"
+        ]
+      },
+      "PV0117-C": {
+        "count": 5,
+        "samples": [
+          "PV0117-C.g39.DBLz.5026",
+          "PV0117-C.g13.DBLz.7861",
+          "PV0117-C.g50.DBLz.4768",
+          "PV0117-C.g17.DBLz.4855",
+          "PV0117-C.g33.DBLz.5017"
+        ]
+      },
+      "PV0118-C": {
+        "count": 6,
+        "samples": [
+          "PV0118-C.g116.DBLz.2419",
+          "PV0118-C.g58.DBLz.3859",
+          "PV0118-C.g27.DBLz.6361",
+          "PV0118-C.g13.DBLz.6991",
+          "PV0118-C.g25.DBLz.4939",
+          "PV0118-C.g20.DBLz.6217"
+        ]
+      },
+      "PV0127-C": {
+        "count": 9,
+        "samples": [
+          "PV0127-C.g23.DBLz.4597",
+          "PV0127-C.g87.DBLz.2224",
+          "PV0127-C.g85.DBLz.4822",
+          "PV0127-C.g69.DBLz.4789",
+          "PV0127-C.g18.DBLz.5098",
+          "PV0127-C.g36.DBLz.4594",
+          "PV0127-C.g22.DBLz.7153",
+          "PV0127-C.g41.DBLz.5014",
+          "PV0127-C.g50.DBLz.4801"
+        ]
+      },
+      "PV0128-C": {
+        "count": 6,
+        "samples": [
+          "PV0128-C.g68.DBLz.2464",
+          "PV0128-C.g30.DBLz.7303",
+          "PV0128-C.g38.DBLz.4819",
+          "PV0128-C.g44.DBLz.4900",
+          "PV0128-C.g41.DBLz.4789",
+          "PV0128-C.g31.DBLz.8035"
+        ]
+      },
+      "PV0129-C": {
+        "count": 6,
+        "samples": [
+          "PV0129-C.g23.DBLz.6130",
+          "PV0129-C.g26.DBLz.6175",
+          "PV0129-C.g24.DBLz.3535",
+          "PV0129-C.g86.DBLz.3820",
+          "PV0129-C.g27.DBLz.4777",
+          "PV0129-C.g21.DBLz.6025"
+        ]
+      },
+      "PV0130-C": {
+        "count": 7,
+        "samples": [
+          "PV0130-C.g48.DBLz.3838",
+          "PV0130-C.g47.DBLz.4756",
+          "PV0130-C.g62.DBLz.4675",
+          "PV0130-C.g110.DBLz.2488",
+          "PV0130-C.g20.DBLz.7846",
+          "PV0130-C.g33.DBLz.7039",
+          "PV0130-C.g38.DBLz.6718"
+        ]
+      },
+      "PV0133-C": {
+        "count": 11,
+        "samples": [
+          "PV0133-C.g29.DBLz.3385",
+          "PV0133-C.g67.DBLz.4813",
+          "PV0133-C.g48.DBLz.4615",
+          "PV0133-C.g41.DBLz.5086",
+          "PV0133-C.g37.DBLz.4969",
+          "PV0133-C.g28.DBLz.6862",
+          "PV0133-C.g27.DBLz.4906",
+          "PV0133-C.g36.DBLz.3652",
+          "PV0133-C.g121.DBLz.3496",
+          "PV0133-C.g20.DBLz.6874",
+          "PV0133-C.g13.DBLz.4984"
+        ]
+      },
+      "PV0134-C": {
+        "count": 8,
+        "samples": [
+          "PV0134-C.g23.DBLz.6004",
+          "PV0134-C.g35.DBLz.6133",
+          "PV0134-C.g40.DBLz.4789",
+          "PV0134-C.g33.DBLz.5098",
+          "PV0134-C.g50.DBLz.4801",
+          "PV0134-C.g51.DBLz.5914",
+          "PV0134-C.g58.DBLz.4597",
+          "PV0134-C.g25.DBLz.4771"
+        ]
+      },
+      "PV0135-C": {
+        "count": 8,
+        "samples": [
+          "PV0135-C.g12.DBLz.7168",
+          "PV0135-C.g21.DBLz.4864",
+          "PV0135-C.g54.DBLz.3916",
+          "PV0135-C.g25.DBLz.4927",
+          "PV0135-C.g37.DBLz.4825",
+          "PV0135-C.g27.DBLz.5002",
+          "PV0135-C.g9.DBLz.6766",
+          "PV0135-C.g30.DBLz.4744"
+        ]
+      },
+      "PV0139-C": {
+        "count": 6,
+        "samples": [
+          "PV0139-C.g78.DBLz.4957",
+          "PV0139-C.g35.DBLz.4627",
+          "PV0139-C.g46.DBLz.4882",
+          "PV0139-C.g31.DBLz.6205",
+          "PV0139-C.g50.DBLz.5107",
+          "PV0139-C.g44.DBLz.6193"
+        ]
+      },
+      "PV0140-C": {
+        "count": 7,
+        "samples": [
+          "PV0140-C.g14.DBLz.7846",
+          "PV0140-C.g18.DBLz.6718",
+          "PV0140-C.g39.DBLz.4768",
+          "PV0140-C.g41.DBLz.4675",
+          "PV0140-C.g46.DBLz.3838",
+          "PV0140-C.g31.DBLz.4756",
+          "PV0140-C.g21.DBLz.7039"
+        ]
+      },
+      "PV0147-C": {
+        "count": 6,
+        "samples": [
+          "PV0147-C.g58.DBLz.4933",
+          "PV0147-C.g31.DBLz.6205",
+          "PV0147-C.g67.DBLz.4684",
+          "PV0147-C.g26.DBLz.7246",
+          "PV0147-C.g17.DBLz.6769",
+          "PV0147-C.g61.DBLz.4900"
+        ]
+      },
+      "PV0151-C": {
+        "count": 7,
+        "samples": [
+          "PV0151-C.g8.DBLz.4456",
+          "PV0151-C.g9.DBLz.7939",
+          "PV0151-C.g17.DBLz.4756",
+          "PV0151-C.g7.DBLz.6718",
+          "PV0151-C.g61.DBLz.2311",
+          "PV0151-C.g11.DBLz.7039",
+          "PV0151-C.g24.DBLz.3838"
+        ]
+      },
+      "PV0183-C": {
+        "count": 11,
+        "samples": [
+          "PV0183-C.g3.DBLz.7216",
+          "PV0183-C.g104.DBLz.3451",
+          "PV0183-C.g105.DBLz.3211",
+          "PV0183-C.g23.DBLz.4528",
+          "PV0183-C.g27.DBLz.5119",
+          "PV0183-C.g25.DBLz.4909",
+          "PV0183-C.g24.DBLz.4912",
+          "PV0183-C.g15.DBLz.6670",
+          "PV0183-C.g21.DBLz.6874",
+          "PV0183-C.g19.DBLz.7288",
+          "PV0183-C.g16.DBLz.7285"
+        ]
+      },
+      "PV0186-C": {
+        "count": 6,
+        "samples": [
+          "PV0186-C.g35.DBLz.4999",
+          "PV0186-C.g18.DBLz.5707",
+          "PV0186-C.g101.DBLz.2176",
+          "PV0186-C.g23.DBLz.6964",
+          "PV0186-C.g38.DBLz.4825",
+          "PV0186-C.g63.DBLz.4747"
+        ]
+      },
+      "PV0195-C": {
+        "count": 13,
+        "samples": [
+          "PV0195-C.g68.DBLz.3727",
+          "PV0195-C.g19.DBLz.7030",
+          "PV0195-C.g30.DBLz.4822",
+          "PV0195-C.g92.DBLz.1654",
+          "PV0195-C.g13.DBLz.4456",
+          "PV0195-C.g29.DBLz.4651",
+          "PV0195-C.g20.DBLz.6964",
+          "PV0195-C.g55.DBLz.3742",
+          "PV0195-C.g40.DBLz.4714",
+          "PV0195-C.g12.DBLz.7159",
+          "PV0195-C.g1.DBLz.6223",
+          "PV0195-C.g33.DBLz.4933",
+          "PV0195-C.g16.DBLz.6139"
+        ]
+      },
+      "PV0202-C": {
+        "count": 4,
+        "samples": [
+          "PV0202-C.g36.DBLz.5026",
+          "PV0202-C.g64.DBLz.3871",
+          "PV0202-C.g20.DBLz.4570",
+          "PV0202-C.g31.DBLz.6697"
+        ]
+      },
+      "PV0211-C": {
+        "count": 9,
+        "samples": [
+          "PV0211-C.g65.DBLz.4942",
+          "PV0211-C.g64.DBLz.6205",
+          "PV0211-C.g34.DBLz.6910",
+          "PV0211-C.g53.DBLz.4864",
+          "PV0211-C.g60.DBLz.4738",
+          "PV0211-C.g47.DBLz.7105",
+          "PV0211-C.g61.DBLz.3838",
+          "PV0211-C.g42.DBLz.4819",
+          "PV0211-C.g131.DBLz.2290"
+        ]
+      },
+      "PV0212-C": {
+        "count": 15,
+        "samples": [
+          "PV0212-C.g1.DBLz.7999",
+          "PV0212-C.g3.DBLz.7099",
+          "PV0212-C.g137.DBLz.2686",
+          "PV0212-C.g11.DBLz.4555",
+          "PV0212-C.g6.DBLz.7897",
+          "PV0212-C.g21.DBLz.5701",
+          "PV0212-C.g53.DBLz.3928",
+          "PV0212-C.g23.DBLz.6100",
+          "PV0212-C.g22.DBLz.4780",
+          "PV0212-C.g54.DBLz.3475",
+          "PV0212-C.g9.DBLz.5605",
+          "PV0212-C.g18.DBLz.6625",
+          "PV0212-C.g40.DBLz.3316",
+          "PV0212-C.g10.DBLz.6070",
+          "PV0212-C.g28.DBLz.4756"
+        ]
+      },
+      "PV0223-C": {
+        "count": 7,
+        "samples": [
+          "PV0223-C.g12.DBLz.7846",
+          "PV0223-C.g86.DBLz.2206",
+          "PV0223-C.g40.DBLz.4756",
+          "PV0223-C.g46.DBLz.3838",
+          "PV0223-C.g15.DBLz.4456",
+          "PV0223-C.g14.DBLz.6700",
+          "PV0223-C.g22.DBLz.7039"
+        ]
+      },
+      "PV0224-C": {
+        "count": 14,
+        "samples": [
+          "PV0224-C.g22.DBLz.4810",
+          "PV0224-C.g12.DBLz.6100",
+          "PV0224-C.g41.DBLz.3475",
+          "PV0224-C.g30.DBLz.4732",
+          "PV0224-C.g1.DBLz.7999",
+          "PV0224-C.g94.DBLz.2761",
+          "PV0224-C.g3.DBLz.7099",
+          "PV0224-C.g21.DBLz.4780",
+          "PV0224-C.g11.DBLz.6070",
+          "PV0224-C.g76.DBLz.3466",
+          "PV0224-C.g8.DBLz.6985",
+          "PV0224-C.g56.DBLz.3109",
+          "PV0224-C.g10.DBLz.4555",
+          "PV0224-C.g27.DBLz.5494"
+        ]
+      },
+      "PV0225-C": {
+        "count": 15,
+        "samples": [
+          "PV0225-C.g58.DBLz.2512",
+          "PV0225-C.g24.DBLz.4999",
+          "PV0225-C.g23.DBLz.4939",
+          "PV0225-C.g16.DBLz.5983",
+          "PV0225-C.g10.DBLz.6205",
+          "PV0225-C.g2.DBLz.7306",
+          "PV0225-C.g25.DBLz.4906",
+          "PV0225-C.g33.DBLz.3838",
+          "PV0225-C.g20.DBLz.4756",
+          "PV0225-C.g107.DBLz.2182",
+          "PV0225-C.g123.DBLz.2626",
+          "PV0225-C.g13.DBLz.6574",
+          "PV0225-C.g55.DBLz.4624",
+          "PV0225-C.g5.DBLz.4456",
+          "PV0225-C.g21.DBLz.5878"
+        ]
+      },
+      "PV0226-C": {
+        "count": 13,
+        "samples": [
+          "PV0226-C.g103.DBLz.2044",
+          "PV0226-C.g79.DBLz.2860",
+          "PV0226-C.g6.DBLz.6727",
+          "PV0226-C.g14.DBLz.5218",
+          "PV0226-C.g43.DBLz.4051",
+          "PV0226-C.g29.DBLz.4849",
+          "PV0226-C.g24.DBLz.4834",
+          "PV0226-C.g17.DBLz.5905",
+          "PV0226-C.g26.DBLz.5008",
+          "PV0226-C.g16.DBLz.4561",
+          "PV0226-C.g13.DBLz.4993",
+          "PV0226-C.g27.DBLz.4882",
+          "PV0226-C.g1.DBLz.7552"
+        ]
+      },
+      "PV0229-C": {
+        "count": 7,
+        "samples": [
+          "PV0229-C.g22.DBLz.4819",
+          "PV0229-C.g11.DBLz.8035",
+          "PV0229-C.g13.DBLz.7303",
+          "PV0229-C.g81.DBLz.2491",
+          "PV0229-C.g36.DBLz.4789",
+          "PV0229-C.g23.DBLz.4900",
+          "PV0229-C.g14.DBLz.6964"
+        ]
+      },
+      "PV0231-C": {
+        "count": 12,
+        "samples": [
+          "PV0231-C.g70.DBLz.3493",
+          "PV0231-C.g22.DBLz.6718",
+          "PV0231-C.g55.DBLz.3838",
+          "PV0231-C.g27.DBLz.5617",
+          "PV0231-C.g25.DBLz.4456",
+          "PV0231-C.g37.DBLz.4768",
+          "PV0231-C.g21.DBLz.6874",
+          "PV0231-C.g31.DBLz.5650",
+          "PV0231-C.g91.DBLz.3853",
+          "PV0231-C.g44.DBLz.3871",
+          "PV0231-C.g24.DBLz.7039",
+          "PV0231-C.g33.DBLz.4756"
+        ]
+      },
+      "PV0233-C": {
+        "count": 7,
+        "samples": [
+          "PV0233-C.g22.DBLz.6733",
+          "PV0233-C.g32.DBLz.4717",
+          "PV0233-C.g21.DBLz.6964",
+          "PV0233-C.g19.DBLz.6856",
+          "PV0233-C.g88.DBLz.4324",
+          "PV0233-C.g28.DBLz.4972",
+          "PV0233-C.g30.DBLz.4519"
+        ]
+      },
+      "PV0234-C": {
+        "count": 6,
+        "samples": [
+          "PV0234-C.g29.DBLz.7663",
+          "PV0234-C.g77.DBLz.3799",
+          "PV0234-C.g19.DBLz.4891",
+          "PV0234-C.g40.DBLz.7048",
+          "PV0234-C.g25.DBLz.4813",
+          "PV0234-C.g30.DBLz.6631"
+        ]
+      },
+      "PV0237-C": {
+        "count": 10,
+        "samples": [
+          "PV0237-C.g49.DBLz.4906",
+          "PV0237-C.g22.DBLz.7330",
+          "PV0237-C.g34.DBLz.4960",
+          "PV0237-C.g23.DBLz.6205",
+          "PV0237-C.g14.DBLz.6580",
+          "PV0237-C.g28.DBLz.7306",
+          "PV0237-C.g35.DBLz.4999",
+          "PV0237-C.g44.DBLz.4939",
+          "PV0237-C.g39.DBLz.5983",
+          "PV0237-C.g32.DBLz.5878"
+        ]
+      },
+      "PV0239-C": {
+        "count": 8,
+        "samples": [
+          "PV0239-C.g23.DBLz.4834",
+          "PV0239-C.g87.DBLz.3871",
+          "PV0239-C.g66.DBLz.4861",
+          "PV0239-C.g19.DBLz.4978",
+          "PV0239-C.g30.DBLz.4999",
+          "PV0239-C.g10.DBLz.5083",
+          "PV0239-C.g25.DBLz.4852",
+          "PV0239-C.g11.DBLz.7552"
+        ]
+      },
+      "PV0240-C": {
+        "count": 10,
+        "samples": [
+          "PV0240-C.g44.DBLz.6223",
+          "PV0240-C.g49.DBLz.3535",
+          "PV0240-C.g5.DBLz.4915",
+          "PV0240-C.g34.DBLz.6979",
+          "PV0240-C.g18.DBLz.5056",
+          "PV0240-C.g35.DBLz.6043",
+          "PV0240-C.g57.DBLz.5107",
+          "PV0240-C.g43.DBLz.5074",
+          "PV0240-C.g45.DBLz.6967",
+          "PV0240-C.g11.DBLz.3484"
+        ]
+      },
+      "PV0241-C": {
+        "count": 6,
+        "samples": [
+          "PV0241-C.g51.DBLz.4993",
+          "PV0241-C.g39.DBLz.3799",
+          "PV0241-C.g17.DBLz.4813",
+          "PV0241-C.g14.DBLz.7663",
+          "PV0241-C.g13.DBLz.6862",
+          "PV0241-C.g33.DBLz.4891"
+        ]
+      },
+      "PV0256-C": {
+        "count": 8,
+        "samples": [
+          "PV0256-C.g25.DBLz.4792",
+          "PV0256-C.g21.DBLz.5842",
+          "PV0256-C.g37.DBLz.3496",
+          "PV0256-C.g12.DBLz.4564",
+          "PV0256-C.g24.DBLz.4927",
+          "PV0256-C.g26.DBLz.5869",
+          "PV0256-C.g38.DBLz.2917",
+          "PV0256-C.g79.DBLz.2464"
+        ]
+      },
+      "PV0276-C": {
+        "count": 6,
+        "samples": [
+          "PV0276-C.g30.DBLz.4642",
+          "PV0276-C.g25.DBLz.4558",
+          "PV0276-C.g20.DBLz.6022",
+          "PV0276-C.g21.DBLz.4519",
+          "PV0276-C.g31.DBLz.2773",
+          "PV0276-C.g15.DBLz.4558"
+        ]
+      },
+      "PV0277-C": {
+        "count": 5,
+        "samples": [
+          "PV0277-C.g29.DBLz.2116",
+          "PV0277-C.g12.DBLz.8038",
+          "PV0277-C.g22.DBLz.6883",
+          "PV0277-C.g17.DBLz.7441",
+          "PV0277-C.g15.DBLz.4528"
+        ]
+      },
+      "PV0293-C": {
+        "count": 15,
+        "samples": [
+          "PV0293-C.g56.DBLz.3610",
+          "PV0293-C.g36.DBLz.4753",
+          "PV0293-C.g48.DBLz.3304",
+          "PV0293-C.g114.DBLz.1834",
+          "PV0293-C.g28.DBLz.4774",
+          "PV0293-C.g14.DBLz.6907",
+          "PV0293-C.g35.DBLz.5839",
+          "PV0293-C.g6.DBLz.7420",
+          "PV0293-C.g49.DBLz.4741",
+          "PV0293-C.g8.DBLz.6964",
+          "PV0293-C.g18.DBLz.4597",
+          "PV0293-C.g17.DBLz.6034",
+          "PV0293-C.g55.DBLz.4018",
+          "PV0293-C.g13.DBLz.7549",
+          "PV0293-C.g40.DBLz.4858"
+        ]
+      },
+      "PV0298-C": {
+        "count": 8,
+        "samples": [
+          "PV0298-C.g29.DBLz.4606",
+          "PV0298-C.g78.DBLz.2557",
+          "PV0298-C.g57.DBLz.3616",
+          "PV0298-C.g9.DBLz.5671",
+          "PV0298-C.g89.DBLz.1417",
+          "PV0298-C.g24.DBLz.4831",
+          "PV0298-C.g20.DBLz.3871",
+          "PV0298-C.g88.DBLz.1024"
+        ]
+      },
+      "PV0301-C": {
+        "count": 5,
+        "samples": [
+          "PV0301-C.g41.DBLz.4843",
+          "PV0301-C.g35.DBLz.4528",
+          "PV0301-C.g59.DBLz.4858",
+          "PV0301-C.g62.DBLz.4777",
+          "PV0301-C.g52.DBLz.3535"
+        ]
+      }
+    }
+  },
+  "skipped_samples": 81
+}

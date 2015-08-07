@@ -1,0 +1,6103 @@
+{
+  "parsed_samples": 4310,
+  "samples": {
+    "DBLe": {
+      "MAL6P1": {
+        "count": 4,
+        "samples": [
+          "MAL6P1.4.DBLe.7258",
+          "MAL6P1.4.DBLe.8323",
+          "MAL6P1.4.DBLe.9310",
+          "MAL6P1.316.DBLe.6250"
+        ]
+      },
+      "PA0012-C": {
+        "count": 8,
+        "samples": [
+          "PA0012-C.g10.DBLe.6421",
+          "PA0012-C.g57.DBLe.3988",
+          "PA0012-C.g52.DBLe.2575",
+          "PA0012-C.g18.DBLe.6064",
+          "PA0012-C.g52.DBLe.3679",
+          "PA0012-C.g18.DBLe.3667",
+          "PA0012-C.g20.DBLe.6079",
+          "PA0012-C.g10.DBLe.7531"
+        ]
+      },
+      "PA0017-C": {
+        "count": 13,
+        "samples": [
+          "PA0017-C.g17.DBLe.6967",
+          "PA0017-C.g27.DBLe.3358",
+          "PA0017-C.g27.DBLe.6007",
+          "PA0017-C.g9.DBLe.6034",
+          "PA0017-C.g10.DBLe.7741",
+          "PA0017-C.g17.DBLe.4963",
+          "PA0017-C.g22.DBLe.6235",
+          "PA0017-C.g6.DBLe.7201",
+          "PA0017-C.g7.DBLe.6130",
+          "PA0017-C.g7.DBLe.8500",
+          "PA0017-C.g6.DBLe.8311",
+          "PA0017-C.g17.DBLe.6007",
+          "PA0017-C.g39.DBLe.4867"
+        ]
+      },
+      "PA0032-C": {
+        "count": 13,
+        "samples": [
+          "PA0032-C.g15.DBLe.3391",
+          "PA0032-C.g15.DBLe.6028",
+          "PA0032-C.g41.DBLe.3379",
+          "PA0032-C.g27.DBLe.2434",
+          "PA0032-C.g2.DBLe.7036",
+          "PA0032-C.g11.DBLe.7117",
+          "PA0032-C.g2.DBLe.9415",
+          "PA0032-C.g21.DBLe.4948",
+          "PA0032-C.g27.DBLe.3481",
+          "PA0032-C.g41.DBLe.2323",
+          "PA0032-C.g24.DBLe.4909",
+          "PA0032-C.g41.DBLe.4330",
+          "PA0032-C.g27.DBLe.4471"
+        ]
+      },
+      "PA0035-C": {
+        "count": 11,
+        "samples": [
+          "PA0035-C.g36.DBLe.6244",
+          "PA0035-C.g34.DBLe.8290",
+          "PA0035-C.g82.DBLe.3367",
+          "PA0035-C.g34.DBLe.9241",
+          "PA0035-C.g32.DBLe.5614",
+          "PA0035-C.g62.DBLe.4840",
+          "PA0035-C.g30.DBLe.6019",
+          "PA0035-C.g32.DBLe.8029",
+          "PA0035-C.g67.DBLe.5032",
+          "PA0035-C.g34.DBLe.7225",
+          "PA0035-C.g30.DBLe.4957"
+        ]
+      },
+      "PA0041-C": {
+        "count": 14,
+        "samples": [
+          "PA0041-C.g9.DBLe.7804",
+          "PA0041-C.g6.DBLe.5272",
+          "PA0041-C.g4.DBLe.8947",
+          "PA0041-C.g11.DBLe.7504",
+          "PA0041-C.g8.DBLe.8143",
+          "PA0041-C.g17.DBLe.6853",
+          "PA0041-C.g4.DBLe.6913",
+          "PA0041-C.g18.DBLe.6106",
+          "PA0041-C.g18.DBLe.7156",
+          "PA0041-C.g4.DBLe.7975",
+          "PA0041-C.g71.DBLe.4036",
+          "PA0041-C.g37.DBLe.4864",
+          "PA0041-C.g27.DBLe.3367",
+          "PA0041-C.g27.DBLe.5971"
+        ]
+      },
+      "PA0042-C": {
+        "count": 6,
+        "samples": [
+          "PA0042-C.g5.DBLe.7669",
+          "PA0042-C.g5.DBLe.5428",
+          "PA0042-C.g6.DBLe.7714",
+          "PA0042-C.g12.DBLe.6229",
+          "PA0042-C.g5.DBLe.6547",
+          "PA0042-C.g28.DBLe.4762"
+        ]
+      },
+      "PA0066-C": {
+        "count": 12,
+        "samples": [
+          "PA0066-C.g23.DBLe.8104",
+          "PA0066-C.g105.DBLe.2545",
+          "PA0066-C.g65.DBLe.6232",
+          "PA0066-C.g40.DBLe.4672",
+          "PA0066-C.g60.DBLe.6097",
+          "PA0066-C.g63.DBLe.6295",
+          "PA0066-C.g96.DBLe.4792",
+          "PA0066-C.g96.DBLe.2437",
+          "PA0066-C.g105.DBLe.3649",
+          "PA0066-C.g68.DBLe.3346",
+          "PA0066-C.g83.DBLe.5119",
+          "PA0066-C.g23.DBLe.5575"
+        ]
+      },
+      "PA0081-C": {
+        "count": 16,
+        "samples": [
+          "PA0081-C.g44.DBLe.6358",
+          "PA0081-C.g13.DBLe.7072",
+          "PA0081-C.g23.DBLe.3355",
+          "PA0081-C.g11.DBLe.3355",
+          "PA0081-C.g53.DBLe.4909",
+          "PA0081-C.g43.DBLe.6397",
+          "PA0081-C.g94.DBLe.3850",
+          "PA0081-C.g46.DBLe.6247",
+          "PA0081-C.g24.DBLe.5551",
+          "PA0081-C.g45.DBLe.6238",
+          "PA0081-C.g23.DBLe.5986",
+          "PA0081-C.g13.DBLe.9448",
+          "PA0081-C.g11.DBLe.6010",
+          "PA0081-C.g24.DBLe.8032",
+          "PA0081-C.g41.DBLe.5206",
+          "PA0081-C.g42.DBLe.6301"
+        ]
+      },
+      "PA0084-C": {
+        "count": 11,
+        "samples": [
+          "PA0084-C.g1.DBLe.8935",
+          "PA0084-C.g8.DBLe.6547",
+          "PA0084-C.g1.DBLe.6895",
+          "PA0084-C.g33.DBLe.4762",
+          "PA0084-C.g17.DBLe.5500",
+          "PA0084-C.g10.DBLe.7165",
+          "PA0084-C.g8.DBLe.7669",
+          "PA0084-C.g20.DBLe.6229",
+          "PA0084-C.g1.DBLe.7948",
+          "PA0084-C.g8.DBLe.5428",
+          "PA0084-C.g17.DBLe.6631"
+        ]
+      },
+      "PA0104-C": {
+        "count": 5,
+        "samples": [
+          "PA0104-C.g77.DBLe.3640",
+          "PA0104-C.g35.DBLe.3361",
+          "PA0104-C.g35.DBLe.6001",
+          "PA0104-C.g43.DBLe.4996",
+          "PA0104-C.g77.DBLe.6088"
+        ]
+      },
+      "PA0106-C": {
+        "count": 9,
+        "samples": [
+          "PA0106-C.g132.DBLe.2596",
+          "PA0106-C.g87.DBLe.4948",
+          "PA0106-C.g56.DBLe.2884",
+          "PA0106-C.g24.DBLe.7240",
+          "PA0106-C.g31.DBLe.7714",
+          "PA0106-C.g24.DBLe.8359",
+          "PA0106-C.g56.DBLe.5410",
+          "PA0106-C.g24.DBLe.9481",
+          "PA0106-C.g21.DBLe.4711"
+        ]
+      },
+      "PA0109-C": {
+        "count": 5,
+        "samples": [
+          "PA0109-C.g31.DBLe.6136",
+          "PA0109-C.g18.DBLe.5899",
+          "PA0109-C.g32.DBLe.6262",
+          "PA0109-C.g18.DBLe.3325",
+          "PA0109-C.g19.DBLe.7687"
+        ]
+      },
+      "PA0111-C": {
+        "count": 6,
+        "samples": [
+          "PA0111-C.g28.DBLe.6085",
+          "PA0111-C.g8.DBLe.7687",
+          "PA0111-C.g24.DBLe.3325",
+          "PA0111-C.g24.DBLe.5899",
+          "PA0111-C.g37.DBLe.6136",
+          "PA0111-C.g58.DBLe.4192"
+        ]
+      },
+      "PA0113-C": {
+        "count": 7,
+        "samples": [
+          "PA0113-C.g13.DBLe.6262",
+          "PA0113-C.g5.DBLe.9814",
+          "PA0113-C.g19.DBLe.6085",
+          "PA0113-C.g75.DBLe.2962",
+          "PA0113-C.g14.DBLe.6136",
+          "PA0113-C.g11.DBLe.3325",
+          "PA0113-C.g11.DBLe.5899"
+        ]
+      },
+      "PA0119-C": {
+        "count": 9,
+        "samples": [
+          "PA0119-C.g14.DBLe.5428",
+          "PA0119-C.g14.DBLe.7669",
+          "PA0119-C.g30.DBLe.4408",
+          "PA0119-C.g14.DBLe.6547",
+          "PA0119-C.g38.DBLe.6154",
+          "PA0119-C.g30.DBLe.3457",
+          "PA0119-C.g36.DBLe.6976",
+          "PA0119-C.g21.DBLe.9898",
+          "PA0119-C.g30.DBLe.2410"
+        ]
+      },
+      "PA0120-C": {
+        "count": 4,
+        "samples": [
+          "PA0120-C.g7.DBLe.4408",
+          "PA0120-C.g7.DBLe.2410",
+          "PA0120-C.g7.DBLe.3457",
+          "PA0120-C.g22.DBLe.3553"
+        ]
+      },
+      "PA0121-C": {
+        "count": 10,
+        "samples": [
+          "PA0121-C.g5.DBLe.7669",
+          "PA0121-C.g32.DBLe.3772",
+          "PA0121-C.g8.DBLe.6976",
+          "PA0121-C.g18.DBLe.3457",
+          "PA0121-C.g6.DBLe.7588",
+          "PA0121-C.g5.DBLe.5428",
+          "PA0121-C.g32.DBLe.2668",
+          "PA0121-C.g18.DBLe.4408",
+          "PA0121-C.g18.DBLe.2410",
+          "PA0121-C.g5.DBLe.6547"
+        ]
+      },
+      "PA0127-C": {
+        "count": 4,
+        "samples": [
+          "PA0127-C.g5.DBLe.1528",
+          "PA0127-C.g5.DBLe.3769",
+          "PA0127-C.g10.DBLe.2212",
+          "PA0127-C.g5.DBLe.2647"
+        ]
+      },
+      "PA0132-C": {
+        "count": 8,
+        "samples": [
+          "PA0132-C.g73.DBLe.2410",
+          "PA0132-C.g38.DBLe.6976",
+          "PA0132-C.g40.DBLe.6154",
+          "PA0132-C.g73.DBLe.3457",
+          "PA0132-C.g73.DBLe.4408",
+          "PA0132-C.g20.DBLe.7669",
+          "PA0132-C.g20.DBLe.6547",
+          "PA0132-C.g20.DBLe.5428"
+        ]
+      },
+      "PA0134-C": {
+        "count": 3,
+        "samples": [
+          "PA0134-C.g103.DBLe.2986",
+          "PA0134-C.g31.DBLe.3352",
+          "PA0134-C.g31.DBLe.5938"
+        ]
+      },
+      "PA0138-C": {
+        "count": 10,
+        "samples": [
+          "PA0138-C.g6.DBLe.5755",
+          "PA0138-C.g34.DBLe.3001",
+          "PA0138-C.g6.DBLe.3379",
+          "PA0138-C.g32.DBLe.1240",
+          "PA0138-C.g39.DBLe.3427",
+          "PA0138-C.g32.DBLe.3727",
+          "PA0138-C.g30.DBLe.3850",
+          "PA0138-C.g7.DBLe.5533",
+          "PA0138-C.g31.DBLe.3364",
+          "PA0138-C.g39.DBLe.2311"
+        ]
+      },
+      "PA0142-C": {
+        "count": 16,
+        "samples": [
+          "PA0142-C.g36.DBLe.6067",
+          "PA0142-C.g97.DBLe.1060",
+          "PA0142-C.g41.DBLe.5923",
+          "PA0142-C.g97.DBLe.3547",
+          "PA0142-C.g57.DBLe.4801",
+          "PA0142-C.g25.DBLe.7096",
+          "PA0142-C.g28.DBLe.7582",
+          "PA0142-C.g11.DBLe.8791",
+          "PA0142-C.g106.DBLe.3727",
+          "PA0142-C.g34.DBLe.6205",
+          "PA0142-C.g20.DBLe.7639",
+          "PA0142-C.g49.DBLe.4963",
+          "PA0142-C.g33.DBLe.6121",
+          "PA0142-C.g23.DBLe.7927",
+          "PA0142-C.g24.DBLe.5794",
+          "PA0142-C.g41.DBLe.4801"
+        ]
+      },
+      "PA0145-C": {
+        "count": 24,
+        "samples": [
+          "PA0145-C.g20.DBLe.7015",
+          "PA0145-C.g40.DBLe.6502",
+          "PA0145-C.g45.DBLe.3379",
+          "PA0145-C.g2.DBLe.7954",
+          "PA0145-C.g111.DBLe.3790",
+          "PA0145-C.g43.DBLe.2533",
+          "PA0145-C.g89.DBLe.4354",
+          "PA0145-C.g2.DBLe.5575",
+          "PA0145-C.g26.DBLe.7501",
+          "PA0145-C.g12.DBLe.8437",
+          "PA0145-C.g11.DBLe.8947",
+          "PA0145-C.g45.DBLe.5998",
+          "PA0145-C.g92.DBLe.3523",
+          "PA0145-C.g11.DBLe.6904",
+          "PA0145-C.g89.DBLe.3391",
+          "PA0145-C.g10.DBLe.6814",
+          "PA0145-C.g20.DBLe.3355",
+          "PA0145-C.g46.DBLe.6124",
+          "PA0145-C.g20.DBLe.5905",
+          "PA0145-C.g89.DBLe.2317",
+          "PA0145-C.g11.DBLe.7957",
+          "PA0145-C.g24.DBLe.7900",
+          "PA0145-C.g43.DBLe.4828",
+          "PA0145-C.g44.DBLe.6352"
+        ]
+      },
+      "PA0148-C": {
+        "count": 13,
+        "samples": [
+          "PA0148-C.g38.DBLe.6139",
+          "PA0148-C.g15.DBLe.8056",
+          "PA0148-C.g23.DBLe.8026",
+          "PA0148-C.g36.DBLe.6493",
+          "PA0148-C.g37.DBLe.6445",
+          "PA0148-C.g123.DBLe.2911",
+          "PA0148-C.g17.DBLe.8389",
+          "PA0148-C.g64.DBLe.4864",
+          "PA0148-C.g15.DBLe.5566",
+          "PA0148-C.g112.DBLe.3370",
+          "PA0148-C.g71.DBLe.4834",
+          "PA0148-C.g23.DBLe.6958",
+          "PA0148-C.g124.DBLe.2449"
+        ]
+      },
+      "PA0153-C": {
+        "count": 13,
+        "samples": [
+          "PA0153-C.g8.DBLe.8458",
+          "PA0153-C.g26.DBLe.6121",
+          "PA0153-C.g9.DBLe.8299",
+          "PA0153-C.g144.DBLe.2254",
+          "PA0153-C.g25.DBLe.6232",
+          "PA0153-C.g5.DBLe.6892",
+          "PA0153-C.g5.DBLe.9271",
+          "PA0153-C.g149.DBLe.3127",
+          "PA0153-C.g15.DBLe.4294",
+          "PA0153-C.g27.DBLe.6079",
+          "PA0153-C.g125.DBLe.2173",
+          "PA0153-C.g17.DBLe.4006",
+          "PA0153-C.g23.DBLe.6346"
+        ]
+      },
+      "PA0154-C": {
+        "count": 5,
+        "samples": [
+          "PA0154-C.g14.DBLe.4963",
+          "PA0154-C.g57.DBLe.3859",
+          "PA0154-C.g63.DBLe.3508",
+          "PA0154-C.g57.DBLe.2755",
+          "PA0154-C.g16.DBLe.4813"
+        ]
+      },
+      "PA0159-C": {
+        "count": 8,
+        "samples": [
+          "PA0159-C.g25.DBLe.7087",
+          "PA0159-C.g57.DBLe.4807",
+          "PA0159-C.g25.DBLe.5977",
+          "PA0159-C.g86.DBLe.3766",
+          "PA0159-C.g58.DBLe.5140",
+          "PA0159-C.g68.DBLe.4816",
+          "PA0159-C.g24.DBLe.7606",
+          "PA0159-C.g29.DBLe.6271"
+        ]
+      },
+      "PA0161-C": {
+        "count": 6,
+        "samples": [
+          "PA0161-C.g24.DBLe.4762",
+          "PA0161-C.g39.DBLe.6034",
+          "PA0161-C.g23.DBLe.8203",
+          "PA0161-C.g85.DBLe.3769",
+          "PA0161-C.g67.DBLe.2362",
+          "PA0161-C.g67.DBLe.4720"
+        ]
+      },
+      "PA0165-C": {
+        "count": 21,
+        "samples": [
+          "PA0165-C.g13.DBLe.8071",
+          "PA0165-C.g11.DBLe.7033",
+          "PA0165-C.g11.DBLe.8095",
+          "PA0165-C.g8.DBLe.7243",
+          "PA0165-C.g36.DBLe.6127",
+          "PA0165-C.g29.DBLe.5914",
+          "PA0165-C.g8.DBLe.9619",
+          "PA0165-C.g38.DBLe.6289",
+          "PA0165-C.g62.DBLe.4378",
+          "PA0165-C.g35.DBLe.4651",
+          "PA0165-C.g28.DBLe.7099",
+          "PA0165-C.g26.DBLe.6370",
+          "PA0165-C.g34.DBLe.6379",
+          "PA0165-C.g12.DBLe.6889",
+          "PA0165-C.g29.DBLe.3340",
+          "PA0165-C.g24.DBLe.6991",
+          "PA0165-C.g35.DBLe.5755",
+          "PA0165-C.g62.DBLe.2356",
+          "PA0165-C.g11.DBLe.9067",
+          "PA0165-C.g32.DBLe.6316",
+          "PA0165-C.g62.DBLe.3394"
+        ]
+      },
+      "PA0167-C": {
+        "count": 10,
+        "samples": [
+          "PA0167-C.g15.DBLe.3394",
+          "PA0167-C.g15.DBLe.6028",
+          "PA0167-C.g18.DBLe.4945",
+          "PA0167-C.g59.DBLe.4954",
+          "PA0167-C.g35.DBLe.3382",
+          "PA0167-C.g67.DBLe.4705",
+          "PA0167-C.g35.DBLe.6013",
+          "PA0167-C.g31.DBLe.6160",
+          "PA0167-C.g67.DBLe.2335",
+          "PA0167-C.g33.DBLe.6262"
+        ]
+      },
+      "PA0172-C": {
+        "count": 11,
+        "samples": [
+          "PA0172-C.g28.DBLe.8158",
+          "PA0172-C.g26.DBLe.5959",
+          "PA0172-C.g63.DBLe.5077",
+          "PA0172-C.g28.DBLe.3649",
+          "PA0172-C.g26.DBLe.4840",
+          "PA0172-C.g24.DBLe.6034",
+          "PA0172-C.g88.DBLe.4099",
+          "PA0172-C.g28.DBLe.7027",
+          "PA0172-C.g21.DBLe.7270",
+          "PA0172-C.g24.DBLe.3394",
+          "PA0172-C.g21.DBLe.4894"
+        ]
+      },
+      "PA0173-C": {
+        "count": 13,
+        "samples": [
+          "PA0173-C.g32.DBLe.4930",
+          "PA0173-C.g7.DBLe.8086",
+          "PA0173-C.g13.DBLe.5251",
+          "PA0173-C.g7.DBLe.6868",
+          "PA0173-C.g16.DBLe.4819",
+          "PA0173-C.g89.DBLe.3343",
+          "PA0173-C.g16.DBLe.5770",
+          "PA0173-C.g66.DBLe.2365",
+          "PA0173-C.g41.DBLe.6274",
+          "PA0173-C.g18.DBLe.6136",
+          "PA0173-C.g14.DBLe.6133",
+          "PA0173-C.g32.DBLe.5983",
+          "PA0173-C.g66.DBLe.4741"
+        ]
+      },
+      "PA0177-C": {
+        "count": 8,
+        "samples": [
+          "PA0177-C.g28.DBLe.4993",
+          "PA0177-C.g43.DBLe.3754",
+          "PA0177-C.g42.DBLe.4681",
+          "PA0177-C.g44.DBLe.4744",
+          "PA0177-C.g13.DBLe.6130",
+          "PA0177-C.g15.DBLe.6094",
+          "PA0177-C.g11.DBLe.6985",
+          "PA0177-C.g89.DBLe.3109"
+        ]
+      },
+      "PA0178-C": {
+        "count": 12,
+        "samples": [
+          "PA0178-C.g2.DBLe.6067",
+          "PA0178-C.g13.DBLe.6838",
+          "PA0178-C.g63.DBLe.3532",
+          "PA0178-C.g42.DBLe.2350",
+          "PA0178-C.g42.DBLe.4378",
+          "PA0178-C.g51.DBLe.3778",
+          "PA0178-C.g29.DBLe.3391",
+          "PA0178-C.g14.DBLe.6136",
+          "PA0178-C.g59.DBLe.3682",
+          "PA0178-C.g59.DBLe.2695",
+          "PA0178-C.g42.DBLe.3406",
+          "PA0178-C.g29.DBLe.4501"
+        ]
+      },
+      "PA0181-C": {
+        "count": 19,
+        "samples": [
+          "PA0181-C.g54.DBLe.3412",
+          "PA0181-C.g11.DBLe.9301",
+          "PA0181-C.g74.DBLe.3364",
+          "PA0181-C.g56.DBLe.3511",
+          "PA0181-C.g17.DBLe.8413",
+          "PA0181-C.g36.DBLe.6379",
+          "PA0181-C.g21.DBLe.7753",
+          "PA0181-C.g33.DBLe.6427",
+          "PA0181-C.g16.DBLe.8353",
+          "PA0181-C.g54.DBLe.2359",
+          "PA0181-C.g29.DBLe.6196",
+          "PA0181-C.g42.DBLe.6289",
+          "PA0181-C.g109.DBLe.2797",
+          "PA0181-C.g92.DBLe.3574",
+          "PA0181-C.g18.DBLe.8212",
+          "PA0181-C.g39.DBLe.6160",
+          "PA0181-C.g11.DBLe.6925",
+          "PA0181-C.g22.DBLe.5176",
+          "PA0181-C.g54.DBLe.4363"
+        ]
+      },
+      "PA0186-C": {
+        "count": 7,
+        "samples": [
+          "PA0186-C.g27.DBLe.5932",
+          "PA0186-C.g18.DBLe.6190",
+          "PA0186-C.g16.DBLe.5113",
+          "PA0186-C.g27.DBLe.3358",
+          "PA0186-C.g45.DBLe.5908",
+          "PA0186-C.g15.DBLe.7198",
+          "PA0186-C.g54.DBLe.3544"
+        ]
+      },
+      "PA0187-C": {
+        "count": 4,
+        "samples": [
+          "PA0187-C.g99.DBLe.460",
+          "PA0187-C.g43.DBLe.5068",
+          "PA0187-C.g41.DBLe.5710",
+          "PA0187-C.g41.DBLe.4597"
+        ]
+      },
+      "PA0189-C": {
+        "count": 4,
+        "samples": [
+          "PA0189-C.g34.DBLe.6259",
+          "PA0189-C.g22.DBLe.3379",
+          "PA0189-C.g17.DBLe.8218",
+          "PA0189-C.g16.DBLe.9811"
+        ]
+      },
+      "PA0193-C": {
+        "count": 16,
+        "samples": [
+          "PA0193-C.g75.DBLe.2284",
+          "PA0193-C.g14.DBLe.7090",
+          "PA0193-C.g75.DBLe.4330",
+          "PA0193-C.g75.DBLe.3349",
+          "PA0193-C.g12.DBLe.8341",
+          "PA0193-C.g29.DBLe.6202",
+          "PA0193-C.g14.DBLe.4438",
+          "PA0193-C.g90.DBLe.3424",
+          "PA0193-C.g12.DBLe.9334",
+          "PA0193-C.g14.DBLe.3325",
+          "PA0193-C.g39.DBLe.5644",
+          "PA0193-C.g77.DBLe.1090",
+          "PA0193-C.g12.DBLe.7279",
+          "PA0193-C.g39.DBLe.4693",
+          "PA0193-C.g43.DBLe.4861",
+          "PA0193-C.g31.DBLe.6211"
+        ]
+      },
+      "PA0196-C": {
+        "count": 13,
+        "samples": [
+          "PA0196-C.g43.DBLe.6370",
+          "PA0196-C.g30.DBLe.5743",
+          "PA0196-C.g20.DBLe.4837",
+          "PA0196-C.g28.DBLe.5083",
+          "PA0196-C.g20.DBLe.5953",
+          "PA0196-C.g22.DBLe.7018",
+          "PA0196-C.g37.DBLe.4828",
+          "PA0196-C.g100.DBLe.4024",
+          "PA0196-C.g42.DBLe.6109",
+          "PA0196-C.g37.DBLe.5809",
+          "PA0196-C.g30.DBLe.4639",
+          "PA0196-C.g54.DBLe.5356",
+          "PA0196-C.g28.DBLe.7465"
+        ]
+      },
+      "PA0199-C": {
+        "count": 18,
+        "samples": [
+          "PA0199-C.g62.DBLe.2449",
+          "PA0199-C.g29.DBLe.6802",
+          "PA0199-C.g27.DBLe.3508",
+          "PA0199-C.g20.DBLe.5554",
+          "PA0199-C.g21.DBLe.6547",
+          "PA0199-C.g29.DBLe.5821",
+          "PA0199-C.g83.DBLe.3658",
+          "PA0199-C.g62.DBLe.3511",
+          "PA0199-C.g21.DBLe.5428",
+          "PA0199-C.g27.DBLe.5866",
+          "PA0199-C.g62.DBLe.4492",
+          "PA0199-C.g29.DBLe.4765",
+          "PA0199-C.g36.DBLe.6130",
+          "PA0199-C.g27.DBLe.6976",
+          "PA0199-C.g13.DBLe.8554",
+          "PA0199-C.g82.DBLe.3820",
+          "PA0199-C.g35.DBLe.6094",
+          "PA0199-C.g33.DBLe.4852"
+        ]
+      },
+      "PA0200-C": {
+        "count": 5,
+        "samples": [
+          "PA0200-C.g32.DBLe.3325",
+          "PA0200-C.g27.DBLe.6319",
+          "PA0200-C.g22.DBLe.6382",
+          "PA0200-C.g32.DBLe.5929",
+          "PA0200-C.g46.DBLe.4969"
+        ]
+      },
+      "PA0202-C": {
+        "count": 15,
+        "samples": [
+          "PA0202-C.g42.DBLe.2380",
+          "PA0202-C.g43.DBLe.6115",
+          "PA0202-C.g36.DBLe.4963",
+          "PA0202-C.g60.DBLe.3451",
+          "PA0202-C.g18.DBLe.8272",
+          "PA0202-C.g11.DBLe.5479",
+          "PA0202-C.g11.DBLe.7939",
+          "PA0202-C.g15.DBLe.4912",
+          "PA0202-C.g60.DBLe.4408",
+          "PA0202-C.g44.DBLe.6127",
+          "PA0202-C.g19.DBLe.3376",
+          "PA0202-C.g17.DBLe.8338",
+          "PA0202-C.g42.DBLe.4963",
+          "PA0202-C.g19.DBLe.5965",
+          "PA0202-C.g60.DBLe.2389"
+        ]
+      },
+      "PA0206-C": {
+        "count": 18,
+        "samples": [
+          "PA0206-C.g18.DBLe.6277",
+          "PA0206-C.g74.DBLe.2698",
+          "PA0206-C.g6.DBLe.6136",
+          "PA0206-C.g10.DBLe.4909",
+          "PA0206-C.g17.DBLe.6214",
+          "PA0206-C.g30.DBLe.4759",
+          "PA0206-C.g7.DBLe.7495",
+          "PA0206-C.g30.DBLe.5818",
+          "PA0206-C.g14.DBLe.5200",
+          "PA0206-C.g15.DBLe.6346",
+          "PA0206-C.g74.DBLe.3754",
+          "PA0206-C.g74.DBLe.4711",
+          "PA0206-C.g40.DBLe.5890",
+          "PA0206-C.g19.DBLe.6010",
+          "PA0206-C.g10.DBLe.7294",
+          "PA0206-C.g19.DBLe.3406",
+          "PA0206-C.g40.DBLe.3505",
+          "PA0206-C.g16.DBLe.6619"
+        ]
+      },
+      "PA0207-C": {
+        "count": 12,
+        "samples": [
+          "PA0207-C.g41.DBLe.4759",
+          "PA0207-C.g61.DBLe.2419",
+          "PA0207-C.g58.DBLe.2317",
+          "PA0207-C.g61.DBLe.4921",
+          "PA0207-C.g41.DBLe.2371",
+          "PA0207-C.g94.DBLe.3766",
+          "PA0207-C.g58.DBLe.4354",
+          "PA0207-C.g90.DBLe.3820",
+          "PA0207-C.g9.DBLe.6802",
+          "PA0207-C.g58.DBLe.3391",
+          "PA0207-C.g93.DBLe.2167",
+          "PA0207-C.g9.DBLe.9175"
+        ]
+      },
+      "PA0208-C": {
+        "count": 7,
+        "samples": [
+          "PA0208-C.g36.DBLe.3271",
+          "PA0208-C.g2.DBLe.7873",
+          "PA0208-C.g21.DBLe.6130",
+          "PA0208-C.g11.DBLe.6295",
+          "PA0208-C.g12.DBLe.4567",
+          "PA0208-C.g16.DBLe.6436",
+          "PA0208-C.g2.DBLe.6760"
+        ]
+      },
+      "PA0209-C": {
+        "count": 2,
+        "samples": [
+          "PA0209-C.g67.DBLe.5734",
+          "PA0209-C.g26.DBLe.5560"
+        ]
+      },
+      "PA0210-C": {
+        "count": 17,
+        "samples": [
+          "PA0210-C.g68.DBLe.4105",
+          "PA0210-C.g9.DBLe.5122",
+          "PA0210-C.g5.DBLe.7984",
+          "PA0210-C.g18.DBLe.4840",
+          "PA0210-C.g9.DBLe.6187",
+          "PA0210-C.g77.DBLe.3364",
+          "PA0210-C.g23.DBLe.5002",
+          "PA0210-C.g2.DBLe.8227",
+          "PA0210-C.g5.DBLe.5605",
+          "PA0210-C.g3.DBLe.8020",
+          "PA0210-C.g3.DBLe.5515",
+          "PA0210-C.g18.DBLe.5959",
+          "PA0210-C.g19.DBLe.6088",
+          "PA0210-C.g99.DBLe.3136",
+          "PA0210-C.g7.DBLe.3355",
+          "PA0210-C.g9.DBLe.7177",
+          "PA0210-C.g7.DBLe.5929"
+        ]
+      },
+      "PA0211-C": {
+        "count": 9,
+        "samples": [
+          "PA0211-C.g24.DBLe.7264",
+          "PA0211-C.g15.DBLe.7027",
+          "PA0211-C.g42.DBLe.5086",
+          "PA0211-C.g24.DBLe.6154",
+          "PA0211-C.g20.DBLe.7504",
+          "PA0211-C.g20.DBLe.5140",
+          "PA0211-C.g22.DBLe.6451",
+          "PA0211-C.g31.DBLe.6052",
+          "PA0211-C.g15.DBLe.9388"
+        ]
+      },
+      "PA0212-C": {
+        "count": 20,
+        "samples": [
+          "PA0212-C.g60.DBLe.3379",
+          "PA0212-C.g4.DBLe.8677",
+          "PA0212-C.g108.DBLe.2932",
+          "PA0212-C.g110.DBLe.985",
+          "PA0212-C.g24.DBLe.6202",
+          "PA0212-C.g110.DBLe.2047",
+          "PA0212-C.g86.DBLe.3922",
+          "PA0212-C.g23.DBLe.3403",
+          "PA0212-C.g13.DBLe.6604",
+          "PA0212-C.g23.DBLe.6001",
+          "PA0212-C.g14.DBLe.7255",
+          "PA0212-C.g110.DBLe.3004",
+          "PA0212-C.g60.DBLe.2323",
+          "PA0212-C.g3.DBLe.8230",
+          "PA0212-C.g3.DBLe.5851",
+          "PA0212-C.g22.DBLe.6214",
+          "PA0212-C.g13.DBLe.7726",
+          "PA0212-C.g60.DBLe.4357",
+          "PA0212-C.g100.DBLe.3325",
+          "PA0212-C.g13.DBLe.5485"
+        ]
+      },
+      "PA0213-C": {
+        "count": 8,
+        "samples": [
+          "PA0213-C.g1.DBLe.6925",
+          "PA0213-C.g3.DBLe.8434",
+          "PA0213-C.g78.DBLe.3391",
+          "PA0213-C.g1.DBLe.9340",
+          "PA0213-C.g61.DBLe.3739",
+          "PA0213-C.g45.DBLe.3895",
+          "PA0213-C.g31.DBLe.5092",
+          "PA0213-C.g10.DBLe.6766"
+        ]
+      },
+      "PA0216-C": {
+        "count": 12,
+        "samples": [
+          "PA0216-C.g25.DBLe.6208",
+          "PA0216-C.g78.DBLe.2350",
+          "PA0216-C.g28.DBLe.6043",
+          "PA0216-C.g9.DBLe.7420",
+          "PA0216-C.g8.DBLe.5479",
+          "PA0216-C.g72.DBLe.1930",
+          "PA0216-C.g72.DBLe.4297",
+          "PA0216-C.g28.DBLe.3406",
+          "PA0216-C.g78.DBLe.3478",
+          "PA0216-C.g8.DBLe.7930",
+          "PA0216-C.g4.DBLe.7300",
+          "PA0216-C.g24.DBLe.6289"
+        ]
+      },
+      "PA0227-C": {
+        "count": 23,
+        "samples": [
+          "PA0227-C.g26.DBLe.1813",
+          "PA0227-C.g5.DBLe.7867",
+          "PA0227-C.g1.DBLe.8512",
+          "PA0227-C.g2.DBLe.8395",
+          "PA0227-C.g28.DBLe.5959",
+          "PA0227-C.g75.DBLe.4465",
+          "PA0227-C.g50.DBLe.2680",
+          "PA0227-C.g21.DBLe.6940",
+          "PA0227-C.g75.DBLe.3475",
+          "PA0227-C.g33.DBLe.5740",
+          "PA0227-C.g52.DBLe.5017",
+          "PA0227-C.g28.DBLe.3382",
+          "PA0227-C.g33.DBLe.4636",
+          "PA0227-C.g26.DBLe.5578",
+          "PA0227-C.g5.DBLe.5500",
+          "PA0227-C.g46.DBLe.4840",
+          "PA0227-C.g50.DBLe.5059",
+          "PA0227-C.g107.DBLe.2569",
+          "PA0227-C.g75.DBLe.2419",
+          "PA0227-C.g6.DBLe.8290",
+          "PA0227-C.g56.DBLe.5035",
+          "PA0227-C.g17.DBLe.6304",
+          "PA0227-C.g26.DBLe.2926"
+        ]
+      },
+      "PA0230-C": {
+        "count": 7,
+        "samples": [
+          "PA0230-C.g46.DBLe.865",
+          "PA0230-C.g65.DBLe.2920",
+          "PA0230-C.g46.DBLe.3367",
+          "PA0230-C.g4.DBLe.6094",
+          "PA0230-C.g66.DBLe.2707",
+          "PA0230-C.g8.DBLe.5959",
+          "PA0230-C.g3.DBLe.5419"
+        ]
+      },
+      "PA0237-C": {
+        "count": 7,
+        "samples": [
+          "PA0237-C.g20.DBLe.3490",
+          "PA0237-C.g6.DBLe.8056",
+          "PA0237-C.g38.DBLe.3688",
+          "PA0237-C.g32.DBLe.5362",
+          "PA0237-C.g6.DBLe.5566",
+          "PA0237-C.g20.DBLe.6022",
+          "PA0237-C.g38.DBLe.2578"
+        ]
+      },
+      "PA0245-C": {
+        "count": 10,
+        "samples": [
+          "PA0245-C.g40.DBLe.6118",
+          "PA0245-C.g31.DBLe.7018",
+          "PA0245-C.g57.DBLe.6160",
+          "PA0245-C.g31.DBLe.8134",
+          "PA0245-C.g40.DBLe.7069",
+          "PA0245-C.g36.DBLe.6142",
+          "PA0245-C.g27.DBLe.7873",
+          "PA0245-C.g38.DBLe.6562",
+          "PA0245-C.g40.DBLe.5062",
+          "PA0245-C.g103.DBLe.3562"
+        ]
+      },
+      "PA0256-C": {
+        "count": 12,
+        "samples": [
+          "PA0256-C.g28.DBLe.4780",
+          "PA0256-C.g74.DBLe.2434",
+          "PA0256-C.g24.DBLe.6088",
+          "PA0256-C.g74.DBLe.4435",
+          "PA0256-C.g19.DBLe.7132",
+          "PA0256-C.g19.DBLe.5098",
+          "PA0256-C.g28.DBLe.5731",
+          "PA0256-C.g40.DBLe.6037",
+          "PA0256-C.g19.DBLe.6160",
+          "PA0256-C.g22.DBLe.7195",
+          "PA0256-C.g25.DBLe.6277",
+          "PA0256-C.g74.DBLe.3484"
+        ]
+      },
+      "PA0274-C": {
+        "count": 7,
+        "samples": [
+          "PA0274-C.g35.DBLe.6136",
+          "PA0274-C.g13.DBLe.9814",
+          "PA0274-C.g60.DBLe.6262",
+          "PA0274-C.g44.DBLe.5899",
+          "PA0274-C.g44.DBLe.3325",
+          "PA0274-C.g33.DBLe.7822",
+          "PA0274-C.g5.DBLe.6085"
+        ]
+      },
+      "PA0277-C": {
+        "count": 9,
+        "samples": [
+          "PA0277-C.g73.DBLe.3457",
+          "PA0277-C.g20.DBLe.9898",
+          "PA0277-C.g16.DBLe.6547",
+          "PA0277-C.g16.DBLe.7669",
+          "PA0277-C.g73.DBLe.4408",
+          "PA0277-C.g27.DBLe.6154",
+          "PA0277-C.g16.DBLe.5428",
+          "PA0277-C.g73.DBLe.2410",
+          "PA0277-C.g39.DBLe.6976"
+        ]
+      },
+      "PD0039-C": {
+        "count": 6,
+        "samples": [
+          "PD0039-C.g2.DBLe.8992",
+          "PD0039-C.g23.DBLe.5023",
+          "PD0039-C.g32.DBLe.4846",
+          "PD0039-C.g12.DBLe.6451",
+          "PD0039-C.g22.DBLe.6259",
+          "PD0039-C.g3.DBLe.9934"
+        ]
+      },
+      "PD0078-C": {
+        "count": 19,
+        "samples": [
+          "PD0078-C.g13.DBLe.7759",
+          "PD0078-C.g10.DBLe.6877",
+          "PD0078-C.g13.DBLe.5281",
+          "PD0078-C.g10.DBLe.7942",
+          "PD0078-C.g30.DBLe.4780",
+          "PD0078-C.g8.DBLe.7003",
+          "PD0078-C.g28.DBLe.6049",
+          "PD0078-C.g9.DBLe.8218",
+          "PD0078-C.g22.DBLe.3445",
+          "PD0078-C.g27.DBLe.6064",
+          "PD0078-C.g57.DBLe.3472",
+          "PD0078-C.g28.DBLe.4954",
+          "PD0078-C.g30.DBLe.5848",
+          "PD0078-C.g8.DBLe.8050",
+          "PD0078-C.g22.DBLe.5941",
+          "PD0078-C.g69.DBLe.2836",
+          "PD0078-C.g24.DBLe.6199",
+          "PD0078-C.g14.DBLe.5515",
+          "PD0078-C.g18.DBLe.5950"
+        ]
+      },
+      "PD0082-C": {
+        "count": 11,
+        "samples": [
+          "PD0082-C.g8.DBLe.5800",
+          "PD0082-C.g51.DBLe.2995",
+          "PD0082-C.g19.DBLe.6424",
+          "PD0082-C.g41.DBLe.4579",
+          "PD0082-C.g16.DBLe.5746",
+          "PD0082-C.g14.DBLe.5860",
+          "PD0082-C.g51.DBLe.3946",
+          "PD0082-C.g5.DBLe.6901",
+          "PD0082-C.g8.DBLe.3196",
+          "PD0082-C.g65.DBLe.3226",
+          "PD0082-C.g51.DBLe.1936"
+        ]
+      },
+      "PD0086-C": {
+        "count": 11,
+        "samples": [
+          "PD0086-C.g21.DBLe.7210",
+          "PD0086-C.g34.DBLe.4627",
+          "PD0086-C.g35.DBLe.6361",
+          "PD0086-C.g17.DBLe.6982",
+          "PD0086-C.g17.DBLe.8119",
+          "PD0086-C.g26.DBLe.5977",
+          "PD0086-C.g25.DBLe.6994",
+          "PD0086-C.g22.DBLe.7384",
+          "PD0086-C.g57.DBLe.6166",
+          "PD0086-C.g59.DBLe.5935",
+          "PD0086-C.g64.DBLe.5758"
+        ]
+      },
+      "PD0089-C": {
+        "count": 27,
+        "samples": [
+          "PD0089-C.g32.DBLe.6145",
+          "PD0089-C.g33.DBLe.6013",
+          "PD0089-C.g14.DBLe.2962",
+          "PD0089-C.g40.DBLe.4906",
+          "PD0089-C.g3.DBLe.6961",
+          "PD0089-C.g15.DBLe.8119",
+          "PD0089-C.g11.DBLe.8359",
+          "PD0089-C.g26.DBLe.5950",
+          "PD0089-C.g51.DBLe.3400",
+          "PD0089-C.g39.DBLe.6058",
+          "PD0089-C.g1.DBLe.9334",
+          "PD0089-C.g14.DBLe.5422",
+          "PD0089-C.g25.DBLe.4975",
+          "PD0089-C.g1.DBLe.6958",
+          "PD0089-C.g26.DBLe.6901",
+          "PD0089-C.g15.DBLe.6982",
+          "PD0089-C.g31.DBLe.6082",
+          "PD0089-C.g12.DBLe.8302",
+          "PD0089-C.g6.DBLe.8056",
+          "PD0089-C.g6.DBLe.5566",
+          "PD0089-C.g51.DBLe.4495",
+          "PD0089-C.g3.DBLe.9340",
+          "PD0089-C.g26.DBLe.4888",
+          "PD0089-C.g19.DBLe.5746",
+          "PD0089-C.g71.DBLe.3946",
+          "PD0089-C.g10.DBLe.8845",
+          "PD0089-C.g42.DBLe.5209"
+        ]
+      },
+      "PD0091-C": {
+        "count": 11,
+        "samples": [
+          "PD0091-C.g59.DBLe.5398",
+          "PD0091-C.g90.DBLe.4231",
+          "PD0091-C.g76.DBLe.3400",
+          "PD0091-C.g16.DBLe.8275",
+          "PD0091-C.g52.DBLe.8395",
+          "PD0091-C.g77.DBLe.3475",
+          "PD0091-C.g77.DBLe.6010",
+          "PD0091-C.g12.DBLe.5746",
+          "PD0091-C.g58.DBLe.8287",
+          "PD0091-C.g76.DBLe.6031",
+          "PD0091-C.g59.DBLe.7759"
+        ]
+      },
+      "PD0092-C": {
+        "count": 8,
+        "samples": [
+          "PD0092-C.g11.DBLe.7108",
+          "PD0092-C.g10.DBLe.7507",
+          "PD0092-C.g19.DBLe.5746",
+          "PD0092-C.g63.DBLe.3139",
+          "PD0092-C.g16.DBLe.3343",
+          "PD0092-C.g16.DBLe.5878",
+          "PD0092-C.g11.DBLe.6013",
+          "PD0092-C.g3.DBLe.8230"
+        ]
+      },
+      "PD0094-C": {
+        "count": 13,
+        "samples": [
+          "PD0094-C.g30.DBLe.7102",
+          "PD0094-C.g15.DBLe.8275",
+          "PD0094-C.g45.DBLe.6160",
+          "PD0094-C.g49.DBLe.5848",
+          "PD0094-C.g49.DBLe.4780",
+          "PD0094-C.g82.DBLe.4462",
+          "PD0094-C.g51.DBLe.5050",
+          "PD0094-C.g46.DBLe.8836",
+          "PD0094-C.g84.DBLe.3352",
+          "PD0094-C.g30.DBLe.9508",
+          "PD0094-C.g82.DBLe.2086",
+          "PD0094-C.g68.DBLe.3376",
+          "PD0094-C.g49.DBLe.6799"
+        ]
+      },
+      "PD0096-C": {
+        "count": 4,
+        "samples": [
+          "PD0096-C.g2.DBLe.5605",
+          "PD0096-C.g20.DBLe.2839",
+          "PD0096-C.g29.DBLe.3310",
+          "PD0096-C.g2.DBLe.6700"
+        ]
+      },
+      "PD0097-C": {
+        "count": 10,
+        "samples": [
+          "PD0097-C.g51.DBLe.2698",
+          "PD0097-C.g19.DBLe.3445",
+          "PD0097-C.g33.DBLe.6232",
+          "PD0097-C.g19.DBLe.5941",
+          "PD0097-C.g51.DBLe.3769",
+          "PD0097-C.g17.DBLe.8836",
+          "PD0097-C.g22.DBLe.6361",
+          "PD0097-C.g34.DBLe.5977",
+          "PD0097-C.g7.DBLe.8437",
+          "PD0097-C.g51.DBLe.4720"
+        ]
+      },
+      "PD0098-C": {
+        "count": 5,
+        "samples": [
+          "PD0098-C.g3.DBLe.5593",
+          "PD0098-C.g4.DBLe.5452",
+          "PD0098-C.g3.DBLe.7969",
+          "PD0098-C.g16.DBLe.2545",
+          "PD0098-C.g11.DBLe.5011"
+        ]
+      },
+      "PD0100-C": {
+        "count": 9,
+        "samples": [
+          "PD0100-C.g15.DBLe.1936",
+          "PD0100-C.g2.DBLe.7846",
+          "PD0100-C.g15.DBLe.3004",
+          "PD0100-C.g8.DBLe.5098",
+          "PD0100-C.g4.DBLe.7060",
+          "PD0100-C.g3.DBLe.7534",
+          "PD0100-C.g9.DBLe.4618",
+          "PD0100-C.g2.DBLe.5446",
+          "PD0100-C.g15.DBLe.3955"
+        ]
+      },
+      "PD0103-C": {
+        "count": 5,
+        "samples": [
+          "PD0103-C.g71.DBLe.4765",
+          "PD0103-C.g93.DBLe.3049",
+          "PD0103-C.g30.DBLe.6019",
+          "PD0103-C.g30.DBLe.3388",
+          "PD0103-C.g74.DBLe.3235"
+        ]
+      },
+      "PD0105-C": {
+        "count": 14,
+        "samples": [
+          "PD0105-C.g32.DBLe.8158",
+          "PD0105-C.g59.DBLe.6148",
+          "PD0105-C.g90.DBLe.2110",
+          "PD0105-C.g90.DBLe.4516",
+          "PD0105-C.g26.DBLe.4888",
+          "PD0105-C.g65.DBLe.6088",
+          "PD0105-C.g82.DBLe.3763",
+          "PD0105-C.g50.DBLe.6217",
+          "PD0105-C.g65.DBLe.5035",
+          "PD0105-C.g26.DBLe.5950",
+          "PD0105-C.g16.DBLe.5884",
+          "PD0105-C.g27.DBLe.8032",
+          "PD0105-C.g16.DBLe.4771",
+          "PD0105-C.g26.DBLe.6901"
+        ]
+      },
+      "PD0106-C": {
+        "count": 9,
+        "samples": [
+          "PD0106-C.g44.DBLe.3412",
+          "PD0106-C.g74.DBLe.3625",
+          "PD0106-C.g29.DBLe.5308",
+          "PD0106-C.g20.DBLe.8377",
+          "PD0106-C.g44.DBLe.4399",
+          "PD0106-C.g55.DBLe.3355",
+          "PD0106-C.g30.DBLe.4690",
+          "PD0106-C.g30.DBLe.5794",
+          "PD0106-C.g28.DBLe.7210"
+        ]
+      },
+      "PD0112-C": {
+        "count": 10,
+        "samples": [
+          "PD0112-C.g23.DBLe.7210",
+          "PD0112-C.g35.DBLe.5845",
+          "PD0112-C.g36.DBLe.4987",
+          "PD0112-C.g56.DBLe.4642",
+          "PD0112-C.g91.DBLe.2407",
+          "PD0112-C.g20.DBLe.7729",
+          "PD0112-C.g32.DBLe.6718",
+          "PD0112-C.g35.DBLe.6955",
+          "PD0112-C.g28.DBLe.6187",
+          "PD0112-C.g35.DBLe.3352"
+        ]
+      },
+      "PD0113-C": {
+        "count": 17,
+        "samples": [
+          "PD0113-C.g56.DBLe.6901",
+          "PD0113-C.g41.DBLe.7243",
+          "PD0113-C.g62.DBLe.4999",
+          "PD0113-C.g73.DBLe.2599",
+          "PD0113-C.g35.DBLe.6556",
+          "PD0113-C.g32.DBLe.6217",
+          "PD0113-C.g13.DBLe.9619",
+          "PD0113-C.g59.DBLe.3349",
+          "PD0113-C.g35.DBLe.5437",
+          "PD0113-C.g73.DBLe.5251",
+          "PD0113-C.g56.DBLe.4888",
+          "PD0113-C.g41.DBLe.4867",
+          "PD0113-C.g59.DBLe.5920",
+          "PD0113-C.g35.DBLe.7678",
+          "PD0113-C.g49.DBLe.7117",
+          "PD0113-C.g56.DBLe.5950",
+          "PD0113-C.g75.DBLe.4849"
+        ]
+      },
+      "PD0118-C": {
+        "count": 12,
+        "samples": [
+          "PD0118-C.g7.DBLe.8311",
+          "PD0118-C.g35.DBLe.2194",
+          "PD0118-C.g12.DBLe.3445",
+          "PD0118-C.g9.DBLe.5515",
+          "PD0118-C.g40.DBLe.3436",
+          "PD0118-C.g18.DBLe.5950",
+          "PD0118-C.g18.DBLe.4888",
+          "PD0118-C.g5.DBLe.6232",
+          "PD0118-C.g12.DBLe.6025",
+          "PD0118-C.g18.DBLe.6901",
+          "PD0118-C.g35.DBLe.4570",
+          "PD0118-C.g9.DBLe.7930"
+        ]
+      },
+      "PD0121-C": {
+        "count": 11,
+        "samples": [
+          "PD0121-C.g21.DBLe.9181",
+          "PD0121-C.g17.DBLe.8437",
+          "PD0121-C.g51.DBLe.6115",
+          "PD0121-C.g21.DBLe.6811",
+          "PD0121-C.g27.DBLe.5161",
+          "PD0121-C.g23.DBLe.6412",
+          "PD0121-C.g48.DBLe.5950",
+          "PD0121-C.g13.DBLe.8479",
+          "PD0121-C.g57.DBLe.6148",
+          "PD0121-C.g48.DBLe.6901",
+          "PD0121-C.g48.DBLe.4888"
+        ]
+      },
+      "PD0123-C": {
+        "count": 7,
+        "samples": [
+          "PD0123-C.g26.DBLe.3385",
+          "PD0123-C.g13.DBLe.5086",
+          "PD0123-C.g47.DBLe.1981",
+          "PD0123-C.g5.DBLe.5125",
+          "PD0123-C.g20.DBLe.4939",
+          "PD0123-C.g47.DBLe.3031",
+          "PD0123-C.g26.DBLe.2290"
+        ]
+      },
+      "PD0125-C": {
+        "count": 13,
+        "samples": [
+          "PD0125-C.g27.DBLe.5917",
+          "PD0125-C.g27.DBLe.3346",
+          "PD0125-C.g6.DBLe.5746",
+          "PD0125-C.g26.DBLe.6901",
+          "PD0125-C.g33.DBLe.5593",
+          "PD0125-C.g3.DBLe.9619",
+          "PD0125-C.g26.DBLe.5950",
+          "PD0125-C.g44.DBLe.4762",
+          "PD0125-C.g11.DBLe.4867",
+          "PD0125-C.g26.DBLe.4888",
+          "PD0125-C.g14.DBLe.5071",
+          "PD0125-C.g11.DBLe.7243",
+          "PD0125-C.g40.DBLe.5236"
+        ]
+      },
+      "PD0126-C": {
+        "count": 14,
+        "samples": [
+          "PD0126-C.g25.DBLe.3394",
+          "PD0126-C.g21.DBLe.6004",
+          "PD0126-C.g34.DBLe.3451",
+          "PD0126-C.g32.DBLe.4834",
+          "PD0126-C.g25.DBLe.5980",
+          "PD0126-C.g22.DBLe.6076",
+          "PD0126-C.g2.DBLe.9508",
+          "PD0126-C.g6.DBLe.8275",
+          "PD0126-C.g78.DBLe.3259",
+          "PD0126-C.g32.DBLe.5929",
+          "PD0126-C.g34.DBLe.5827",
+          "PD0126-C.g74.DBLe.3346",
+          "PD0126-C.g20.DBLe.4654",
+          "PD0126-C.g2.DBLe.7102"
+        ]
+      },
+      "PD0127-C": {
+        "count": 10,
+        "samples": [
+          "PD0127-C.g27.DBLe.4888",
+          "PD0127-C.g16.DBLe.4792",
+          "PD0127-C.g6.DBLe.8032",
+          "PD0127-C.g15.DBLe.6322",
+          "PD0127-C.g16.DBLe.5908",
+          "PD0127-C.g12.DBLe.6016",
+          "PD0127-C.g12.DBLe.3436",
+          "PD0127-C.g26.DBLe.4624",
+          "PD0127-C.g26.DBLe.5671",
+          "PD0127-C.g6.DBLe.5527"
+        ]
+      },
+      "PD0128-C": {
+        "count": 19,
+        "samples": [
+          "PD0128-C.g176.DBLe.2029",
+          "PD0128-C.g176.DBLe.3124",
+          "PD0128-C.g28.DBLe.8872",
+          "PD0128-C.g87.DBLe.6901",
+          "PD0128-C.g153.DBLe.2125",
+          "PD0128-C.g121.DBLe.4864",
+          "PD0128-C.g58.DBLe.6166",
+          "PD0128-C.g28.DBLe.7876",
+          "PD0128-C.g87.DBLe.4888",
+          "PD0128-C.g92.DBLe.2728",
+          "PD0128-C.g108.DBLe.5929",
+          "PD0128-C.g103.DBLe.6049",
+          "PD0128-C.g92.DBLe.5224",
+          "PD0128-C.g108.DBLe.4810",
+          "PD0128-C.g121.DBLe.3760",
+          "PD0128-C.g87.DBLe.5950",
+          "PD0128-C.g153.DBLe.3730",
+          "PD0128-C.g28.DBLe.6832",
+          "PD0128-C.g83.DBLe.4471"
+        ]
+      },
+      "PD0129-C": {
+        "count": 18,
+        "samples": [
+          "PD0129-C.g15.DBLe.5929",
+          "PD0129-C.g8.DBLe.8056",
+          "PD0129-C.g1.DBLe.9508",
+          "PD0129-C.g2.DBLe.7303",
+          "PD0129-C.g2.DBLe.8353",
+          "PD0129-C.g15.DBLe.4867",
+          "PD0129-C.g2.DBLe.9340",
+          "PD0129-C.g8.DBLe.5566",
+          "PD0129-C.g9.DBLe.6013",
+          "PD0129-C.g22.DBLe.3352",
+          "PD0129-C.g44.DBLe.3133",
+          "PD0129-C.g1.DBLe.7102",
+          "PD0129-C.g15.DBLe.6919",
+          "PD0129-C.g44.DBLe.4228",
+          "PD0129-C.g21.DBLe.5992",
+          "PD0129-C.g9.DBLe.7108",
+          "PD0129-C.g22.DBLe.5956",
+          "PD0129-C.g49.DBLe.3748"
+        ]
+      },
+      "PD0130-C": {
+        "count": 19,
+        "samples": [
+          "PD0130-C.g46.DBLe.3322",
+          "PD0130-C.g67.DBLe.6286",
+          "PD0130-C.g25.DBLe.5950",
+          "PD0130-C.g89.DBLe.5884",
+          "PD0130-C.g12.DBLe.7516",
+          "PD0130-C.g25.DBLe.4888",
+          "PD0130-C.g47.DBLe.4906",
+          "PD0130-C.g29.DBLe.5950",
+          "PD0130-C.g72.DBLe.2578",
+          "PD0130-C.g46.DBLe.4396",
+          "PD0130-C.g12.DBLe.5161",
+          "PD0130-C.g25.DBLe.6901",
+          "PD0130-C.g72.DBLe.3688",
+          "PD0130-C.g93.DBLe.4951",
+          "PD0130-C.g40.DBLe.7384",
+          "PD0130-C.g46.DBLe.7033",
+          "PD0130-C.g47.DBLe.6952",
+          "PD0130-C.g47.DBLe.5974",
+          "PD0130-C.g1.DBLe.4597"
+        ]
+      },
+      "PD0131-C": {
+        "count": 11,
+        "samples": [
+          "PD0131-C.g66.DBLe.4981",
+          "PD0131-C.g10.DBLe.6046",
+          "PD0131-C.g59.DBLe.3172",
+          "PD0131-C.g49.DBLe.3484",
+          "PD0131-C.g66.DBLe.2329",
+          "PD0131-C.g10.DBLe.3556",
+          "PD0131-C.g39.DBLe.7075",
+          "PD0131-C.g14.DBLe.8302",
+          "PD0131-C.g69.DBLe.829",
+          "PD0131-C.g6.DBLe.6100",
+          "PD0131-C.g69.DBLe.3328"
+        ]
+      },
+      "PD0132-C": {
+        "count": 13,
+        "samples": [
+          "PD0132-C.g87.DBLe.3931",
+          "PD0132-C.g65.DBLe.3238",
+          "PD0132-C.g39.DBLe.6097",
+          "PD0132-C.g20.DBLe.4648",
+          "PD0132-C.g18.DBLe.5746",
+          "PD0132-C.g19.DBLe.9181",
+          "PD0132-C.g82.DBLe.4816",
+          "PD0132-C.g19.DBLe.6811",
+          "PD0132-C.g82.DBLe.2440",
+          "PD0132-C.g39.DBLe.3466",
+          "PD0132-C.g32.DBLe.5560",
+          "PD0132-C.g20.DBLe.5752",
+          "PD0132-C.g32.DBLe.7915"
+        ]
+      },
+      "PD0133-C": {
+        "count": 13,
+        "samples": [
+          "PD0133-C.g7.DBLe.4927",
+          "PD0133-C.g82.DBLe.6148",
+          "PD0133-C.g16.DBLe.8275",
+          "PD0133-C.g27.DBLe.5950",
+          "PD0133-C.g37.DBLe.5545",
+          "PD0133-C.g32.DBLe.6232",
+          "PD0133-C.g66.DBLe.5821",
+          "PD0133-C.g73.DBLe.6187",
+          "PD0133-C.g7.DBLe.5980",
+          "PD0133-C.g36.DBLe.8479",
+          "PD0133-C.g72.DBLe.2779",
+          "PD0133-C.g18.DBLe.5491",
+          "PD0133-C.g18.DBLe.7867"
+        ]
+      },
+      "PD0134-C": {
+        "count": 10,
+        "samples": [
+          "PD0134-C.g45.DBLe.3628",
+          "PD0134-C.g7.DBLe.7876",
+          "PD0134-C.g7.DBLe.8872",
+          "PD0134-C.g49.DBLe.8890",
+          "PD0134-C.g7.DBLe.6832",
+          "PD0134-C.g55.DBLe.7255",
+          "PD0134-C.g54.DBLe.3643",
+          "PD0134-C.g41.DBLe.9301",
+          "PD0134-C.g54.DBLe.6091",
+          "PD0134-C.g41.DBLe.6946"
+        ]
+      },
+      "PD0136-C": {
+        "count": 12,
+        "samples": [
+          "PD0136-C.g34.DBLe.6016",
+          "PD0136-C.g77.DBLe.3427",
+          "PD0136-C.g34.DBLe.3436",
+          "PD0136-C.g67.DBLe.3259",
+          "PD0136-C.g72.DBLe.3499",
+          "PD0136-C.g18.DBLe.6091",
+          "PD0136-C.g18.DBLe.3643",
+          "PD0136-C.g33.DBLe.8287",
+          "PD0136-C.g26.DBLe.8395",
+          "PD0136-C.g11.DBLe.5746",
+          "PD0136-C.g115.DBLe.3088",
+          "PD0136-C.g16.DBLe.8275"
+        ]
+      },
+      "PD0138-C": {
+        "count": 12,
+        "samples": [
+          "PD0138-C.g29.DBLe.5755",
+          "PD0138-C.g63.DBLe.4627",
+          "PD0138-C.g24.DBLe.8182",
+          "PD0138-C.g13.DBLe.8218",
+          "PD0138-C.g4.DBLe.6349",
+          "PD0138-C.g28.DBLe.3715",
+          "PD0138-C.g58.DBLe.4351",
+          "PD0138-C.g22.DBLe.5746",
+          "PD0138-C.g85.DBLe.1582",
+          "PD0138-C.g28.DBLe.6940",
+          "PD0138-C.g29.DBLe.4651",
+          "PD0138-C.g28.DBLe.8044"
+        ]
+      },
+      "PD0139-C": {
+        "count": 18,
+        "samples": [
+          "PD0139-C.g85.DBLe.5227",
+          "PD0139-C.g23.DBLe.7303",
+          "PD0139-C.g34.DBLe.5848",
+          "PD0139-C.g75.DBLe.6217",
+          "PD0139-C.g40.DBLe.7930",
+          "PD0139-C.g23.DBLe.8353",
+          "PD0139-C.g23.DBLe.9340",
+          "PD0139-C.g28.DBLe.9862",
+          "PD0139-C.g34.DBLe.4780",
+          "PD0139-C.g34.DBLe.6799",
+          "PD0139-C.g53.DBLe.5950",
+          "PD0139-C.g103.DBLe.2701",
+          "PD0139-C.g40.DBLe.5515",
+          "PD0139-C.g85.DBLe.2656",
+          "PD0139-C.g76.DBLe.6145",
+          "PD0139-C.g53.DBLe.4888",
+          "PD0139-C.g53.DBLe.6901",
+          "PD0139-C.g73.DBLe.4852"
+        ]
+      },
+      "PD0143-C": {
+        "count": 11,
+        "samples": [
+          "PD0143-C.g51.DBLe.5299",
+          "PD0143-C.g27.DBLe.7129",
+          "PD0143-C.g17.DBLe.6016",
+          "PD0143-C.g23.DBLe.5749",
+          "PD0143-C.g60.DBLe.5110",
+          "PD0143-C.g30.DBLe.7057",
+          "PD0143-C.g34.DBLe.6652",
+          "PD0143-C.g23.DBLe.3094",
+          "PD0143-C.g17.DBLe.7111",
+          "PD0143-C.g22.DBLe.8275",
+          "PD0143-C.g33.DBLe.5260"
+        ]
+      },
+      "PD0472-C": {
+        "count": 21,
+        "samples": [
+          "PD0472-C.g17.DBLe.6019",
+          "PD0472-C.g18.DBLe.5746",
+          "PD0472-C.g1.DBLe.5428",
+          "PD0472-C.g17.DBLe.3388",
+          "PD0472-C.g67.DBLe.4627",
+          "PD0472-C.g5.DBLe.6175",
+          "PD0472-C.g68.DBLe.5536",
+          "PD0472-C.g1.DBLe.6547",
+          "PD0472-C.g1.DBLe.7669",
+          "PD0472-C.g5.DBLe.8551",
+          "PD0472-C.g7.DBLe.4642",
+          "PD0472-C.g9.DBLe.8218",
+          "PD0472-C.g41.DBLe.5989",
+          "PD0472-C.g112.DBLe.3370",
+          "PD0472-C.g7.DBLe.5737",
+          "PD0472-C.g9.DBLe.9322",
+          "PD0472-C.g28.DBLe.3397",
+          "PD0472-C.g15.DBLe.5149",
+          "PD0472-C.g28.DBLe.6052",
+          "PD0472-C.g39.DBLe.4894",
+          "PD0472-C.g68.DBLe.3016"
+        ]
+      },
+      "PD0477-C": {
+        "count": 20,
+        "samples": [
+          "PD0477-C.g20.DBLe.9031",
+          "PD0477-C.g22.DBLe.4873",
+          "PD0477-C.g22.DBLe.5935",
+          "PD0477-C.g20.DBLe.6988",
+          "PD0477-C.g46.DBLe.5329",
+          "PD0477-C.g53.DBLe.6034",
+          "PD0477-C.g33.DBLe.7189",
+          "PD0477-C.g21.DBLe.5746",
+          "PD0477-C.g86.DBLe.3355",
+          "PD0477-C.g46.DBLe.2689",
+          "PD0477-C.g57.DBLe.3163",
+          "PD0477-C.g57.DBLe.4267",
+          "PD0477-C.g29.DBLe.7708",
+          "PD0477-C.g22.DBLe.6898",
+          "PD0477-C.g49.DBLe.7210",
+          "PD0477-C.g55.DBLe.4627",
+          "PD0477-C.g20.DBLe.8038",
+          "PD0477-C.g54.DBLe.6952",
+          "PD0477-C.g51.DBLe.5815",
+          "PD0477-C.g33.DBLe.4819"
+        ]
+      },
+      "PD0479-C": {
+        "count": 15,
+        "samples": [
+          "PD0479-C.g81.DBLe.1126",
+          "PD0479-C.g81.DBLe.3766",
+          "PD0479-C.g58.DBLe.3424",
+          "PD0479-C.g4.DBLe.8494",
+          "PD0479-C.g90.DBLe.1252",
+          "PD0479-C.g24.DBLe.6145",
+          "PD0479-C.g58.DBLe.2320",
+          "PD0479-C.g6.DBLe.8275",
+          "PD0479-C.g7.DBLe.8038",
+          "PD0479-C.g35.DBLe.4993",
+          "PD0479-C.g7.DBLe.9031",
+          "PD0479-C.g90.DBLe.3658",
+          "PD0479-C.g73.DBLe.4387",
+          "PD0479-C.g7.DBLe.6988",
+          "PD0479-C.g73.DBLe.2017"
+        ]
+      },
+      "PD0480-C": {
+        "count": 9,
+        "samples": [
+          "PD0480-C.g12.DBLe.5746",
+          "PD0480-C.g30.DBLe.4819",
+          "PD0480-C.g30.DBLe.7198",
+          "PD0480-C.g27.DBLe.5860",
+          "PD0480-C.g9.DBLe.8611",
+          "PD0480-C.g32.DBLe.6139",
+          "PD0480-C.g22.DBLe.7363",
+          "PD0480-C.g13.DBLe.8542",
+          "PD0480-C.g48.DBLe.4627"
+        ]
+      },
+      "PD0481-C": {
+        "count": 16,
+        "samples": [
+          "PD0481-C.g10.DBLe.3346",
+          "PD0481-C.g100.DBLe.3397",
+          "PD0481-C.g44.DBLe.4888",
+          "PD0481-C.g100.DBLe.1021",
+          "PD0481-C.g42.DBLe.7243",
+          "PD0481-C.g27.DBLe.7141",
+          "PD0481-C.g44.DBLe.6901",
+          "PD0481-C.g111.DBLe.3154",
+          "PD0481-C.g42.DBLe.4837",
+          "PD0481-C.g111.DBLe.1141",
+          "PD0481-C.g44.DBLe.5950",
+          "PD0481-C.g111.DBLe.2197",
+          "PD0481-C.g7.DBLe.5980",
+          "PD0481-C.g7.DBLe.4927",
+          "PD0481-C.g35.DBLe.6283",
+          "PD0481-C.g10.DBLe.5986"
+        ]
+      },
+      "PD0482-C": {
+        "count": 20,
+        "samples": [
+          "PD0482-C.g67.DBLe.5758",
+          "PD0482-C.g38.DBLe.4690",
+          "PD0482-C.g43.DBLe.5848",
+          "PD0482-C.g67.DBLe.4702",
+          "PD0482-C.g44.DBLe.3436",
+          "PD0482-C.g43.DBLe.4780",
+          "PD0482-C.g43.DBLe.6799",
+          "PD0482-C.g50.DBLe.6145",
+          "PD0482-C.g16.DBLe.7942",
+          "PD0482-C.g28.DBLe.6901",
+          "PD0482-C.g38.DBLe.7060",
+          "PD0482-C.g7.DBLe.6946",
+          "PD0482-C.g16.DBLe.6877",
+          "PD0482-C.g36.DBLe.7201",
+          "PD0482-C.g29.DBLe.7141",
+          "PD0482-C.g26.DBLe.5746",
+          "PD0482-C.g72.DBLe.4654",
+          "PD0482-C.g44.DBLe.5971",
+          "PD0482-C.g7.DBLe.9301",
+          "PD0482-C.g88.DBLe.4627"
+        ]
+      },
+      "PD0483-C": {
+        "count": 15,
+        "samples": [
+          "PD0483-C.g50.DBLe.6952",
+          "PD0483-C.g56.DBLe.6748",
+          "PD0483-C.g60.DBLe.6973",
+          "PD0483-C.g64.DBLe.4702",
+          "PD0483-C.g96.DBLe.3355",
+          "PD0483-C.g72.DBLe.6049",
+          "PD0483-C.g57.DBLe.5878",
+          "PD0483-C.g58.DBLe.6481",
+          "PD0483-C.g68.DBLe.4627",
+          "PD0483-C.g72.DBLe.3517",
+          "PD0483-C.g60.DBLe.4603",
+          "PD0483-C.g56.DBLe.5785",
+          "PD0483-C.g56.DBLe.4738",
+          "PD0483-C.g64.DBLe.5758",
+          "PD0483-C.g57.DBLe.3427"
+        ]
+      },
+      "PD0484-C": {
+        "count": 21,
+        "samples": [
+          "PD0484-C.g71.DBLe.5758",
+          "PD0484-C.g49.DBLe.6037",
+          "PD0484-C.g71.DBLe.4702",
+          "PD0484-C.g94.DBLe.4489",
+          "PD0484-C.g26.DBLe.6901",
+          "PD0484-C.g68.DBLe.4654",
+          "PD0484-C.g22.DBLe.9301",
+          "PD0484-C.g49.DBLe.4018",
+          "PD0484-C.g34.DBLe.7942",
+          "PD0484-C.g8.DBLe.4627",
+          "PD0484-C.g38.DBLe.6019",
+          "PD0484-C.g85.DBLe.3355",
+          "PD0484-C.g13.DBLe.5746",
+          "PD0484-C.g118.DBLe.3631",
+          "PD0484-C.g32.DBLe.4690",
+          "PD0484-C.g49.DBLe.5086",
+          "PD0484-C.g22.DBLe.6946",
+          "PD0484-C.g34.DBLe.6877",
+          "PD0484-C.g86.DBLe.4969",
+          "PD0484-C.g38.DBLe.3484",
+          "PD0484-C.g32.DBLe.7060"
+        ]
+      },
+      "PD0485-C": {
+        "count": 18,
+        "samples": [
+          "PD0485-C.g13.DBLe.6946",
+          "PD0485-C.g54.DBLe.6145",
+          "PD0485-C.g61.DBLe.4654",
+          "PD0485-C.g172.DBLe.2956",
+          "PD0485-C.g81.DBLe.4627",
+          "PD0485-C.g172.DBLe.2005",
+          "PD0485-C.g25.DBLe.8275",
+          "PD0485-C.g45.DBLe.5740",
+          "PD0485-C.g32.DBLe.5161",
+          "PD0485-C.g17.DBLe.6901",
+          "PD0485-C.g139.DBLe.1801",
+          "PD0485-C.g91.DBLe.5026",
+          "PD0485-C.g139.DBLe.4171",
+          "PD0485-C.g33.DBLe.6910",
+          "PD0485-C.g172.DBLe.937",
+          "PD0485-C.g56.DBLe.5758",
+          "PD0485-C.g56.DBLe.4702",
+          "PD0485-C.g13.DBLe.9301"
+        ]
+      },
+      "PD0487-C": {
+        "count": 8,
+        "samples": [
+          "PD0487-C.g39.DBLe.7123",
+          "PD0487-C.g77.DBLe.3355",
+          "PD0487-C.g28.DBLe.8275",
+          "PD0487-C.g48.DBLe.6202",
+          "PD0487-C.g21.DBLe.5746",
+          "PD0487-C.g59.DBLe.5023",
+          "PD0487-C.g85.DBLe.3325",
+          "PD0487-C.g131.DBLe.3421"
+        ]
+      },
+      "PD0488-C": {
+        "count": 17,
+        "samples": [
+          "PD0488-C.g15.DBLe.5962",
+          "PD0488-C.g10.DBLe.6955",
+          "PD0488-C.g42.DBLe.6058",
+          "PD0488-C.g28.DBLe.7474",
+          "PD0488-C.g41.DBLe.5746",
+          "PD0488-C.g23.DBLe.6364",
+          "PD0488-C.g7.DBLe.5986",
+          "PD0488-C.g10.DBLe.8002",
+          "PD0488-C.g15.DBLe.3376",
+          "PD0488-C.g28.DBLe.6364",
+          "PD0488-C.g7.DBLe.3346",
+          "PD0488-C.g10.DBLe.8956",
+          "PD0488-C.g33.DBLe.5950",
+          "PD0488-C.g33.DBLe.4888",
+          "PD0488-C.g19.DBLe.6112",
+          "PD0488-C.g69.DBLe.4714",
+          "PD0488-C.g33.DBLe.6901"
+        ]
+      },
+      "PD0489-C": {
+        "count": 25,
+        "samples": [
+          "PD0489-C.g29.DBLe.5785",
+          "PD0489-C.g50.DBLe.4405",
+          "PD0489-C.g48.DBLe.6016",
+          "PD0489-C.g81.DBLe.4471",
+          "PD0489-C.g81.DBLe.3361",
+          "PD0489-C.g78.DBLe.2593",
+          "PD0489-C.g21.DBLe.3355",
+          "PD0489-C.g23.DBLe.7195",
+          "PD0489-C.g6.DBLe.9301",
+          "PD0489-C.g50.DBLe.6448",
+          "PD0489-C.g29.DBLe.4738",
+          "PD0489-C.g102.DBLe.4324",
+          "PD0489-C.g18.DBLe.6619",
+          "PD0489-C.g21.DBLe.5929",
+          "PD0489-C.g78.DBLe.4960",
+          "PD0489-C.g8.DBLe.6841",
+          "PD0489-C.g18.DBLe.5515",
+          "PD0489-C.g110.DBLe.3976",
+          "PD0489-C.g25.DBLe.6397",
+          "PD0489-C.g49.DBLe.6397",
+          "PD0489-C.g6.DBLe.6946",
+          "PD0489-C.g29.DBLe.6748",
+          "PD0489-C.g50.DBLe.5455",
+          "PD0489-C.g5.DBLe.8275",
+          "PD0489-C.g4.DBLe.8182"
+        ]
+      },
+      "PD0490-C": {
+        "count": 9,
+        "samples": [
+          "PD0490-C.g6.DBLe.8371",
+          "PD0490-C.g22.DBLe.6877",
+          "PD0490-C.g41.DBLe.3343",
+          "PD0490-C.g26.DBLe.6685",
+          "PD0490-C.g26.DBLe.5569",
+          "PD0490-C.g22.DBLe.7942",
+          "PD0490-C.g22.DBLe.8914",
+          "PD0490-C.g41.DBLe.5983",
+          "PD0490-C.g47.DBLe.6019"
+        ]
+      },
+      "PD0492-C": {
+        "count": 30,
+        "samples": [
+          "PD0492-C.g144.DBLe.1816",
+          "PD0492-C.g31.DBLe.5992",
+          "PD0492-C.g9.DBLe.8416",
+          "PD0492-C.g18.DBLe.4984",
+          "PD0492-C.g18.DBLe.7501",
+          "PD0492-C.g17.DBLe.5569",
+          "PD0492-C.g17.DBLe.6685",
+          "PD0492-C.g4.DBLe.6961",
+          "PD0492-C.g44.DBLe.4618",
+          "PD0492-C.g67.DBLe.4798",
+          "PD0492-C.g44.DBLe.5722",
+          "PD0492-C.g4.DBLe.9340",
+          "PD0492-C.g12.DBLe.5980",
+          "PD0492-C.g106.DBLe.3505",
+          "PD0492-C.g102.DBLe.3859",
+          "PD0492-C.g99.DBLe.2020",
+          "PD0492-C.g19.DBLe.8275",
+          "PD0492-C.g31.DBLe.6976",
+          "PD0492-C.g135.DBLe.2953",
+          "PD0492-C.g99.DBLe.4069",
+          "PD0492-C.g6.DBLe.6145",
+          "PD0492-C.g12.DBLe.4927",
+          "PD0492-C.g21.DBLe.7384",
+          "PD0492-C.g31.DBLe.4933",
+          "PD0492-C.g99.DBLe.3085",
+          "PD0492-C.g67.DBLe.2251",
+          "PD0492-C.g26.DBLe.5860",
+          "PD0492-C.g7.DBLe.8914",
+          "PD0492-C.g5.DBLe.9490",
+          "PD0492-C.g35.DBLe.5746"
+        ]
+      },
+      "PD0493-C": {
+        "count": 10,
+        "samples": [
+          "PD0493-C.g48.DBLe.6235",
+          "PD0493-C.g10.DBLe.6088",
+          "PD0493-C.g49.DBLe.7573",
+          "PD0493-C.g40.DBLe.7384",
+          "PD0493-C.g51.DBLe.7129",
+          "PD0493-C.g8.DBLe.8506",
+          "PD0493-C.g39.DBLe.8302",
+          "PD0493-C.g54.DBLe.6133",
+          "PD0493-C.g10.DBLe.5035",
+          "PD0493-C.g61.DBLe.4471"
+        ]
+      },
+      "PD0494-C": {
+        "count": 15,
+        "samples": [
+          "PD0494-C.g88.DBLe.2212",
+          "PD0494-C.g64.DBLe.7306",
+          "PD0494-C.g27.DBLe.8275",
+          "PD0494-C.g22.DBLe.4927",
+          "PD0494-C.g44.DBLe.4618",
+          "PD0494-C.g88.DBLe.3259",
+          "PD0494-C.g88.DBLe.4222",
+          "PD0494-C.g56.DBLe.6286",
+          "PD0494-C.g42.DBLe.6841",
+          "PD0494-C.g73.DBLe.6217",
+          "PD0494-C.g44.DBLe.5722",
+          "PD0494-C.g46.DBLe.8677",
+          "PD0494-C.g47.DBLe.8275",
+          "PD0494-C.g22.DBLe.5980",
+          "PD0494-C.g66.DBLe.3505"
+        ]
+      },
+      "PD0496-C": {
+        "count": 11,
+        "samples": [
+          "PD0496-C.g23.DBLe.8038",
+          "PD0496-C.g23.DBLe.6988",
+          "PD0496-C.g52.DBLe.6397",
+          "PD0496-C.g18.DBLe.5746",
+          "PD0496-C.g17.DBLe.8275",
+          "PD0496-C.g6.DBLe.8275",
+          "PD0496-C.g36.DBLe.5515",
+          "PD0496-C.g23.DBLe.9031",
+          "PD0496-C.g51.DBLe.5815",
+          "PD0496-C.g36.DBLe.6619",
+          "PD0496-C.g26.DBLe.7141"
+        ]
+      },
+      "PD0499-C": {
+        "count": 28,
+        "samples": [
+          "PD0499-C.g21.DBLe.7642",
+          "PD0499-C.g30.DBLe.4888",
+          "PD0499-C.g24.DBLe.7555",
+          "PD0499-C.g76.DBLe.3766",
+          "PD0499-C.g17.DBLe.3382",
+          "PD0499-C.g27.DBLe.7285",
+          "PD0499-C.g162.DBLe.1861",
+          "PD0499-C.g144.DBLe.3367",
+          "PD0499-C.g59.DBLe.4984",
+          "PD0499-C.g30.DBLe.6901",
+          "PD0499-C.g43.DBLe.5926",
+          "PD0499-C.g22.DBLe.7039",
+          "PD0499-C.g17.DBLe.6031",
+          "PD0499-C.g57.DBLe.5980",
+          "PD0499-C.g37.DBLe.5878",
+          "PD0499-C.g14.DBLe.8191",
+          "PD0499-C.g20.DBLe.6586",
+          "PD0499-C.g126.DBLe.4174",
+          "PD0499-C.g12.DBLe.8275",
+          "PD0499-C.g30.DBLe.5950",
+          "PD0499-C.g32.DBLe.6811",
+          "PD0499-C.g37.DBLe.3343",
+          "PD0499-C.g57.DBLe.3604",
+          "PD0499-C.g61.DBLe.5494",
+          "PD0499-C.g162.DBLe.2965",
+          "PD0499-C.g46.DBLe.6151",
+          "PD0499-C.g75.DBLe.4669",
+          "PD0499-C.g43.DBLe.3352"
+        ]
+      },
+      "PD0500-C": {
+        "count": 22,
+        "samples": [
+          "PD0500-C.g17.DBLe.5722",
+          "PD0500-C.g29.DBLe.5746",
+          "PD0500-C.g57.DBLe.4672",
+          "PD0500-C.g9.DBLe.5428",
+          "PD0500-C.g30.DBLe.5878",
+          "PD0500-C.g6.DBLe.9259",
+          "PD0500-C.g3.DBLe.8275",
+          "PD0500-C.g17.DBLe.6709",
+          "PD0500-C.g9.DBLe.6547",
+          "PD0500-C.g30.DBLe.3427",
+          "PD0500-C.g57.DBLe.2626",
+          "PD0500-C.g17.DBLe.4684",
+          "PD0500-C.g6.DBLe.6880",
+          "PD0500-C.g21.DBLe.6007",
+          "PD0500-C.g57.DBLe.3682",
+          "PD0500-C.g40.DBLe.5284",
+          "PD0500-C.g100.DBLe.3526",
+          "PD0500-C.g9.DBLe.7669",
+          "PD0500-C.g7.DBLe.8617",
+          "PD0500-C.g109.DBLe.2959",
+          "PD0500-C.g20.DBLe.5011",
+          "PD0500-C.g43.DBLe.4921"
+        ]
+      },
+      "PD0501-C": {
+        "count": 24,
+        "samples": [
+          "PD0501-C.g34.DBLe.6217",
+          "PD0501-C.g31.DBLe.4648",
+          "PD0501-C.g16.DBLe.5722",
+          "PD0501-C.g36.DBLe.3427",
+          "PD0501-C.g3.DBLe.8275",
+          "PD0501-C.g21.DBLe.7669",
+          "PD0501-C.g57.DBLe.4921",
+          "PD0501-C.g35.DBLe.6007",
+          "PD0501-C.g70.DBLe.4663",
+          "PD0501-C.g70.DBLe.2617",
+          "PD0501-C.g30.DBLe.5011",
+          "PD0501-C.g21.DBLe.5428",
+          "PD0501-C.g70.DBLe.3673",
+          "PD0501-C.g39.DBLe.6169",
+          "PD0501-C.g21.DBLe.6547",
+          "PD0501-C.g36.DBLe.5878",
+          "PD0501-C.g91.DBLe.3820",
+          "PD0501-C.g37.DBLe.5746",
+          "PD0501-C.g6.DBLe.9259",
+          "PD0501-C.g16.DBLe.6709",
+          "PD0501-C.g12.DBLe.8617",
+          "PD0501-C.g51.DBLe.5284",
+          "PD0501-C.g16.DBLe.4684",
+          "PD0501-C.g6.DBLe.6880"
+        ]
+      },
+      "PD0503-C": {
+        "count": 6,
+        "samples": [
+          "PD0503-C.g57.DBLe.5992",
+          "PD0503-C.g28.DBLe.7378",
+          "PD0503-C.g58.DBLe.6082",
+          "PD0503-C.g17.DBLe.8851",
+          "PD0503-C.g29.DBLe.6514",
+          "PD0503-C.g40.DBLe.6088"
+        ]
+      },
+      "PD0504-C": {
+        "count": 16,
+        "samples": [
+          "PD0504-C.g41.DBLe.5890",
+          "PD0504-C.g38.DBLe.6208",
+          "PD0504-C.g38.DBLe.7195",
+          "PD0504-C.g36.DBLe.6718",
+          "PD0504-C.g67.DBLe.4906",
+          "PD0504-C.g21.DBLe.8011",
+          "PD0504-C.g38.DBLe.5146",
+          "PD0504-C.g29.DBLe.5116",
+          "PD0504-C.g46.DBLe.6022",
+          "PD0504-C.g46.DBLe.3373",
+          "PD0504-C.g53.DBLe.4597",
+          "PD0504-C.g24.DBLe.7141",
+          "PD0504-C.g41.DBLe.3430",
+          "PD0504-C.g29.DBLe.7486",
+          "PD0504-C.g36.DBLe.5659",
+          "PD0504-C.g72.DBLe.4165"
+        ]
+      },
+      "PD0506-C": {
+        "count": 16,
+        "samples": [
+          "PD0506-C.g72.DBLe.6718",
+          "PD0506-C.g72.DBLe.5659",
+          "PD0506-C.g43.DBLe.8011",
+          "PD0506-C.g96.DBLe.3373",
+          "PD0506-C.g34.DBLe.4597",
+          "PD0506-C.g25.DBLe.5116",
+          "PD0506-C.g96.DBLe.6022",
+          "PD0506-C.g26.DBLe.9403",
+          "PD0506-C.g25.DBLe.7486",
+          "PD0506-C.g54.DBLe.6208",
+          "PD0506-C.g44.DBLe.4906",
+          "PD0506-C.g54.DBLe.7195",
+          "PD0506-C.g29.DBLe.7141",
+          "PD0506-C.g26.DBLe.6943",
+          "PD0506-C.g57.DBLe.8302",
+          "PD0506-C.g54.DBLe.5146"
+        ]
+      },
+      "PD0507-C": {
+        "count": 13,
+        "samples": [
+          "PD0507-C.g107.DBLe.3373",
+          "PD0507-C.g40.DBLe.4852",
+          "PD0507-C.g24.DBLe.5428",
+          "PD0507-C.g27.DBLe.4975",
+          "PD0507-C.g107.DBLe.4336",
+          "PD0507-C.g52.DBLe.5746",
+          "PD0507-C.g40.DBLe.7213",
+          "PD0507-C.g45.DBLe.6385",
+          "PD0507-C.g43.DBLe.6847",
+          "PD0507-C.g71.DBLe.5725",
+          "PD0507-C.g24.DBLe.6547",
+          "PD0507-C.g107.DBLe.2311",
+          "PD0507-C.g24.DBLe.7669"
+        ]
+      },
+      "PD0508-C": {
+        "count": 16,
+        "samples": [
+          "PD0508-C.g46.DBLe.6208",
+          "PD0508-C.g51.DBLe.4906",
+          "PD0508-C.g24.DBLe.4597",
+          "PD0508-C.g45.DBLe.6022",
+          "PD0508-C.g22.DBLe.8011",
+          "PD0508-C.g45.DBLe.3373",
+          "PD0508-C.g21.DBLe.7486",
+          "PD0508-C.g46.DBLe.7195",
+          "PD0508-C.g25.DBLe.8302",
+          "PD0508-C.g23.DBLe.7141",
+          "PD0508-C.g21.DBLe.5116",
+          "PD0508-C.g46.DBLe.5146",
+          "PD0508-C.g34.DBLe.5659",
+          "PD0508-C.g12.DBLe.6943",
+          "PD0508-C.g12.DBLe.9403",
+          "PD0508-C.g34.DBLe.6718"
+        ]
+      },
+      "PF0022-C": {
+        "count": 3,
+        "samples": [
+          "PF0022-C.g64.DBLe.5071",
+          "PF0022-C.g46.DBLe.6940",
+          "PF0022-C.g46.DBLe.9319"
+        ]
+      },
+      "PF0043-C": {
+        "count": 8,
+        "samples": [
+          "PF0043-C.g53.DBLe.5878",
+          "PF0043-C.g24.DBLe.6937",
+          "PF0043-C.g37.DBLe.7090",
+          "PF0043-C.g53.DBLe.4762",
+          "PF0043-C.g37.DBLe.3337",
+          "PF0043-C.g24.DBLe.9316",
+          "PF0043-C.g37.DBLe.4459",
+          "PF0043-C.g39.DBLe.7396"
+        ]
+      },
+      "PF0051-C": {
+        "count": 15,
+        "samples": [
+          "PF0051-C.g65.DBLe.2371",
+          "PF0051-C.g65.DBLe.3424",
+          "PF0051-C.g30.DBLe.6223",
+          "PF0051-C.g94.DBLe.3037",
+          "PF0051-C.g11.DBLe.4858",
+          "PF0051-C.g65.DBLe.4417",
+          "PF0051-C.g95.DBLe.4249",
+          "PF0051-C.g58.DBLe.4351",
+          "PF0051-C.g24.DBLe.4789",
+          "PF0051-C.g72.DBLe.3697",
+          "PF0051-C.g72.DBLe.4846",
+          "PF0051-C.g11.DBLe.5908",
+          "PF0051-C.g37.DBLe.2260",
+          "PF0051-C.g94.DBLe.4156",
+          "PF0051-C.g24.DBLe.5914"
+        ]
+      },
+      "PF0057-C": {
+        "count": 16,
+        "samples": [
+          "PF0057-C.g104.DBLe.3334",
+          "PF0057-C.g30.DBLe.7651",
+          "PF0057-C.g131.DBLe.3319",
+          "PF0057-C.g104.DBLe.2272",
+          "PF0057-C.g22.DBLe.6304",
+          "PF0057-C.g17.DBLe.6694",
+          "PF0057-C.g30.DBLe.6520",
+          "PF0057-C.g17.DBLe.9070",
+          "PF0057-C.g104.DBLe.4324",
+          "PF0057-C.g37.DBLe.6529",
+          "PF0057-C.g24.DBLe.6187",
+          "PF0057-C.g33.DBLe.6139",
+          "PF0057-C.g31.DBLe.5011",
+          "PF0057-C.g49.DBLe.6094",
+          "PF0057-C.g44.DBLe.6274",
+          "PF0057-C.g21.DBLe.7576"
+        ]
+      },
+      "PF0062-C": {
+        "count": 7,
+        "samples": [
+          "PF0062-C.g26.DBLe.9319",
+          "PF0062-C.g40.DBLe.5125",
+          "PF0062-C.g40.DBLe.7186",
+          "PF0062-C.g19.DBLe.9679",
+          "PF0062-C.g40.DBLe.6193",
+          "PF0062-C.g26.DBLe.6904",
+          "PF0062-C.g51.DBLe.6316"
+        ]
+      },
+      "PF0063-C": {
+        "count": 14,
+        "samples": [
+          "PF0063-C.g26.DBLe.6208",
+          "PF0063-C.g17.DBLe.6517",
+          "PF0063-C.g27.DBLe.4807",
+          "PF0063-C.g41.DBLe.5146",
+          "PF0063-C.g11.DBLe.6940",
+          "PF0063-C.g55.DBLe.3457",
+          "PF0063-C.g45.DBLe.5125",
+          "PF0063-C.g27.DBLe.5929",
+          "PF0063-C.g11.DBLe.7933",
+          "PF0063-C.g13.DBLe.5038",
+          "PF0063-C.g18.DBLe.6178",
+          "PF0063-C.g35.DBLe.4888",
+          "PF0063-C.g91.DBLe.1492",
+          "PF0063-C.g11.DBLe.5881"
+        ]
+      },
+      "PF0069-C": {
+        "count": 14,
+        "samples": [
+          "PF0069-C.g16.DBLe.7768",
+          "PF0069-C.g117.DBLe.2923",
+          "PF0069-C.g41.DBLe.6430",
+          "PF0069-C.g22.DBLe.6058",
+          "PF0069-C.g40.DBLe.6262",
+          "PF0069-C.g57.DBLe.3469",
+          "PF0069-C.g22.DBLe.7036",
+          "PF0069-C.g21.DBLe.7147",
+          "PF0069-C.g22.DBLe.4999",
+          "PF0069-C.g16.DBLe.5116",
+          "PF0069-C.g60.DBLe.5599",
+          "PF0069-C.g39.DBLe.6397",
+          "PF0069-C.g29.DBLe.5533",
+          "PF0069-C.g49.DBLe.6019"
+        ]
+      },
+      "PF0080-C": {
+        "count": 7,
+        "samples": [
+          "PF0080-C.g18.DBLe.5533",
+          "PF0080-C.g58.DBLe.5185",
+          "PF0080-C.g56.DBLe.4945",
+          "PF0080-C.g19.DBLe.6928",
+          "PF0080-C.g19.DBLe.7984",
+          "PF0080-C.g28.DBLe.3373",
+          "PF0080-C.g28.DBLe.6013"
+        ]
+      },
+      "PF0097-C": {
+        "count": 13,
+        "samples": [
+          "PF0097-C.g42.DBLe.7120",
+          "PF0097-C.g91.DBLe.4507",
+          "PF0097-C.g24.DBLe.4927",
+          "PF0097-C.g42.DBLe.4756",
+          "PF0097-C.g52.DBLe.3352",
+          "PF0097-C.g87.DBLe.3649",
+          "PF0097-C.g91.DBLe.2452",
+          "PF0097-C.g52.DBLe.5983",
+          "PF0097-C.g91.DBLe.3520",
+          "PF0097-C.g24.DBLe.7399",
+          "PF0097-C.g6.DBLe.5863",
+          "PF0097-C.g21.DBLe.4906",
+          "PF0097-C.g87.DBLe.2545"
+        ]
+      },
+      "PF0100-C": {
+        "count": 12,
+        "samples": [
+          "PF0100-C.g63.DBLe.3598",
+          "PF0100-C.g47.DBLe.3382",
+          "PF0100-C.g34.DBLe.7717",
+          "PF0100-C.g64.DBLe.4777",
+          "PF0100-C.g65.DBLe.3898",
+          "PF0100-C.g63.DBLe.2557",
+          "PF0100-C.g63.DBLe.4549",
+          "PF0100-C.g25.DBLe.8080",
+          "PF0100-C.g64.DBLe.5902",
+          "PF0100-C.g55.DBLe.6139",
+          "PF0100-C.g47.DBLe.6025",
+          "PF0100-C.g25.DBLe.5551"
+        ]
+      },
+      "PF0101-C": {
+        "count": 6,
+        "samples": [
+          "PF0101-C.g85.DBLe.3598",
+          "PF0101-C.g85.DBLe.2467",
+          "PF0101-C.g39.DBLe.6250",
+          "PF0101-C.g51.DBLe.4846",
+          "PF0101-C.g26.DBLe.7306",
+          "PF0101-C.g44.DBLe.6169"
+        ]
+      },
+      "PF0102-C": {
+        "count": 7,
+        "samples": [
+          "PF0102-C.g100.DBLe.3562",
+          "PF0102-C.g35.DBLe.3400",
+          "PF0102-C.g35.DBLe.6040",
+          "PF0102-C.g12.DBLe.5053",
+          "PF0102-C.g28.DBLe.8122",
+          "PF0102-C.g46.DBLe.6151",
+          "PF0102-C.g12.DBLe.7495"
+        ]
+      },
+      "PF0103-C": {
+        "count": 17,
+        "samples": [
+          "PF0103-C.g54.DBLe.5920",
+          "PF0103-C.g26.DBLe.9322",
+          "PF0103-C.g83.DBLe.6235",
+          "PF0103-C.g37.DBLe.6547",
+          "PF0103-C.g54.DBLe.3343",
+          "PF0103-C.g84.DBLe.6178",
+          "PF0103-C.g106.DBLe.6109",
+          "PF0103-C.g50.DBLe.5755",
+          "PF0103-C.g14.DBLe.3295",
+          "PF0103-C.g34.DBLe.10141",
+          "PF0103-C.g37.DBLe.5428",
+          "PF0103-C.g37.DBLe.7669",
+          "PF0103-C.g26.DBLe.6943",
+          "PF0103-C.g100.DBLe.5992",
+          "PF0103-C.g114.DBLe.4843",
+          "PF0103-C.g101.DBLe.5287",
+          "PF0103-C.g15.DBLe.6421"
+        ]
+      },
+      "PF0109-C": {
+        "count": 11,
+        "samples": [
+          "PF0109-C.g41.DBLe.2410",
+          "PF0109-C.g28.DBLe.5047",
+          "PF0109-C.g8.DBLe.6193",
+          "PF0109-C.g19.DBLe.7210",
+          "PF0109-C.g16.DBLe.8065",
+          "PF0109-C.g16.DBLe.6928",
+          "PF0109-C.g40.DBLe.2722",
+          "PF0109-C.g41.DBLe.4786",
+          "PF0109-C.g24.DBLe.6019",
+          "PF0109-C.g40.DBLe.3772",
+          "PF0109-C.g40.DBLe.4723"
+        ]
+      },
+      "PF0116-C": {
+        "count": 7,
+        "samples": [
+          "PF0116-C.g90.DBLe.3124",
+          "PF0116-C.g23.DBLe.6898",
+          "PF0116-C.g32.DBLe.5977",
+          "PF0116-C.g32.DBLe.3379",
+          "PF0116-C.g13.DBLe.6481",
+          "PF0116-C.g34.DBLe.4897",
+          "PF0116-C.g13.DBLe.3841"
+        ]
+      },
+      "PF0117-C": {
+        "count": 14,
+        "samples": [
+          "PF0117-C.g20.DBLe.5836",
+          "PF0117-C.g29.DBLe.5047",
+          "PF0117-C.g9.DBLe.6004",
+          "PF0117-C.g9.DBLe.4948",
+          "PF0117-C.g20.DBLe.3199",
+          "PF0117-C.g9.DBLe.6994",
+          "PF0117-C.g4.DBLe.5548",
+          "PF0117-C.g6.DBLe.7249",
+          "PF0117-C.g6.DBLe.4837",
+          "PF0117-C.g30.DBLe.4966",
+          "PF0117-C.g14.DBLe.6178",
+          "PF0117-C.g4.DBLe.7924",
+          "PF0117-C.g16.DBLe.4756",
+          "PF0117-C.g16.DBLe.5860"
+        ]
+      },
+      "PF0127-C": {
+        "count": 11,
+        "samples": [
+          "PF0127-C.g23.DBLe.4594",
+          "PF0127-C.g12.DBLe.6127",
+          "PF0127-C.g23.DBLe.3499",
+          "PF0127-C.g68.DBLe.3706",
+          "PF0127-C.g12.DBLe.7222",
+          "PF0127-C.g1.DBLe.6259",
+          "PF0127-C.g2.DBLe.9418",
+          "PF0127-C.g4.DBLe.8386",
+          "PF0127-C.g19.DBLe.6124",
+          "PF0127-C.g23.DBLe.5716",
+          "PF0127-C.g18.DBLe.6100"
+        ]
+      },
+      "PF0132-C": {
+        "count": 7,
+        "samples": [
+          "PF0132-C.g111.DBLe.4195",
+          "PF0132-C.g38.DBLe.8719",
+          "PF0132-C.g61.DBLe.6397",
+          "PF0132-C.g67.DBLe.4015",
+          "PF0132-C.g44.DBLe.3538",
+          "PF0132-C.g44.DBLe.6034",
+          "PF0132-C.g36.DBLe.6535"
+        ]
+      },
+      "PF0136-C": {
+        "count": 6,
+        "samples": [
+          "PF0136-C.g44.DBLe.5983",
+          "PF0136-C.g45.DBLe.5047",
+          "PF0136-C.g11.DBLe.4969",
+          "PF0136-C.g16.DBLe.4861",
+          "PF0136-C.g12.DBLe.4858",
+          "PF0136-C.g44.DBLe.3352"
+        ]
+      },
+      "PF0141-C": {
+        "count": 13,
+        "samples": [
+          "PF0141-C.g105.DBLe.3304",
+          "PF0141-C.g98.DBLe.2386",
+          "PF0141-C.g7.DBLe.6547",
+          "PF0141-C.g1.DBLe.6940",
+          "PF0141-C.g43.DBLe.2878",
+          "PF0141-C.g63.DBLe.4087",
+          "PF0141-C.g1.DBLe.9319",
+          "PF0141-C.g7.DBLe.5428",
+          "PF0141-C.g43.DBLe.5242",
+          "PF0141-C.g17.DBLe.6226",
+          "PF0141-C.g7.DBLe.7669",
+          "PF0141-C.g21.DBLe.6091",
+          "PF0141-C.g98.DBLe.3517"
+        ]
+      },
+      "PF0148-C": {
+        "count": 12,
+        "samples": [
+          "PF0148-C.g29.DBLe.6190",
+          "PF0148-C.g16.DBLe.7219",
+          "PF0148-C.g35.DBLe.3364",
+          "PF0148-C.g36.DBLe.6010",
+          "PF0148-C.g33.DBLe.6040",
+          "PF0148-C.g75.DBLe.3802",
+          "PF0148-C.g35.DBLe.5938",
+          "PF0148-C.g20.DBLe.4891",
+          "PF0148-C.g16.DBLe.8287",
+          "PF0148-C.g36.DBLe.3571",
+          "PF0148-C.g16.DBLe.3604",
+          "PF0148-C.g3.DBLe.6112"
+        ]
+      },
+      "PF0180-C": {
+        "count": 16,
+        "samples": [
+          "PF0180-C.g30.DBLe.8362",
+          "PF0180-C.g38.DBLe.6778",
+          "PF0180-C.g54.DBLe.7486",
+          "PF0180-C.g34.DBLe.9490",
+          "PF0180-C.g38.DBLe.9154",
+          "PF0180-C.g55.DBLe.6157",
+          "PF0180-C.g54.DBLe.5005",
+          "PF0180-C.g53.DBLe.9313",
+          "PF0180-C.g69.DBLe.7033",
+          "PF0180-C.g87.DBLe.5014",
+          "PF0180-C.g34.DBLe.7111",
+          "PF0180-C.g92.DBLe.4810",
+          "PF0180-C.g49.DBLe.4999",
+          "PF0180-C.g92.DBLe.2419",
+          "PF0180-C.g53.DBLe.6943",
+          "PF0180-C.g70.DBLe.6130"
+        ]
+      },
+      "PF0184-C": {
+        "count": 14,
+        "samples": [
+          "PF0184-C.g23.DBLe.8107",
+          "PF0184-C.g107.DBLe.3475",
+          "PF0184-C.g33.DBLe.7435",
+          "PF0184-C.g40.DBLe.6013",
+          "PF0184-C.g52.DBLe.2626",
+          "PF0184-C.g52.DBLe.4648",
+          "PF0184-C.g34.DBLe.5089",
+          "PF0184-C.g17.DBLe.6940",
+          "PF0184-C.g28.DBLe.6241",
+          "PF0184-C.g52.DBLe.3679",
+          "PF0184-C.g40.DBLe.3364",
+          "PF0184-C.g76.DBLe.4849",
+          "PF0184-C.g17.DBLe.9313",
+          "PF0184-C.g39.DBLe.7522"
+        ]
+      },
+      "PF0185-C": {
+        "count": 8,
+        "samples": [
+          "PF0185-C.g48.DBLe.7219",
+          "PF0185-C.g39.DBLe.6667",
+          "PF0185-C.g48.DBLe.6127",
+          "PF0185-C.g28.DBLe.7879",
+          "PF0185-C.g37.DBLe.6142",
+          "PF0185-C.g28.DBLe.5299",
+          "PF0185-C.g88.DBLe.4903",
+          "PF0185-C.g62.DBLe.6070"
+        ]
+      },
+      "PF0188-C": {
+        "count": 10,
+        "samples": [
+          "PF0188-C.g39.DBLe.8251",
+          "PF0188-C.g32.DBLe.6871",
+          "PF0188-C.g45.DBLe.7588",
+          "PF0188-C.g57.DBLe.6424",
+          "PF0188-C.g32.DBLe.8926",
+          "PF0188-C.g39.DBLe.7261",
+          "PF0188-C.g39.DBLe.6196",
+          "PF0188-C.g32.DBLe.7939",
+          "PF0188-C.g45.DBLe.5179",
+          "PF0188-C.g17.DBLe.8038"
+        ]
+      },
+      "PF0190-C": {
+        "count": 4,
+        "samples": [
+          "PF0190-C.g38.DBLe.6880",
+          "PF0190-C.g117.DBLe.3649",
+          "PF0190-C.g117.DBLe.2545",
+          "PF0190-C.g63.DBLe.6052"
+        ]
+      },
+      "PF0192-C": {
+        "count": 16,
+        "samples": [
+          "PF0192-C.g20.DBLe.3454",
+          "PF0192-C.g20.DBLe.6037",
+          "PF0192-C.g22.DBLe.6094",
+          "PF0192-C.g101.DBLe.3262",
+          "PF0192-C.g40.DBLe.3109",
+          "PF0192-C.g18.DBLe.7174",
+          "PF0192-C.g40.DBLe.5560",
+          "PF0192-C.g58.DBLe.4408",
+          "PF0192-C.g56.DBLe.4816",
+          "PF0192-C.g58.DBLe.3304",
+          "PF0192-C.g17.DBLe.7948",
+          "PF0192-C.g9.DBLe.9328",
+          "PF0192-C.g18.DBLe.6070",
+          "PF0192-C.g17.DBLe.5527",
+          "PF0192-C.g15.DBLe.7321",
+          "PF0192-C.g97.DBLe.3460"
+        ]
+      },
+      "PF0197-C": {
+        "count": 11,
+        "samples": [
+          "PF0197-C.g48.DBLe.3376",
+          "PF0197-C.g29.DBLe.7303",
+          "PF0197-C.g61.DBLe.6217",
+          "PF0197-C.g108.DBLe.2575",
+          "PF0197-C.g108.DBLe.3679",
+          "PF0197-C.g32.DBLe.6967",
+          "PF0197-C.g41.DBLe.7801",
+          "PF0197-C.g48.DBLe.6022",
+          "PF0197-C.g32.DBLe.5857",
+          "PF0197-C.g39.DBLe.6223",
+          "PF0197-C.g32.DBLe.3499"
+        ]
+      },
+      "PF0202-C": {
+        "count": 19,
+        "samples": [
+          "PF0202-C.g24.DBLe.8218",
+          "PF0202-C.g76.DBLe.3457",
+          "PF0202-C.g28.DBLe.5914",
+          "PF0202-C.g65.DBLe.2692",
+          "PF0202-C.g32.DBLe.6130",
+          "PF0202-C.g38.DBLe.4645",
+          "PF0202-C.g80.DBLe.4585",
+          "PF0202-C.g28.DBLe.3340",
+          "PF0202-C.g111.DBLe.3427",
+          "PF0202-C.g116.DBLe.3283",
+          "PF0202-C.g68.DBLe.4840",
+          "PF0202-C.g39.DBLe.4552",
+          "PF0202-C.g117.DBLe.3091",
+          "PF0202-C.g23.DBLe.9277",
+          "PF0202-C.g39.DBLe.3325",
+          "PF0202-C.g23.DBLe.6922",
+          "PF0202-C.g65.DBLe.3679",
+          "PF0202-C.g51.DBLe.4789",
+          "PF0202-C.g38.DBLe.5749"
+        ]
+      },
+      "PF0208-C": {
+        "count": 10,
+        "samples": [
+          "PF0208-C.g38.DBLe.6955",
+          "PF0208-C.g17.DBLe.3331",
+          "PF0208-C.g41.DBLe.4828",
+          "PF0208-C.g28.DBLe.6124",
+          "PF0208-C.g34.DBLe.6136",
+          "PF0208-C.g17.DBLe.5905",
+          "PF0208-C.g38.DBLe.4600",
+          "PF0208-C.g44.DBLe.6733",
+          "PF0208-C.g51.DBLe.6784",
+          "PF0208-C.g24.DBLe.6079"
+        ]
+      },
+      "PF0214-C": {
+        "count": 12,
+        "samples": [
+          "PF0214-C.g59.DBLe.367",
+          "PF0214-C.g47.DBLe.3634",
+          "PF0214-C.g19.DBLe.5986",
+          "PF0214-C.g57.DBLe.3640",
+          "PF0214-C.g15.DBLe.8116",
+          "PF0214-C.g47.DBLe.2587",
+          "PF0214-C.g47.DBLe.4588",
+          "PF0214-C.g19.DBLe.3547",
+          "PF0214-C.g59.DBLe.3145",
+          "PF0214-C.g16.DBLe.7729",
+          "PF0214-C.g16.DBLe.5674",
+          "PF0214-C.g16.DBLe.6739"
+        ]
+      },
+      "PF0219-C": {
+        "count": 13,
+        "samples": [
+          "PF0219-C.g134.DBLe.2353",
+          "PF0219-C.g106.DBLe.4963",
+          "PF0219-C.g106.DBLe.5947",
+          "PF0219-C.g179.DBLe.2701",
+          "PF0219-C.g58.DBLe.6022",
+          "PF0219-C.g53.DBLe.7999",
+          "PF0219-C.g58.DBLe.3490",
+          "PF0219-C.g134.DBLe.3400",
+          "PF0219-C.g134.DBLe.4357",
+          "PF0219-C.g52.DBLe.6964",
+          "PF0219-C.g52.DBLe.9346",
+          "PF0219-C.g106.DBLe.3901",
+          "PF0219-C.g98.DBLe.3340"
+        ]
+      },
+      "PF0228-C": {
+        "count": 10,
+        "samples": [
+          "PF0228-C.g37.DBLe.5008",
+          "PF0228-C.g22.DBLe.6259",
+          "PF0228-C.g29.DBLe.2068",
+          "PF0228-C.g17.DBLe.6211",
+          "PF0228-C.g32.DBLe.5869",
+          "PF0228-C.g8.DBLe.6022",
+          "PF0228-C.g15.DBLe.4756",
+          "PF0228-C.g15.DBLe.5860",
+          "PF0228-C.g29.DBLe.4945",
+          "PF0228-C.g32.DBLe.3493"
+        ]
+      },
+      "PF0231-C": {
+        "count": 13,
+        "samples": [
+          "PF0231-C.g43.DBLe.5998",
+          "PF0231-C.g68.DBLe.4699",
+          "PF0231-C.g45.DBLe.6118",
+          "PF0231-C.g33.DBLe.6625",
+          "PF0231-C.g31.DBLe.8032",
+          "PF0231-C.g28.DBLe.5998",
+          "PF0231-C.g39.DBLe.8431",
+          "PF0231-C.g33.DBLe.5557",
+          "PF0231-C.g28.DBLe.4885",
+          "PF0231-C.g70.DBLe.3379",
+          "PF0231-C.g31.DBLe.5527",
+          "PF0231-C.g72.DBLe.3385",
+          "PF0231-C.g43.DBLe.3367"
+        ]
+      },
+      "PF0232-C": {
+        "count": 8,
+        "samples": [
+          "PF0232-C.g17.DBLe.7681",
+          "PF0232-C.g15.DBLe.9094",
+          "PF0232-C.g17.DBLe.6559",
+          "PF0232-C.g42.DBLe.7159",
+          "PF0232-C.g24.DBLe.6160",
+          "PF0232-C.g17.DBLe.5440",
+          "PF0232-C.g15.DBLe.6718",
+          "PF0232-C.g42.DBLe.4783"
+        ]
+      },
+      "PF0234-C": {
+        "count": 9,
+        "samples": [
+          "PF0234-C.g22.DBLe.4702",
+          "PF0234-C.g18.DBLe.6232",
+          "PF0234-C.g14.DBLe.2875",
+          "PF0234-C.g14.DBLe.6616",
+          "PF0234-C.g101.DBLe.3529",
+          "PF0234-C.g14.DBLe.3988",
+          "PF0234-C.g101.DBLe.2395",
+          "PF0234-C.g27.DBLe.6124",
+          "PF0234-C.g119.DBLe.3016"
+        ]
+      },
+      "PF0235-C": {
+        "count": 11,
+        "samples": [
+          "PF0235-C.g50.DBLe.6190",
+          "PF0235-C.g39.DBLe.3541",
+          "PF0235-C.g28.DBLe.3667",
+          "PF0235-C.g39.DBLe.2485",
+          "PF0235-C.g68.DBLe.3622",
+          "PF0235-C.g38.DBLe.3361",
+          "PF0235-C.g39.DBLe.4498",
+          "PF0235-C.g28.DBLe.2599",
+          "PF0235-C.g23.DBLe.8338",
+          "PF0235-C.g51.DBLe.5956",
+          "PF0235-C.g38.DBLe.5992"
+        ]
+      },
+      "PF0241-C": {
+        "count": 10,
+        "samples": [
+          "PF0241-C.g74.DBLe.3736",
+          "PF0241-C.g27.DBLe.4036",
+          "PF0241-C.g59.DBLe.4975",
+          "PF0241-C.g86.DBLe.3634",
+          "PF0241-C.g26.DBLe.3250",
+          "PF0241-C.g26.DBLe.5890",
+          "PF0241-C.g27.DBLe.6685",
+          "PF0241-C.g50.DBLe.3352",
+          "PF0241-C.g24.DBLe.7501",
+          "PF0241-C.g60.DBLe.3388"
+        ]
+      },
+      "PF0242-C": {
+        "count": 6,
+        "samples": [
+          "PF0242-C.g19.DBLe.6748",
+          "PF0242-C.g19.DBLe.7813",
+          "PF0242-C.g21.DBLe.8335",
+          "PF0242-C.g19.DBLe.8797",
+          "PF0242-C.g30.DBLe.6535",
+          "PF0242-C.g31.DBLe.6151"
+        ]
+      },
+      "PF0248-C": {
+        "count": 13,
+        "samples": [
+          "PF0248-C.g85.DBLe.6058",
+          "PF0248-C.g66.DBLe.4453",
+          "PF0248-C.g79.DBLe.6187",
+          "PF0248-C.g66.DBLe.3340",
+          "PF0248-C.g66.DBLe.7099",
+          "PF0248-C.g82.DBLe.6184",
+          "PF0248-C.g44.DBLe.7102",
+          "PF0248-C.g44.DBLe.3370",
+          "PF0248-C.g62.DBLe.8143",
+          "PF0248-C.g80.DBLe.3793",
+          "PF0248-C.g61.DBLe.6166",
+          "PF0248-C.g80.DBLe.6157",
+          "PF0248-C.g44.DBLe.4462"
+        ]
+      },
+      "PF0258-C": {
+        "count": 23,
+        "samples": [
+          "PF0258-C.g87.DBLe.4984",
+          "PF0258-C.g76.DBLe.6139",
+          "PF0258-C.g87.DBLe.3922",
+          "PF0258-C.g62.DBLe.4975",
+          "PF0258-C.g39.DBLe.3361",
+          "PF0258-C.g62.DBLe.6013",
+          "PF0258-C.g30.DBLe.5737",
+          "PF0258-C.g104.DBLe.4924",
+          "PF0258-C.g121.DBLe.4810",
+          "PF0258-C.g61.DBLe.6271",
+          "PF0258-C.g30.DBLe.4633",
+          "PF0258-C.g87.DBLe.5968",
+          "PF0258-C.g32.DBLe.6949",
+          "PF0258-C.g32.DBLe.9004",
+          "PF0258-C.g26.DBLe.9316",
+          "PF0258-C.g32.DBLe.8014",
+          "PF0258-C.g121.DBLe.2404",
+          "PF0258-C.g39.DBLe.5989",
+          "PF0258-C.g29.DBLe.8362",
+          "PF0258-C.g47.DBLe.5365",
+          "PF0258-C.g75.DBLe.6193",
+          "PF0258-C.g26.DBLe.6937",
+          "PF0258-C.g38.DBLe.6706"
+        ]
+      },
+      "PF0260-C": {
+        "count": 14,
+        "samples": [
+          "PF0260-C.g11.DBLe.3943",
+          "PF0260-C.g39.DBLe.6922",
+          "PF0260-C.g39.DBLe.8944",
+          "PF0260-C.g64.DBLe.3400",
+          "PF0260-C.g64.DBLe.6040",
+          "PF0260-C.g37.DBLe.8092",
+          "PF0260-C.g35.DBLe.8488",
+          "PF0260-C.g73.DBLe.6412",
+          "PF0260-C.g13.DBLe.4696",
+          "PF0260-C.g37.DBLe.5563",
+          "PF0260-C.g39.DBLe.7972",
+          "PF0260-C.g65.DBLe.5071",
+          "PF0260-C.g77.DBLe.6064",
+          "PF0260-C.g13.DBLe.5809"
+        ]
+      },
+      "PF0263-C": {
+        "count": 11,
+        "samples": [
+          "PF0263-C.g35.DBLe.4747",
+          "PF0263-C.g32.DBLe.6229",
+          "PF0263-C.g26.DBLe.8170",
+          "PF0263-C.g38.DBLe.4798",
+          "PF0263-C.g44.DBLe.2404",
+          "PF0263-C.g70.DBLe.4885",
+          "PF0263-C.g44.DBLe.3460",
+          "PF0263-C.g19.DBLe.6163",
+          "PF0263-C.g44.DBLe.4450",
+          "PF0263-C.g30.DBLe.6208",
+          "PF0263-C.g35.DBLe.5866"
+        ]
+      },
+      "PF0264-C": {
+        "count": 9,
+        "samples": [
+          "PF0264-C.g47.DBLe.2437",
+          "PF0264-C.g48.DBLe.3679",
+          "PF0264-C.g2.DBLe.9583",
+          "PF0264-C.g50.DBLe.3292",
+          "PF0264-C.g2.DBLe.7216",
+          "PF0264-C.g6.DBLe.8395",
+          "PF0264-C.g47.DBLe.4801",
+          "PF0264-C.g48.DBLe.4801",
+          "PF0264-C.g118.DBLe.3085"
+        ]
+      },
+      "PF0269-C": {
+        "count": 13,
+        "samples": [
+          "PF0269-C.g41.DBLe.6040",
+          "PF0269-C.g58.DBLe.6121",
+          "PF0269-C.g14.DBLe.4780",
+          "PF0269-C.g67.DBLe.4738",
+          "PF0269-C.g57.DBLe.4564",
+          "PF0269-C.g67.DBLe.2371",
+          "PF0269-C.g59.DBLe.2998",
+          "PF0269-C.g41.DBLe.3385",
+          "PF0269-C.g93.DBLe.3562",
+          "PF0269-C.g13.DBLe.4816",
+          "PF0269-C.g14.DBLe.5902",
+          "PF0269-C.g66.DBLe.4903",
+          "PF0269-C.g59.DBLe.4225"
+        ]
+      },
+      "PF0272-C": {
+        "count": 10,
+        "samples": [
+          "PF0272-C.g23.DBLe.6859",
+          "PF0272-C.g23.DBLe.5869",
+          "PF0272-C.g28.DBLe.6061",
+          "PF0272-C.g16.DBLe.8245",
+          "PF0272-C.g38.DBLe.3412",
+          "PF0272-C.g27.DBLe.6424",
+          "PF0272-C.g23.DBLe.4828",
+          "PF0272-C.g38.DBLe.2359",
+          "PF0272-C.g38.DBLe.4363",
+          "PF0272-C.g11.DBLe.8575"
+        ]
+      },
+      "PF0280-C": {
+        "count": 8,
+        "samples": [
+          "PF0280-C.g32.DBLe.5047",
+          "PF0280-C.g4.DBLe.8605",
+          "PF0280-C.g12.DBLe.6178",
+          "PF0280-C.g20.DBLe.5860",
+          "PF0280-C.g31.DBLe.5389",
+          "PF0280-C.g17.DBLe.6301",
+          "PF0280-C.g33.DBLe.5032",
+          "PF0280-C.g18.DBLe.6397"
+        ]
+      },
+      "PF0281-C": {
+        "count": 17,
+        "samples": [
+          "PF0281-C.g55.DBLe.5839",
+          "PF0281-C.g92.DBLe.3877",
+          "PF0281-C.g54.DBLe.5101",
+          "PF0281-C.g119.DBLe.3604",
+          "PF0281-C.g55.DBLe.3817",
+          "PF0281-C.g95.DBLe.2008",
+          "PF0281-C.g26.DBLe.6241",
+          "PF0281-C.g30.DBLe.7048",
+          "PF0281-C.g12.DBLe.8830",
+          "PF0281-C.g95.DBLe.4408",
+          "PF0281-C.g30.DBLe.5014",
+          "PF0281-C.g55.DBLe.4858",
+          "PF0281-C.g29.DBLe.6031",
+          "PF0281-C.g42.DBLe.6133",
+          "PF0281-C.g13.DBLe.8506",
+          "PF0281-C.g29.DBLe.3460",
+          "PF0281-C.g30.DBLe.6058"
+        ]
+      },
+      "PF0282-C": {
+        "count": 13,
+        "samples": [
+          "PF0282-C.g21.DBLe.5866",
+          "PF0282-C.g40.DBLe.5422",
+          "PF0282-C.g21.DBLe.6919",
+          "PF0282-C.g61.DBLe.4786",
+          "PF0282-C.g5.DBLe.8272",
+          "PF0282-C.g21.DBLe.7870",
+          "PF0282-C.g40.DBLe.4276",
+          "PF0282-C.g42.DBLe.5524",
+          "PF0282-C.g24.DBLe.6082",
+          "PF0282-C.g24.DBLe.7186",
+          "PF0282-C.g5.DBLe.7285",
+          "PF0282-C.g5.DBLe.6211",
+          "PF0282-C.g35.DBLe.3346"
+        ]
+      },
+      "PF0287-C": {
+        "count": 15,
+        "samples": [
+          "PF0287-C.g40.DBLe.7870",
+          "PF0287-C.g40.DBLe.6838",
+          "PF0287-C.g135.DBLe.3361",
+          "PF0287-C.g34.DBLe.8221",
+          "PF0287-C.g25.DBLe.7891",
+          "PF0287-C.g47.DBLe.5986",
+          "PF0287-C.g46.DBLe.4912",
+          "PF0287-C.g115.DBLe.3913",
+          "PF0287-C.g85.DBLe.2401",
+          "PF0287-C.g121.DBLe.3799",
+          "PF0287-C.g40.DBLe.8857",
+          "PF0287-C.g28.DBLe.4810",
+          "PF0287-C.g85.DBLe.4801",
+          "PF0287-C.g119.DBLe.3718",
+          "PF0287-C.g25.DBLe.5431"
+        ]
+      },
+      "PF0288-C": {
+        "count": 7,
+        "samples": [
+          "PF0288-C.g61.DBLe.6088",
+          "PF0288-C.g38.DBLe.8461",
+          "PF0288-C.g38.DBLe.7369",
+          "PF0288-C.g54.DBLe.6382",
+          "PF0288-C.g32.DBLe.7039",
+          "PF0288-C.g16.DBLe.6100",
+          "PF0288-C.g62.DBLe.6040"
+        ]
+      },
+      "PF0289-C": {
+        "count": 13,
+        "samples": [
+          "PF0289-C.g21.DBLe.5335",
+          "PF0289-C.g63.DBLe.2503",
+          "PF0289-C.g41.DBLe.6919",
+          "PF0289-C.g32.DBLe.4990",
+          "PF0289-C.g98.DBLe.3637",
+          "PF0289-C.g43.DBLe.7033",
+          "PF0289-C.g27.DBLe.8368",
+          "PF0289-C.g97.DBLe.1777",
+          "PF0289-C.g41.DBLe.7984",
+          "PF0289-C.g36.DBLe.5149",
+          "PF0289-C.g32.DBLe.6127",
+          "PF0289-C.g63.DBLe.4867",
+          "PF0289-C.g97.DBLe.682"
+        ]
+      },
+      "PF0290-C": {
+        "count": 13,
+        "samples": [
+          "PF0290-C.g46.DBLe.6649",
+          "PF0290-C.g29.DBLe.3355",
+          "PF0290-C.g24.DBLe.4561",
+          "PF0290-C.g29.DBLe.5929",
+          "PF0290-C.g13.DBLe.3904",
+          "PF0290-C.g13.DBLe.6319",
+          "PF0290-C.g21.DBLe.8650",
+          "PF0290-C.g46.DBLe.5527",
+          "PF0290-C.g46.DBLe.4408",
+          "PF0290-C.g90.DBLe.4171",
+          "PF0290-C.g22.DBLe.5515",
+          "PF0290-C.g104.DBLe.3379",
+          "PF0290-C.g23.DBLe.8209"
+        ]
+      },
+      "PF0305-C": {
+        "count": 3,
+        "samples": [
+          "PF0305-C.g11.DBLe.6121",
+          "PF0305-C.g2.DBLe.3487",
+          "PF0305-C.g2.DBLe.6016"
+        ]
+      },
+      "PF0321-C": {
+        "count": 19,
+        "samples": [
+          "PF0321-C.g16.DBLe.7234",
+          "PF0321-C.g29.DBLe.4846",
+          "PF0321-C.g2.DBLe.5467",
+          "PF0321-C.g8.DBLe.5518",
+          "PF0321-C.g29.DBLe.5797",
+          "PF0321-C.g10.DBLe.6805",
+          "PF0321-C.g12.DBLe.6814",
+          "PF0321-C.g30.DBLe.3547",
+          "PF0321-C.g14.DBLe.7033",
+          "PF0321-C.g5.DBLe.8371",
+          "PF0321-C.g35.DBLe.4798",
+          "PF0321-C.g52.DBLe.5125",
+          "PF0321-C.g10.DBLe.7909",
+          "PF0321-C.g8.DBLe.7978",
+          "PF0321-C.g30.DBLe.6043",
+          "PF0321-C.g12.DBLe.7945",
+          "PF0321-C.g31.DBLe.6130",
+          "PF0321-C.g32.DBLe.6007",
+          "PF0321-C.g35.DBLe.5923"
+        ]
+      },
+      "PF0326-C": {
+        "count": 8,
+        "samples": [
+          "PF0326-C.g69.DBLe.2437",
+          "PF0326-C.g69.DBLe.3490",
+          "PF0326-C.g31.DBLe.6853",
+          "PF0326-C.g69.DBLe.4564",
+          "PF0326-C.g57.DBLe.5251",
+          "PF0326-C.g58.DBLe.5284",
+          "PF0326-C.g34.DBLe.5527",
+          "PF0326-C.g34.DBLe.8032"
+        ]
+      },
+      "PF0330-C": {
+        "count": 18,
+        "samples": [
+          "PF0330-C.g68.DBLe.4936",
+          "PF0330-C.g32.DBLe.9049",
+          "PF0330-C.g22.DBLe.6670",
+          "PF0330-C.g84.DBLe.3280",
+          "PF0330-C.g84.DBLe.4417",
+          "PF0330-C.g62.DBLe.5740",
+          "PF0330-C.g32.DBLe.8059",
+          "PF0330-C.g41.DBLe.6904",
+          "PF0330-C.g48.DBLe.8236",
+          "PF0330-C.g54.DBLe.5842",
+          "PF0330-C.g32.DBLe.6994",
+          "PF0330-C.g41.DBLe.7969",
+          "PF0330-C.g22.DBLe.5602",
+          "PF0330-C.g54.DBLe.4684",
+          "PF0330-C.g68.DBLe.7315",
+          "PF0330-C.g55.DBLe.6124",
+          "PF0330-C.g41.DBLe.8953",
+          "PF0330-C.g62.DBLe.4636"
+        ]
+      },
+      "PF0471-C": {
+        "count": 22,
+        "samples": [
+          "PF0471-C.g4.DBLe.5608",
+          "PF0471-C.g133.DBLe.64",
+          "PF0471-C.g42.DBLe.4723",
+          "PF0471-C.g30.DBLe.5746",
+          "PF0471-C.g15.DBLe.8023",
+          "PF0471-C.g107.DBLe.4159",
+          "PF0471-C.g30.DBLe.4642",
+          "PF0471-C.g127.DBLe.3085",
+          "PF0471-C.g40.DBLe.6325",
+          "PF0471-C.g39.DBLe.6004",
+          "PF0471-C.g66.DBLe.5047",
+          "PF0471-C.g35.DBLe.6187",
+          "PF0471-C.g15.DBLe.6886",
+          "PF0471-C.g21.DBLe.5563",
+          "PF0471-C.g7.DBLe.8242",
+          "PF0471-C.g133.DBLe.1075",
+          "PF0471-C.g133.DBLe.2224",
+          "PF0471-C.g6.DBLe.8011",
+          "PF0471-C.g3.DBLe.8383",
+          "PF0471-C.g4.DBLe.8068",
+          "PF0471-C.g10.DBLe.8230",
+          "PF0471-C.g127.DBLe.2029"
+        ]
+      },
+      "PF0493-C": {
+        "count": 13,
+        "samples": [
+          "PF0493-C.g25.DBLe.7018",
+          "PF0493-C.g34.DBLe.4921",
+          "PF0493-C.g39.DBLe.5872",
+          "PF0493-C.g39.DBLe.4810",
+          "PF0493-C.g27.DBLe.6328",
+          "PF0493-C.g25.DBLe.8071",
+          "PF0493-C.g40.DBLe.3400",
+          "PF0493-C.g31.DBLe.7138",
+          "PF0493-C.g40.DBLe.6043",
+          "PF0493-C.g34.DBLe.7516",
+          "PF0493-C.g39.DBLe.6865",
+          "PF0493-C.g2.DBLe.7501",
+          "PF0493-C.g30.DBLe.7795"
+        ]
+      },
+      "PF0510-C": {
+        "count": 6,
+        "samples": [
+          "PF0510-C.g547.DBLe.6325",
+          "PF0510-C.g309.DBLe.6547",
+          "PF0510-C.g309.DBLe.7669",
+          "PF0510-C.g824.DBLe.3517",
+          "PF0510-C.g309.DBLe.5428",
+          "PF0510-C.g479.DBLe.6277"
+        ]
+      },
+      "PH0010-C": {
+        "count": 13,
+        "samples": [
+          "PH0010-C.g9.DBLe.5545",
+          "PH0010-C.g9.DBLe.3169",
+          "PH0010-C.g37.DBLe.3283",
+          "PH0010-C.g3.DBLe.7657",
+          "PH0010-C.g3.DBLe.6535",
+          "PH0010-C.g4.DBLe.3376",
+          "PH0010-C.g35.DBLe.3169",
+          "PH0010-C.g45.DBLe.1912",
+          "PH0010-C.g4.DBLe.5962",
+          "PH0010-C.g11.DBLe.5158",
+          "PH0010-C.g3.DBLe.5416",
+          "PH0010-C.g7.DBLe.4888",
+          "PH0010-C.g45.DBLe.2968"
+        ]
+      },
+      "PH0021-C": {
+        "count": 16,
+        "samples": [
+          "PH0021-C.g3.DBLe.7105",
+          "PH0021-C.g3.DBLe.9151",
+          "PH0021-C.g15.DBLe.6901",
+          "PH0021-C.g1.DBLe.4984",
+          "PH0021-C.g1.DBLe.7501",
+          "PH0021-C.g46.DBLe.4300",
+          "PH0021-C.g11.DBLe.4651",
+          "PH0021-C.g8.DBLe.5566",
+          "PH0021-C.g50.DBLe.3721",
+          "PH0021-C.g8.DBLe.8056",
+          "PH0021-C.g3.DBLe.8161",
+          "PH0021-C.g23.DBLe.3805",
+          "PH0021-C.g15.DBLe.4888",
+          "PH0021-C.g15.DBLe.5950",
+          "PH0021-C.g5.DBLe.6394",
+          "PH0021-C.g11.DBLe.5755"
+        ]
+      },
+      "PH0023-C": {
+        "count": 10,
+        "samples": [
+          "PH0023-C.g38.DBLe.7048",
+          "PH0023-C.g31.DBLe.8770",
+          "PH0023-C.g103.DBLe.1558",
+          "PH0023-C.g99.DBLe.3793",
+          "PH0023-C.g54.DBLe.5386",
+          "PH0023-C.g101.DBLe.4453",
+          "PH0023-C.g34.DBLe.5266",
+          "PH0023-C.g103.DBLe.4141",
+          "PH0023-C.g48.DBLe.4774",
+          "PH0023-C.g101.DBLe.2059"
+        ]
+      },
+      "PH0044-C": {
+        "count": 15,
+        "samples": [
+          "PH0044-C.g11.DBLe.7669",
+          "PH0044-C.g2.DBLe.5746",
+          "PH0044-C.g37.DBLe.6109",
+          "PH0044-C.g10.DBLe.9259",
+          "PH0044-C.g19.DBLe.5941",
+          "PH0044-C.g19.DBLe.3370",
+          "PH0044-C.g10.DBLe.6880",
+          "PH0044-C.g36.DBLe.3505",
+          "PH0044-C.g3.DBLe.6217",
+          "PH0044-C.g11.DBLe.5428",
+          "PH0044-C.g11.DBLe.6547",
+          "PH0044-C.g36.DBLe.5890",
+          "PH0044-C.g82.DBLe.3514",
+          "PH0044-C.g20.DBLe.5284",
+          "PH0044-C.g45.DBLe.4762"
+        ]
+      },
+      "PH0045-C": {
+        "count": 15,
+        "samples": [
+          "PH0045-C.g7.DBLe.6886",
+          "PH0045-C.g7.DBLe.9265",
+          "PH0045-C.g49.DBLe.3421",
+          "PH0045-C.g1.DBLe.6217",
+          "PH0045-C.g18.DBLe.5428",
+          "PH0045-C.g78.DBLe.3880",
+          "PH0045-C.g72.DBLe.3514",
+          "PH0045-C.g26.DBLe.4699",
+          "PH0045-C.g18.DBLe.7669",
+          "PH0045-C.g18.DBLe.6547",
+          "PH0045-C.g52.DBLe.5254",
+          "PH0045-C.g3.DBLe.5746",
+          "PH0045-C.g43.DBLe.3382",
+          "PH0045-C.g43.DBLe.6013",
+          "PH0045-C.g49.DBLe.5806"
+        ]
+      },
+      "PH0046-C": {
+        "count": 4,
+        "samples": [
+          "PH0046-C.g4.DBLe.4411",
+          "PH0046-C.g1.DBLe.5557",
+          "PH0046-C.g3.DBLe.5134",
+          "PH0046-C.g1.DBLe.8008"
+        ]
+      },
+      "PH0059-C": {
+        "count": 13,
+        "samples": [
+          "PH0059-C.g38.DBLe.2122",
+          "PH0059-C.g54.DBLe.3346",
+          "PH0059-C.g15.DBLe.6271",
+          "PH0059-C.g38.DBLe.3166",
+          "PH0059-C.g30.DBLe.3439",
+          "PH0059-C.g16.DBLe.6055",
+          "PH0059-C.g38.DBLe.4156",
+          "PH0059-C.g13.DBLe.6349",
+          "PH0059-C.g14.DBLe.6214",
+          "PH0059-C.g17.DBLe.6202",
+          "PH0059-C.g1.DBLe.4870",
+          "PH0059-C.g19.DBLe.6031",
+          "PH0059-C.g7.DBLe.7393"
+        ]
+      },
+      "PH0064-C": {
+        "count": 11,
+        "samples": [
+          "PH0064-C.g97.DBLe.6133",
+          "PH0064-C.g84.DBLe.5950",
+          "PH0064-C.g90.DBLe.6379",
+          "PH0064-C.g82.DBLe.7357",
+          "PH0064-C.g91.DBLe.6253",
+          "PH0064-C.g109.DBLe.5266",
+          "PH0064-C.g106.DBLe.3688",
+          "PH0064-C.g84.DBLe.6901",
+          "PH0064-C.g84.DBLe.4888",
+          "PH0064-C.g106.DBLe.2578",
+          "PH0064-C.g96.DBLe.5899"
+        ]
+      },
+      "PH0110-C": {
+        "count": 9,
+        "samples": [
+          "PH0110-C.g21.DBLe.2773",
+          "PH0110-C.g8.DBLe.5713",
+          "PH0110-C.g7.DBLe.5467",
+          "PH0110-C.g5.DBLe.9274",
+          "PH0110-C.g8.DBLe.4762",
+          "PH0110-C.g5.DBLe.6769",
+          "PH0110-C.g4.DBLe.6790",
+          "PH0110-C.g7.DBLe.7843",
+          "PH0110-C.g4.DBLe.9175"
+        ]
+      },
+      "PH0111-C": {
+        "count": 11,
+        "samples": [
+          "PH0111-C.g62.DBLe.5314",
+          "PH0111-C.g71.DBLe.5119",
+          "PH0111-C.g108.DBLe.3739",
+          "PH0111-C.g71.DBLe.2734",
+          "PH0111-C.g64.DBLe.5635",
+          "PH0111-C.g56.DBLe.5605",
+          "PH0111-C.g108.DBLe.2617",
+          "PH0111-C.g56.DBLe.3034",
+          "PH0111-C.g64.DBLe.3004",
+          "PH0111-C.g58.DBLe.4690",
+          "PH0111-C.g62.DBLe.2671"
+        ]
+      },
+      "PH0112-C": {
+        "count": 10,
+        "samples": [
+          "PH0112-C.g106.DBLe.2995",
+          "PH0112-C.g9.DBLe.7516",
+          "PH0112-C.g36.DBLe.5746",
+          "PH0112-C.g66.DBLe.6208",
+          "PH0112-C.g9.DBLe.5161",
+          "PH0112-C.g82.DBLe.6049",
+          "PH0112-C.g24.DBLe.8275",
+          "PH0112-C.g71.DBLe.6184",
+          "PH0112-C.g48.DBLe.8404",
+          "PH0112-C.g43.DBLe.8179"
+        ]
+      },
+      "PH0134-C": {
+        "count": 17,
+        "samples": [
+          "PH0134-C.g58.DBLe.4762",
+          "PH0134-C.g50.DBLe.6709",
+          "PH0134-C.g41.DBLe.5566",
+          "PH0134-C.g76.DBLe.6007",
+          "PH0134-C.g68.DBLe.6010",
+          "PH0134-C.g81.DBLe.3505",
+          "PH0134-C.g85.DBLe.3427",
+          "PH0134-C.g39.DBLe.8275",
+          "PH0134-C.g41.DBLe.8056",
+          "PH0134-C.g68.DBLe.3379",
+          "PH0134-C.g50.DBLe.4684",
+          "PH0134-C.g50.DBLe.5722",
+          "PH0134-C.g21.DBLe.6217",
+          "PH0134-C.g69.DBLe.6136",
+          "PH0134-C.g67.DBLe.6109",
+          "PH0134-C.g17.DBLe.5746",
+          "PH0134-C.g11.DBLe.4921"
+        ]
+      },
+      "PH0136-C": {
+        "count": 14,
+        "samples": [
+          "PH0136-C.g59.DBLe.5071",
+          "PH0136-C.g37.DBLe.6649",
+          "PH0136-C.g29.DBLe.3400",
+          "PH0136-C.g59.DBLe.2830",
+          "PH0136-C.g62.DBLe.4654",
+          "PH0136-C.g74.DBLe.3235",
+          "PH0136-C.g37.DBLe.5512",
+          "PH0136-C.g74.DBLe.4198",
+          "PH0136-C.g36.DBLe.5746",
+          "PH0136-C.g74.DBLe.2173",
+          "PH0136-C.g115.DBLe.3001",
+          "PH0136-C.g29.DBLe.7147",
+          "PH0136-C.g29.DBLe.4510",
+          "PH0136-C.g59.DBLe.3949"
+        ]
+      },
+      "PH0157-C": {
+        "count": 14,
+        "samples": [
+          "PH0157-C.g53.DBLe.4888",
+          "PH0157-C.g63.DBLe.5893",
+          "PH0157-C.g85.DBLe.3505",
+          "PH0157-C.g53.DBLe.6901",
+          "PH0157-C.g35.DBLe.6988",
+          "PH0157-C.g85.DBLe.5890",
+          "PH0157-C.g35.DBLe.9031",
+          "PH0157-C.g73.DBLe.4960",
+          "PH0157-C.g63.DBLe.4780",
+          "PH0157-C.g52.DBLe.4762",
+          "PH0157-C.g35.DBLe.8038",
+          "PH0157-C.g53.DBLe.5950",
+          "PH0157-C.g41.DBLe.6184",
+          "PH0157-C.g37.DBLe.6184"
+        ]
+      },
+      "PH0161-C": {
+        "count": 15,
+        "samples": [
+          "PH0161-C.g39.DBLe.6901",
+          "PH0161-C.g33.DBLe.6091",
+          "PH0161-C.g11.DBLe.4780",
+          "PH0161-C.g31.DBLe.3370",
+          "PH0161-C.g39.DBLe.4888",
+          "PH0161-C.g70.DBLe.2821",
+          "PH0161-C.g39.DBLe.5950",
+          "PH0161-C.g70.DBLe.3925",
+          "PH0161-C.g11.DBLe.5893",
+          "PH0161-C.g49.DBLe.3910",
+          "PH0161-C.g49.DBLe.6289",
+          "PH0161-C.g58.DBLe.3322",
+          "PH0161-C.g58.DBLe.5953",
+          "PH0161-C.g37.DBLe.6109",
+          "PH0161-C.g31.DBLe.6010"
+        ]
+      },
+      "PH0163-C": {
+        "count": 11,
+        "samples": [
+          "PH0163-C.g43.DBLe.6274",
+          "PH0163-C.g104.DBLe.3283",
+          "PH0163-C.g104.DBLe.2209",
+          "PH0163-C.g31.DBLe.7597",
+          "PH0163-C.g105.DBLe.4126",
+          "PH0163-C.g35.DBLe.3430",
+          "PH0163-C.g44.DBLe.4915",
+          "PH0163-C.g103.DBLe.3793",
+          "PH0163-C.g9.DBLe.4627",
+          "PH0163-C.g35.DBLe.6013",
+          "PH0163-C.g104.DBLe.4267"
+        ]
+      },
+      "PH0164-C": {
+        "count": 17,
+        "samples": [
+          "PH0164-C.g64.DBLe.6190",
+          "PH0164-C.g36.DBLe.8842",
+          "PH0164-C.g11.DBLe.6019",
+          "PH0164-C.g37.DBLe.5566",
+          "PH0164-C.g44.DBLe.6067",
+          "PH0164-C.g35.DBLe.7108",
+          "PH0164-C.g44.DBLe.5014",
+          "PH0164-C.g74.DBLe.4645",
+          "PH0164-C.g34.DBLe.9151",
+          "PH0164-C.g35.DBLe.6145",
+          "PH0164-C.g34.DBLe.7126",
+          "PH0164-C.g34.DBLe.8188",
+          "PH0164-C.g37.DBLe.8056",
+          "PH0164-C.g29.DBLe.8725",
+          "PH0164-C.g35.DBLe.5083",
+          "PH0164-C.g73.DBLe.5974",
+          "PH0164-C.g11.DBLe.3433"
+        ]
+      },
+      "PH0165-C": {
+        "count": 18,
+        "samples": [
+          "PH0165-C.g17.DBLe.4627",
+          "PH0165-C.g13.DBLe.6286",
+          "PH0165-C.g24.DBLe.4888",
+          "PH0165-C.g34.DBLe.5950",
+          "PH0165-C.g34.DBLe.3319",
+          "PH0165-C.g31.DBLe.5893",
+          "PH0165-C.g9.DBLe.7669",
+          "PH0165-C.g17.DBLe.5731",
+          "PH0165-C.g9.DBLe.6547",
+          "PH0165-C.g21.DBLe.6091",
+          "PH0165-C.g24.DBLe.6901",
+          "PH0165-C.g31.DBLe.4780",
+          "PH0165-C.g32.DBLe.3358",
+          "PH0165-C.g22.DBLe.6109",
+          "PH0165-C.g9.DBLe.5428",
+          "PH0165-C.g24.DBLe.5950",
+          "PH0165-C.g13.DBLe.8665",
+          "PH0165-C.g32.DBLe.5998"
+        ]
+      },
+      "PH0167-C": {
+        "count": 11,
+        "samples": [
+          "PH0167-C.g35.DBLe.4618",
+          "PH0167-C.g47.DBLe.4225",
+          "PH0167-C.g47.DBLe.3241",
+          "PH0167-C.g47.DBLe.2167",
+          "PH0167-C.g15.DBLe.3430",
+          "PH0167-C.g8.DBLe.7597",
+          "PH0167-C.g18.DBLe.3793",
+          "PH0167-C.g15.DBLe.6013",
+          "PH0167-C.g29.DBLe.4627",
+          "PH0167-C.g16.DBLe.6274",
+          "PH0167-C.g7.DBLe.4915"
+        ]
+      },
+      "PH0169-C": {
+        "count": 18,
+        "samples": [
+          "PH0169-C.g27.DBLe.5893",
+          "PH0169-C.g29.DBLe.3931",
+          "PH0169-C.g27.DBLe.4780",
+          "PH0169-C.g11.DBLe.4627",
+          "PH0169-C.g29.DBLe.6310",
+          "PH0169-C.g35.DBLe.3277",
+          "PH0169-C.g15.DBLe.5950",
+          "PH0169-C.g15.DBLe.4888",
+          "PH0169-C.g35.DBLe.5908",
+          "PH0169-C.g15.DBLe.6901",
+          "PH0169-C.g25.DBLe.6109",
+          "PH0169-C.g11.DBLe.5731",
+          "PH0169-C.g3.DBLe.5428",
+          "PH0169-C.g3.DBLe.6547",
+          "PH0169-C.g26.DBLe.5998",
+          "PH0169-C.g28.DBLe.6091",
+          "PH0169-C.g3.DBLe.7669",
+          "PH0169-C.g26.DBLe.3358"
+        ]
+      },
+      "PH0172-C": {
+        "count": 11,
+        "samples": [
+          "PH0172-C.g93.DBLe.3760",
+          "PH0172-C.g24.DBLe.5746",
+          "PH0172-C.g49.DBLe.5845",
+          "PH0172-C.g43.DBLe.8275",
+          "PH0172-C.g25.DBLe.8851",
+          "PH0172-C.g93.DBLe.4711",
+          "PH0172-C.g54.DBLe.6100",
+          "PH0172-C.g79.DBLe.5638",
+          "PH0172-C.g42.DBLe.8350",
+          "PH0172-C.g44.DBLe.6187",
+          "PH0172-C.g93.DBLe.2701"
+        ]
+      },
+      "PH0173-C": {
+        "count": 14,
+        "samples": [
+          "PH0173-C.g8.DBLe.6547",
+          "PH0173-C.g36.DBLe.8302",
+          "PH0173-C.g7.DBLe.5674",
+          "PH0173-C.g54.DBLe.6217",
+          "PH0173-C.g77.DBLe.3403",
+          "PH0173-C.g50.DBLe.5893",
+          "PH0173-C.g55.DBLe.6847",
+          "PH0173-C.g77.DBLe.6034",
+          "PH0173-C.g50.DBLe.4780",
+          "PH0173-C.g55.DBLe.5785",
+          "PH0173-C.g8.DBLe.7669",
+          "PH0173-C.g8.DBLe.5428",
+          "PH0173-C.g6.DBLe.8275",
+          "PH0173-C.g55.DBLe.7810"
+        ]
+      },
+      "PH0191-C": {
+        "count": 10,
+        "samples": [
+          "PH0191-C.g17.DBLe.5950",
+          "PH0191-C.g34.DBLe.7195",
+          "PH0191-C.g3.DBLe.4927",
+          "PH0191-C.g3.DBLe.5980",
+          "PH0191-C.g17.DBLe.4888",
+          "PH0191-C.g59.DBLe.6199",
+          "PH0191-C.g28.DBLe.5986",
+          "PH0191-C.g17.DBLe.6901",
+          "PH0191-C.g49.DBLe.5950",
+          "PH0191-C.g32.DBLe.4786"
+        ]
+      },
+      "PH0192-C": {
+        "count": 13,
+        "samples": [
+          "PH0192-C.g30.DBLe.5950",
+          "PH0192-C.g51.DBLe.5893",
+          "PH0192-C.g94.DBLe.2491",
+          "PH0192-C.g63.DBLe.6226",
+          "PH0192-C.g94.DBLe.3619",
+          "PH0192-C.g30.DBLe.6901",
+          "PH0192-C.g62.DBLe.5104",
+          "PH0192-C.g52.DBLe.5950",
+          "PH0192-C.g51.DBLe.4780",
+          "PH0192-C.g74.DBLe.4831",
+          "PH0192-C.g62.DBLe.2527",
+          "PH0192-C.g56.DBLe.4975",
+          "PH0192-C.g30.DBLe.4888"
+        ]
+      },
+      "PH0194-C": {
+        "count": 10,
+        "samples": [
+          "PH0194-C.g26.DBLe.8374",
+          "PH0194-C.g32.DBLe.8335",
+          "PH0194-C.g52.DBLe.5953",
+          "PH0194-C.g79.DBLe.5752",
+          "PH0194-C.g61.DBLe.6274",
+          "PH0194-C.g52.DBLe.3376",
+          "PH0194-C.g37.DBLe.8683",
+          "PH0194-C.g91.DBLe.3853",
+          "PH0194-C.g29.DBLe.5746",
+          "PH0194-C.g64.DBLe.4879"
+        ]
+      },
+      "PH0196-C": {
+        "count": 9,
+        "samples": [
+          "PH0196-C.g17.DBLe.6007",
+          "PH0196-C.g20.DBLe.6886",
+          "PH0196-C.g1.DBLe.5746",
+          "PH0196-C.g21.DBLe.4756",
+          "PH0196-C.g47.DBLe.5179",
+          "PH0196-C.g90.DBLe.2884",
+          "PH0196-C.g69.DBLe.4267",
+          "PH0196-C.g69.DBLe.3280",
+          "PH0196-C.g69.DBLe.2242"
+        ]
+      },
+      "PH0197-C": {
+        "count": 24,
+        "samples": [
+          "PH0197-C.g39.DBLe.5428",
+          "PH0197-C.g46.DBLe.5011",
+          "PH0197-C.g47.DBLe.4762",
+          "PH0197-C.g17.DBLe.5746",
+          "PH0197-C.g62.DBLe.4921",
+          "PH0197-C.g100.DBLe.1471",
+          "PH0197-C.g56.DBLe.3427",
+          "PH0197-C.g27.DBLe.9259",
+          "PH0197-C.g100.DBLe.3517",
+          "PH0197-C.g39.DBLe.6547",
+          "PH0197-C.g45.DBLe.5284",
+          "PH0197-C.g12.DBLe.8275",
+          "PH0197-C.g48.DBLe.6520",
+          "PH0197-C.g56.DBLe.5878",
+          "PH0197-C.g35.DBLe.6007",
+          "PH0197-C.g44.DBLe.6199",
+          "PH0197-C.g115.DBLe.3049",
+          "PH0197-C.g100.DBLe.2527",
+          "PH0197-C.g81.DBLe.3076",
+          "PH0197-C.g39.DBLe.7669",
+          "PH0197-C.g36.DBLe.6709",
+          "PH0197-C.g36.DBLe.4684",
+          "PH0197-C.g27.DBLe.6880",
+          "PH0197-C.g36.DBLe.5722"
+        ]
+      },
+      "PH0198-C": {
+        "count": 12,
+        "samples": [
+          "PH0198-C.g40.DBLe.8275",
+          "PH0198-C.g2.DBLe.7516",
+          "PH0198-C.g66.DBLe.6184",
+          "PH0198-C.g110.DBLe.2902",
+          "PH0198-C.g2.DBLe.5161",
+          "PH0198-C.g49.DBLe.6031",
+          "PH0198-C.g38.DBLe.7408",
+          "PH0198-C.g42.DBLe.6208",
+          "PH0198-C.g31.DBLe.8179",
+          "PH0198-C.g36.DBLe.5746",
+          "PH0198-C.g65.DBLe.6025",
+          "PH0198-C.g56.DBLe.7120"
+        ]
+      },
+      "PH0201-C": {
+        "count": 12,
+        "samples": [
+          "PH0201-C.g24.DBLe.6100",
+          "PH0201-C.g64.DBLe.3307",
+          "PH0201-C.g28.DBLe.5026",
+          "PH0201-C.g17.DBLe.8284",
+          "PH0201-C.g40.DBLe.5161",
+          "PH0201-C.g29.DBLe.6022",
+          "PH0201-C.g64.DBLe.2266",
+          "PH0201-C.g16.DBLe.8359",
+          "PH0201-C.g16.DBLe.7243",
+          "PH0201-C.g29.DBLe.3379",
+          "PH0201-C.g64.DBLe.4270",
+          "PH0201-C.g26.DBLe.6379"
+        ]
+      },
+      "PH0203-C": {
+        "count": 13,
+        "samples": [
+          "PH0203-C.g15.DBLe.5980",
+          "PH0203-C.g31.DBLe.6211",
+          "PH0203-C.g4.DBLe.8428",
+          "PH0203-C.g17.DBLe.6412",
+          "PH0203-C.g32.DBLe.6142",
+          "PH0203-C.g95.DBLe.3217",
+          "PH0203-C.g33.DBLe.6199",
+          "PH0203-C.g17.DBLe.7516",
+          "PH0203-C.g15.DBLe.3475",
+          "PH0203-C.g4.DBLe.10789",
+          "PH0203-C.g29.DBLe.6436",
+          "PH0203-C.g16.DBLe.7492",
+          "PH0203-C.g7.DBLe.5881"
+        ]
+      },
+      "PH0204-C": {
+        "count": 22,
+        "samples": [
+          "PH0204-C.g20.DBLe.6235",
+          "PH0204-C.g44.DBLe.4243",
+          "PH0204-C.g9.DBLe.6022",
+          "PH0204-C.g30.DBLe.4999",
+          "PH0204-C.g44.DBLe.5338",
+          "PH0204-C.g13.DBLe.6547",
+          "PH0204-C.g30.DBLe.6061",
+          "PH0204-C.g13.DBLe.7669",
+          "PH0204-C.g8.DBLe.3364",
+          "PH0204-C.g11.DBLe.8056",
+          "PH0204-C.g31.DBLe.5944",
+          "PH0204-C.g23.DBLe.5746",
+          "PH0204-C.g33.DBLe.6094",
+          "PH0204-C.g41.DBLe.5179",
+          "PH0204-C.g7.DBLe.3397",
+          "PH0204-C.g11.DBLe.5566",
+          "PH0204-C.g8.DBLe.5902",
+          "PH0204-C.g13.DBLe.5428",
+          "PH0204-C.g9.DBLe.3370",
+          "PH0204-C.g29.DBLe.6247",
+          "PH0204-C.g6.DBLe.7642",
+          "PH0204-C.g28.DBLe.6274"
+        ]
+      },
+      "PH0205-C": {
+        "count": 14,
+        "samples": [
+          "PH0205-C.g28.DBLe.5719",
+          "PH0205-C.g22.DBLe.6124",
+          "PH0205-C.g19.DBLe.5179",
+          "PH0205-C.g13.DBLe.6283",
+          "PH0205-C.g10.DBLe.3349",
+          "PH0205-C.g20.DBLe.6319",
+          "PH0205-C.g10.DBLe.5920",
+          "PH0205-C.g75.DBLe.3976",
+          "PH0205-C.g6.DBLe.4798",
+          "PH0205-C.g6.DBLe.5857",
+          "PH0205-C.g24.DBLe.6280",
+          "PH0205-C.g52.DBLe.4435",
+          "PH0205-C.g99.DBLe.2971",
+          "PH0205-C.g6.DBLe.6811"
+        ]
+      },
+      "PH0206-C": {
+        "count": 7,
+        "samples": [
+          "PH0206-C.g44.DBLe.6880",
+          "PH0206-C.g47.DBLe.6697",
+          "PH0206-C.g51.DBLe.5266",
+          "PH0206-C.g53.DBLe.6208",
+          "PH0206-C.g43.DBLe.5998",
+          "PH0206-C.g67.DBLe.6955",
+          "PH0206-C.g43.DBLe.3358"
+        ]
+      },
+      "PH0207-C": {
+        "count": 13,
+        "samples": [
+          "PH0207-C.g22.DBLe.6379",
+          "PH0207-C.g20.DBLe.5899",
+          "PH0207-C.g15.DBLe.5950",
+          "PH0207-C.g84.DBLe.3436",
+          "PH0207-C.g15.DBLe.4888",
+          "PH0207-C.g21.DBLe.6253",
+          "PH0207-C.g15.DBLe.6901",
+          "PH0207-C.g23.DBLe.7357",
+          "PH0207-C.g13.DBLe.8473",
+          "PH0207-C.g54.DBLe.2578",
+          "PH0207-C.g32.DBLe.4780",
+          "PH0207-C.g54.DBLe.3688",
+          "PH0207-C.g32.DBLe.5893"
+        ]
+      },
+      "PH0208-C": {
+        "count": 18,
+        "samples": [
+          "PH0208-C.g19.DBLe.6109",
+          "PH0208-C.g21.DBLe.4627",
+          "PH0208-C.g23.DBLe.4780",
+          "PH0208-C.g18.DBLe.5998",
+          "PH0208-C.g7.DBLe.7669",
+          "PH0208-C.g22.DBLe.6175",
+          "PH0208-C.g21.DBLe.5731",
+          "PH0208-C.g18.DBLe.3358",
+          "PH0208-C.g7.DBLe.5428",
+          "PH0208-C.g9.DBLe.6901",
+          "PH0208-C.g9.DBLe.5950",
+          "PH0208-C.g7.DBLe.6547",
+          "PH0208-C.g25.DBLe.3394",
+          "PH0208-C.g23.DBLe.5893",
+          "PH0208-C.g9.DBLe.4888",
+          "PH0208-C.g20.DBLe.6091",
+          "PH0208-C.g25.DBLe.6025",
+          "PH0208-C.g22.DBLe.3796"
+        ]
+      },
+      "PH0209-C": {
+        "count": 19,
+        "samples": [
+          "PH0209-C.g18.DBLe.8290",
+          "PH0209-C.g26.DBLe.8839",
+          "PH0209-C.g48.DBLe.6367",
+          "PH0209-C.g25.DBLe.8851",
+          "PH0209-C.g32.DBLe.3382",
+          "PH0209-C.g66.DBLe.5992",
+          "PH0209-C.g19.DBLe.5467",
+          "PH0209-C.g65.DBLe.5899",
+          "PH0209-C.g45.DBLe.3361",
+          "PH0209-C.g17.DBLe.8725",
+          "PH0209-C.g19.DBLe.7843",
+          "PH0209-C.g49.DBLe.6283",
+          "PH0209-C.g26.DBLe.7888",
+          "PH0209-C.g26.DBLe.6832",
+          "PH0209-C.g45.DBLe.6010",
+          "PH0209-C.g40.DBLe.6217",
+          "PH0209-C.g65.DBLe.4918",
+          "PH0209-C.g32.DBLe.5968",
+          "PH0209-C.g117.DBLe.3706"
+        ]
+      },
+      "PH0210-C": {
+        "count": 14,
+        "samples": [
+          "PH0210-C.g53.DBLe.2746",
+          "PH0210-C.g14.DBLe.6184",
+          "PH0210-C.g26.DBLe.4762",
+          "PH0210-C.g27.DBLe.4960",
+          "PH0210-C.g9.DBLe.4888",
+          "PH0210-C.g9.DBLe.6901",
+          "PH0210-C.g24.DBLe.3505",
+          "PH0210-C.g9.DBLe.5950",
+          "PH0210-C.g53.DBLe.3739",
+          "PH0210-C.g21.DBLe.5893",
+          "PH0210-C.g53.DBLe.1696",
+          "PH0210-C.g21.DBLe.4780",
+          "PH0210-C.g24.DBLe.5890",
+          "PH0210-C.g6.DBLe.6805"
+        ]
+      },
+      "PH0212-C": {
+        "count": 16,
+        "samples": [
+          "PH0212-C.g52.DBLe.3316",
+          "PH0212-C.g86.DBLe.3400",
+          "PH0212-C.g80.DBLe.6901",
+          "PH0212-C.g80.DBLe.4888",
+          "PH0212-C.g69.DBLe.5731",
+          "PH0212-C.g80.DBLe.5950",
+          "PH0212-C.g86.DBLe.6031",
+          "PH0212-C.g4.DBLe.6109",
+          "PH0212-C.g63.DBLe.5893",
+          "PH0212-C.g91.DBLe.3796",
+          "PH0212-C.g63.DBLe.4780",
+          "PH0212-C.g91.DBLe.6175",
+          "PH0212-C.g49.DBLe.7618",
+          "PH0212-C.g35.DBLe.4756",
+          "PH0212-C.g69.DBLe.4627",
+          "PH0212-C.g52.DBLe.5956"
+        ]
+      },
+      "PH0213-C": {
+        "count": 16,
+        "samples": [
+          "PH0213-C.g11.DBLe.6901",
+          "PH0213-C.g21.DBLe.3358",
+          "PH0213-C.g21.DBLe.5998",
+          "PH0213-C.g26.DBLe.6091",
+          "PH0213-C.g11.DBLe.5950",
+          "PH0213-C.g23.DBLe.4780",
+          "PH0213-C.g8.DBLe.7669",
+          "PH0213-C.g25.DBLe.5731",
+          "PH0213-C.g23.DBLe.5893",
+          "PH0213-C.g8.DBLe.5428",
+          "PH0213-C.g27.DBLe.3400",
+          "PH0213-C.g22.DBLe.6109",
+          "PH0213-C.g27.DBLe.6031",
+          "PH0213-C.g8.DBLe.6547",
+          "PH0213-C.g25.DBLe.4627",
+          "PH0213-C.g11.DBLe.4888"
+        ]
+      },
+      "PH0246-C": {
+        "count": 5,
+        "samples": [
+          "PH0246-C.g59.DBLe.2077",
+          "PH0246-C.g59.DBLe.4078",
+          "PH0246-C.g62.DBLe.4348",
+          "PH0246-C.g85.DBLe.3511",
+          "PH0246-C.g59.DBLe.3127"
+        ]
+      },
+      "PH0259-C": {
+        "count": 6,
+        "samples": [
+          "PH0259-C.g48.DBLe.3703",
+          "PH0259-C.g62.DBLe.3406",
+          "PH0259-C.g8.DBLe.8473",
+          "PH0259-C.g1.DBLe.5293",
+          "PH0259-C.g77.DBLe.3079",
+          "PH0259-C.g1.DBLe.7771"
+        ]
+      },
+      "PH0274-C": {
+        "count": 4,
+        "samples": [
+          "PH0274-C.g32.DBLe.3751",
+          "PH0274-C.g14.DBLe.3784",
+          "PH0274-C.g4.DBLe.8473",
+          "PH0274-C.g59.DBLe.3394"
+        ]
+      },
+      "PH0292-C": {
+        "count": 13,
+        "samples": [
+          "PH0292-C.g27.DBLe.6901",
+          "PH0292-C.g39.DBLe.6091",
+          "PH0292-C.g81.DBLe.3793",
+          "PH0292-C.g3.DBLe.9259",
+          "PH0292-C.g57.DBLe.1672",
+          "PH0292-C.g64.DBLe.4627",
+          "PH0292-C.g27.DBLe.5950",
+          "PH0292-C.g57.DBLe.4255",
+          "PH0292-C.g14.DBLe.4915",
+          "PH0292-C.g3.DBLe.6880",
+          "PH0292-C.g27.DBLe.4888",
+          "PH0292-C.g73.DBLe.4381",
+          "PH0292-C.g91.DBLe.3859"
+        ]
+      },
+      "PH0294-C": {
+        "count": 13,
+        "samples": [
+          "PH0294-C.g56.DBLe.5722",
+          "PH0294-C.g52.DBLe.6136",
+          "PH0294-C.g125.DBLe.3091",
+          "PH0294-C.g61.DBLe.4921",
+          "PH0294-C.g12.DBLe.5746",
+          "PH0294-C.g63.DBLe.5080",
+          "PH0294-C.g83.DBLe.5818",
+          "PH0294-C.g78.DBLe.4762",
+          "PH0294-C.g83.DBLe.3367",
+          "PH0294-C.g60.DBLe.6031",
+          "PH0294-C.g38.DBLe.6007",
+          "PH0294-C.g116.DBLe.3235",
+          "PH0294-C.g56.DBLe.4684"
+        ]
+      },
+      "PH0326-C": {
+        "count": 7,
+        "samples": [
+          "PH0326-C.g30.DBLe.6208",
+          "PH0326-C.g20.DBLe.5995",
+          "PH0326-C.g94.DBLe.3331",
+          "PH0326-C.g3.DBLe.7087",
+          "PH0326-C.g3.DBLe.9130",
+          "PH0326-C.g20.DBLe.3364",
+          "PH0326-C.g3.DBLe.8143"
+        ]
+      },
+      "PH0330-C": {
+        "count": 18,
+        "samples": [
+          "PH0330-C.g42.DBLe.5731",
+          "PH0330-C.g38.DBLe.6547",
+          "PH0330-C.g32.DBLe.3367",
+          "PH0330-C.g38.DBLe.7669",
+          "PH0330-C.g142.DBLe.3418",
+          "PH0330-C.g33.DBLe.7837",
+          "PH0330-C.g142.DBLe.778",
+          "PH0330-C.g32.DBLe.6211",
+          "PH0330-C.g67.DBLe.3796",
+          "PH0330-C.g33.DBLe.8788",
+          "PH0330-C.g42.DBLe.4627",
+          "PH0330-C.g66.DBLe.6091",
+          "PH0330-C.g63.DBLe.6019",
+          "PH0330-C.g67.DBLe.6175",
+          "PH0330-C.g63.DBLe.3388",
+          "PH0330-C.g38.DBLe.5428",
+          "PH0330-C.g45.DBLe.4816",
+          "PH0330-C.g33.DBLe.6787"
+        ]
+      },
+      "PH0333-C": {
+        "count": 20,
+        "samples": [
+          "PH0333-C.g61.DBLe.6940",
+          "PH0333-C.g83.DBLe.5797",
+          "PH0333-C.g32.DBLe.8056",
+          "PH0333-C.g61.DBLe.4570",
+          "PH0333-C.g68.DBLe.6133",
+          "PH0333-C.g30.DBLe.7102",
+          "PH0333-C.g31.DBLe.9409",
+          "PH0333-C.g49.DBLe.3382",
+          "PH0333-C.g29.DBLe.5746",
+          "PH0333-C.g64.DBLe.5548",
+          "PH0333-C.g30.DBLe.9508",
+          "PH0333-C.g31.DBLe.8422",
+          "PH0333-C.g18.DBLe.8176",
+          "PH0333-C.g49.DBLe.6031",
+          "PH0333-C.g60.DBLe.5047",
+          "PH0333-C.g87.DBLe.3427",
+          "PH0333-C.g63.DBLe.6229",
+          "PH0333-C.g60.DBLe.7411",
+          "PH0333-C.g83.DBLe.3226",
+          "PH0333-C.g32.DBLe.5566"
+        ]
+      },
+      "PH0340-C": {
+        "count": 5,
+        "samples": [
+          "PH0340-C.g20.DBLe.7519",
+          "PH0340-C.g8.DBLe.8848",
+          "PH0340-C.g23.DBLe.6100",
+          "PH0340-C.g74.DBLe.3808",
+          "PH0340-C.g49.DBLe.5161"
+        ]
+      },
+      "PH0344-C": {
+        "count": 4,
+        "samples": [
+          "PH0344-C.g2.DBLe.6322",
+          "PH0344-C.g6.DBLe.5425",
+          "PH0344-C.g32.DBLe.3571",
+          "PH0344-C.g27.DBLe.2341"
+        ]
+      },
+      "PH0380-C": {
+        "count": 4,
+        "samples": [
+          "PH0380-C.g18.DBLe.8224",
+          "PH0380-C.g116.DBLe.3298",
+          "PH0380-C.g43.DBLe.6301",
+          "PH0380-C.g54.DBLe.6136"
+        ]
+      },
+      "PH0463-C": {
+        "count": 12,
+        "samples": [
+          "PH0463-C.g46.DBLe.6109",
+          "PH0463-C.g22.DBLe.3358",
+          "PH0463-C.g12.DBLe.7669",
+          "PH0463-C.g8.DBLe.9256",
+          "PH0463-C.g8.DBLe.6877",
+          "PH0463-C.g20.DBLe.3391",
+          "PH0463-C.g20.DBLe.6022",
+          "PH0463-C.g21.DBLe.5731",
+          "PH0463-C.g22.DBLe.5998",
+          "PH0463-C.g21.DBLe.4627",
+          "PH0463-C.g12.DBLe.5428",
+          "PH0463-C.g12.DBLe.6547"
+        ]
+      },
+      "PH0509-C": {
+        "count": 19,
+        "samples": [
+          "PH0509-C.g1934.DBLe.5737",
+          "PH0509-C.g2074.DBLe.3208",
+          "PH0509-C.g1940.DBLe.6019",
+          "PH0509-C.g1941.DBLe.6160",
+          "PH0509-C.g1934.DBLe.6688",
+          "PH0509-C.g1935.DBLe.6823",
+          "PH0509-C.g1916.DBLe.8377",
+          "PH0509-C.g1934.DBLe.4675",
+          "PH0509-C.g1942.DBLe.6202",
+          "PH0509-C.g1947.DBLe.5140",
+          "PH0509-C.g1946.DBLe.4852",
+          "PH0509-C.g1942.DBLe.5251",
+          "PH0509-C.g1939.DBLe.6331",
+          "PH0509-C.g2063.DBLe.3523",
+          "PH0509-C.g1942.DBLe.4195",
+          "PH0509-C.g1933.DBLe.6634",
+          "PH0509-C.g2021.DBLe.4138",
+          "PH0509-C.g1940.DBLe.3490",
+          "PH0509-C.g1937.DBLe.6187"
+        ]
+      },
+      "PH0518-C": {
+        "count": 17,
+        "samples": [
+          "PH0518-C.g29.DBLe.6136",
+          "PH0518-C.g52.DBLe.4921",
+          "PH0518-C.g12.DBLe.5566",
+          "PH0518-C.g21.DBLe.5821",
+          "PH0518-C.g16.DBLe.5722",
+          "PH0518-C.g22.DBLe.6547",
+          "PH0518-C.g22.DBLe.7669",
+          "PH0518-C.g22.DBLe.5428",
+          "PH0518-C.g31.DBLe.6031",
+          "PH0518-C.g31.DBLe.7126",
+          "PH0518-C.g33.DBLe.5950",
+          "PH0518-C.g16.DBLe.6709",
+          "PH0518-C.g12.DBLe.8056",
+          "PH0518-C.g33.DBLe.6901",
+          "PH0518-C.g33.DBLe.4888",
+          "PH0518-C.g16.DBLe.4684",
+          "PH0518-C.g18.DBLe.6007"
+        ]
+      },
+      "PH0523-C": {
+        "count": 12,
+        "samples": [
+          "PH0523-C.g28.DBLe.6283",
+          "PH0523-C.g24.DBLe.7324",
+          "PH0523-C.g24.DBLe.6229",
+          "PH0523-C.g30.DBLe.4984",
+          "PH0523-C.g65.DBLe.2641",
+          "PH0523-C.g30.DBLe.7501",
+          "PH0523-C.g32.DBLe.3505",
+          "PH0523-C.g29.DBLe.6115",
+          "PH0523-C.g26.DBLe.5101",
+          "PH0523-C.g32.DBLe.5890",
+          "PH0523-C.g41.DBLe.6208",
+          "PH0523-C.g65.DBLe.5272"
+        ]
+      },
+      "PH0524-C": {
+        "count": 16,
+        "samples": [
+          "PH0524-C.g21.DBLe.8920",
+          "PH0524-C.g39.DBLe.5833",
+          "PH0524-C.g76.DBLe.4510",
+          "PH0524-C.g28.DBLe.5917",
+          "PH0524-C.g17.DBLe.3313",
+          "PH0524-C.g40.DBLe.6220",
+          "PH0524-C.g33.DBLe.6196",
+          "PH0524-C.g39.DBLe.6907",
+          "PH0524-C.g39.DBLe.4777",
+          "PH0524-C.g35.DBLe.6238",
+          "PH0524-C.g76.DBLe.2134",
+          "PH0524-C.g17.DBLe.4540",
+          "PH0524-C.g28.DBLe.3382",
+          "PH0524-C.g17.DBLe.7075",
+          "PH0524-C.g37.DBLe.7390",
+          "PH0524-C.g21.DBLe.6511"
+        ]
+      },
+      "PH0527-C": {
+        "count": 21,
+        "samples": [
+          "PH0527-C.g49.DBLe.6547",
+          "PH0527-C.g66.DBLe.3367",
+          "PH0527-C.g82.DBLe.6019",
+          "PH0527-C.g51.DBLe.7108",
+          "PH0527-C.g82.DBLe.3388",
+          "PH0527-C.g47.DBLe.4888",
+          "PH0527-C.g49.DBLe.5428",
+          "PH0527-C.g92.DBLe.7126",
+          "PH0527-C.g51.DBLe.6145",
+          "PH0527-C.g40.DBLe.4780",
+          "PH0527-C.g40.DBLe.5893",
+          "PH0527-C.g49.DBLe.7669",
+          "PH0527-C.g47.DBLe.6901",
+          "PH0527-C.g81.DBLe.4756",
+          "PH0527-C.g79.DBLe.6091",
+          "PH0527-C.g69.DBLe.5731",
+          "PH0527-C.g51.DBLe.5083",
+          "PH0527-C.g66.DBLe.5998",
+          "PH0527-C.g92.DBLe.4747",
+          "PH0527-C.g47.DBLe.5950",
+          "PH0527-C.g69.DBLe.4627"
+        ]
+      },
+      "PH0596-C": {
+        "count": 16,
+        "samples": [
+          "PH0596-C.g42.DBLe.5950",
+          "PH0596-C.g14.DBLe.5980",
+          "PH0596-C.g26.DBLe.5545",
+          "PH0596-C.g42.DBLe.6901",
+          "PH0596-C.g30.DBLe.6094",
+          "PH0596-C.g42.DBLe.4888",
+          "PH0596-C.g32.DBLe.5932",
+          "PH0596-C.g22.DBLe.8317",
+          "PH0596-C.g14.DBLe.4927",
+          "PH0596-C.g32.DBLe.4822",
+          "PH0596-C.g37.DBLe.5890",
+          "PH0596-C.g17.DBLe.7963",
+          "PH0596-C.g16.DBLe.5746",
+          "PH0596-C.g37.DBLe.3505",
+          "PH0596-C.g30.DBLe.7198",
+          "PH0596-C.g49.DBLe.6247"
+        ]
+      },
+      "PH0820-C": {
+        "count": 19,
+        "samples": [
+          "PH0820-C.g17.DBLe.9031",
+          "PH0820-C.g17.DBLe.6988",
+          "PH0820-C.g16.DBLe.5722",
+          "PH0820-C.g17.DBLe.8038",
+          "PH0820-C.g18.DBLe.6007",
+          "PH0820-C.g12.DBLe.8677",
+          "PH0820-C.g29.DBLe.3358",
+          "PH0820-C.g95.DBLe.3031",
+          "PH0820-C.g25.DBLe.7597",
+          "PH0820-C.g36.DBLe.3133",
+          "PH0820-C.g29.DBLe.5998",
+          "PH0820-C.g16.DBLe.4684",
+          "PH0820-C.g16.DBLe.6709",
+          "PH0820-C.g2.DBLe.4744",
+          "PH0820-C.g37.DBLe.5746",
+          "PH0820-C.g59.DBLe.4762",
+          "PH0820-C.g36.DBLe.5626",
+          "PH0820-C.g41.DBLe.6136",
+          "PH0820-C.g55.DBLe.4921"
+        ]
+      },
+      "PH0824-C": {
+        "count": 30,
+        "samples": [
+          "PH0824-C.g32.DBLe.5746",
+          "PH0824-C.g27.DBLe.6136",
+          "PH0824-C.g47.DBLe.4762",
+          "PH0824-C.g15.DBLe.5950",
+          "PH0824-C.g105.DBLe.3571",
+          "PH0824-C.g15.DBLe.6901",
+          "PH0824-C.g119.DBLe.2878",
+          "PH0824-C.g4.DBLe.5365",
+          "PH0824-C.g4.DBLe.7858",
+          "PH0824-C.g33.DBLe.3358",
+          "PH0824-C.g15.DBLe.4888",
+          "PH0824-C.g3.DBLe.5722",
+          "PH0824-C.g13.DBLe.5428",
+          "PH0824-C.g3.DBLe.6709",
+          "PH0824-C.g21.DBLe.4984",
+          "PH0824-C.g46.DBLe.4921",
+          "PH0824-C.g13.DBLe.7669",
+          "PH0824-C.g21.DBLe.6097",
+          "PH0824-C.g2.DBLe.8677",
+          "PH0824-C.g29.DBLe.3811",
+          "PH0824-C.g29.DBLe.6190",
+          "PH0824-C.g12.DBLe.7597",
+          "PH0824-C.g37.DBLe.5254",
+          "PH0824-C.g33.DBLe.5998",
+          "PH0824-C.g36.DBLe.5812",
+          "PH0824-C.g3.DBLe.4684",
+          "PH0824-C.g13.DBLe.6547",
+          "PH0824-C.g36.DBLe.3181",
+          "PH0824-C.g37.DBLe.4150",
+          "PH0824-C.g14.DBLe.6007"
+        ]
+      },
+      "PT0001-CW": {
+        "count": 8,
+        "samples": [
+          "PT0001-CW.g17.DBLe.4288",
+          "PT0001-CW.g9.DBLe.5965",
+          "PT0001-CW.g6.DBLe.3496",
+          "PT0001-CW.g6.DBLe.4591",
+          "PT0001-CW.g8.DBLe.2590",
+          "PT0001-CW.g6.DBLe.5713",
+          "PT0001-CW.g29.DBLe.3916",
+          "PT0001-CW.g8.DBLe.5242"
+        ]
+      },
+      "PT0002-CW": {
+        "count": 5,
+        "samples": [
+          "PT0002-CW.g22.DBLe.3139",
+          "PT0002-CW.g16.DBLe.3448",
+          "PT0002-CW.g3.DBLe.6061",
+          "PT0002-CW.g3.DBLe.1624",
+          "PT0002-CW.g3.DBLe.5005"
+        ]
+      },
+      "PT0003-CW": {
+        "count": 13,
+        "samples": [
+          "PT0003-CW.g96.DBLe.3115",
+          "PT0003-CW.g56.DBLe.2983",
+          "PT0003-CW.g96.DBLe.2125",
+          "PT0003-CW.g33.DBLe.4510",
+          "PT0003-CW.g31.DBLe.4723",
+          "PT0003-CW.g96.DBLe.1069",
+          "PT0003-CW.g56.DBLe.4093",
+          "PT0003-CW.g69.DBLe.1525",
+          "PT0003-CW.g113.DBLe.2887",
+          "PT0003-CW.g69.DBLe.3889",
+          "PT0003-CW.g93.DBLe.3106",
+          "PT0003-CW.g33.DBLe.5623",
+          "PT0003-CW.g31.DBLe.5848"
+        ]
+      },
+      "PT0004-CW": {
+        "count": 14,
+        "samples": [
+          "PT0004-CW.g4.DBLe.5479",
+          "PT0004-CW.g8.DBLe.4654",
+          "PT0004-CW.g4.DBLe.7930",
+          "PT0004-CW.g8.DBLe.5758",
+          "PT0004-CW.g27.DBLe.5173",
+          "PT0004-CW.g12.DBLe.4132",
+          "PT0004-CW.g12.DBLe.6790",
+          "PT0004-CW.g23.DBLe.3691",
+          "PT0004-CW.g23.DBLe.5704",
+          "PT0004-CW.g35.DBLe.4081",
+          "PT0004-CW.g23.DBLe.4741",
+          "PT0004-CW.g12.DBLe.3034",
+          "PT0004-CW.g17.DBLe.6208",
+          "PT0004-CW.g18.DBLe.6088"
+        ]
+      },
+      "PT0005-CW": {
+        "count": 18,
+        "samples": [
+          "PT0005-CW.g19.DBLe.7261",
+          "PT0005-CW.g44.DBLe.6094",
+          "PT0005-CW.g56.DBLe.5857",
+          "PT0005-CW.g56.DBLe.4747",
+          "PT0005-CW.g19.DBLe.9640",
+          "PT0005-CW.g48.DBLe.6364",
+          "PT0005-CW.g75.DBLe.4885",
+          "PT0005-CW.g46.DBLe.6163",
+          "PT0005-CW.g42.DBLe.6529",
+          "PT0005-CW.g44.DBLe.7054",
+          "PT0005-CW.g44.DBLe.5026",
+          "PT0005-CW.g40.DBLe.8200",
+          "PT0005-CW.g55.DBLe.5881",
+          "PT0005-CW.g43.DBLe.6982",
+          "PT0005-CW.g127.DBLe.3307",
+          "PT0005-CW.g43.DBLe.5872",
+          "PT0005-CW.g52.DBLe.6304",
+          "PT0005-CW.g43.DBLe.3367"
+        ]
+      },
+      "PT0006-CW": {
+        "count": 12,
+        "samples": [
+          "PT0006-CW.g25.DBLe.7756",
+          "PT0006-CW.g87.DBLe.2851",
+          "PT0006-CW.g30.DBLe.3397",
+          "PT0006-CW.g66.DBLe.4978",
+          "PT0006-CW.g30.DBLe.6037",
+          "PT0006-CW.g51.DBLe.6196",
+          "PT0006-CW.g13.DBLe.8857",
+          "PT0006-CW.g13.DBLe.7900",
+          "PT0006-CW.g12.DBLe.8005",
+          "PT0006-CW.g12.DBLe.5500",
+          "PT0006-CW.g87.DBLe.3982",
+          "PT0006-CW.g13.DBLe.6844"
+        ]
+      },
+      "PT0007-CW": {
+        "count": 5,
+        "samples": [
+          "PT0007-CW.g18.DBLe.8071",
+          "PT0007-CW.g46.DBLe.2563",
+          "PT0007-CW.g46.DBLe.3604",
+          "PT0007-CW.g24.DBLe.6100",
+          "PT0007-CW.g46.DBLe.4555"
+        ]
+      },
+      "PT0008-CW": {
+        "count": 14,
+        "samples": [
+          "PT0008-CW.g32.DBLe.3955",
+          "PT0008-CW.g27.DBLe.2269",
+          "PT0008-CW.g26.DBLe.3460",
+          "PT0008-CW.g32.DBLe.1894",
+          "PT0008-CW.g2.DBLe.4855",
+          "PT0008-CW.g27.DBLe.3325",
+          "PT0008-CW.g32.DBLe.2965",
+          "PT0008-CW.g34.DBLe.4012",
+          "PT0008-CW.g24.DBLe.4405",
+          "PT0008-CW.g29.DBLe.4054",
+          "PT0008-CW.g26.DBLe.4411",
+          "PT0008-CW.g3.DBLe.4192",
+          "PT0008-CW.g26.DBLe.2398",
+          "PT0008-CW.g27.DBLe.4282"
+        ]
+      },
+      "PT0009-CW": {
+        "count": 5,
+        "samples": [
+          "PT0009-CW.g59.DBLe.6100",
+          "PT0009-CW.g71.DBLe.7063",
+          "PT0009-CW.g105.DBLe.2563",
+          "PT0009-CW.g105.DBLe.3604",
+          "PT0009-CW.g105.DBLe.4555"
+        ]
+      },
+      "PT0010-CW": {
+        "count": 16,
+        "samples": [
+          "PT0010-CW.g70.DBLe.3529",
+          "PT0010-CW.g23.DBLe.3793",
+          "PT0010-CW.g42.DBLe.3328",
+          "PT0010-CW.g23.DBLe.6178",
+          "PT0010-CW.g42.DBLe.4312",
+          "PT0010-CW.g34.DBLe.3325",
+          "PT0010-CW.g62.DBLe.1807",
+          "PT0010-CW.g33.DBLe.4762",
+          "PT0010-CW.g9.DBLe.6367",
+          "PT0010-CW.g62.DBLe.3838",
+          "PT0010-CW.g7.DBLe.7180",
+          "PT0010-CW.g70.DBLe.1162",
+          "PT0010-CW.g37.DBLe.4387",
+          "PT0010-CW.g42.DBLe.2269",
+          "PT0010-CW.g62.DBLe.2848",
+          "PT0010-CW.g19.DBLe.3373"
+        ]
+      },
+      "PT0013-CW": {
+        "count": 2,
+        "samples": [
+          "PT0013-CW.g12.DBLe.3034",
+          "PT0013-CW.g12.DBLe.391"
+        ]
+      },
+      "PT0014-CW": {
+        "count": 7,
+        "samples": [
+          "PT0014-CW.g44.DBLe.6139",
+          "PT0014-CW.g36.DBLe.4630",
+          "PT0014-CW.g36.DBLe.5734",
+          "PT0014-CW.g28.DBLe.4771",
+          "PT0014-CW.g20.DBLe.6931",
+          "PT0014-CW.g23.DBLe.7438",
+          "PT0014-CW.g28.DBLe.5902"
+        ]
+      },
+      "PT0015-CW": {
+        "count": 7,
+        "samples": [
+          "PT0015-CW.g7.DBLe.4438",
+          "PT0015-CW.g16.DBLe.4762",
+          "PT0015-CW.g7.DBLe.7093",
+          "PT0015-CW.g10.DBLe.4363",
+          "PT0015-CW.g56.DBLe.3685",
+          "PT0015-CW.g10.DBLe.6841",
+          "PT0015-CW.g7.DBLe.3343"
+        ]
+      },
+      "PT0027-C": {
+        "count": 7,
+        "samples": [
+          "PT0027-C.g16.DBLe.8191",
+          "PT0027-C.g19.DBLe.6847",
+          "PT0027-C.g46.DBLe.5206",
+          "PT0027-C.g19.DBLe.7942",
+          "PT0027-C.g31.DBLe.7312",
+          "PT0027-C.g16.DBLe.9184",
+          "PT0027-C.g16.DBLe.7141"
+        ]
+      },
+      "PT0035-C": {
+        "count": 14,
+        "samples": [
+          "PT0035-C.g17.DBLe.6724",
+          "PT0035-C.g17.DBLe.5584",
+          "PT0035-C.g12.DBLe.3391",
+          "PT0035-C.g16.DBLe.8689",
+          "PT0035-C.g32.DBLe.6193",
+          "PT0035-C.g77.DBLe.2023",
+          "PT0035-C.g12.DBLe.6028",
+          "PT0035-C.g77.DBLe.3127",
+          "PT0035-C.g10.DBLe.6925",
+          "PT0035-C.g8.DBLe.5569",
+          "PT0035-C.g8.DBLe.7954",
+          "PT0035-C.g10.DBLe.7978",
+          "PT0035-C.g10.DBLe.8965",
+          "PT0035-C.g25.DBLe.6481"
+        ]
+      },
+      "PT0044-C": {
+        "count": 19,
+        "samples": [
+          "PT0044-C.g8.DBLe.8362",
+          "PT0044-C.g15.DBLe.7204",
+          "PT0044-C.g34.DBLe.5929",
+          "PT0044-C.g98.DBLe.3766",
+          "PT0044-C.g104.DBLe.3469",
+          "PT0044-C.g26.DBLe.6076",
+          "PT0044-C.g41.DBLe.4816",
+          "PT0044-C.g64.DBLe.4684",
+          "PT0044-C.g57.DBLe.5119",
+          "PT0044-C.g23.DBLe.6508",
+          "PT0044-C.g34.DBLe.4864",
+          "PT0044-C.g9.DBLe.4858",
+          "PT0044-C.g15.DBLe.5149",
+          "PT0044-C.g15.DBLe.6217",
+          "PT0044-C.g77.DBLe.3535",
+          "PT0044-C.g27.DBLe.6193",
+          "PT0044-C.g57.DBLe.4054",
+          "PT0044-C.g103.DBLe.2845",
+          "PT0044-C.g13.DBLe.7603"
+        ]
+      },
+      "PT0048-C": {
+        "count": 16,
+        "samples": [
+          "PT0048-C.g19.DBLe.8335",
+          "PT0048-C.g33.DBLe.5890",
+          "PT0048-C.g37.DBLe.6382",
+          "PT0048-C.g63.DBLe.4378",
+          "PT0048-C.g25.DBLe.7885",
+          "PT0048-C.g38.DBLe.6154",
+          "PT0048-C.g23.DBLe.4420",
+          "PT0048-C.g23.DBLe.3307",
+          "PT0048-C.g30.DBLe.7201",
+          "PT0048-C.g23.DBLe.7066",
+          "PT0048-C.g10.DBLe.9562",
+          "PT0048-C.g63.DBLe.3394",
+          "PT0048-C.g34.DBLe.6253",
+          "PT0048-C.g25.DBLe.6757",
+          "PT0048-C.g35.DBLe.6346",
+          "PT0048-C.g63.DBLe.2356"
+        ]
+      },
+      "PT0051-C": {
+        "count": 5,
+        "samples": [
+          "PT0051-C.g20.DBLe.2299",
+          "PT0051-C.g7.DBLe.2821",
+          "PT0051-C.g20.DBLe.3421",
+          "PT0051-C.g7.DBLe.5458",
+          "PT0051-C.g20.DBLe.1180"
+        ]
+      },
+      "PT0053-C": {
+        "count": 3,
+        "samples": [
+          "PT0053-C.g1.DBLe.6823",
+          "PT0053-C.g1.DBLe.8878",
+          "PT0053-C.g1.DBLe.7888"
+        ]
+      },
+      "PT0055-C": {
+        "count": 3,
+        "samples": [
+          "PT0055-C.g29.DBLe.1618",
+          "PT0055-C.g29.DBLe.3982",
+          "PT0055-C.g49.DBLe.3079"
+        ]
+      },
+      "PT0056-C": {
+        "count": 7,
+        "samples": [
+          "PT0056-C.g12.DBLe.6298",
+          "PT0056-C.g39.DBLe.3427",
+          "PT0056-C.g23.DBLe.6037",
+          "PT0056-C.g39.DBLe.4501",
+          "PT0056-C.g19.DBLe.6169",
+          "PT0056-C.g45.DBLe.4777",
+          "PT0056-C.g39.DBLe.2389"
+        ]
+      },
+      "PT0058-C": {
+        "count": 10,
+        "samples": [
+          "PT0058-C.g67.DBLe.5881",
+          "PT0058-C.g68.DBLe.5098",
+          "PT0058-C.g36.DBLe.5206",
+          "PT0058-C.g49.DBLe.6196",
+          "PT0058-C.g46.DBLe.6313",
+          "PT0058-C.g21.DBLe.7039",
+          "PT0058-C.g21.DBLe.8170",
+          "PT0058-C.g62.DBLe.6055",
+          "PT0058-C.g75.DBLe.5275",
+          "PT0058-C.g57.DBLe.6196"
+        ]
+      },
+      "PT0059-C": {
+        "count": 10,
+        "samples": [
+          "PT0059-C.g85.DBLe.3895",
+          "PT0059-C.g3.DBLe.8452",
+          "PT0059-C.g10.DBLe.6862",
+          "PT0059-C.g30.DBLe.6475",
+          "PT0059-C.g10.DBLe.7993",
+          "PT0059-C.g34.DBLe.6211",
+          "PT0059-C.g97.DBLe.2854",
+          "PT0059-C.g71.DBLe.3748",
+          "PT0059-C.g27.DBLe.6340",
+          "PT0059-C.g13.DBLe.5938"
+        ]
+      },
+      "PT0060-C": {
+        "count": 6,
+        "samples": [
+          "PT0060-C.g15.DBLe.3391",
+          "PT0060-C.g15.DBLe.4501",
+          "PT0060-C.g57.DBLe.6109",
+          "PT0060-C.g57.DBLe.5050",
+          "PT0060-C.g15.DBLe.7138",
+          "PT0060-C.g14.DBLe.9886"
+        ]
+      },
+      "PT0062-C": {
+        "count": 2,
+        "samples": [
+          "PT0062-C.g3.DBLe.3631",
+          "PT0062-C.g3.DBLe.2581"
+        ]
+      },
+      "PT0069-C": {
+        "count": 28,
+        "samples": [
+          "PT0069-C.g151.DBLe.4588",
+          "PT0069-C.g176.DBLe.4735",
+          "PT0069-C.g150.DBLe.6175",
+          "PT0069-C.g212.DBLe.2353",
+          "PT0069-C.g79.DBLe.6082",
+          "PT0069-C.g82.DBLe.8098",
+          "PT0069-C.g144.DBLe.6301",
+          "PT0069-C.g130.DBLe.6550",
+          "PT0069-C.g82.DBLe.4435",
+          "PT0069-C.g47.DBLe.9823",
+          "PT0069-C.g83.DBLe.7522",
+          "PT0069-C.g78.DBLe.5665",
+          "PT0069-C.g126.DBLe.6226",
+          "PT0069-C.g82.DBLe.6988",
+          "PT0069-C.g79.DBLe.7150",
+          "PT0069-C.g69.DBLe.7258",
+          "PT0069-C.g69.DBLe.9310",
+          "PT0069-C.g212.DBLe.4708",
+          "PT0069-C.g79.DBLe.8104",
+          "PT0069-C.g92.DBLe.6004",
+          "PT0069-C.g113.DBLe.5992",
+          "PT0069-C.g151.DBLe.5683",
+          "PT0069-C.g81.DBLe.5164",
+          "PT0069-C.g176.DBLe.5893",
+          "PT0069-C.g69.DBLe.8323",
+          "PT0069-C.g92.DBLe.3364",
+          "PT0069-C.g111.DBLe.7354",
+          "PT0069-C.g82.DBLe.3325"
+        ]
+      },
+      "PT0070-C": {
+        "count": 9,
+        "samples": [
+          "PT0070-C.g21.DBLe.7468",
+          "PT0070-C.g34.DBLe.5125",
+          "PT0070-C.g26.DBLe.4741",
+          "PT0070-C.g42.DBLe.6154",
+          "PT0070-C.g19.DBLe.4897",
+          "PT0070-C.g34.DBLe.6259",
+          "PT0070-C.g33.DBLe.6142",
+          "PT0070-C.g26.DBLe.7114",
+          "PT0070-C.g19.DBLe.7261"
+        ]
+      },
+      "PT0072-C": {
+        "count": 21,
+        "samples": [
+          "PT0072-C.g3.DBLe.8173",
+          "PT0072-C.g13.DBLe.6934",
+          "PT0072-C.g13.DBLe.5821",
+          "PT0072-C.g3.DBLe.6127",
+          "PT0072-C.g120.DBLe.3049",
+          "PT0072-C.g41.DBLe.2641",
+          "PT0072-C.g100.DBLe.2680",
+          "PT0072-C.g78.DBLe.3202",
+          "PT0072-C.g3.DBLe.7177",
+          "PT0072-C.g52.DBLe.4252",
+          "PT0072-C.g41.DBLe.5101",
+          "PT0072-C.g19.DBLe.6058",
+          "PT0072-C.g120.DBLe.2077",
+          "PT0072-C.g9.DBLe.6865",
+          "PT0072-C.g116.DBLe.2368",
+          "PT0072-C.g13.DBLe.2554",
+          "PT0072-C.g42.DBLe.4921",
+          "PT0072-C.g120.DBLe.1015",
+          "PT0072-C.g14.DBLe.6238",
+          "PT0072-C.g95.DBLe.4006",
+          "PT0072-C.g129.DBLe.2965"
+        ]
+      },
+      "PT0073-C": {
+        "count": 12,
+        "samples": [
+          "PT0073-C.g36.DBLe.7504",
+          "PT0073-C.g49.DBLe.3733",
+          "PT0073-C.g36.DBLe.5143",
+          "PT0073-C.g33.DBLe.7774",
+          "PT0073-C.g67.DBLe.4861",
+          "PT0073-C.g40.DBLe.6001",
+          "PT0073-C.g2.DBLe.5578",
+          "PT0073-C.g27.DBLe.6034",
+          "PT0073-C.g2.DBLe.6706",
+          "PT0073-C.g27.DBLe.3382",
+          "PT0073-C.g49.DBLe.4837",
+          "PT0073-C.g34.DBLe.6610"
+        ]
+      },
+      "PT0074-C": {
+        "count": 15,
+        "samples": [
+          "PT0074-C.g46.DBLe.3538",
+          "PT0074-C.g67.DBLe.4048",
+          "PT0074-C.g9.DBLe.3388",
+          "PT0074-C.g46.DBLe.2470",
+          "PT0074-C.g50.DBLe.4408",
+          "PT0074-C.g14.DBLe.7225",
+          "PT0074-C.g5.DBLe.8749",
+          "PT0074-C.g69.DBLe.3433",
+          "PT0074-C.g14.DBLe.6106",
+          "PT0074-C.g46.DBLe.4525",
+          "PT0074-C.g3.DBLe.5479",
+          "PT0074-C.g71.DBLe.3382",
+          "PT0074-C.g50.DBLe.3436",
+          "PT0074-C.g9.DBLe.5953",
+          "PT0074-C.g50.DBLe.2386"
+        ]
+      },
+      "PT0076-C": {
+        "count": 19,
+        "samples": [
+          "PT0076-C.g21.DBLe.6418",
+          "PT0076-C.g9.DBLe.5983",
+          "PT0076-C.g70.DBLe.3391",
+          "PT0076-C.g8.DBLe.8362",
+          "PT0076-C.g20.DBLe.4951",
+          "PT0076-C.g24.DBLe.6082",
+          "PT0076-C.g36.DBLe.5935",
+          "PT0076-C.g25.DBLe.6130",
+          "PT0076-C.g36.DBLe.3361",
+          "PT0076-C.g17.DBLe.6250",
+          "PT0076-C.g6.DBLe.8449",
+          "PT0076-C.g70.DBLe.4342",
+          "PT0076-C.g17.DBLe.7306",
+          "PT0076-C.g130.DBLe.205",
+          "PT0076-C.g70.DBLe.2344",
+          "PT0076-C.g20.DBLe.6004",
+          "PT0076-C.g69.DBLe.4849",
+          "PT0076-C.g6.DBLe.6082",
+          "PT0076-C.g20.DBLe.6982"
+        ]
+      },
+      "PT0077-Cx": {
+        "count": 24,
+        "samples": [
+          "PT0077-Cx.g4.DBLe.8296",
+          "PT0077-Cx.g11.DBLe.7255",
+          "PT0077-Cx.g22.DBLe.5011",
+          "PT0077-Cx.g7.DBLe.6811",
+          "PT0077-Cx.g50.DBLe.4786",
+          "PT0077-Cx.g11.DBLe.5233",
+          "PT0077-Cx.g3.DBLe.8686",
+          "PT0077-Cx.g9.DBLe.7018",
+          "PT0077-Cx.g119.DBLe.3274",
+          "PT0077-Cx.g7.DBLe.7864",
+          "PT0077-Cx.g32.DBLe.4945",
+          "PT0077-Cx.g26.DBLe.5272",
+          "PT0077-Cx.g13.DBLe.6394",
+          "PT0077-Cx.g88.DBLe.3886",
+          "PT0077-Cx.g4.DBLe.7240",
+          "PT0077-Cx.g5.DBLe.7846",
+          "PT0077-Cx.g76.DBLe.1549",
+          "PT0077-Cx.g58.DBLe.2524",
+          "PT0077-Cx.g32.DBLe.2566",
+          "PT0077-Cx.g58.DBLe.4534",
+          "PT0077-Cx.g58.DBLe.3571",
+          "PT0077-Cx.g10.DBLe.6256",
+          "PT0077-Cx.g11.DBLe.6271",
+          "PT0077-Cx.g84.DBLe.3373"
+        ]
+      },
+      "PT0078-Cx": {
+        "count": 14,
+        "samples": [
+          "PT0078-Cx.g50.DBLe.5062",
+          "PT0078-Cx.g118.DBLe.4162",
+          "PT0078-Cx.g72.DBLe.4705",
+          "PT0078-Cx.g18.DBLe.8500",
+          "PT0078-Cx.g50.DBLe.6175",
+          "PT0078-Cx.g75.DBLe.4795",
+          "PT0078-Cx.g41.DBLe.4702",
+          "PT0078-Cx.g20.DBLe.6400",
+          "PT0078-Cx.g73.DBLe.5050",
+          "PT0078-Cx.g36.DBLe.3787",
+          "PT0078-Cx.g36.DBLe.6364",
+          "PT0078-Cx.g41.DBLe.5824",
+          "PT0078-Cx.g38.DBLe.3667",
+          "PT0078-Cx.g38.DBLe.6136"
+        ]
+      },
+      "PT0079-C": {
+        "count": 14,
+        "samples": [
+          "PT0079-C.g17.DBLe.9094",
+          "PT0079-C.g47.DBLe.5944",
+          "PT0079-C.g1.DBLe.3538",
+          "PT0079-C.g22.DBLe.5533",
+          "PT0079-C.g17.DBLe.8104",
+          "PT0079-C.g1.DBLe.6034",
+          "PT0079-C.g46.DBLe.6277",
+          "PT0079-C.g14.DBLe.6928",
+          "PT0079-C.g74.DBLe.4756",
+          "PT0079-C.g32.DBLe.6355",
+          "PT0079-C.g25.DBLe.8281",
+          "PT0079-C.g14.DBLe.9307",
+          "PT0079-C.g17.DBLe.7063",
+          "PT0079-C.g18.DBLe.8095"
+        ]
+      },
+      "PT0082-C": {
+        "count": 10,
+        "samples": [
+          "PT0082-C.g10.DBLe.4771",
+          "PT0082-C.g7.DBLe.4972",
+          "PT0082-C.g7.DBLe.6085",
+          "PT0082-C.g19.DBLe.2371",
+          "PT0082-C.g13.DBLe.3349",
+          "PT0082-C.g2.DBLe.3364",
+          "PT0082-C.g19.DBLe.4744",
+          "PT0082-C.g47.DBLe.3793",
+          "PT0082-C.g51.DBLe.3607",
+          "PT0082-C.g42.DBLe.4297"
+        ]
+      },
+      "PT0083-C": {
+        "count": 22,
+        "samples": [
+          "PT0083-C.g111.DBLe.1957",
+          "PT0083-C.g59.DBLe.2338",
+          "PT0083-C.g35.DBLe.6295",
+          "PT0083-C.g65.DBLe.4399",
+          "PT0083-C.g11.DBLe.8455",
+          "PT0083-C.g66.DBLe.2008",
+          "PT0083-C.g10.DBLe.8176",
+          "PT0083-C.g50.DBLe.3367",
+          "PT0083-C.g113.DBLe.3586",
+          "PT0083-C.g111.DBLe.2995",
+          "PT0083-C.g36.DBLe.6082",
+          "PT0083-C.g10.DBLe.9169",
+          "PT0083-C.g13.DBLe.6841",
+          "PT0083-C.g65.DBLe.2341",
+          "PT0083-C.g65.DBLe.3412",
+          "PT0083-C.g111.DBLe.3979",
+          "PT0083-C.g113.DBLe.2605",
+          "PT0083-C.g60.DBLe.4819",
+          "PT0083-C.g59.DBLe.4723",
+          "PT0083-C.g10.DBLe.7114",
+          "PT0083-C.g38.DBLe.6319",
+          "PT0083-C.g63.DBLe.4429"
+        ]
+      },
+      "PT0084-C": {
+        "count": 12,
+        "samples": [
+          "PT0084-C.g29.DBLe.2818",
+          "PT0084-C.g29.DBLe.1699",
+          "PT0084-C.g61.DBLe.3286",
+          "PT0084-C.g15.DBLe.6286",
+          "PT0084-C.g58.DBLe.2809",
+          "PT0084-C.g5.DBLe.8524",
+          "PT0084-C.g14.DBLe.6469",
+          "PT0084-C.g67.DBLe.2260",
+          "PT0084-C.g17.DBLe.6211",
+          "PT0084-C.g12.DBLe.6331",
+          "PT0084-C.g16.DBLe.6217",
+          "PT0084-C.g8.DBLe.6940"
+        ]
+      },
+      "PT0085-C": {
+        "count": 12,
+        "samples": [
+          "PT0085-C.g14.DBLe.6001",
+          "PT0085-C.g6.DBLe.6043",
+          "PT0085-C.g5.DBLe.4507",
+          "PT0085-C.g62.DBLe.4138",
+          "PT0085-C.g14.DBLe.3364",
+          "PT0085-C.g5.DBLe.7036",
+          "PT0085-C.g17.DBLe.6484",
+          "PT0085-C.g10.DBLe.4744",
+          "PT0085-C.g6.DBLe.3547",
+          "PT0085-C.g62.DBLe.3154",
+          "PT0085-C.g10.DBLe.7117",
+          "PT0085-C.g62.DBLe.2086"
+        ]
+      },
+      "PT0086-C": {
+        "count": 9,
+        "samples": [
+          "PT0086-C.g20.DBLe.7513",
+          "PT0086-C.g43.DBLe.3301",
+          "PT0086-C.g19.DBLe.8224",
+          "PT0086-C.g43.DBLe.5956",
+          "PT0086-C.g21.DBLe.5968",
+          "PT0086-C.g15.DBLe.8386",
+          "PT0086-C.g51.DBLe.4555",
+          "PT0086-C.g21.DBLe.7975",
+          "PT0086-C.g21.DBLe.7024"
+        ]
+      },
+      "PT0088-C": {
+        "count": 13,
+        "samples": [
+          "PT0088-C.g14.DBLe.6778",
+          "PT0088-C.g41.DBLe.4852",
+          "PT0088-C.g10.DBLe.8533",
+          "PT0088-C.g15.DBLe.8305",
+          "PT0088-C.g7.DBLe.6952",
+          "PT0088-C.g27.DBLe.5878",
+          "PT0088-C.g11.DBLe.8347",
+          "PT0088-C.g16.DBLe.5578",
+          "PT0088-C.g16.DBLe.8038",
+          "PT0088-C.g7.DBLe.8998",
+          "PT0088-C.g19.DBLe.6808",
+          "PT0088-C.g22.DBLe.7252",
+          "PT0088-C.g7.DBLe.8008"
+        ]
+      },
+      "PT0089-C": {
+        "count": 10,
+        "samples": [
+          "PT0089-C.g14.DBLe.4843",
+          "PT0089-C.g7.DBLe.5500",
+          "PT0089-C.g14.DBLe.7249",
+          "PT0089-C.g27.DBLe.1531",
+          "PT0089-C.g4.DBLe.8365",
+          "PT0089-C.g7.DBLe.8308",
+          "PT0089-C.g26.DBLe.5995",
+          "PT0089-C.g19.DBLe.6343",
+          "PT0089-C.g11.DBLe.7366",
+          "PT0089-C.g21.DBLe.6502"
+        ]
+      },
+      "PT0090-C": {
+        "count": 14,
+        "samples": [
+          "PT0090-C.g21.DBLe.5047",
+          "PT0090-C.g20.DBLe.5752",
+          "PT0090-C.g58.DBLe.2344",
+          "PT0090-C.g58.DBLe.3391",
+          "PT0090-C.g20.DBLe.4648",
+          "PT0090-C.g23.DBLe.7504",
+          "PT0090-C.g108.DBLe.3742",
+          "PT0090-C.g36.DBLe.6388",
+          "PT0090-C.g39.DBLe.6166",
+          "PT0090-C.g28.DBLe.6133",
+          "PT0090-C.g58.DBLe.4342",
+          "PT0090-C.g127.DBLe.3325",
+          "PT0090-C.g55.DBLe.3349",
+          "PT0090-C.g21.DBLe.7393"
+        ]
+      },
+      "PT0091-C": {
+        "count": 8,
+        "samples": [
+          "PT0091-C.g7.DBLe.6547",
+          "PT0091-C.g19.DBLe.4648",
+          "PT0091-C.g8.DBLe.3385",
+          "PT0091-C.g19.DBLe.3529",
+          "PT0091-C.g8.DBLe.5968",
+          "PT0091-C.g7.DBLe.7663",
+          "PT0091-C.g10.DBLe.3718",
+          "PT0091-C.g7.DBLe.5422"
+        ]
+      },
+      "PT0092-C": {
+        "count": 24,
+        "samples": [
+          "PT0092-C.g119.DBLe.2623",
+          "PT0092-C.g81.DBLe.1627",
+          "PT0092-C.g119.DBLe.3574",
+          "PT0092-C.g19.DBLe.5083",
+          "PT0092-C.g55.DBLe.4264",
+          "PT0092-C.g34.DBLe.5524",
+          "PT0092-C.g7.DBLe.6181",
+          "PT0092-C.g79.DBLe.1333",
+          "PT0092-C.g24.DBLe.4486",
+          "PT0092-C.g24.DBLe.5623",
+          "PT0092-C.g139.DBLe.3076",
+          "PT0092-C.g6.DBLe.6304",
+          "PT0092-C.g34.DBLe.4408",
+          "PT0092-C.g79.DBLe.3937",
+          "PT0092-C.g13.DBLe.4804",
+          "PT0092-C.g13.DBLe.5956",
+          "PT0092-C.g81.DBLe.4003",
+          "PT0092-C.g72.DBLe.3388",
+          "PT0092-C.g83.DBLe.4447",
+          "PT0092-C.g107.DBLe.4264",
+          "PT0092-C.g55.DBLe.1627",
+          "PT0092-C.g72.DBLe.4492",
+          "PT0092-C.g20.DBLe.5683",
+          "PT0092-C.g83.DBLe.2071"
+        ]
+      },
+      "PT0094-C": {
+        "count": 14,
+        "samples": [
+          "PT0094-C.g28.DBLe.6286",
+          "PT0094-C.g10.DBLe.9115",
+          "PT0094-C.g39.DBLe.5203",
+          "PT0094-C.g38.DBLe.5188",
+          "PT0094-C.g37.DBLe.5227",
+          "PT0094-C.g52.DBLe.2596",
+          "PT0094-C.g90.DBLe.3880",
+          "PT0094-C.g52.DBLe.4951",
+          "PT0094-C.g44.DBLe.5278",
+          "PT0094-C.g28.DBLe.5173",
+          "PT0094-C.g74.DBLe.3022",
+          "PT0094-C.g35.DBLe.5902",
+          "PT0094-C.g116.DBLe.1972",
+          "PT0094-C.g35.DBLe.4777"
+        ]
+      },
+      "PT0095-C": {
+        "count": 13,
+        "samples": [
+          "PT0095-C.g28.DBLe.5701",
+          "PT0095-C.g17.DBLe.6226",
+          "PT0095-C.g10.DBLe.6133",
+          "PT0095-C.g26.DBLe.5926",
+          "PT0095-C.g1.DBLe.7009",
+          "PT0095-C.g19.DBLe.6031",
+          "PT0095-C.g19.DBLe.3391",
+          "PT0095-C.g21.DBLe.6067",
+          "PT0095-C.g72.DBLe.2137",
+          "PT0095-C.g28.DBLe.4720",
+          "PT0095-C.g6.DBLe.7513",
+          "PT0095-C.g20.DBLe.6193",
+          "PT0095-C.g1.DBLe.9388"
+        ]
+      },
+      "PT0096-C": {
+        "count": 17,
+        "samples": [
+          "PT0096-C.g11.DBLe.3358",
+          "PT0096-C.g18.DBLe.6229",
+          "PT0096-C.g10.DBLe.6442",
+          "PT0096-C.g9.DBLe.5743",
+          "PT0096-C.g29.DBLe.4924",
+          "PT0096-C.g51.DBLe.4330",
+          "PT0096-C.g24.DBLe.4780",
+          "PT0096-C.g11.DBLe.5989",
+          "PT0096-C.g12.DBLe.6187",
+          "PT0096-C.g26.DBLe.5083",
+          "PT0096-C.g19.DBLe.6064",
+          "PT0096-C.g9.DBLe.4639",
+          "PT0096-C.g60.DBLe.4363",
+          "PT0096-C.g51.DBLe.2317",
+          "PT0096-C.g24.DBLe.5761",
+          "PT0096-C.g13.DBLe.6238",
+          "PT0096-C.g51.DBLe.3370"
+        ]
+      },
+      "PT0097-C": {
+        "count": 14,
+        "samples": [
+          "PT0097-C.g21.DBLe.3535",
+          "PT0097-C.g7.DBLe.3334",
+          "PT0097-C.g7.DBLe.7090",
+          "PT0097-C.g5.DBLe.7336",
+          "PT0097-C.g42.DBLe.3856",
+          "PT0097-C.g12.DBLe.6199",
+          "PT0097-C.g35.DBLe.3379",
+          "PT0097-C.g16.DBLe.6022",
+          "PT0097-C.g7.DBLe.4432",
+          "PT0097-C.g35.DBLe.4333",
+          "PT0097-C.g16.DBLe.3376",
+          "PT0097-C.g8.DBLe.6319",
+          "PT0097-C.g33.DBLe.4204",
+          "PT0097-C.g35.DBLe.2320"
+        ]
+      },
+      "PT0098-C": {
+        "count": 5,
+        "samples": [
+          "PT0098-C.g6.DBLe.6085",
+          "PT0098-C.g11.DBLe.6448",
+          "PT0098-C.g38.DBLe.3475",
+          "PT0098-C.g16.DBLe.6376",
+          "PT0098-C.g6.DBLe.3679"
+        ]
+      },
+      "PT0099-C": {
+        "count": 17,
+        "samples": [
+          "PT0099-C.g12.DBLe.8368",
+          "PT0099-C.g131.DBLe.3862",
+          "PT0099-C.g80.DBLe.3865",
+          "PT0099-C.g60.DBLe.2956",
+          "PT0099-C.g80.DBLe.4939",
+          "PT0099-C.g9.DBLe.8683",
+          "PT0099-C.g128.DBLe.3130",
+          "PT0099-C.g8.DBLe.3361",
+          "PT0099-C.g8.DBLe.5947",
+          "PT0099-C.g60.DBLe.5431",
+          "PT0099-C.g39.DBLe.6310",
+          "PT0099-C.g52.DBLe.5212",
+          "PT0099-C.g14.DBLe.8368",
+          "PT0099-C.g128.DBLe.4180",
+          "PT0099-C.g40.DBLe.6124",
+          "PT0099-C.g56.DBLe.5167",
+          "PT0099-C.g32.DBLe.5557"
+        ]
+      },
+      "PT0100-C": {
+        "count": 11,
+        "samples": [
+          "PT0100-C.g78.DBLe.2407",
+          "PT0100-C.g1.DBLe.8848",
+          "PT0100-C.g1.DBLe.7867",
+          "PT0100-C.g3.DBLe.6130",
+          "PT0100-C.g3.DBLe.4981",
+          "PT0100-C.g87.DBLe.685",
+          "PT0100-C.g23.DBLe.3892",
+          "PT0100-C.g1.DBLe.6817",
+          "PT0100-C.g87.DBLe.3214",
+          "PT0100-C.g7.DBLe.4342",
+          "PT0100-C.g12.DBLe.5239"
+        ]
+      },
+      "PT0101-C": {
+        "count": 17,
+        "samples": [
+          "PT0101-C.g23.DBLe.3382",
+          "PT0101-C.g25.DBLe.5935",
+          "PT0101-C.g1.DBLe.8179",
+          "PT0101-C.g23.DBLe.6013",
+          "PT0101-C.g25.DBLe.4816",
+          "PT0101-C.g10.DBLe.6163",
+          "PT0101-C.g76.DBLe.2818",
+          "PT0101-C.g19.DBLe.6019",
+          "PT0101-C.g14.DBLe.6175",
+          "PT0101-C.g9.DBLe.5533",
+          "PT0101-C.g18.DBLe.6160",
+          "PT0101-C.g24.DBLe.6211",
+          "PT0101-C.g20.DBLe.6235",
+          "PT0101-C.g60.DBLe.3796",
+          "PT0101-C.g15.DBLe.6283",
+          "PT0101-C.g76.DBLe.1699",
+          "PT0101-C.g21.DBLe.6055"
+        ]
+      },
+      "PT0102-C": {
+        "count": 6,
+        "samples": [
+          "PT0102-C.g17.DBLe.6142",
+          "PT0102-C.g23.DBLe.4879",
+          "PT0102-C.g11.DBLe.6007",
+          "PT0102-C.g2.DBLe.8773",
+          "PT0102-C.g8.DBLe.7354",
+          "PT0102-C.g11.DBLe.3361"
+        ]
+      },
+      "PT0103-C": {
+        "count": 30,
+        "samples": [
+          "PT0103-C.g9.DBLe.4909",
+          "PT0103-C.g29.DBLe.6346",
+          "PT0103-C.g33.DBLe.3337",
+          "PT0103-C.g6.DBLe.5584",
+          "PT0103-C.g6.DBLe.7960",
+          "PT0103-C.g31.DBLe.5197",
+          "PT0103-C.g35.DBLe.3421",
+          "PT0103-C.g36.DBLe.6391",
+          "PT0103-C.g113.DBLe.2287",
+          "PT0103-C.g5.DBLe.8554",
+          "PT0103-C.g17.DBLe.5152",
+          "PT0103-C.g17.DBLe.6220",
+          "PT0103-C.g10.DBLe.6973",
+          "PT0103-C.g28.DBLe.6523",
+          "PT0103-C.g35.DBLe.5899",
+          "PT0103-C.g3.DBLe.6985",
+          "PT0103-C.g10.DBLe.8104",
+          "PT0103-C.g17.DBLe.7174",
+          "PT0103-C.g33.DBLe.5953",
+          "PT0103-C.g3.DBLe.8047",
+          "PT0103-C.g54.DBLe.4786",
+          "PT0103-C.g49.DBLe.5209",
+          "PT0103-C.g113.DBLe.3340",
+          "PT0103-C.g26.DBLe.6598",
+          "PT0103-C.g22.DBLe.6868",
+          "PT0103-C.g30.DBLe.6160",
+          "PT0103-C.g60.DBLe.4960",
+          "PT0103-C.g32.DBLe.6202",
+          "PT0103-C.g3.DBLe.9031",
+          "PT0103-C.g31.DBLe.6319"
+        ]
+      },
+      "PT0104-C": {
+        "count": 6,
+        "samples": [
+          "PT0104-C.g22.DBLe.8518",
+          "PT0104-C.g56.DBLe.5902",
+          "PT0104-C.g36.DBLe.3397",
+          "PT0104-C.g55.DBLe.6112",
+          "PT0104-C.g119.DBLe.3748",
+          "PT0104-C.g36.DBLe.5920"
+        ]
+      },
+      "PT0106-C": {
+        "count": 7,
+        "samples": [
+          "PT0106-C.g33.DBLe.7531",
+          "PT0106-C.g42.DBLe.3703",
+          "PT0106-C.g48.DBLe.6136",
+          "PT0106-C.g41.DBLe.4966",
+          "PT0106-C.g42.DBLe.6067",
+          "PT0106-C.g16.DBLe.6028",
+          "PT0106-C.g19.DBLe.5284"
+        ]
+      },
+      "PT0107-C": {
+        "count": 9,
+        "samples": [
+          "PT0107-C.g1.DBLe.7102",
+          "PT0107-C.g26.DBLe.4921",
+          "PT0107-C.g16.DBLe.6181",
+          "PT0107-C.g1.DBLe.8152",
+          "PT0107-C.g54.DBLe.4117",
+          "PT0107-C.g4.DBLe.8089",
+          "PT0107-C.g1.DBLe.9148",
+          "PT0107-C.g17.DBLe.6058",
+          "PT0107-C.g9.DBLe.6433"
+        ]
+      },
+      "PT0111-C": {
+        "count": 22,
+        "samples": [
+          "PT0111-C.g76.DBLe.3496",
+          "PT0111-C.g7.DBLe.8875",
+          "PT0111-C.g62.DBLe.3889",
+          "PT0111-C.g22.DBLe.6109",
+          "PT0111-C.g21.DBLe.6526",
+          "PT0111-C.g23.DBLe.6256",
+          "PT0111-C.g46.DBLe.4561",
+          "PT0111-C.g90.DBLe.2035",
+          "PT0111-C.g13.DBLe.5992",
+          "PT0111-C.g90.DBLe.3154",
+          "PT0111-C.g59.DBLe.3772",
+          "PT0111-C.g7.DBLe.7912",
+          "PT0111-C.g1.DBLe.10783",
+          "PT0111-C.g14.DBLe.3496",
+          "PT0111-C.g13.DBLe.7087",
+          "PT0111-C.g14.DBLe.5911",
+          "PT0111-C.g67.DBLe.2839",
+          "PT0111-C.g76.DBLe.2380",
+          "PT0111-C.g67.DBLe.1780",
+          "PT0111-C.g67.DBLe.3790",
+          "PT0111-C.g28.DBLe.5935",
+          "PT0111-C.g7.DBLe.6853"
+        ]
+      },
+      "PT0113-C": {
+        "count": 2,
+        "samples": [
+          "PT0113-C.g2.DBLe.4633",
+          "PT0113-C.g2.DBLe.3520"
+        ]
+      },
+      "PV0002-C": {
+        "count": 2,
+        "samples": [
+          "PV0002-C.g28.DBLe.3361",
+          "PV0002-C.g50.DBLe.2926"
+        ]
+      },
+      "PV0004-C": {
+        "count": 13,
+        "samples": [
+          "PV0004-C.g33.DBLe.3055",
+          "PV0004-C.g15.DBLe.5014",
+          "PV0004-C.g36.DBLe.3955",
+          "PV0004-C.g3.DBLe.7090",
+          "PV0004-C.g33.DBLe.1993",
+          "PV0004-C.g3.DBLe.3352",
+          "PV0004-C.g33.DBLe.4006",
+          "PV0004-C.g3.DBLe.4453",
+          "PV0004-C.g20.DBLe.2188",
+          "PV0004-C.g36.DBLe.2992",
+          "PV0004-C.g20.DBLe.4678",
+          "PV0004-C.g15.DBLe.2500",
+          "PV0004-C.g36.DBLe.1924"
+        ]
+      },
+      "PV0006-C": {
+        "count": 4,
+        "samples": [
+          "PV0006-C.g3.DBLe.5926",
+          "PV0006-C.g4.DBLe.6169",
+          "PV0006-C.g3.DBLe.3352",
+          "PV0006-C.g13.DBLe.2983"
+        ]
+      },
+      "PV0020-C": {
+        "count": 7,
+        "samples": [
+          "PV0020-C.g6.DBLe.8206",
+          "PV0020-C.g12.DBLe.6283",
+          "PV0020-C.g9.DBLe.7966",
+          "PV0020-C.g18.DBLe.5161",
+          "PV0020-C.g9.DBLe.5551",
+          "PV0020-C.g15.DBLe.6187",
+          "PV0020-C.g10.DBLe.5344"
+        ]
+      },
+      "PV0023-C": {
+        "count": 10,
+        "samples": [
+          "PV0023-C.g11.DBLe.7084",
+          "PV0023-C.g32.DBLe.6274",
+          "PV0023-C.g11.DBLe.3331",
+          "PV0023-C.g28.DBLe.6811",
+          "PV0023-C.g40.DBLe.3571",
+          "PV0023-C.g23.DBLe.7264",
+          "PV0023-C.g51.DBLe.5659",
+          "PV0023-C.g40.DBLe.6013",
+          "PV0023-C.g35.DBLe.6157",
+          "PV0023-C.g11.DBLe.4441"
+        ]
+      },
+      "PV0028-C": {
+        "count": 13,
+        "samples": [
+          "PV0028-C.g97.DBLe.4120",
+          "PV0028-C.g66.DBLe.6283",
+          "PV0028-C.g81.DBLe.6202",
+          "PV0028-C.g101.DBLe.4921",
+          "PV0028-C.g74.DBLe.4744",
+          "PV0028-C.g57.DBLe.5953",
+          "PV0028-C.g21.DBLe.7516",
+          "PV0028-C.g76.DBLe.5857",
+          "PV0028-C.g53.DBLe.3472",
+          "PV0028-C.g53.DBLe.6007",
+          "PV0028-C.g21.DBLe.5161",
+          "PV0028-C.g97.DBLe.1477",
+          "PV0028-C.g27.DBLe.6217"
+        ]
+      },
+      "PV0031-C": {
+        "count": 8,
+        "samples": [
+          "PV0031-C.g36.DBLe.6010",
+          "PV0031-C.g92.DBLe.3637",
+          "PV0031-C.g48.DBLe.6097",
+          "PV0031-C.g50.DBLe.6046",
+          "PV0031-C.g92.DBLe.2644",
+          "PV0031-C.g36.DBLe.3379",
+          "PV0031-C.g92.DBLe.1585",
+          "PV0031-C.g43.DBLe.6025"
+        ]
+      },
+      "PV0035-C": {
+        "count": 17,
+        "samples": [
+          "PV0035-C.g8.DBLe.3388",
+          "PV0035-C.g9.DBLe.6070",
+          "PV0035-C.g51.DBLe.4543",
+          "PV0035-C.g17.DBLe.3721",
+          "PV0035-C.g38.DBLe.3568",
+          "PV0035-C.g3.DBLe.7501",
+          "PV0035-C.g12.DBLe.6328",
+          "PV0035-C.g8.DBLe.6019",
+          "PV0035-C.g17.DBLe.6103",
+          "PV0035-C.g7.DBLe.5731",
+          "PV0035-C.g7.DBLe.4636",
+          "PV0035-C.g51.DBLe.2518",
+          "PV0035-C.g9.DBLe.5026",
+          "PV0035-C.g3.DBLe.4984",
+          "PV0035-C.g9.DBLe.7033",
+          "PV0035-C.g51.DBLe.3583",
+          "PV0035-C.g38.DBLe.4693"
+        ]
+      },
+      "PV0041-C": {
+        "count": 5,
+        "samples": [
+          "PV0041-C.g41.DBLe.6442",
+          "PV0041-C.g35.DBLe.5551",
+          "PV0041-C.g35.DBLe.7966",
+          "PV0041-C.g22.DBLe.5161",
+          "PV0041-C.g40.DBLe.5344"
+        ]
+      },
+      "PV0046-C": {
+        "count": 10,
+        "samples": [
+          "PV0046-C.g21.DBLe.8548",
+          "PV0046-C.g43.DBLe.4768",
+          "PV0046-C.g21.DBLe.7453",
+          "PV0046-C.g88.DBLe.3772",
+          "PV0046-C.g106.DBLe.3400",
+          "PV0046-C.g38.DBLe.5647",
+          "PV0046-C.g53.DBLe.5095",
+          "PV0046-C.g59.DBLe.4690",
+          "PV0046-C.g52.DBLe.6673",
+          "PV0046-C.g59.DBLe.7051"
+        ]
+      },
+      "PV0048-C": {
+        "count": 11,
+        "samples": [
+          "PV0048-C.g36.DBLe.3541",
+          "PV0048-C.g48.DBLe.2377",
+          "PV0048-C.g33.DBLe.6232",
+          "PV0048-C.g48.DBLe.4753",
+          "PV0048-C.g58.DBLe.5155",
+          "PV0048-C.g96.DBLe.3244",
+          "PV0048-C.g77.DBLe.2188",
+          "PV0048-C.g44.DBLe.6016",
+          "PV0048-C.g44.DBLe.7111",
+          "PV0048-C.g77.DBLe.4564",
+          "PV0048-C.g54.DBLe.6139"
+        ]
+      },
+      "PV0081-C": {
+        "count": 2,
+        "samples": [
+          "PV0081-C.g31.DBLe.3397",
+          "PV0081-C.g31.DBLe.5983"
+        ]
+      },
+      "PV0082-C": {
+        "count": 14,
+        "samples": [
+          "PV0082-C.g40.DBLe.6925",
+          "PV0082-C.g33.DBLe.6400",
+          "PV0082-C.g16.DBLe.6001",
+          "PV0082-C.g40.DBLe.4891",
+          "PV0082-C.g48.DBLe.6175",
+          "PV0082-C.g8.DBLe.9811",
+          "PV0082-C.g48.DBLe.5128",
+          "PV0082-C.g16.DBLe.3370",
+          "PV0082-C.g27.DBLe.5545",
+          "PV0082-C.g38.DBLe.7396",
+          "PV0082-C.g46.DBLe.6184",
+          "PV0082-C.g40.DBLe.5941",
+          "PV0082-C.g27.DBLe.7960",
+          "PV0082-C.g38.DBLe.6292"
+        ]
+      },
+      "PV0083-C": {
+        "count": 10,
+        "samples": [
+          "PV0083-C.g69.DBLe.4531",
+          "PV0083-C.g29.DBLe.7681",
+          "PV0083-C.g57.DBLe.3109",
+          "PV0083-C.g20.DBLe.5746",
+          "PV0083-C.g49.DBLe.6181",
+          "PV0083-C.g69.DBLe.3340",
+          "PV0083-C.g28.DBLe.6217",
+          "PV0083-C.g6.DBLe.6013",
+          "PV0083-C.g6.DBLe.3571",
+          "PV0083-C.g57.DBLe.4225"
+        ]
+      },
+      "PV0084-C": {
+        "count": 17,
+        "samples": [
+          "PV0084-C.g46.DBLe.7006",
+          "PV0084-C.g42.DBLe.6901",
+          "PV0084-C.g118.DBLe.2320",
+          "PV0084-C.g118.DBLe.3442",
+          "PV0084-C.g17.DBLe.6079",
+          "PV0084-C.g22.DBLe.8305",
+          "PV0084-C.g68.DBLe.4750",
+          "PV0084-C.g42.DBLe.5950",
+          "PV0084-C.g2.DBLe.3445",
+          "PV0084-C.g68.DBLe.5863",
+          "PV0084-C.g28.DBLe.4954",
+          "PV0084-C.g28.DBLe.7423",
+          "PV0084-C.g63.DBLe.6259",
+          "PV0084-C.g80.DBLe.4768",
+          "PV0084-C.g42.DBLe.4888",
+          "PV0084-C.g51.DBLe.6265",
+          "PV0084-C.g2.DBLe.5941"
+        ]
+      },
+      "PV0085-C": {
+        "count": 8,
+        "samples": [
+          "PV0085-C.g53.DBLe.4825",
+          "PV0085-C.g29.DBLe.6202",
+          "PV0085-C.g9.DBLe.5746",
+          "PV0085-C.g23.DBLe.6865",
+          "PV0085-C.g8.DBLe.9301",
+          "PV0085-C.g64.DBLe.5929",
+          "PV0085-C.g8.DBLe.6949",
+          "PV0085-C.g28.DBLe.8668"
+        ]
+      },
+      "PV0089-C": {
+        "count": 16,
+        "samples": [
+          "PV0089-C.g46.DBLe.6169",
+          "PV0089-C.g55.DBLe.6001",
+          "PV0089-C.g23.DBLe.8185",
+          "PV0089-C.g17.DBLe.6832",
+          "PV0089-C.g14.DBLe.8524",
+          "PV0089-C.g20.DBLe.3388",
+          "PV0089-C.g16.DBLe.8188",
+          "PV0089-C.g16.DBLe.9169",
+          "PV0089-C.g15.DBLe.5926",
+          "PV0089-C.g16.DBLe.7120",
+          "PV0089-C.g31.DBLe.7687",
+          "PV0089-C.g30.DBLe.6820",
+          "PV0089-C.g15.DBLe.3352",
+          "PV0089-C.g30.DBLe.5761",
+          "PV0089-C.g20.DBLe.6040",
+          "PV0089-C.g30.DBLe.7771"
+        ]
+      },
+      "PV0098-C": {
+        "count": 7,
+        "samples": [
+          "PV0098-C.g34.DBLe.3967",
+          "PV0098-C.g34.DBLe.6484",
+          "PV0098-C.g36.DBLe.6103",
+          "PV0098-C.g41.DBLe.5770",
+          "PV0098-C.g45.DBLe.4762",
+          "PV0098-C.g101.DBLe.271",
+          "PV0098-C.g35.DBLe.6235"
+        ]
+      },
+      "PV0099-C": {
+        "count": 15,
+        "samples": [
+          "PV0099-C.g63.DBLe.5893",
+          "PV0099-C.g63.DBLe.4849",
+          "PV0099-C.g69.DBLe.6217",
+          "PV0099-C.g12.DBLe.7876",
+          "PV0099-C.g68.DBLe.6205",
+          "PV0099-C.g34.DBLe.3367",
+          "PV0099-C.g70.DBLe.3319",
+          "PV0099-C.g34.DBLe.5938",
+          "PV0099-C.g12.DBLe.8872",
+          "PV0099-C.g28.DBLe.8257",
+          "PV0099-C.g12.DBLe.6832",
+          "PV0099-C.g70.DBLe.5974",
+          "PV0099-C.g63.DBLe.6865",
+          "PV0099-C.g73.DBLe.3397",
+          "PV0099-C.g73.DBLe.6028"
+        ]
+      },
+      "PV0110-C": {
+        "count": 17,
+        "samples": [
+          "PV0110-C.g136.DBLe.1564",
+          "PV0110-C.g132.DBLe.2488",
+          "PV0110-C.g26.DBLe.6217",
+          "PV0110-C.g19.DBLe.5938",
+          "PV0110-C.g12.DBLe.8032",
+          "PV0110-C.g136.DBLe.2611",
+          "PV0110-C.g132.DBLe.1369",
+          "PV0110-C.g136.DBLe.3565",
+          "PV0110-C.g19.DBLe.3367",
+          "PV0110-C.g50.DBLe.6157",
+          "PV0110-C.g73.DBLe.5260",
+          "PV0110-C.g12.DBLe.5527",
+          "PV0110-C.g73.DBLe.4165",
+          "PV0110-C.g13.DBLe.7189",
+          "PV0110-C.g13.DBLe.4807",
+          "PV0110-C.g40.DBLe.6100",
+          "PV0110-C.g132.DBLe.3610"
+        ]
+      },
+      "PV0113-C": {
+        "count": 19,
+        "samples": [
+          "PV0113-C.g25.DBLe.5392",
+          "PV0113-C.g140.DBLe.3451",
+          "PV0113-C.g140.DBLe.946",
+          "PV0113-C.g58.DBLe.4846",
+          "PV0113-C.g58.DBLe.1099",
+          "PV0113-C.g14.DBLe.7843",
+          "PV0113-C.g34.DBLe.3364",
+          "PV0113-C.g14.DBLe.5467",
+          "PV0113-C.g23.DBLe.4987",
+          "PV0113-C.g34.DBLe.5995",
+          "PV0113-C.g31.DBLe.6901",
+          "PV0113-C.g35.DBLe.6376",
+          "PV0113-C.g31.DBLe.4888",
+          "PV0113-C.g23.DBLe.7465",
+          "PV0113-C.g103.DBLe.3682",
+          "PV0113-C.g19.DBLe.8314",
+          "PV0113-C.g22.DBLe.7351",
+          "PV0113-C.g58.DBLe.2200",
+          "PV0113-C.g31.DBLe.5950"
+        ]
+      },
+      "PV0114-C": {
+        "count": 9,
+        "samples": [
+          "PV0114-C.g40.DBLe.5017",
+          "PV0114-C.g7.DBLe.8299",
+          "PV0114-C.g24.DBLe.7513",
+          "PV0114-C.g11.DBLe.8278",
+          "PV0114-C.g7.DBLe.7249",
+          "PV0114-C.g8.DBLe.3367",
+          "PV0114-C.g16.DBLe.7882",
+          "PV0114-C.g40.DBLe.6112",
+          "PV0114-C.g7.DBLe.9280"
+        ]
+      },
+      "PV0116-C": {
+        "count": 8,
+        "samples": [
+          "PV0116-C.g11.DBLe.9280",
+          "PV0116-C.g11.DBLe.7249",
+          "PV0116-C.g11.DBLe.8299",
+          "PV0116-C.g17.DBLe.7513",
+          "PV0116-C.g21.DBLe.6208",
+          "PV0116-C.g18.DBLe.8278",
+          "PV0116-C.g21.DBLe.7303",
+          "PV0116-C.g5.DBLe.3367"
+        ]
+      },
+      "PV0117-C": {
+        "count": 15,
+        "samples": [
+          "PV0117-C.g63.DBLe.4366",
+          "PV0117-C.g38.DBLe.5032",
+          "PV0117-C.g50.DBLe.6073",
+          "PV0117-C.g23.DBLe.6820",
+          "PV0117-C.g63.DBLe.2335",
+          "PV0117-C.g63.DBLe.3394",
+          "PV0117-C.g23.DBLe.5761",
+          "PV0117-C.g6.DBLe.4927",
+          "PV0117-C.g39.DBLe.6304",
+          "PV0117-C.g13.DBLe.6805",
+          "PV0117-C.g23.DBLe.7771",
+          "PV0117-C.g6.DBLe.5980",
+          "PV0117-C.g50.DBLe.3697",
+          "PV0117-C.g17.DBLe.6151",
+          "PV0117-C.g13.DBLe.9169"
+        ]
+      },
+      "PV0118-C": {
+        "count": 9,
+        "samples": [
+          "PV0118-C.g25.DBLe.7303",
+          "PV0118-C.g19.DBLe.7249",
+          "PV0118-C.g8.DBLe.3367",
+          "PV0118-C.g20.DBLe.7513",
+          "PV0118-C.g19.DBLe.9280",
+          "PV0118-C.g19.DBLe.8299",
+          "PV0118-C.g58.DBLe.5128",
+          "PV0118-C.g25.DBLe.6208",
+          "PV0118-C.g13.DBLe.8293"
+        ]
+      },
+      "PV0127-C": {
+        "count": 11,
+        "samples": [
+          "PV0127-C.g149.DBLe.1081",
+          "PV0127-C.g53.DBLe.4825",
+          "PV0127-C.g18.DBLe.6364",
+          "PV0127-C.g149.DBLe.2140",
+          "PV0127-C.g41.DBLe.6283",
+          "PV0127-C.g87.DBLe.3574",
+          "PV0127-C.g23.DBLe.5878",
+          "PV0127-C.g50.DBLe.6079",
+          "PV0127-C.g36.DBLe.6004",
+          "PV0127-C.g149.DBLe.3091",
+          "PV0127-C.g36.DBLe.3361"
+        ]
+      },
+      "PV0128-C": {
+        "count": 7,
+        "samples": [
+          "PV0128-C.g68.DBLe.3754",
+          "PV0128-C.g38.DBLe.6115",
+          "PV0128-C.g12.DBLe.5857",
+          "PV0128-C.g31.DBLe.6865",
+          "PV0128-C.g12.DBLe.4750",
+          "PV0128-C.g67.DBLe.3421",
+          "PV0128-C.g44.DBLe.6181"
+        ]
+      },
+      "PV0129-C": {
+        "count": 10,
+        "samples": [
+          "PV0129-C.g19.DBLe.6196",
+          "PV0129-C.g19.DBLe.5128",
+          "PV0129-C.g24.DBLe.4831",
+          "PV0129-C.g16.DBLe.5950",
+          "PV0129-C.g16.DBLe.6901",
+          "PV0129-C.g23.DBLe.5062",
+          "PV0129-C.g19.DBLe.7177",
+          "PV0129-C.g16.DBLe.4888",
+          "PV0129-C.g21.DBLe.7312",
+          "PV0129-C.g23.DBLe.7438"
+        ]
+      },
+      "PV0130-C": {
+        "count": 7,
+        "samples": [
+          "PV0130-C.g110.DBLe.3799",
+          "PV0130-C.g48.DBLe.5143",
+          "PV0130-C.g47.DBLe.6058",
+          "PV0130-C.g32.DBLe.7150",
+          "PV0130-C.g32.DBLe.8197",
+          "PV0130-C.g62.DBLe.5965",
+          "PV0130-C.g43.DBLe.4825"
+        ]
+      },
+      "PV0133-C": {
+        "count": 15,
+        "samples": [
+          "PV0133-C.g29.DBLe.4630",
+          "PV0133-C.g29.DBLe.5734",
+          "PV0133-C.g36.DBLe.4900",
+          "PV0133-C.g14.DBLe.8383",
+          "PV0133-C.g6.DBLe.8002",
+          "PV0133-C.g13.DBLe.6277",
+          "PV0133-C.g28.DBLe.8152",
+          "PV0133-C.g36.DBLe.6004",
+          "PV0133-C.g37.DBLe.6259",
+          "PV0133-C.g48.DBLe.5899",
+          "PV0133-C.g27.DBLe.6202",
+          "PV0133-C.g14.DBLe.7267",
+          "PV0133-C.g6.DBLe.6955",
+          "PV0133-C.g41.DBLe.6373",
+          "PV0133-C.g6.DBLe.8956"
+        ]
+      },
+      "PV0134-C": {
+        "count": 16,
+        "samples": [
+          "PV0134-C.g59.DBLe.4744",
+          "PV0134-C.g35.DBLe.5071",
+          "PV0134-C.g23.DBLe.4939",
+          "PV0134-C.g42.DBLe.4693",
+          "PV0134-C.g64.DBLe.3394",
+          "PV0134-C.g42.DBLe.5752",
+          "PV0134-C.g25.DBLe.6049",
+          "PV0134-C.g42.DBLe.6703",
+          "PV0134-C.g50.DBLe.6079",
+          "PV0134-C.g58.DBLe.5878",
+          "PV0134-C.g61.DBLe.3361",
+          "PV0134-C.g23.DBLe.7312",
+          "PV0134-C.g64.DBLe.4495",
+          "PV0134-C.g38.DBLe.4825",
+          "PV0134-C.g35.DBLe.7441",
+          "PV0134-C.g33.DBLe.6364"
+        ]
+      },
+      "PV0135-C": {
+        "count": 7,
+        "samples": [
+          "PV0135-C.g9.DBLe.5605",
+          "PV0135-C.g25.DBLe.6217",
+          "PV0135-C.g27.DBLe.6331",
+          "PV0135-C.g37.DBLe.6103",
+          "PV0135-C.g9.DBLe.8065",
+          "PV0135-C.g30.DBLe.6028",
+          "PV0135-C.g54.DBLe.5215"
+        ]
+      },
+      "PV0139-C": {
+        "count": 14,
+        "samples": [
+          "PV0139-C.g49.DBLe.6901",
+          "PV0139-C.g90.DBLe.4441",
+          "PV0139-C.g61.DBLe.5074",
+          "PV0139-C.g31.DBLe.4984",
+          "PV0139-C.g35.DBLe.6040",
+          "PV0139-C.g49.DBLe.4888",
+          "PV0139-C.g100.DBLe.3361",
+          "PV0139-C.g35.DBLe.3388",
+          "PV0139-C.g44.DBLe.7471",
+          "PV0139-C.g90.DBLe.3331",
+          "PV0139-C.g46.DBLe.6145",
+          "PV0139-C.g49.DBLe.5950",
+          "PV0139-C.g31.DBLe.7501",
+          "PV0139-C.g78.DBLe.6244"
+        ]
+      },
+      "PV0140-C": {
+        "count": 7,
+        "samples": [
+          "PV0140-C.g41.DBLe.5965",
+          "PV0140-C.g39.DBLe.6079",
+          "PV0140-C.g31.DBLe.6058",
+          "PV0140-C.g35.DBLe.4825",
+          "PV0140-C.g20.DBLe.7150",
+          "PV0140-C.g20.DBLe.8197",
+          "PV0140-C.g46.DBLe.5143"
+        ]
+      },
+      "PV0147-C": {
+        "count": 11,
+        "samples": [
+          "PV0147-C.g55.DBLe.6847",
+          "PV0147-C.g31.DBLe.4984",
+          "PV0147-C.g31.DBLe.7501",
+          "PV0147-C.g58.DBLe.6190",
+          "PV0147-C.g67.DBLe.5971",
+          "PV0147-C.g17.DBLe.5566",
+          "PV0147-C.g26.DBLe.8590",
+          "PV0147-C.g55.DBLe.4807",
+          "PV0147-C.g17.DBLe.8041",
+          "PV0147-C.g55.DBLe.5875",
+          "PV0147-C.g61.DBLe.6187"
+        ]
+      },
+      "PV0151-C": {
+        "count": 7,
+        "samples": [
+          "PV0151-C.g17.DBLe.6058",
+          "PV0151-C.g24.DBLe.5143",
+          "PV0151-C.g61.DBLe.3622",
+          "PV0151-C.g8.DBLe.5746",
+          "PV0151-C.g33.DBLe.4825",
+          "PV0151-C.g10.DBLe.7150",
+          "PV0151-C.g10.DBLe.8197"
+        ]
+      },
+      "PV0183-C": {
+        "count": 12,
+        "samples": [
+          "PV0183-C.g15.DBLe.5596",
+          "PV0183-C.g27.DBLe.6412",
+          "PV0183-C.g24.DBLe.6196",
+          "PV0183-C.g22.DBLe.7180",
+          "PV0183-C.g23.DBLe.3445",
+          "PV0183-C.g25.DBLe.6217",
+          "PV0183-C.g22.DBLe.5158",
+          "PV0183-C.g105.DBLe.4492",
+          "PV0183-C.g15.DBLe.7972",
+          "PV0183-C.g23.DBLe.5941",
+          "PV0183-C.g22.DBLe.6229",
+          "PV0183-C.g3.DBLe.8476"
+        ]
+      },
+      "PV0186-C": {
+        "count": 8,
+        "samples": [
+          "PV0186-C.g101.DBLe.3454",
+          "PV0186-C.g18.DBLe.3358",
+          "PV0186-C.g18.DBLe.4480",
+          "PV0186-C.g35.DBLe.6283",
+          "PV0186-C.g38.DBLe.6103",
+          "PV0186-C.g18.DBLe.7120",
+          "PV0186-C.g23.DBLe.8275",
+          "PV0186-C.g24.DBLe.7048"
+        ]
+      },
+      "PV0195-C": {
+        "count": 15,
+        "samples": [
+          "PV0195-C.g29.DBLe.3388",
+          "PV0195-C.g17.DBLe.6547",
+          "PV0195-C.g17.DBLe.7669",
+          "PV0195-C.g29.DBLe.6019",
+          "PV0195-C.g30.DBLe.6109",
+          "PV0195-C.g1.DBLe.7516",
+          "PV0195-C.g13.DBLe.5746",
+          "PV0195-C.g1.DBLe.5161",
+          "PV0195-C.g33.DBLe.6208",
+          "PV0195-C.g16.DBLe.7408",
+          "PV0195-C.g17.DBLe.5428",
+          "PV0195-C.g40.DBLe.6025",
+          "PV0195-C.g92.DBLe.2947",
+          "PV0195-C.g55.DBLe.5047",
+          "PV0195-C.g20.DBLe.8275"
+        ]
+      },
+      "PV0202-C": {
+        "count": 9,
+        "samples": [
+          "PV0202-C.g19.DBLe.6970",
+          "PV0202-C.g19.DBLe.8104",
+          "PV0202-C.g64.DBLe.5161",
+          "PV0202-C.g63.DBLe.5416",
+          "PV0202-C.g63.DBLe.4285",
+          "PV0202-C.g20.DBLe.5983",
+          "PV0202-C.g36.DBLe.6340",
+          "PV0202-C.g20.DBLe.3352",
+          "PV0202-C.g31.DBLe.5530"
+        ]
+      },
+      "PV0211-C": {
+        "count": 7,
+        "samples": [
+          "PV0211-C.g42.DBLe.6115",
+          "PV0211-C.g34.DBLe.8185",
+          "PV0211-C.g61.DBLe.5143",
+          "PV0211-C.g65.DBLe.6232",
+          "PV0211-C.g47.DBLe.8449",
+          "PV0211-C.g66.DBLe.5944",
+          "PV0211-C.g60.DBLe.6022"
+        ]
+      },
+      "PV0212-C": {
+        "count": 17,
+        "samples": [
+          "PV0212-C.g17.DBLe.5839",
+          "PV0212-C.g1.DBLe.9301",
+          "PV0212-C.g11.DBLe.3358",
+          "PV0212-C.g9.DBLe.6910",
+          "PV0212-C.g3.DBLe.8386",
+          "PV0212-C.g1.DBLe.6949",
+          "PV0212-C.g22.DBLe.6064",
+          "PV0212-C.g40.DBLe.4561",
+          "PV0212-C.g28.DBLe.6049",
+          "PV0212-C.g54.DBLe.4762",
+          "PV0212-C.g17.DBLe.3835",
+          "PV0212-C.g53.DBLe.5215",
+          "PV0212-C.g67.DBLe.5041",
+          "PV0212-C.g40.DBLe.5665",
+          "PV0212-C.g17.DBLe.4876",
+          "PV0212-C.g11.DBLe.5932",
+          "PV0212-C.g10.DBLe.7342"
+        ]
+      },
+      "PV0223-C": {
+        "count": 7,
+        "samples": [
+          "PV0223-C.g27.DBLe.4825",
+          "PV0223-C.g86.DBLe.3517",
+          "PV0223-C.g15.DBLe.5746",
+          "PV0223-C.g40.DBLe.6058",
+          "PV0223-C.g13.DBLe.8197",
+          "PV0223-C.g13.DBLe.7150",
+          "PV0223-C.g46.DBLe.5143"
+        ]
+      },
+      "PV0224-C": {
+        "count": 15,
+        "samples": [
+          "PV0224-C.g3.DBLe.8386",
+          "PV0224-C.g56.DBLe.2044",
+          "PV0224-C.g8.DBLe.8278",
+          "PV0224-C.g26.DBLe.3835",
+          "PV0224-C.g41.DBLe.4762",
+          "PV0224-C.g22.DBLe.6091",
+          "PV0224-C.g26.DBLe.4876",
+          "PV0224-C.g10.DBLe.5932",
+          "PV0224-C.g56.DBLe.4417",
+          "PV0224-C.g1.DBLe.6949",
+          "PV0224-C.g10.DBLe.3358",
+          "PV0224-C.g21.DBLe.6064",
+          "PV0224-C.g1.DBLe.9301",
+          "PV0224-C.g26.DBLe.5839",
+          "PV0224-C.g11.DBLe.7342"
+        ]
+      },
+      "PV0225-C": {
+        "count": 18,
+        "samples": [
+          "PV0225-C.g20.DBLe.6058",
+          "PV0225-C.g5.DBLe.5746",
+          "PV0225-C.g107.DBLe.3493",
+          "PV0225-C.g2.DBLe.8584",
+          "PV0225-C.g23.DBLe.6226",
+          "PV0225-C.g24.DBLe.6283",
+          "PV0225-C.g25.DBLe.6208",
+          "PV0225-C.g10.DBLe.4984",
+          "PV0225-C.g10.DBLe.7501",
+          "PV0225-C.g13.DBLe.5428",
+          "PV0225-C.g86.DBLe.3919",
+          "PV0225-C.g11.DBLe.4825",
+          "PV0225-C.g73.DBLe.4072",
+          "PV0225-C.g58.DBLe.3781",
+          "PV0225-C.g86.DBLe.2872",
+          "PV0225-C.g45.DBLe.3511",
+          "PV0225-C.g33.DBLe.5143",
+          "PV0225-C.g58.DBLe.4876"
+        ]
+      },
+      "PV0226-C": {
+        "count": 16,
+        "samples": [
+          "PV0226-C.g13.DBLe.6373",
+          "PV0226-C.g1.DBLe.8848",
+          "PV0226-C.g29.DBLe.6145",
+          "PV0226-C.g27.DBLe.6145",
+          "PV0226-C.g16.DBLe.5938",
+          "PV0226-C.g6.DBLe.5527",
+          "PV0226-C.g16.DBLe.3367",
+          "PV0226-C.g79.DBLe.4171",
+          "PV0226-C.g14.DBLe.6496",
+          "PV0226-C.g103.DBLe.3334",
+          "PV0226-C.g17.DBLe.4837",
+          "PV0226-C.g17.DBLe.7246",
+          "PV0226-C.g24.DBLe.6127",
+          "PV0226-C.g43.DBLe.5395",
+          "PV0226-C.g79.DBLe.1789",
+          "PV0226-C.g6.DBLe.8032"
+        ]
+      },
+      "PV0229-C": {
+        "count": 9,
+        "samples": [
+          "PV0229-C.g25.DBLe.5857",
+          "PV0229-C.g81.DBLe.3781",
+          "PV0229-C.g9.DBLe.7963",
+          "PV0229-C.g41.DBLe.3421",
+          "PV0229-C.g14.DBLe.8275",
+          "PV0229-C.g11.DBLe.6865",
+          "PV0229-C.g23.DBLe.6181",
+          "PV0229-C.g22.DBLe.6115",
+          "PV0229-C.g25.DBLe.4750"
+        ]
+      },
+      "PV0231-C": {
+        "count": 14,
+        "samples": [
+          "PV0231-C.g146.DBLe.994",
+          "PV0231-C.g25.DBLe.5746",
+          "PV0231-C.g14.DBLe.8197",
+          "PV0231-C.g62.DBLe.4825",
+          "PV0231-C.g14.DBLe.7150",
+          "PV0231-C.g27.DBLe.6895",
+          "PV0231-C.g70.DBLe.2431",
+          "PV0231-C.g44.DBLe.5269",
+          "PV0231-C.g44.DBLe.2827",
+          "PV0231-C.g70.DBLe.4804",
+          "PV0231-C.g33.DBLe.6058",
+          "PV0231-C.g31.DBLe.6937",
+          "PV0231-C.g37.DBLe.6079",
+          "PV0231-C.g55.DBLe.5143"
+        ]
+      },
+      "PV0233-C": {
+        "count": 6,
+        "samples": [
+          "PV0233-C.g21.DBLe.8275",
+          "PV0233-C.g28.DBLe.6313",
+          "PV0233-C.g32.DBLe.6001",
+          "PV0233-C.g30.DBLe.5821",
+          "PV0233-C.g22.DBLe.8023",
+          "PV0233-C.g22.DBLe.5572"
+        ]
+      },
+      "PV0234-C": {
+        "count": 9,
+        "samples": [
+          "PV0234-C.g44.DBLe.4804",
+          "PV0234-C.g35.DBLe.5071",
+          "PV0234-C.g29.DBLe.8962",
+          "PV0234-C.g80.DBLe.3343",
+          "PV0234-C.g30.DBLe.7945",
+          "PV0234-C.g44.DBLe.6841",
+          "PV0234-C.g19.DBLe.6178",
+          "PV0234-C.g25.DBLe.6094",
+          "PV0234-C.g44.DBLe.5860"
+        ]
+      },
+      "PV0237-C": {
+        "count": 11,
+        "samples": [
+          "PV0237-C.g45.DBLe.5107",
+          "PV0237-C.g34.DBLe.7324",
+          "PV0237-C.g14.DBLe.5434",
+          "PV0237-C.g49.DBLe.6208",
+          "PV0237-C.g35.DBLe.6283",
+          "PV0237-C.g44.DBLe.6226",
+          "PV0237-C.g34.DBLe.6229",
+          "PV0237-C.g23.DBLe.7501",
+          "PV0237-C.g22.DBLe.8626",
+          "PV0237-C.g28.DBLe.8584",
+          "PV0237-C.g23.DBLe.4984"
+        ]
+      },
+      "PV0239-C": {
+        "count": 10,
+        "samples": [
+          "PV0239-C.g30.DBLe.6283",
+          "PV0239-C.g19.DBLe.6256",
+          "PV0239-C.g4.DBLe.4888",
+          "PV0239-C.g23.DBLe.6127",
+          "PV0239-C.g93.DBLe.2794",
+          "PV0239-C.g11.DBLe.8848",
+          "PV0239-C.g10.DBLe.6394",
+          "PV0239-C.g87.DBLe.5161",
+          "PV0239-C.g4.DBLe.5950",
+          "PV0239-C.g4.DBLe.6901"
+        ]
+      },
+      "PV0240-C": {
+        "count": 13,
+        "samples": [
+          "PV0240-C.g57.DBLe.6370",
+          "PV0240-C.g35.DBLe.7342",
+          "PV0240-C.g44.DBLe.5158",
+          "PV0240-C.g44.DBLe.7531",
+          "PV0240-C.g35.DBLe.4981",
+          "PV0240-C.g32.DBLe.4852",
+          "PV0240-C.g18.DBLe.6355",
+          "PV0240-C.g34.DBLe.8269",
+          "PV0240-C.g43.DBLe.6352",
+          "PV0240-C.g49.DBLe.4831",
+          "PV0240-C.g5.DBLe.6199",
+          "PV0240-C.g50.DBLe.4750",
+          "PV0240-C.g11.DBLe.4780"
+        ]
+      },
+      "PV0241-C": {
+        "count": 8,
+        "samples": [
+          "PV0241-C.g14.DBLe.8962",
+          "PV0241-C.g17.DBLe.6094",
+          "PV0241-C.g33.DBLe.6178",
+          "PV0241-C.g74.DBLe.4144",
+          "PV0241-C.g13.DBLe.8176",
+          "PV0241-C.g74.DBLe.2107",
+          "PV0241-C.g74.DBLe.3163",
+          "PV0241-C.g73.DBLe.3283"
+        ]
+      },
+      "PV0256-C": {
+        "count": 11,
+        "samples": [
+          "PV0256-C.g14.DBLe.5134",
+          "PV0256-C.g14.DBLe.7159",
+          "PV0256-C.g24.DBLe.6217",
+          "PV0256-C.g12.DBLe.5911",
+          "PV0256-C.g79.DBLe.3841",
+          "PV0256-C.g37.DBLe.2428",
+          "PV0256-C.g14.DBLe.6196",
+          "PV0256-C.g25.DBLe.6070",
+          "PV0256-C.g38.DBLe.1741",
+          "PV0256-C.g37.DBLe.4837",
+          "PV0256-C.g12.DBLe.3376"
+        ]
+      },
+      "PV0276-C": {
+        "count": 9,
+        "samples": [
+          "PV0276-C.g86.DBLe.2539",
+          "PV0276-C.g15.DBLe.5935",
+          "PV0276-C.g30.DBLe.3379",
+          "PV0276-C.g31.DBLe.4054",
+          "PV0276-C.g30.DBLe.6010",
+          "PV0276-C.g18.DBLe.4855",
+          "PV0276-C.g21.DBLe.5815",
+          "PV0276-C.g15.DBLe.3361",
+          "PV0276-C.g25.DBLe.3520"
+        ]
+      },
+      "PV0277-C": {
+        "count": 7,
+        "samples": [
+          "PV0277-C.g8.DBLe.6226",
+          "PV0277-C.g15.DBLe.3334",
+          "PV0277-C.g27.DBLe.5980",
+          "PV0277-C.g29.DBLe.3409",
+          "PV0277-C.g27.DBLe.4927",
+          "PV0277-C.g8.DBLe.5104",
+          "PV0277-C.g15.DBLe.5905"
+        ]
+      },
+      "PV0293-C": {
+        "count": 26,
+        "samples": [
+          "PV0293-C.g44.DBLe.4660",
+          "PV0293-C.g53.DBLe.4408",
+          "PV0293-C.g18.DBLe.6010",
+          "PV0293-C.g53.DBLe.3352",
+          "PV0293-C.g56.DBLe.4897",
+          "PV0293-C.g36.DBLe.6040",
+          "PV0293-C.g6.DBLe.8707",
+          "PV0293-C.g8.DBLe.8275",
+          "PV0293-C.g55.DBLe.5314",
+          "PV0293-C.g59.DBLe.3373",
+          "PV0293-C.g40.DBLe.6160",
+          "PV0293-C.g43.DBLe.4756",
+          "PV0293-C.g48.DBLe.5686",
+          "PV0293-C.g28.DBLe.6040",
+          "PV0293-C.g114.DBLe.3103",
+          "PV0293-C.g95.DBLe.3019",
+          "PV0293-C.g95.DBLe.1957",
+          "PV0293-C.g18.DBLe.3379",
+          "PV0293-C.g95.DBLe.3982",
+          "PV0293-C.g39.DBLe.4708",
+          "PV0293-C.g32.DBLe.4750",
+          "PV0293-C.g44.DBLe.5779",
+          "PV0293-C.g32.DBLe.5857",
+          "PV0293-C.g48.DBLe.4591",
+          "PV0293-C.g53.DBLe.5365",
+          "PV0293-C.g17.DBLe.7339"
+        ]
+      },
+      "PV0298-C": {
+        "count": 18,
+        "samples": [
+          "PV0298-C.g9.DBLe.7087",
+          "PV0298-C.g88.DBLe.7",
+          "PV0298-C.g78.DBLe.3826",
+          "PV0298-C.g20.DBLe.5161",
+          "PV0298-C.g8.DBLe.8053",
+          "PV0298-C.g9.DBLe.4435",
+          "PV0298-C.g24.DBLe.7228",
+          "PV0298-C.g9.DBLe.3325",
+          "PV0298-C.g8.DBLe.9016",
+          "PV0298-C.g24.DBLe.6106",
+          "PV0298-C.g57.DBLe.4909",
+          "PV0298-C.g89.DBLe.2674",
+          "PV0298-C.g29.DBLe.6019",
+          "PV0298-C.g8.DBLe.7006",
+          "PV0298-C.g89.DBLe.3796",
+          "PV0298-C.g88.DBLe.2440",
+          "PV0298-C.g88.DBLe.3487",
+          "PV0298-C.g29.DBLe.3436"
+        ]
+      },
+      "PV0301-C": {
+        "count": 9,
+        "samples": [
+          "PV0301-C.g57.DBLe.5605",
+          "PV0301-C.g57.DBLe.4537",
+          "PV0301-C.g41.DBLe.6136",
+          "PV0301-C.g59.DBLe.6133",
+          "PV0301-C.g52.DBLe.4831",
+          "PV0301-C.g35.DBLe.5941",
+          "PV0301-C.g57.DBLe.6586",
+          "PV0301-C.g117.DBLe.658",
+          "PV0301-C.g35.DBLe.3445"
+        ]
+      }
+    }
+  },
+  "skipped_samples": 166
+}

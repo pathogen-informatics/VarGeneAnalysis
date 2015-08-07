@@ -1,0 +1,6265 @@
+{
+  "parsed_samples": 4447,
+  "samples": {
+    "CIDRg": {
+      "MAL6P1": {
+        "count": 1,
+        "samples": [
+          "MAL6P1.4.CIDRg.6385"
+        ]
+      },
+      "MAL7P1": {
+        "count": 2,
+        "samples": [
+          "MAL7P1.55.CIDRg.4108",
+          "MAL7P1.50.CIDRg.4210"
+        ]
+      },
+      "PA0012-C": {
+        "count": 12,
+        "samples": [
+          "PA0012-C.g12.CIDRg.1375",
+          "PA0012-C.g57.CIDRg.1834",
+          "PA0012-C.g8.CIDRg.6391",
+          "PA0012-C.g4.CIDRg.8185",
+          "PA0012-C.g48.CIDRg.4003",
+          "PA0012-C.g40.CIDRg.4108",
+          "PA0012-C.g24.CIDRg.4819",
+          "PA0012-C.g26.CIDRg.4213",
+          "PA0012-C.g11.CIDRg.4780",
+          "PA0012-C.g19.CIDRg.6199",
+          "PA0012-C.g10.CIDRg.5500",
+          "PA0012-C.g35.CIDRg.4063"
+        ]
+      },
+      "PA0017-C": {
+        "count": 16,
+        "samples": [
+          "PA0017-C.g7.CIDRg.5230",
+          "PA0017-C.g12.CIDRg.1315",
+          "PA0017-C.g6.CIDRg.6280",
+          "PA0017-C.g8.CIDRg.4090",
+          "PA0017-C.g59.CIDRg.4081",
+          "PA0017-C.g11.CIDRg.5221",
+          "PA0017-C.g30.CIDRg.5281",
+          "PA0017-C.g47.CIDRg.4216",
+          "PA0017-C.g27.CIDRg.1387",
+          "PA0017-C.g9.CIDRg.3868",
+          "PA0017-C.g40.CIDRg.4027",
+          "PA0017-C.g52.CIDRg.3997",
+          "PA0017-C.g18.CIDRg.1423",
+          "PA0017-C.g26.CIDRg.4144",
+          "PA0017-C.g50.CIDRg.4216",
+          "PA0017-C.g24.CIDRg.1387"
+        ]
+      },
+      "PA0032-C": {
+        "count": 13,
+        "samples": [
+          "PA0032-C.g31.CIDRg.4363",
+          "PA0032-C.g39.CIDRg.4342",
+          "PA0032-C.g30.CIDRg.3970",
+          "PA0032-C.g51.CIDRg.4006",
+          "PA0032-C.g49.CIDRg.4018",
+          "PA0032-C.g5.CIDRg.5959",
+          "PA0032-C.g46.CIDRg.3991",
+          "PA0032-C.g15.CIDRg.1411",
+          "PA0032-C.g20.CIDRg.4237",
+          "PA0032-C.g13.CIDRg.1390",
+          "PA0032-C.g47.CIDRg.4090",
+          "PA0032-C.g40.CIDRg.4222",
+          "PA0032-C.g11.CIDRg.4930"
+        ]
+      },
+      "PA0035-C": {
+        "count": 10,
+        "samples": [
+          "PA0035-C.g43.CIDRg.4426",
+          "PA0035-C.g58.CIDRg.4261",
+          "PA0035-C.g30.CIDRg.4000",
+          "PA0035-C.g82.CIDRg.1381",
+          "PA0035-C.g81.CIDRg.3859",
+          "PA0035-C.g41.CIDRg.4165",
+          "PA0035-C.g93.CIDRg.1369",
+          "PA0035-C.g62.CIDRg.2656",
+          "PA0035-C.g34.CIDRg.6361",
+          "PA0035-C.g32.CIDRg.4693"
+        ]
+      },
+      "PA0041-C": {
+        "count": 14,
+        "samples": [
+          "PA0041-C.g45.CIDRg.4312",
+          "PA0041-C.g17.CIDRg.1387",
+          "PA0041-C.g10.CIDRg.5215",
+          "PA0041-C.g36.CIDRg.4456",
+          "PA0041-C.g26.CIDRg.6103",
+          "PA0041-C.g5.CIDRg.8002",
+          "PA0041-C.g48.CIDRg.118",
+          "PA0041-C.g53.CIDRg.4198",
+          "PA0041-C.g13.CIDRg.7495",
+          "PA0041-C.g73.CIDRg.4309",
+          "PA0041-C.g27.CIDRg.1366",
+          "PA0041-C.g57.CIDRg.4087",
+          "PA0041-C.g40.CIDRg.4378",
+          "PA0041-C.g23.CIDRg.6124"
+        ]
+      },
+      "PA0042-C": {
+        "count": 7,
+        "samples": [
+          "PA0042-C.g25.CIDRg.4207",
+          "PA0042-C.g51.CIDRg.4351",
+          "PA0042-C.g23.CIDRg.5128",
+          "PA0042-C.g13.CIDRg.6067",
+          "PA0042-C.g37.CIDRg.4063",
+          "PA0042-C.g48.CIDRg.4114",
+          "PA0042-C.g5.CIDRg.4618"
+        ]
+      },
+      "PA0066-C": {
+        "count": 14,
+        "samples": [
+          "PA0066-C.g65.CIDRg.4048",
+          "PA0066-C.g28.CIDRg.6055",
+          "PA0066-C.g98.CIDRg.4396",
+          "PA0066-C.g68.CIDRg.1381",
+          "PA0066-C.g83.CIDRg.4180",
+          "PA0066-C.g64.CIDRg.4216",
+          "PA0066-C.g19.CIDRg.4924",
+          "PA0066-C.g100.CIDRg.4087",
+          "PA0066-C.g62.CIDRg.4063",
+          "PA0066-C.g95.CIDRg.1375",
+          "PA0066-C.g14.CIDRg.4297",
+          "PA0066-C.g10.CIDRg.4396",
+          "PA0066-C.g67.CIDRg.4114",
+          "PA0066-C.g23.CIDRg.4714"
+        ]
+      },
+      "PA0081-C": {
+        "count": 17,
+        "samples": [
+          "PA0081-C.g24.CIDRg.4678",
+          "PA0081-C.g47.CIDRg.6769",
+          "PA0081-C.g1.CIDRg.4297",
+          "PA0081-C.g23.CIDRg.1366",
+          "PA0081-C.g68.CIDRg.4246",
+          "PA0081-C.g34.CIDRg.3724",
+          "PA0081-C.g39.CIDRg.4129",
+          "PA0081-C.g72.CIDRg.3070",
+          "PA0081-C.g44.CIDRg.4120",
+          "PA0081-C.g26.CIDRg.8155",
+          "PA0081-C.g43.CIDRg.4171",
+          "PA0081-C.g94.CIDRg.1591",
+          "PA0081-C.g38.CIDRg.4123",
+          "PA0081-C.g56.CIDRg.3877",
+          "PA0081-C.g63.CIDRg.3955",
+          "PA0081-C.g24.CIDRg.1402",
+          "PA0081-C.g25.CIDRg.5185"
+        ]
+      },
+      "PA0084-C": {
+        "count": 7,
+        "samples": [
+          "PA0084-C.g48.CIDRg.4063",
+          "PA0084-C.g42.CIDRg.4189",
+          "PA0084-C.g19.CIDRg.6067",
+          "PA0084-C.g8.CIDRg.4618",
+          "PA0084-C.g47.CIDRg.4072",
+          "PA0084-C.g51.CIDRg.4114",
+          "PA0084-C.g1.CIDRg.5989"
+        ]
+      },
+      "PA0104-C": {
+        "count": 12,
+        "samples": [
+          "PA0104-C.g44.CIDRg.4159",
+          "PA0104-C.g80.CIDRg.4309",
+          "PA0104-C.g93.CIDRg.3799",
+          "PA0104-C.g91.CIDRg.4402",
+          "PA0104-C.g36.CIDRg.4177",
+          "PA0104-C.g11.CIDRg.4024",
+          "PA0104-C.g76.CIDRg.4486",
+          "PA0104-C.g71.CIDRg.5632",
+          "PA0104-C.g48.CIDRg.4693",
+          "PA0104-C.g33.CIDRg.3832",
+          "PA0104-C.g77.CIDRg.1387",
+          "PA0104-C.g6.CIDRg.4225"
+        ]
+      },
+      "PA0106-C": {
+        "count": 8,
+        "samples": [
+          "PA0106-C.g132.CIDRg.343",
+          "PA0106-C.g12.CIDRg.6013",
+          "PA0106-C.g39.CIDRg.1408",
+          "PA0106-C.g24.CIDRg.6430",
+          "PA0106-C.g109.CIDRg.4135",
+          "PA0106-C.g33.CIDRg.3862",
+          "PA0106-C.g80.CIDRg.4240",
+          "PA0106-C.g48.CIDRg.6919"
+        ]
+      },
+      "PA0109-C": {
+        "count": 11,
+        "samples": [
+          "PA0109-C.g10.CIDRg.6532",
+          "PA0109-C.g74.CIDRg.4228",
+          "PA0109-C.g55.CIDRg.3916",
+          "PA0109-C.g59.CIDRg.4303",
+          "PA0109-C.g80.CIDRg.3823",
+          "PA0109-C.g18.CIDRg.1363",
+          "PA0109-C.g39.CIDRg.4210",
+          "PA0109-C.g41.CIDRg.4891",
+          "PA0109-C.g95.CIDRg.3886",
+          "PA0109-C.g51.CIDRg.5524",
+          "PA0109-C.g84.CIDRg.3910"
+        ]
+      },
+      "PA0111-C": {
+        "count": 9,
+        "samples": [
+          "PA0111-C.g24.CIDRg.1363",
+          "PA0111-C.g20.CIDRg.6532",
+          "PA0111-C.g70.CIDRg.3910",
+          "PA0111-C.g51.CIDRg.4387",
+          "PA0111-C.g5.CIDRg.7576",
+          "PA0111-C.g28.CIDRg.3916",
+          "PA0111-C.g44.CIDRg.4147",
+          "PA0111-C.g72.CIDRg.3823",
+          "PA0111-C.g27.CIDRg.4303"
+        ]
+      },
+      "PA0113-C": {
+        "count": 9,
+        "samples": [
+          "PA0113-C.g5.CIDRg.7576",
+          "PA0113-C.g58.CIDRg.4201",
+          "PA0113-C.g46.CIDRg.4414",
+          "PA0113-C.g11.CIDRg.1363",
+          "PA0113-C.g26.CIDRg.3487",
+          "PA0113-C.g20.CIDRg.4303",
+          "PA0113-C.g51.CIDRg.3910",
+          "PA0113-C.g19.CIDRg.3916",
+          "PA0113-C.g45.CIDRg.4210"
+        ]
+      },
+      "PA0116-C": {
+        "count": 2,
+        "samples": [
+          "PA0116-C.g56.CIDRg.3499",
+          "PA0116-C.g10.CIDRg.7576"
+        ]
+      },
+      "PA0119-C": {
+        "count": 12,
+        "samples": [
+          "PA0119-C.g42.CIDRg.4309",
+          "PA0119-C.g14.CIDRg.4618",
+          "PA0119-C.g73.CIDRg.4339",
+          "PA0119-C.g53.CIDRg.5011",
+          "PA0119-C.g37.CIDRg.4270",
+          "PA0119-C.g26.CIDRg.7906",
+          "PA0119-C.g29.CIDRg.1393",
+          "PA0119-C.g35.CIDRg.1399",
+          "PA0119-C.g57.CIDRg.4267",
+          "PA0119-C.g68.CIDRg.4081",
+          "PA0119-C.g70.CIDRg.1384",
+          "PA0119-C.g21.CIDRg.7711"
+        ]
+      },
+      "PA0120-C": {
+        "count": 4,
+        "samples": [
+          "PA0120-C.g4.CIDRg.202",
+          "PA0120-C.g31.CIDRg.2638",
+          "PA0120-C.g19.CIDRg.3757",
+          "PA0120-C.g22.CIDRg.1366"
+        ]
+      },
+      "PA0121-C": {
+        "count": 5,
+        "samples": [
+          "PA0121-C.g6.CIDRg.5401",
+          "PA0121-C.g40.CIDRg.3154",
+          "PA0121-C.g7.CIDRg.1393",
+          "PA0121-C.g38.CIDRg.3229",
+          "PA0121-C.g5.CIDRg.4618"
+        ]
+      },
+      "PA0127-C": {
+        "count": 2,
+        "samples": [
+          "PA0127-C.g5.CIDRg.718",
+          "PA0127-C.g8.CIDRg.4117"
+        ]
+      },
+      "PA0132-C": {
+        "count": 12,
+        "samples": [
+          "PA0132-C.g88.CIDRg.4042",
+          "PA0132-C.g20.CIDRg.4618",
+          "PA0132-C.g47.CIDRg.4261",
+          "PA0132-C.g78.CIDRg.4081",
+          "PA0132-C.g55.CIDRg.1393",
+          "PA0132-C.g39.CIDRg.1384",
+          "PA0132-C.g49.CIDRg.4270",
+          "PA0132-C.g41.CIDRg.1399",
+          "PA0132-C.g29.CIDRg.7915",
+          "PA0132-C.g76.CIDRg.4048",
+          "PA0132-C.g62.CIDRg.5011",
+          "PA0132-C.g66.CIDRg.4309"
+        ]
+      },
+      "PA0134-C": {
+        "count": 8,
+        "samples": [
+          "PA0134-C.g88.CIDRg.4150",
+          "PA0134-C.g27.CIDRg.1393",
+          "PA0134-C.g57.CIDRg.3952",
+          "PA0134-C.g93.CIDRg.4096",
+          "PA0134-C.g35.CIDRg.5608",
+          "PA0134-C.g16.CIDRg.1405",
+          "PA0134-C.g91.CIDRg.4234",
+          "PA0134-C.g22.CIDRg.8080"
+        ]
+      },
+      "PA0138-C": {
+        "count": 11,
+        "samples": [
+          "PA0138-C.g56.CIDRg.1057",
+          "PA0138-C.g34.CIDRg.1027",
+          "PA0138-C.g2.CIDRg.6310",
+          "PA0138-C.g16.CIDRg.4099",
+          "PA0138-C.g42.CIDRg.3160",
+          "PA0138-C.g50.CIDRg.2272",
+          "PA0138-C.g7.CIDRg.3232",
+          "PA0138-C.g39.CIDRg.1393",
+          "PA0138-C.g5.CIDRg.3715",
+          "PA0138-C.g8.CIDRg.4561",
+          "PA0138-C.g22.CIDRg.4336"
+        ]
+      },
+      "PA0142-C": {
+        "count": 11,
+        "samples": [
+          "PA0142-C.g24.CIDRg.4903",
+          "PA0142-C.g25.CIDRg.4948",
+          "PA0142-C.g71.CIDRg.4345",
+          "PA0142-C.g23.CIDRg.5749",
+          "PA0142-C.g11.CIDRg.5377",
+          "PA0142-C.g23.CIDRg.856",
+          "PA0142-C.g44.CIDRg.5143",
+          "PA0142-C.g95.CIDRg.4201",
+          "PA0142-C.g43.CIDRg.3994",
+          "PA0142-C.g12.CIDRg.8995",
+          "PA0142-C.g90.CIDRg.4174"
+        ]
+      },
+      "PA0145-C": {
+        "count": 34,
+        "samples": [
+          "PA0145-C.g49.CIDRg.6061",
+          "PA0145-C.g116.CIDRg.4219",
+          "PA0145-C.g92.CIDRg.1399",
+          "PA0145-C.g36.CIDRg.6496",
+          "PA0145-C.g29.CIDRg.7003",
+          "PA0145-C.g114.CIDRg.3991",
+          "PA0145-C.g1.CIDRg.5197",
+          "PA0145-C.g44.CIDRg.4183",
+          "PA0145-C.g27.CIDRg.5047",
+          "PA0145-C.g21.CIDRg.5269",
+          "PA0145-C.g5.CIDRg.9043",
+          "PA0145-C.g99.CIDRg.4039",
+          "PA0145-C.g4.CIDRg.1411",
+          "PA0145-C.g26.CIDRg.5308",
+          "PA0145-C.g93.CIDRg.4108",
+          "PA0145-C.g127.CIDRg.3799",
+          "PA0145-C.g45.CIDRg.1375",
+          "PA0145-C.g2.CIDRg.1405",
+          "PA0145-C.g24.CIDRg.4486",
+          "PA0145-C.g86.CIDRg.4276",
+          "PA0145-C.g19.CIDRg.4063",
+          "PA0145-C.g60.CIDRg.4111",
+          "PA0145-C.g46.CIDRg.3925",
+          "PA0145-C.g40.CIDRg.4324",
+          "PA0145-C.g97.CIDRg.4147",
+          "PA0145-C.g90.CIDRg.4159",
+          "PA0145-C.g76.CIDRg.4057",
+          "PA0145-C.g12.CIDRg.6202",
+          "PA0145-C.g52.CIDRg.5224",
+          "PA0145-C.g79.CIDRg.4129",
+          "PA0145-C.g131.CIDRg.3445",
+          "PA0145-C.g66.CIDRg.3961",
+          "PA0145-C.g118.CIDRg.3982",
+          "PA0145-C.g70.CIDRg.4465"
+        ]
+      },
+      "PA0148-C": {
+        "count": 15,
+        "samples": [
+          "PA0148-C.g23.CIDRg.6043",
+          "PA0148-C.g69.CIDRg.4564",
+          "PA0148-C.g15.CIDRg.4705",
+          "PA0148-C.g30.CIDRg.1387",
+          "PA0148-C.g81.CIDRg.4159",
+          "PA0148-C.g37.CIDRg.4300",
+          "PA0148-C.g57.CIDRg.4129",
+          "PA0148-C.g27.CIDRg.1381",
+          "PA0148-C.g90.CIDRg.4066",
+          "PA0148-C.g77.CIDRg.4219",
+          "PA0148-C.g17.CIDRg.6256",
+          "PA0148-C.g22.CIDRg.8140",
+          "PA0148-C.g16.CIDRg.5185",
+          "PA0148-C.g123.CIDRg.2008",
+          "PA0148-C.g36.CIDRg.4282"
+        ]
+      },
+      "PA0153-C": {
+        "count": 22,
+        "samples": [
+          "PA0153-C.g89.CIDRg.4168",
+          "PA0153-C.g12.CIDRg.7804",
+          "PA0153-C.g51.CIDRg.4759",
+          "PA0153-C.g25.CIDRg.4033",
+          "PA0153-C.g47.CIDRg.4309",
+          "PA0153-C.g144.CIDRg.271",
+          "PA0153-C.g85.CIDRg.4186",
+          "PA0153-C.g136.CIDRg.2893",
+          "PA0153-C.g50.CIDRg.4138",
+          "PA0153-C.g119.CIDRg.3901",
+          "PA0153-C.g78.CIDRg.3967",
+          "PA0153-C.g45.CIDRg.4252",
+          "PA0153-C.g26.CIDRg.4009",
+          "PA0153-C.g75.CIDRg.4063",
+          "PA0153-C.g68.CIDRg.4162",
+          "PA0153-C.g39.CIDRg.5302",
+          "PA0153-C.g9.CIDRg.6046",
+          "PA0153-C.g61.CIDRg.4171",
+          "PA0153-C.g94.CIDRg.4135",
+          "PA0153-C.g14.CIDRg.4921",
+          "PA0153-C.g23.CIDRg.4177",
+          "PA0153-C.g21.CIDRg.5143"
+        ]
+      },
+      "PA0154-C": {
+        "count": 10,
+        "samples": [
+          "PA0154-C.g22.CIDRg.4273",
+          "PA0154-C.g37.CIDRg.4066",
+          "PA0154-C.g8.CIDRg.4324",
+          "PA0154-C.g14.CIDRg.3991",
+          "PA0154-C.g21.CIDRg.4201",
+          "PA0154-C.g54.CIDRg.4030",
+          "PA0154-C.g44.CIDRg.4363",
+          "PA0154-C.g76.CIDRg.1753",
+          "PA0154-C.g69.CIDRg.1378",
+          "PA0154-C.g18.CIDRg.1390"
+        ]
+      },
+      "PA0159-C": {
+        "count": 13,
+        "samples": [
+          "PA0159-C.g63.CIDRg.4177",
+          "PA0159-C.g7.CIDRg.5008",
+          "PA0159-C.g1.CIDRg.4105",
+          "PA0159-C.g35.CIDRg.4120",
+          "PA0159-C.g10.CIDRg.9313",
+          "PA0159-C.g30.CIDRg.1390",
+          "PA0159-C.g77.CIDRg.4186",
+          "PA0159-C.g29.CIDRg.4000",
+          "PA0159-C.g85.CIDRg.4132",
+          "PA0159-C.g25.CIDRg.5068",
+          "PA0159-C.g89.CIDRg.4087",
+          "PA0159-C.g57.CIDRg.3868",
+          "PA0159-C.g24.CIDRg.5305"
+        ]
+      },
+      "PA0161-C": {
+        "count": 14,
+        "samples": [
+          "PA0161-C.g81.CIDRg.4021",
+          "PA0161-C.g66.CIDRg.4435",
+          "PA0161-C.g49.CIDRg.4840",
+          "PA0161-C.g31.CIDRg.5959",
+          "PA0161-C.g39.CIDRg.3856",
+          "PA0161-C.g62.CIDRg.4171",
+          "PA0161-C.g53.CIDRg.5347",
+          "PA0161-C.g28.CIDRg.4984",
+          "PA0161-C.g72.CIDRg.4153",
+          "PA0161-C.g77.CIDRg.4087",
+          "PA0161-C.g75.CIDRg.4198",
+          "PA0161-C.g11.CIDRg.4024",
+          "PA0161-C.g65.CIDRg.4024",
+          "PA0161-C.g59.CIDRg.5044"
+        ]
+      },
+      "PA0165-C": {
+        "count": 18,
+        "samples": [
+          "PA0165-C.g17.CIDRg.4942",
+          "PA0165-C.g65.CIDRg.4273",
+          "PA0165-C.g24.CIDRg.1387",
+          "PA0165-C.g77.CIDRg.1387",
+          "PA0165-C.g26.CIDRg.4168",
+          "PA0165-C.g81.CIDRg.4186",
+          "PA0165-C.g40.CIDRg.5233",
+          "PA0165-C.g66.CIDRg.4150",
+          "PA0165-C.g29.CIDRg.1384",
+          "PA0165-C.g13.CIDRg.1393",
+          "PA0165-C.g12.CIDRg.880",
+          "PA0165-C.g76.CIDRg.4129",
+          "PA0165-C.g77.CIDRg.4732",
+          "PA0165-C.g72.CIDRg.4012",
+          "PA0165-C.g69.CIDRg.4204",
+          "PA0165-C.g28.CIDRg.3793",
+          "PA0165-C.g43.CIDRg.4009",
+          "PA0165-C.g41.CIDRg.4363"
+        ]
+      },
+      "PA0167-C": {
+        "count": 15,
+        "samples": [
+          "PA0167-C.g72.CIDRg.4207",
+          "PA0167-C.g63.CIDRg.3952",
+          "PA0167-C.g90.CIDRg.3892",
+          "PA0167-C.g26.CIDRg.6430",
+          "PA0167-C.g7.CIDRg.6523",
+          "PA0167-C.g24.CIDRg.8044",
+          "PA0167-C.g91.CIDRg.3997",
+          "PA0167-C.g73.CIDRg.4357",
+          "PA0167-C.g31.CIDRg.3931",
+          "PA0167-C.g52.CIDRg.3931",
+          "PA0167-C.g89.CIDRg.4036",
+          "PA0167-C.g27.CIDRg.6079",
+          "PA0167-C.g34.CIDRg.5419",
+          "PA0167-C.g8.CIDRg.4003",
+          "PA0167-C.g15.CIDRg.1387"
+        ]
+      },
+      "PA0172-C": {
+        "count": 8,
+        "samples": [
+          "PA0172-C.g57.CIDRg.4936",
+          "PA0172-C.g52.CIDRg.4264",
+          "PA0172-C.g38.CIDRg.4351",
+          "PA0172-C.g69.CIDRg.3961",
+          "PA0172-C.g16.CIDRg.5917",
+          "PA0172-C.g63.CIDRg.1702",
+          "PA0172-C.g72.CIDRg.4324",
+          "PA0172-C.g20.CIDRg.5143"
+        ]
+      },
+      "PA0173-C": {
+        "count": 15,
+        "samples": [
+          "PA0173-C.g7.CIDRg.1381",
+          "PA0173-C.g32.CIDRg.4000",
+          "PA0173-C.g9.CIDRg.1390",
+          "PA0173-C.g89.CIDRg.1378",
+          "PA0173-C.g77.CIDRg.3985",
+          "PA0173-C.g11.CIDRg.4861",
+          "PA0173-C.g40.CIDRg.6244",
+          "PA0173-C.g24.CIDRg.1402",
+          "PA0173-C.g88.CIDRg.3958",
+          "PA0173-C.g74.CIDRg.4303",
+          "PA0173-C.g41.CIDRg.4048",
+          "PA0173-C.g33.CIDRg.5278",
+          "PA0173-C.g26.CIDRg.1405",
+          "PA0173-C.g54.CIDRg.3997",
+          "PA0173-C.g7.CIDRg.4675"
+        ]
+      },
+      "PA0177-C": {
+        "count": 15,
+        "samples": [
+          "PA0177-C.g55.CIDRg.4192",
+          "PA0177-C.g34.CIDRg.5254",
+          "PA0177-C.g54.CIDRg.4156",
+          "PA0177-C.g89.CIDRg.997",
+          "PA0177-C.g48.CIDRg.4207",
+          "PA0177-C.g46.CIDRg.3961",
+          "PA0177-C.g78.CIDRg.3193",
+          "PA0177-C.g67.CIDRg.1528",
+          "PA0177-C.g57.CIDRg.4330",
+          "PA0177-C.g91.CIDRg.3547",
+          "PA0177-C.g90.CIDRg.3580",
+          "PA0177-C.g61.CIDRg.4012",
+          "PA0177-C.g43.CIDRg.2863",
+          "PA0177-C.g9.CIDRg.1405",
+          "PA0177-C.g45.CIDRg.4204"
+        ]
+      },
+      "PA0178-C": {
+        "count": 13,
+        "samples": [
+          "PA0178-C.g39.CIDRg.4165",
+          "PA0178-C.g34.CIDRg.4021",
+          "PA0178-C.g15.CIDRg.6988",
+          "PA0178-C.g35.CIDRg.4327",
+          "PA0178-C.g82.CIDRg.2344",
+          "PA0178-C.g15.CIDRg.685",
+          "PA0178-C.g2.CIDRg.1402",
+          "PA0178-C.g16.CIDRg.3685",
+          "PA0178-C.g31.CIDRg.4342",
+          "PA0178-C.g70.CIDRg.3946",
+          "PA0178-C.g50.CIDRg.4081",
+          "PA0178-C.g29.CIDRg.1429",
+          "PA0178-C.g4.CIDRg.1384"
+        ]
+      },
+      "PA0181-C": {
+        "count": 14,
+        "samples": [
+          "PA0181-C.g92.CIDRg.1405",
+          "PA0181-C.g18.CIDRg.6028",
+          "PA0181-C.g34.CIDRg.4351",
+          "PA0181-C.g41.CIDRg.5143",
+          "PA0181-C.g30.CIDRg.6544",
+          "PA0181-C.g66.CIDRg.4105",
+          "PA0181-C.g16.CIDRg.6184",
+          "PA0181-C.g55.CIDRg.4087",
+          "PA0181-C.g17.CIDRg.6313",
+          "PA0181-C.g42.CIDRg.4033",
+          "PA0181-C.g9.CIDRg.5980",
+          "PA0181-C.g109.CIDRg.1864",
+          "PA0181-C.g33.CIDRg.4243",
+          "PA0181-C.g75.CIDRg.4012"
+        ]
+      },
+      "PA0186-C": {
+        "count": 10,
+        "samples": [
+          "PA0186-C.g45.CIDRg.5032",
+          "PA0186-C.g92.CIDRg.3688",
+          "PA0186-C.g35.CIDRg.4195",
+          "PA0186-C.g71.CIDRg.4342",
+          "PA0186-C.g27.CIDRg.1393",
+          "PA0186-C.g67.CIDRg.4105",
+          "PA0186-C.g51.CIDRg.5254",
+          "PA0186-C.g85.CIDRg.4180",
+          "PA0186-C.g16.CIDRg.4192",
+          "PA0186-C.g77.CIDRg.4279"
+        ]
+      },
+      "PA0187-C": {
+        "count": 11,
+        "samples": [
+          "PA0187-C.g81.CIDRg.4120",
+          "PA0187-C.g20.CIDRg.6490",
+          "PA0187-C.g25.CIDRg.4273",
+          "PA0187-C.g37.CIDRg.4315",
+          "PA0187-C.g26.CIDRg.4108",
+          "PA0187-C.g70.CIDRg.3994",
+          "PA0187-C.g14.CIDRg.5377",
+          "PA0187-C.g13.CIDRg.4141",
+          "PA0187-C.g67.CIDRg.4138",
+          "PA0187-C.g59.CIDRg.3883",
+          "PA0187-C.g18.CIDRg.5011"
+        ]
+      },
+      "PA0189-C": {
+        "count": 10,
+        "samples": [
+          "PA0189-C.g37.CIDRg.6760",
+          "PA0189-C.g22.CIDRg.1360",
+          "PA0189-C.g11.CIDRg.4024",
+          "PA0189-C.g16.CIDRg.7621",
+          "PA0189-C.g70.CIDRg.4165",
+          "PA0189-C.g17.CIDRg.6067",
+          "PA0189-C.g49.CIDRg.4042",
+          "PA0189-C.g65.CIDRg.4159",
+          "PA0189-C.g74.CIDRg.4450",
+          "PA0189-C.g45.CIDRg.6061"
+        ]
+      },
+      "PA0193-C": {
+        "count": 14,
+        "samples": [
+          "PA0193-C.g12.CIDRg.6373",
+          "PA0193-C.g38.CIDRg.4027",
+          "PA0193-C.g90.CIDRg.1246",
+          "PA0193-C.g52.CIDRg.4342",
+          "PA0193-C.g43.CIDRg.3928",
+          "PA0193-C.g19.CIDRg.1432",
+          "PA0193-C.g20.CIDRg.3604",
+          "PA0193-C.g71.CIDRg.3898",
+          "PA0193-C.g68.CIDRg.4180",
+          "PA0193-C.g69.CIDRg.4096",
+          "PA0193-C.g79.CIDRg.4195",
+          "PA0193-C.g21.CIDRg.1384",
+          "PA0193-C.g14.CIDRg.1369",
+          "PA0193-C.g70.CIDRg.3769"
+        ]
+      },
+      "PA0196-C": {
+        "count": 20,
+        "samples": [
+          "PA0196-C.g80.CIDRg.4051",
+          "PA0196-C.g84.CIDRg.4138",
+          "PA0196-C.g23.CIDRg.8035",
+          "PA0196-C.g66.CIDRg.4378",
+          "PA0196-C.g95.CIDRg.4201",
+          "PA0196-C.g59.CIDRg.1462",
+          "PA0196-C.g34.CIDRg.4780",
+          "PA0196-C.g28.CIDRg.4186",
+          "PA0196-C.g100.CIDRg.1825",
+          "PA0196-C.g54.CIDRg.4432",
+          "PA0196-C.g42.CIDRg.3943",
+          "PA0196-C.g90.CIDRg.4015",
+          "PA0196-C.g67.CIDRg.5323",
+          "PA0196-C.g43.CIDRg.4225",
+          "PA0196-C.g88.CIDRg.4132",
+          "PA0196-C.g72.CIDRg.4012",
+          "PA0196-C.g44.CIDRg.4291",
+          "PA0196-C.g69.CIDRg.4003",
+          "PA0196-C.g92.CIDRg.4267",
+          "PA0196-C.g89.CIDRg.4186"
+        ]
+      },
+      "PA0199-C": {
+        "count": 14,
+        "samples": [
+          "PA0199-C.g33.CIDRg.3931",
+          "PA0199-C.g82.CIDRg.1540",
+          "PA0199-C.g46.CIDRg.4075",
+          "PA0199-C.g21.CIDRg.4618",
+          "PA0199-C.g83.CIDRg.1396",
+          "PA0199-C.g52.CIDRg.4369",
+          "PA0199-C.g13.CIDRg.5110",
+          "PA0199-C.g35.CIDRg.3940",
+          "PA0199-C.g38.CIDRg.3847",
+          "PA0199-C.g47.CIDRg.4453",
+          "PA0199-C.g62.CIDRg.1510",
+          "PA0199-C.g49.CIDRg.3979",
+          "PA0199-C.g20.CIDRg.4648",
+          "PA0199-C.g68.CIDRg.3988"
+        ]
+      },
+      "PA0200-C": {
+        "count": 12,
+        "samples": [
+          "PA0200-C.g51.CIDRg.4477",
+          "PA0200-C.g27.CIDRg.3976",
+          "PA0200-C.g4.CIDRg.4219",
+          "PA0200-C.g24.CIDRg.3913",
+          "PA0200-C.g47.CIDRg.4174",
+          "PA0200-C.g25.CIDRg.1390",
+          "PA0200-C.g12.CIDRg.8347",
+          "PA0200-C.g22.CIDRg.4198",
+          "PA0200-C.g18.CIDRg.3997",
+          "PA0200-C.g21.CIDRg.7375",
+          "PA0200-C.g73.CIDRg.4063",
+          "PA0200-C.g32.CIDRg.1363"
+        ]
+      },
+      "PA0202-C": {
+        "count": 15,
+        "samples": [
+          "PA0202-C.g55.CIDRg.4201",
+          "PA0202-C.g11.CIDRg.4615",
+          "PA0202-C.g57.CIDRg.4063",
+          "PA0202-C.g18.CIDRg.1390",
+          "PA0202-C.g69.CIDRg.3976",
+          "PA0202-C.g6.CIDRg.6256",
+          "PA0202-C.g31.CIDRg.6481",
+          "PA0202-C.g5.CIDRg.4012",
+          "PA0202-C.g37.CIDRg.1438",
+          "PA0202-C.g53.CIDRg.4087",
+          "PA0202-C.g11.CIDRg.1378",
+          "PA0202-C.g44.CIDRg.3988",
+          "PA0202-C.g46.CIDRg.4240",
+          "PA0202-C.g18.CIDRg.6118",
+          "PA0202-C.g17.CIDRg.6076"
+        ]
+      },
+      "PA0206-C": {
+        "count": 23,
+        "samples": [
+          "PA0206-C.g89.CIDRg.3931",
+          "PA0206-C.g5.CIDRg.4615",
+          "PA0206-C.g7.CIDRg.5374",
+          "PA0206-C.g67.CIDRg.4390",
+          "PA0206-C.g10.CIDRg.4006",
+          "PA0206-C.g72.CIDRg.4273",
+          "PA0206-C.g107.CIDRg.4039",
+          "PA0206-C.g70.CIDRg.4213",
+          "PA0206-C.g86.CIDRg.4225",
+          "PA0206-C.g16.CIDRg.4489",
+          "PA0206-C.g11.CIDRg.1390",
+          "PA0206-C.g17.CIDRg.3982",
+          "PA0206-C.g69.CIDRg.1375",
+          "PA0206-C.g8.CIDRg.4498",
+          "PA0206-C.g13.CIDRg.1393",
+          "PA0206-C.g63.CIDRg.4348",
+          "PA0206-C.g95.CIDRg.4132",
+          "PA0206-C.g4.CIDRg.3898",
+          "PA0206-C.g35.CIDRg.5215",
+          "PA0206-C.g64.CIDRg.4279",
+          "PA0206-C.g82.CIDRg.4630",
+          "PA0206-C.g41.CIDRg.5869",
+          "PA0206-C.g111.CIDRg.3310"
+        ]
+      },
+      "PA0207-C": {
+        "count": 12,
+        "samples": [
+          "PA0207-C.g68.CIDRg.4120",
+          "PA0207-C.g4.CIDRg.5200",
+          "PA0207-C.g12.CIDRg.7825",
+          "PA0207-C.g17.CIDRg.4234",
+          "PA0207-C.g59.CIDRg.4090",
+          "PA0207-C.g81.CIDRg.3847",
+          "PA0207-C.g54.CIDRg.4291",
+          "PA0207-C.g31.CIDRg.4192",
+          "PA0207-C.g70.CIDRg.4126",
+          "PA0207-C.g39.CIDRg.4222",
+          "PA0207-C.g64.CIDRg.4849",
+          "PA0207-C.g32.CIDRg.6265"
+        ]
+      },
+      "PA0208-C": {
+        "count": 7,
+        "samples": [
+          "PA0208-C.g6.CIDRg.8113",
+          "PA0208-C.g36.CIDRg.1114",
+          "PA0208-C.g12.CIDRg.3580",
+          "PA0208-C.g20.CIDRg.6070",
+          "PA0208-C.g28.CIDRg.4099",
+          "PA0208-C.g11.CIDRg.4123",
+          "PA0208-C.g24.CIDRg.3925"
+        ]
+      },
+      "PA0209-C": {
+        "count": 16,
+        "samples": [
+          "PA0209-C.g18.CIDRg.4948",
+          "PA0209-C.g70.CIDRg.4645",
+          "PA0209-C.g26.CIDRg.4654",
+          "PA0209-C.g53.CIDRg.4210",
+          "PA0209-C.g11.CIDRg.6331",
+          "PA0209-C.g47.CIDRg.4255",
+          "PA0209-C.g33.CIDRg.4054",
+          "PA0209-C.g22.CIDRg.4141",
+          "PA0209-C.g66.CIDRg.4273",
+          "PA0209-C.g30.CIDRg.5386",
+          "PA0209-C.g74.CIDRg.4180",
+          "PA0209-C.g42.CIDRg.6115",
+          "PA0209-C.g32.CIDRg.4063",
+          "PA0209-C.g91.CIDRg.4144",
+          "PA0209-C.g50.CIDRg.4096",
+          "PA0209-C.g27.CIDRg.6928"
+        ]
+      },
+      "PA0210-C": {
+        "count": 21,
+        "samples": [
+          "PA0210-C.g2.CIDRg.1390",
+          "PA0210-C.g9.CIDRg.4249",
+          "PA0210-C.g16.CIDRg.1393",
+          "PA0210-C.g51.CIDRg.4348",
+          "PA0210-C.g7.CIDRg.1396",
+          "PA0210-C.g89.CIDRg.3340",
+          "PA0210-C.g31.CIDRg.2617",
+          "PA0210-C.g75.CIDRg.3847",
+          "PA0210-C.g98.CIDRg.3184",
+          "PA0210-C.g3.CIDRg.4642",
+          "PA0210-C.g79.CIDRg.2128",
+          "PA0210-C.g100.CIDRg.3097",
+          "PA0210-C.g6.CIDRg.7570",
+          "PA0210-C.g93.CIDRg.3139",
+          "PA0210-C.g76.CIDRg.4051",
+          "PA0210-C.g59.CIDRg.4159",
+          "PA0210-C.g78.CIDRg.4012",
+          "PA0210-C.g71.CIDRg.3967",
+          "PA0210-C.g2.CIDRg.5974",
+          "PA0210-C.g67.CIDRg.4249",
+          "PA0210-C.g3.CIDRg.1384"
+        ]
+      },
+      "PA0211-C": {
+        "count": 14,
+        "samples": [
+          "PA0211-C.g42.CIDRg.4180",
+          "PA0211-C.g85.CIDRg.3754",
+          "PA0211-C.g72.CIDRg.4021",
+          "PA0211-C.g59.CIDRg.4036",
+          "PA0211-C.g57.CIDRg.4075",
+          "PA0211-C.g41.CIDRg.1402",
+          "PA0211-C.g55.CIDRg.4057",
+          "PA0211-C.g35.CIDRg.5293",
+          "PA0211-C.g65.CIDRg.4183",
+          "PA0211-C.g15.CIDRg.6151",
+          "PA0211-C.g71.CIDRg.4234",
+          "PA0211-C.g63.CIDRg.4135",
+          "PA0211-C.g96.CIDRg.3412",
+          "PA0211-C.g31.CIDRg.3865"
+        ]
+      },
+      "PA0212-C": {
+        "count": 19,
+        "samples": [
+          "PA0212-C.g40.CIDRg.4057",
+          "PA0212-C.g48.CIDRg.4195",
+          "PA0212-C.g54.CIDRg.4138",
+          "PA0212-C.g105.CIDRg.3079",
+          "PA0212-C.g63.CIDRg.4102",
+          "PA0212-C.g72.CIDRg.4288",
+          "PA0212-C.g50.CIDRg.3982",
+          "PA0212-C.g12.CIDRg.7852",
+          "PA0212-C.g13.CIDRg.1396",
+          "PA0212-C.g13.CIDRg.4675",
+          "PA0212-C.g110.CIDRg.79",
+          "PA0212-C.g27.CIDRg.5476",
+          "PA0212-C.g51.CIDRg.3799",
+          "PA0212-C.g11.CIDRg.1387",
+          "PA0212-C.g6.CIDRg.4678",
+          "PA0212-C.g29.CIDRg.5254",
+          "PA0212-C.g23.CIDRg.1384",
+          "PA0212-C.g3.CIDRg.4882",
+          "PA0212-C.g20.CIDRg.6550"
+        ]
+      },
+      "PA0213-C": {
+        "count": 13,
+        "samples": [
+          "PA0213-C.g12.CIDRg.4828",
+          "PA0213-C.g36.CIDRg.4225",
+          "PA0213-C.g66.CIDRg.4009",
+          "PA0213-C.g31.CIDRg.4180",
+          "PA0213-C.g3.CIDRg.6295",
+          "PA0213-C.g52.CIDRg.4063",
+          "PA0213-C.g78.CIDRg.1192",
+          "PA0213-C.g10.CIDRg.1372",
+          "PA0213-C.g20.CIDRg.4591",
+          "PA0213-C.g21.CIDRg.4246",
+          "PA0213-C.g1.CIDRg.6004",
+          "PA0213-C.g43.CIDRg.4429",
+          "PA0213-C.g27.CIDRg.4189"
+        ]
+      },
+      "PA0216-C": {
+        "count": 19,
+        "samples": [
+          "PA0216-C.g40.CIDRg.4129",
+          "PA0216-C.g19.CIDRg.5365",
+          "PA0216-C.g49.CIDRg.4309",
+          "PA0216-C.g74.CIDRg.4267",
+          "PA0216-C.g62.CIDRg.4369",
+          "PA0216-C.g25.CIDRg.4015",
+          "PA0216-C.g45.CIDRg.4222",
+          "PA0216-C.g8.CIDRg.4615",
+          "PA0216-C.g23.CIDRg.1393",
+          "PA0216-C.g38.CIDRg.5227",
+          "PA0216-C.g4.CIDRg.3862",
+          "PA0216-C.g9.CIDRg.4078",
+          "PA0216-C.g54.CIDRg.3247",
+          "PA0216-C.g72.CIDRg.1042",
+          "PA0216-C.g8.CIDRg.1378",
+          "PA0216-C.g43.CIDRg.5071",
+          "PA0216-C.g63.CIDRg.1357",
+          "PA0216-C.g35.CIDRg.5116",
+          "PA0216-C.g48.CIDRg.4150"
+        ]
+      },
+      "PA0227-C": {
+        "count": 19,
+        "samples": [
+          "PA0227-C.g1.CIDRg.5077",
+          "PA0227-C.g17.CIDRg.4093",
+          "PA0227-C.g28.CIDRg.1387",
+          "PA0227-C.g71.CIDRg.4168",
+          "PA0227-C.g38.CIDRg.5353",
+          "PA0227-C.g21.CIDRg.6043",
+          "PA0227-C.g56.CIDRg.2878",
+          "PA0227-C.g52.CIDRg.4084",
+          "PA0227-C.g117.CIDRg.3349",
+          "PA0227-C.g98.CIDRg.3949",
+          "PA0227-C.g22.CIDRg.4780",
+          "PA0227-C.g51.CIDRg.1174",
+          "PA0227-C.g2.CIDRg.6268",
+          "PA0227-C.g126.CIDRg.3157",
+          "PA0227-C.g78.CIDRg.4057",
+          "PA0227-C.g7.CIDRg.8392",
+          "PA0227-C.g6.CIDRg.6133",
+          "PA0227-C.g76.CIDRg.4099",
+          "PA0227-C.g118.CIDRg.3199"
+        ]
+      },
+      "PA0230-C": {
+        "count": 7,
+        "samples": [
+          "PA0230-C.g20.CIDRg.4024",
+          "PA0230-C.g34.CIDRg.3835",
+          "PA0230-C.g19.CIDRg.4369",
+          "PA0230-C.g69.CIDRg.2878",
+          "PA0230-C.g3.CIDRg.4513",
+          "PA0230-C.g4.CIDRg.3940",
+          "PA0230-C.g65.CIDRg.610"
+        ]
+      },
+      "PA0237-C": {
+        "count": 17,
+        "samples": [
+          "PA0237-C.g43.CIDRg.4081",
+          "PA0237-C.g86.CIDRg.4357",
+          "PA0237-C.g69.CIDRg.4072",
+          "PA0237-C.g52.CIDRg.4234",
+          "PA0237-C.g31.CIDRg.4528",
+          "PA0237-C.g57.CIDRg.4213",
+          "PA0237-C.g78.CIDRg.4063",
+          "PA0237-C.g61.CIDRg.5392",
+          "PA0237-C.g32.CIDRg.871",
+          "PA0237-C.g6.CIDRg.4705",
+          "PA0237-C.g58.CIDRg.4114",
+          "PA0237-C.g74.CIDRg.3277",
+          "PA0237-C.g13.CIDRg.6088",
+          "PA0237-C.g84.CIDRg.4150",
+          "PA0237-C.g26.CIDRg.4003",
+          "PA0237-C.g80.CIDRg.4069",
+          "PA0237-C.g89.CIDRg.3994"
+        ]
+      },
+      "PA0245-C": {
+        "count": 14,
+        "samples": [
+          "PA0245-C.g75.CIDRg.4027",
+          "PA0245-C.g28.CIDRg.4780",
+          "PA0245-C.g31.CIDRg.6100",
+          "PA0245-C.g70.CIDRg.4606",
+          "PA0245-C.g83.CIDRg.4105",
+          "PA0245-C.g68.CIDRg.1393",
+          "PA0245-C.g40.CIDRg.4132",
+          "PA0245-C.g79.CIDRg.4228",
+          "PA0245-C.g84.CIDRg.4030",
+          "PA0245-C.g38.CIDRg.4387",
+          "PA0245-C.g11.CIDRg.6088",
+          "PA0245-C.g113.CIDRg.3715",
+          "PA0245-C.g88.CIDRg.4144",
+          "PA0245-C.g30.CIDRg.4261"
+        ]
+      },
+      "PA0256-C": {
+        "count": 10,
+        "samples": [
+          "PA0256-C.g55.CIDRg.4363",
+          "PA0256-C.g24.CIDRg.3835",
+          "PA0256-C.g72.CIDRg.4201",
+          "PA0256-C.g42.CIDRg.4531",
+          "PA0256-C.g84.CIDRg.4171",
+          "PA0256-C.g31.CIDRg.4780",
+          "PA0256-C.g28.CIDRg.1393",
+          "PA0256-C.g79.CIDRg.4264",
+          "PA0256-C.g19.CIDRg.4192",
+          "PA0256-C.g85.CIDRg.4063"
+        ]
+      },
+      "PA0274-C": {
+        "count": 14,
+        "samples": [
+          "PA0274-C.g17.CIDRg.9265",
+          "PA0274-C.g13.CIDRg.7576",
+          "PA0274-C.g74.CIDRg.5524",
+          "PA0274-C.g110.CIDRg.3910",
+          "PA0274-C.g44.CIDRg.1363",
+          "PA0274-C.g5.CIDRg.3916",
+          "PA0274-C.g71.CIDRg.3823",
+          "PA0274-C.g48.CIDRg.4303",
+          "PA0274-C.g45.CIDRg.4147",
+          "PA0274-C.g43.CIDRg.4210",
+          "PA0274-C.g36.CIDRg.6532",
+          "PA0274-C.g2.CIDRg.7003",
+          "PA0274-C.g30.CIDRg.1408",
+          "PA0274-C.g39.CIDRg.4228"
+        ]
+      },
+      "PA0277-C": {
+        "count": 15,
+        "samples": [
+          "PA0277-C.g31.CIDRg.7915",
+          "PA0277-C.g74.CIDRg.4048",
+          "PA0277-C.g29.CIDRg.1393",
+          "PA0277-C.g42.CIDRg.4270",
+          "PA0277-C.g19.CIDRg.1399",
+          "PA0277-C.g72.CIDRg.4267",
+          "PA0277-C.g47.CIDRg.4261",
+          "PA0277-C.g25.CIDRg.1384",
+          "PA0277-C.g38.CIDRg.4339",
+          "PA0277-C.g54.CIDRg.5011",
+          "PA0277-C.g50.CIDRg.4309",
+          "PA0277-C.g20.CIDRg.7711",
+          "PA0277-C.g16.CIDRg.4618",
+          "PA0277-C.g75.CIDRg.4081",
+          "PA0277-C.g90.CIDRg.4303"
+        ]
+      },
+      "PD0026-C": {
+        "count": 1,
+        "samples": [
+          "PD0026-C.g2.CIDRg.2932"
+        ]
+      },
+      "PD0039-C": {
+        "count": 11,
+        "samples": [
+          "PD0039-C.g54.CIDRg.4003",
+          "PD0039-C.g13.CIDRg.1363",
+          "PD0039-C.g57.CIDRg.4165",
+          "PD0039-C.g3.CIDRg.7783",
+          "PD0039-C.g37.CIDRg.4327",
+          "PD0039-C.g43.CIDRg.4279",
+          "PD0039-C.g59.CIDRg.4054",
+          "PD0039-C.g36.CIDRg.4177",
+          "PD0039-C.g15.CIDRg.6598",
+          "PD0039-C.g33.CIDRg.4078",
+          "PD0039-C.g20.CIDRg.3904"
+        ]
+      },
+      "PD0078-C": {
+        "count": 21,
+        "samples": [
+          "PD0078-C.g14.CIDRg.4594",
+          "PD0078-C.g32.CIDRg.4780",
+          "PD0078-C.g9.CIDRg.4840",
+          "PD0078-C.g28.CIDRg.2761",
+          "PD0078-C.g8.CIDRg.6133",
+          "PD0078-C.g24.CIDRg.3958",
+          "PD0078-C.g13.CIDRg.1210",
+          "PD0078-C.g42.CIDRg.4717",
+          "PD0078-C.g53.CIDRg.3988",
+          "PD0078-C.g13.CIDRg.4405",
+          "PD0078-C.g47.CIDRg.4018",
+          "PD0078-C.g19.CIDRg.1381",
+          "PD0078-C.g15.CIDRg.1396",
+          "PD0078-C.g7.CIDRg.5452",
+          "PD0078-C.g27.CIDRg.3781",
+          "PD0078-C.g21.CIDRg.3865",
+          "PD0078-C.g35.CIDRg.4924",
+          "PD0078-C.g18.CIDRg.3772",
+          "PD0078-C.g17.CIDRg.6523",
+          "PD0078-C.g58.CIDRg.3817",
+          "PD0078-C.g26.CIDRg.5458"
+        ]
+      },
+      "PD0082-C": {
+        "count": 9,
+        "samples": [
+          "PD0082-C.g14.CIDRg.3715",
+          "PD0082-C.g47.CIDRg.1243",
+          "PD0082-C.g5.CIDRg.4651",
+          "PD0082-C.g65.CIDRg.1045",
+          "PD0082-C.g34.CIDRg.4357",
+          "PD0082-C.g17.CIDRg.1390",
+          "PD0082-C.g35.CIDRg.5086",
+          "PD0082-C.g19.CIDRg.4216",
+          "PD0082-C.g16.CIDRg.3568"
+        ]
+      },
+      "PD0086-C": {
+        "count": 8,
+        "samples": [
+          "PD0086-C.g49.CIDRg.3916",
+          "PD0086-C.g41.CIDRg.6520",
+          "PD0086-C.g71.CIDRg.1375",
+          "PD0086-C.g59.CIDRg.3784",
+          "PD0086-C.g60.CIDRg.5389",
+          "PD0086-C.g35.CIDRg.4201",
+          "PD0086-C.g67.CIDRg.5302",
+          "PD0086-C.g20.CIDRg.6157"
+        ]
+      },
+      "PD0089-C": {
+        "count": 16,
+        "samples": [
+          "PD0089-C.g14.CIDRg.2098",
+          "PD0089-C.g1.CIDRg.6052",
+          "PD0089-C.g22.CIDRg.6610",
+          "PD0089-C.g42.CIDRg.4255",
+          "PD0089-C.g32.CIDRg.3913",
+          "PD0089-C.g58.CIDRg.3976",
+          "PD0089-C.g6.CIDRg.4705",
+          "PD0089-C.g47.CIDRg.4045",
+          "PD0089-C.g24.CIDRg.4177",
+          "PD0089-C.g10.CIDRg.6661",
+          "PD0089-C.g11.CIDRg.6172",
+          "PD0089-C.g26.CIDRg.3940",
+          "PD0089-C.g23.CIDRg.6199",
+          "PD0089-C.g51.CIDRg.1207",
+          "PD0089-C.g28.CIDRg.4075",
+          "PD0089-C.g19.CIDRg.3568"
+        ]
+      },
+      "PD0091-C": {
+        "count": 9,
+        "samples": [
+          "PD0091-C.g58.CIDRg.4951",
+          "PD0091-C.g35.CIDRg.6016",
+          "PD0091-C.g73.CIDRg.661",
+          "PD0091-C.g88.CIDRg.4204",
+          "PD0091-C.g59.CIDRg.4549",
+          "PD0091-C.g76.CIDRg.1405",
+          "PD0091-C.g12.CIDRg.3568",
+          "PD0091-C.g26.CIDRg.6793",
+          "PD0091-C.g16.CIDRg.6022"
+        ]
+      },
+      "PD0092-C": {
+        "count": 10,
+        "samples": [
+          "PD0092-C.g10.CIDRg.1372",
+          "PD0092-C.g16.CIDRg.1372",
+          "PD0092-C.g26.CIDRg.4210",
+          "PD0092-C.g10.CIDRg.5290",
+          "PD0092-C.g18.CIDRg.4165",
+          "PD0092-C.g23.CIDRg.4075",
+          "PD0092-C.g25.CIDRg.4924",
+          "PD0092-C.g19.CIDRg.3568",
+          "PD0092-C.g45.CIDRg.3937",
+          "PD0092-C.g33.CIDRg.4039"
+        ]
+      },
+      "PD0094-C": {
+        "count": 11,
+        "samples": [
+          "PD0094-C.g46.CIDRg.5431",
+          "PD0094-C.g30.CIDRg.6199",
+          "PD0094-C.g51.CIDRg.4099",
+          "PD0094-C.g13.CIDRg.4096",
+          "PD0094-C.g39.CIDRg.5254",
+          "PD0094-C.g35.CIDRg.4813",
+          "PD0094-C.g27.CIDRg.5968",
+          "PD0094-C.g15.CIDRg.6022",
+          "PD0094-C.g88.CIDRg.3946",
+          "PD0094-C.g36.CIDRg.4756",
+          "PD0094-C.g94.CIDRg.4006"
+        ]
+      },
+      "PD0096-C": {
+        "count": 5,
+        "samples": [
+          "PD0096-C.g28.CIDRg.3523",
+          "PD0096-C.g29.CIDRg.1129",
+          "PD0096-C.g8.CIDRg.4135",
+          "PD0096-C.g9.CIDRg.5653",
+          "PD0096-C.g25.CIDRg.1396"
+        ]
+      },
+      "PD0097-C": {
+        "count": 15,
+        "samples": [
+          "PD0097-C.g24.CIDRg.6703",
+          "PD0097-C.g27.CIDRg.4210",
+          "PD0097-C.g32.CIDRg.3748",
+          "PD0097-C.g35.CIDRg.5497",
+          "PD0097-C.g7.CIDRg.6202",
+          "PD0097-C.g26.CIDRg.4051",
+          "PD0097-C.g78.CIDRg.3817",
+          "PD0097-C.g22.CIDRg.4201",
+          "PD0097-C.g20.CIDRg.6157",
+          "PD0097-C.g57.CIDRg.4033",
+          "PD0097-C.g79.CIDRg.3802",
+          "PD0097-C.g45.CIDRg.5188",
+          "PD0097-C.g18.CIDRg.6016",
+          "PD0097-C.g17.CIDRg.5431",
+          "PD0097-C.g64.CIDRg.3955"
+        ]
+      },
+      "PD0098-C": {
+        "count": 4,
+        "samples": [
+          "PD0098-C.g28.CIDRg.3985",
+          "PD0098-C.g4.CIDRg.3274",
+          "PD0098-C.g16.CIDRg.574",
+          "PD0098-C.g21.CIDRg.3718"
+        ]
+      },
+      "PD0100-C": {
+        "count": 5,
+        "samples": [
+          "PD0100-C.g3.CIDRg.4075",
+          "PD0100-C.g6.CIDRg.3868",
+          "PD0100-C.g8.CIDRg.2920",
+          "PD0100-C.g15.CIDRg.1015",
+          "PD0100-C.g2.CIDRg.4585"
+        ]
+      },
+      "PD0103-C": {
+        "count": 8,
+        "samples": [
+          "PD0103-C.g22.CIDRg.4756",
+          "PD0103-C.g50.CIDRg.5968",
+          "PD0103-C.g23.CIDRg.5254",
+          "PD0103-C.g77.CIDRg.3043",
+          "PD0103-C.g74.CIDRg.982",
+          "PD0103-C.g30.CIDRg.1393",
+          "PD0103-C.g93.CIDRg.871",
+          "PD0103-C.g36.CIDRg.6157"
+        ]
+      },
+      "PD0105-C": {
+        "count": 9,
+        "samples": [
+          "PD0105-C.g65.CIDRg.4105",
+          "PD0105-C.g33.CIDRg.6013",
+          "PD0105-C.g39.CIDRg.4435",
+          "PD0105-C.g72.CIDRg.4102",
+          "PD0105-C.g32.CIDRg.4816",
+          "PD0105-C.g86.CIDRg.3820",
+          "PD0105-C.g90.CIDRg.1210",
+          "PD0105-C.g82.CIDRg.1588",
+          "PD0105-C.g26.CIDRg.3940"
+        ]
+      },
+      "PD0106-C": {
+        "count": 4,
+        "samples": [
+          "PD0106-C.g62.CIDRg.4768",
+          "PD0106-C.g55.CIDRg.1381",
+          "PD0106-C.g30.CIDRg.1441",
+          "PD0106-C.g74.CIDRg.1408"
+        ]
+      },
+      "PD0112-C": {
+        "count": 14,
+        "samples": [
+          "PD0112-C.g63.CIDRg.3946",
+          "PD0112-C.g74.CIDRg.3829",
+          "PD0112-C.g36.CIDRg.4096",
+          "PD0112-C.g89.CIDRg.3586",
+          "PD0112-C.g33.CIDRg.5968",
+          "PD0112-C.g47.CIDRg.4189",
+          "PD0112-C.g25.CIDRg.4954",
+          "PD0112-C.g29.CIDRg.1384",
+          "PD0112-C.g32.CIDRg.4366",
+          "PD0112-C.g49.CIDRg.4297",
+          "PD0112-C.g51.CIDRg.4393",
+          "PD0112-C.g42.CIDRg.5668",
+          "PD0112-C.g27.CIDRg.4813",
+          "PD0112-C.g28.CIDRg.1396"
+        ]
+      },
+      "PD0113-C": {
+        "count": 12,
+        "samples": [
+          "PD0113-C.g41.CIDRg.3907",
+          "PD0113-C.g63.CIDRg.1375",
+          "PD0113-C.g56.CIDRg.3940",
+          "PD0113-C.g99.CIDRg.3922",
+          "PD0113-C.g35.CIDRg.4627",
+          "PD0113-C.g93.CIDRg.4378",
+          "PD0113-C.g57.CIDRg.6574",
+          "PD0113-C.g59.CIDRg.1372",
+          "PD0113-C.g107.CIDRg.3814",
+          "PD0113-C.g62.CIDRg.4012",
+          "PD0113-C.g28.CIDRg.6157",
+          "PD0113-C.g48.CIDRg.4165"
+        ]
+      },
+      "PD0118-C": {
+        "count": 9,
+        "samples": [
+          "PD0118-C.g18.CIDRg.3940",
+          "PD0118-C.g7.CIDRg.1420",
+          "PD0118-C.g9.CIDRg.4594",
+          "PD0118-C.g7.CIDRg.6061",
+          "PD0118-C.g35.CIDRg.1261",
+          "PD0118-C.g28.CIDRg.4060",
+          "PD0118-C.g11.CIDRg.6061",
+          "PD0118-C.g40.CIDRg.1192",
+          "PD0118-C.g19.CIDRg.1387"
+        ]
+      },
+      "PD0121-C": {
+        "count": 13,
+        "samples": [
+          "PD0121-C.g23.CIDRg.4174",
+          "PD0121-C.g79.CIDRg.3970",
+          "PD0121-C.g17.CIDRg.6202",
+          "PD0121-C.g35.CIDRg.5503",
+          "PD0121-C.g39.CIDRg.5968",
+          "PD0121-C.g83.CIDRg.4063",
+          "PD0121-C.g48.CIDRg.3940",
+          "PD0121-C.g73.CIDRg.3988",
+          "PD0121-C.g21.CIDRg.5935",
+          "PD0121-C.g57.CIDRg.3919",
+          "PD0121-C.g22.CIDRg.5131",
+          "PD0121-C.g70.CIDRg.4405",
+          "PD0121-C.g15.CIDRg.1384"
+        ]
+      },
+      "PD0123-C": {
+        "count": 5,
+        "samples": [
+          "PD0123-C.g20.CIDRg.2767",
+          "PD0123-C.g13.CIDRg.2926",
+          "PD0123-C.g5.CIDRg.4252",
+          "PD0123-C.g40.CIDRg.643",
+          "PD0123-C.g47.CIDRg.1033"
+        ]
+      },
+      "PD0125-C": {
+        "count": 11,
+        "samples": [
+          "PD0125-C.g22.CIDRg.5284",
+          "PD0125-C.g11.CIDRg.3907",
+          "PD0125-C.g6.CIDRg.3568",
+          "PD0125-C.g27.CIDRg.1387",
+          "PD0125-C.g47.CIDRg.4177",
+          "PD0125-C.g43.CIDRg.5389",
+          "PD0125-C.g45.CIDRg.4075",
+          "PD0125-C.g15.CIDRg.4165",
+          "PD0125-C.g26.CIDRg.3940",
+          "PD0125-C.g24.CIDRg.6007",
+          "PD0125-C.g34.CIDRg.3955"
+        ]
+      },
+      "PD0126-C": {
+        "count": 12,
+        "samples": [
+          "PD0126-C.g7.CIDRg.5416",
+          "PD0126-C.g74.CIDRg.1168",
+          "PD0126-C.g60.CIDRg.3940",
+          "PD0126-C.g2.CIDRg.6199",
+          "PD0126-C.g15.CIDRg.4960",
+          "PD0126-C.g35.CIDRg.4087",
+          "PD0126-C.g57.CIDRg.3940",
+          "PD0126-C.g78.CIDRg.1081",
+          "PD0126-C.g58.CIDRg.4045",
+          "PD0126-C.g5.CIDRg.6025",
+          "PD0126-C.g55.CIDRg.4042",
+          "PD0126-C.g6.CIDRg.6022"
+        ]
+      },
+      "PD0127-C": {
+        "count": 11,
+        "samples": [
+          "PD0127-C.g32.CIDRg.3949",
+          "PD0127-C.g27.CIDRg.3940",
+          "PD0127-C.g18.CIDRg.4075",
+          "PD0127-C.g26.CIDRg.3754",
+          "PD0127-C.g44.CIDRg.3946",
+          "PD0127-C.g49.CIDRg.3892",
+          "PD0127-C.g6.CIDRg.4654",
+          "PD0127-C.g31.CIDRg.4255",
+          "PD0127-C.g23.CIDRg.5410",
+          "PD0127-C.g37.CIDRg.4264",
+          "PD0127-C.g28.CIDRg.3985"
+        ]
+      },
+      "PD0128-C": {
+        "count": 17,
+        "samples": [
+          "PD0128-C.g87.CIDRg.3940",
+          "PD0128-C.g137.CIDRg.4108",
+          "PD0128-C.g108.CIDRg.3904",
+          "PD0128-C.g49.CIDRg.1372",
+          "PD0128-C.g28.CIDRg.5935",
+          "PD0128-C.g93.CIDRg.3826",
+          "PD0128-C.g23.CIDRg.4165",
+          "PD0128-C.g95.CIDRg.1402",
+          "PD0128-C.g37.CIDRg.4210",
+          "PD0128-C.g83.CIDRg.3571",
+          "PD0128-C.g61.CIDRg.1381",
+          "PD0128-C.g48.CIDRg.6085",
+          "PD0128-C.g117.CIDRg.5710",
+          "PD0128-C.g49.CIDRg.5290",
+          "PD0128-C.g47.CIDRg.6670",
+          "PD0128-C.g145.CIDRg.4027",
+          "PD0128-C.g90.CIDRg.6556"
+        ]
+      },
+      "PD0129-C": {
+        "count": 8,
+        "samples": [
+          "PD0129-C.g44.CIDRg.940",
+          "PD0129-C.g19.CIDRg.3955",
+          "PD0129-C.g32.CIDRg.4396",
+          "PD0129-C.g18.CIDRg.5362",
+          "PD0129-C.g1.CIDRg.6199",
+          "PD0129-C.g16.CIDRg.6622",
+          "PD0129-C.g8.CIDRg.4705",
+          "PD0129-C.g2.CIDRg.6436"
+        ]
+      },
+      "PD0130-C": {
+        "count": 14,
+        "samples": [
+          "PD0130-C.g98.CIDRg.4405",
+          "PD0130-C.g29.CIDRg.3772",
+          "PD0130-C.g45.CIDRg.3958",
+          "PD0130-C.g1.CIDRg.3718",
+          "PD0130-C.g94.CIDRg.3955",
+          "PD0130-C.g60.CIDRg.4174",
+          "PD0130-C.g127.CIDRg.3031",
+          "PD0130-C.g64.CIDRg.1396",
+          "PD0130-C.g46.CIDRg.1363",
+          "PD0130-C.g67.CIDRg.4066",
+          "PD0130-C.g10.CIDRg.4855",
+          "PD0130-C.g43.CIDRg.4210",
+          "PD0130-C.g47.CIDRg.3934",
+          "PD0130-C.g25.CIDRg.3940"
+        ]
+      },
+      "PD0131-C": {
+        "count": 6,
+        "samples": [
+          "PD0131-C.g14.CIDRg.6037",
+          "PD0131-C.g39.CIDRg.4801",
+          "PD0131-C.g10.CIDRg.2695",
+          "PD0131-C.g42.CIDRg.4072",
+          "PD0131-C.g69.CIDRg.4",
+          "PD0131-C.g45.CIDRg.5611"
+        ]
+      },
+      "PD0132-C": {
+        "count": 8,
+        "samples": [
+          "PD0132-C.g65.CIDRg.1102",
+          "PD0132-C.g51.CIDRg.1387",
+          "PD0132-C.g87.CIDRg.1702",
+          "PD0132-C.g32.CIDRg.1393",
+          "PD0132-C.g39.CIDRg.1471",
+          "PD0132-C.g18.CIDRg.3568",
+          "PD0132-C.g73.CIDRg.1693",
+          "PD0132-C.g19.CIDRg.5935"
+        ]
+      },
+      "PD0133-C": {
+        "count": 11,
+        "samples": [
+          "PD0133-C.g107.CIDRg.4168",
+          "PD0133-C.g7.CIDRg.3997",
+          "PD0133-C.g16.CIDRg.6022",
+          "PD0133-C.g101.CIDRg.4267",
+          "PD0133-C.g27.CIDRg.3772",
+          "PD0133-C.g108.CIDRg.1027",
+          "PD0133-C.g85.CIDRg.3970",
+          "PD0133-C.g80.CIDRg.5461",
+          "PD0133-C.g98.CIDRg.3958",
+          "PD0133-C.g77.CIDRg.3976",
+          "PD0133-C.g37.CIDRg.4639"
+        ]
+      },
+      "PD0134-C": {
+        "count": 10,
+        "samples": [
+          "PD0134-C.g73.CIDRg.4756",
+          "PD0134-C.g45.CIDRg.7786",
+          "PD0134-C.g29.CIDRg.5968",
+          "PD0134-C.g7.CIDRg.5935",
+          "PD0134-C.g49.CIDRg.6706",
+          "PD0134-C.g56.CIDRg.4222",
+          "PD0134-C.g54.CIDRg.1390",
+          "PD0134-C.g46.CIDRg.6193",
+          "PD0134-C.g109.CIDRg.4021",
+          "PD0134-C.g110.CIDRg.4099"
+        ]
+      },
+      "PD0136-C": {
+        "count": 15,
+        "samples": [
+          "PD0136-C.g25.CIDRg.6016",
+          "PD0136-C.g65.CIDRg.6400",
+          "PD0136-C.g53.CIDRg.6193",
+          "PD0136-C.g33.CIDRg.4951",
+          "PD0136-C.g44.CIDRg.5968",
+          "PD0136-C.g67.CIDRg.1135",
+          "PD0136-C.g77.CIDRg.1372",
+          "PD0136-C.g115.CIDRg.913",
+          "PD0136-C.g56.CIDRg.5431",
+          "PD0136-C.g37.CIDRg.5254",
+          "PD0136-C.g72.CIDRg.1378",
+          "PD0136-C.g11.CIDRg.3568",
+          "PD0136-C.g99.CIDRg.1531",
+          "PD0136-C.g18.CIDRg.1390",
+          "PD0136-C.g16.CIDRg.6022"
+        ]
+      },
+      "PD0138-C": {
+        "count": 11,
+        "samples": [
+          "PD0138-C.g24.CIDRg.5926",
+          "PD0138-C.g32.CIDRg.4762",
+          "PD0138-C.g89.CIDRg.3202",
+          "PD0138-C.g42.CIDRg.6571",
+          "PD0138-C.g5.CIDRg.4075",
+          "PD0138-C.g85.CIDRg.676",
+          "PD0138-C.g68.CIDRg.1957",
+          "PD0138-C.g12.CIDRg.6031",
+          "PD0138-C.g13.CIDRg.6046",
+          "PD0138-C.g58.CIDRg.1045",
+          "PD0138-C.g22.CIDRg.3568"
+        ]
+      },
+      "PD0139-C": {
+        "count": 11,
+        "samples": [
+          "PD0139-C.g70.CIDRg.4030",
+          "PD0139-C.g30.CIDRg.1366",
+          "PD0139-C.g40.CIDRg.4594",
+          "PD0139-C.g41.CIDRg.5131",
+          "PD0139-C.g23.CIDRg.6436",
+          "PD0139-C.g28.CIDRg.7711",
+          "PD0139-C.g86.CIDRg.3796",
+          "PD0139-C.g52.CIDRg.5536",
+          "PD0139-C.g85.CIDRg.679",
+          "PD0139-C.g53.CIDRg.3940",
+          "PD0139-C.g99.CIDRg.1321"
+        ]
+      },
+      "PD0143-C": {
+        "count": 10,
+        "samples": [
+          "PD0143-C.g34.CIDRg.3346",
+          "PD0143-C.g7.CIDRg.6025",
+          "PD0143-C.g36.CIDRg.4975",
+          "PD0143-C.g69.CIDRg.4201",
+          "PD0143-C.g48.CIDRg.4186",
+          "PD0143-C.g26.CIDRg.4540",
+          "PD0143-C.g81.CIDRg.3388",
+          "PD0143-C.g82.CIDRg.2917",
+          "PD0143-C.g22.CIDRg.6022",
+          "PD0143-C.g66.CIDRg.3934"
+        ]
+      },
+      "PD0472-C": {
+        "count": 13,
+        "samples": [
+          "PD0472-C.g41.CIDRg.3853",
+          "PD0472-C.g1.CIDRg.4618",
+          "PD0472-C.g18.CIDRg.3568",
+          "PD0472-C.g9.CIDRg.865",
+          "PD0472-C.g17.CIDRg.1393",
+          "PD0472-C.g37.CIDRg.4165",
+          "PD0472-C.g81.CIDRg.4312",
+          "PD0472-C.g14.CIDRg.4075",
+          "PD0472-C.g58.CIDRg.4096",
+          "PD0472-C.g33.CIDRg.4210",
+          "PD0472-C.g29.CIDRg.1426",
+          "PD0472-C.g24.CIDRg.6592",
+          "PD0472-C.g47.CIDRg.4264"
+        ]
+      },
+      "PD0477-C": {
+        "count": 18,
+        "samples": [
+          "PD0477-C.g38.CIDRg.4759",
+          "PD0477-C.g29.CIDRg.5506",
+          "PD0477-C.g86.CIDRg.1381",
+          "PD0477-C.g21.CIDRg.3568",
+          "PD0477-C.g58.CIDRg.4159",
+          "PD0477-C.g106.CIDRg.4090",
+          "PD0477-C.g15.CIDRg.6040",
+          "PD0477-C.g28.CIDRg.5131",
+          "PD0477-C.g54.CIDRg.4600",
+          "PD0477-C.g62.CIDRg.5461",
+          "PD0477-C.g105.CIDRg.3859",
+          "PD0477-C.g33.CIDRg.3874",
+          "PD0477-C.g20.CIDRg.6043",
+          "PD0477-C.g35.CIDRg.4075",
+          "PD0477-C.g19.CIDRg.1384",
+          "PD0477-C.g52.CIDRg.3928",
+          "PD0477-C.g51.CIDRg.3691",
+          "PD0477-C.g1.CIDRg.4165"
+        ]
+      },
+      "PD0479-C": {
+        "count": 14,
+        "samples": [
+          "PD0479-C.g6.CIDRg.6022",
+          "PD0479-C.g24.CIDRg.4009",
+          "PD0479-C.g63.CIDRg.4195",
+          "PD0479-C.g8.CIDRg.1384",
+          "PD0479-C.g4.CIDRg.1399",
+          "PD0479-C.g30.CIDRg.5335",
+          "PD0479-C.g34.CIDRg.5572",
+          "PD0479-C.g61.CIDRg.4006",
+          "PD0479-C.g71.CIDRg.3889",
+          "PD0479-C.g7.CIDRg.6043",
+          "PD0479-C.g90.CIDRg.349",
+          "PD0479-C.g22.CIDRg.4759",
+          "PD0479-C.g4.CIDRg.6361",
+          "PD0479-C.g9.CIDRg.4165"
+        ]
+      },
+      "PD0480-C": {
+        "count": 13,
+        "samples": [
+          "PD0480-C.g29.CIDRg.4075",
+          "PD0480-C.g49.CIDRg.4126",
+          "PD0480-C.g27.CIDRg.3715",
+          "PD0480-C.g20.CIDRg.6136",
+          "PD0480-C.g12.CIDRg.3568",
+          "PD0480-C.g71.CIDRg.4174",
+          "PD0480-C.g4.CIDRg.5968",
+          "PD0480-C.g22.CIDRg.3946",
+          "PD0480-C.g25.CIDRg.4069",
+          "PD0480-C.g9.CIDRg.5218",
+          "PD0480-C.g80.CIDRg.4036",
+          "PD0480-C.g62.CIDRg.3961",
+          "PD0480-C.g30.CIDRg.3964"
+        ]
+      },
+      "PD0481-C": {
+        "count": 15,
+        "samples": [
+          "PD0481-C.g70.CIDRg.4210",
+          "PD0481-C.g43.CIDRg.5458",
+          "PD0481-C.g111.CIDRg.259",
+          "PD0481-C.g42.CIDRg.3937",
+          "PD0481-C.g34.CIDRg.5446",
+          "PD0481-C.g38.CIDRg.5035",
+          "PD0481-C.g35.CIDRg.4087",
+          "PD0481-C.g19.CIDRg.4165",
+          "PD0481-C.g11.CIDRg.7777",
+          "PD0481-C.g7.CIDRg.3997",
+          "PD0481-C.g27.CIDRg.3835",
+          "PD0481-C.g100.CIDRg.115",
+          "PD0481-C.g44.CIDRg.3940",
+          "PD0481-C.g75.CIDRg.4057",
+          "PD0481-C.g33.CIDRg.5254"
+        ]
+      },
+      "PD0482-C": {
+        "count": 23,
+        "samples": [
+          "PD0482-C.g47.CIDRg.3928",
+          "PD0482-C.g31.CIDRg.5131",
+          "PD0482-C.g51.CIDRg.1387",
+          "PD0482-C.g86.CIDRg.4447",
+          "PD0482-C.g93.CIDRg.3985",
+          "PD0482-C.g94.CIDRg.4195",
+          "PD0482-C.g4.CIDRg.4255",
+          "PD0482-C.g50.CIDRg.4009",
+          "PD0482-C.g28.CIDRg.4651",
+          "PD0482-C.g5.CIDRg.4165",
+          "PD0482-C.g26.CIDRg.3568",
+          "PD0482-C.g15.CIDRg.1858",
+          "PD0482-C.g29.CIDRg.3835",
+          "PD0482-C.g11.CIDRg.4015",
+          "PD0482-C.g71.CIDRg.4273",
+          "PD0482-C.g108.CIDRg.4222",
+          "PD0482-C.g8.CIDRg.6040",
+          "PD0482-C.g106.CIDRg.4153",
+          "PD0482-C.g114.CIDRg.4075",
+          "PD0482-C.g37.CIDRg.6007",
+          "PD0482-C.g116.CIDRg.4108",
+          "PD0482-C.g17.CIDRg.1384",
+          "PD0482-C.g42.CIDRg.5143"
+        ]
+      },
+      "PD0483-C": {
+        "count": 15,
+        "samples": [
+          "PD0483-C.g5.CIDRg.6190",
+          "PD0483-C.g44.CIDRg.5131",
+          "PD0483-C.g35.CIDRg.1390",
+          "PD0483-C.g96.CIDRg.1381",
+          "PD0483-C.g69.CIDRg.6400",
+          "PD0483-C.g50.CIDRg.4780",
+          "PD0483-C.g86.CIDRg.5710",
+          "PD0483-C.g57.CIDRg.1372",
+          "PD0483-C.g109.CIDRg.3931",
+          "PD0483-C.g56.CIDRg.3829",
+          "PD0483-C.g34.CIDRg.6040",
+          "PD0483-C.g58.CIDRg.4303",
+          "PD0483-C.g49.CIDRg.1396",
+          "PD0483-C.g101.CIDRg.3943",
+          "PD0483-C.g43.CIDRg.1375"
+        ]
+      },
+      "PD0484-C": {
+        "count": 29,
+        "samples": [
+          "PD0484-C.g19.CIDRg.4015",
+          "PD0484-C.g85.CIDRg.1381",
+          "PD0484-C.g77.CIDRg.3985",
+          "PD0484-C.g26.CIDRg.4651",
+          "PD0484-C.g107.CIDRg.4108",
+          "PD0484-C.g41.CIDRg.4447",
+          "PD0484-C.g55.CIDRg.3928",
+          "PD0484-C.g29.CIDRg.5494",
+          "PD0484-C.g13.CIDRg.3568",
+          "PD0484-C.g94.CIDRg.1183",
+          "PD0484-C.g54.CIDRg.1375",
+          "PD0484-C.g128.CIDRg.676",
+          "PD0484-C.g2.CIDRg.4255",
+          "PD0484-C.g95.CIDRg.4222",
+          "PD0484-C.g20.CIDRg.6040",
+          "PD0484-C.g90.CIDRg.4153",
+          "PD0484-C.g39.CIDRg.4756",
+          "PD0484-C.g75.CIDRg.4273",
+          "PD0484-C.g67.CIDRg.4075",
+          "PD0484-C.g23.CIDRg.1384",
+          "PD0484-C.g28.CIDRg.1390",
+          "PD0484-C.g133.CIDRg.2755",
+          "PD0484-C.g53.CIDRg.1387",
+          "PD0484-C.g61.CIDRg.4063",
+          "PD0484-C.g139.CIDRg.1849",
+          "PD0484-C.g36.CIDRg.5032",
+          "PD0484-C.g118.CIDRg.1495",
+          "PD0484-C.g35.CIDRg.6445",
+          "PD0484-C.g9.CIDRg.9259"
+        ]
+      },
+      "PD0485-C": {
+        "count": 27,
+        "samples": [
+          "PD0485-C.g25.CIDRg.6022",
+          "PD0485-C.g45.CIDRg.3562",
+          "PD0485-C.g120.CIDRg.4030",
+          "PD0485-C.g96.CIDRg.3985",
+          "PD0485-C.g52.CIDRg.6448",
+          "PD0485-C.g28.CIDRg.1408",
+          "PD0485-C.g33.CIDRg.4738",
+          "PD0485-C.g37.CIDRg.1384",
+          "PD0485-C.g90.CIDRg.5467",
+          "PD0485-C.g98.CIDRg.5131",
+          "PD0485-C.g17.CIDRg.4651",
+          "PD0485-C.g92.CIDRg.4165",
+          "PD0485-C.g163.CIDRg.2038",
+          "PD0485-C.g57.CIDRg.3928",
+          "PD0485-C.g27.CIDRg.5494",
+          "PD0485-C.g48.CIDRg.4048",
+          "PD0485-C.g99.CIDRg.4153",
+          "PD0485-C.g35.CIDRg.2875",
+          "PD0485-C.g113.CIDRg.3964",
+          "PD0485-C.g130.CIDRg.3961",
+          "PD0485-C.g76.CIDRg.4015",
+          "PD0485-C.g173.CIDRg.1237",
+          "PD0485-C.g54.CIDRg.4009",
+          "PD0485-C.g42.CIDRg.4447",
+          "PD0485-C.g89.CIDRg.4075",
+          "PD0485-C.g53.CIDRg.1375",
+          "PD0485-C.g46.CIDRg.4255"
+        ]
+      },
+      "PD0487-C": {
+        "count": 14,
+        "samples": [
+          "PD0487-C.g41.CIDRg.6436",
+          "PD0487-C.g102.CIDRg.4009",
+          "PD0487-C.g22.CIDRg.4075",
+          "PD0487-C.g101.CIDRg.4015",
+          "PD0487-C.g13.CIDRg.3982",
+          "PD0487-C.g40.CIDRg.3985",
+          "PD0487-C.g100.CIDRg.4030",
+          "PD0487-C.g28.CIDRg.6022",
+          "PD0487-C.g4.CIDRg.4255",
+          "PD0487-C.g61.CIDRg.4093",
+          "PD0487-C.g21.CIDRg.3568",
+          "PD0487-C.g37.CIDRg.1399",
+          "PD0487-C.g88.CIDRg.1384",
+          "PD0487-C.g49.CIDRg.4954"
+        ]
+      },
+      "PD0488-C": {
+        "count": 13,
+        "samples": [
+          "PD0488-C.g67.CIDRg.4165",
+          "PD0488-C.g53.CIDRg.4075",
+          "PD0488-C.g23.CIDRg.4174",
+          "PD0488-C.g33.CIDRg.3940",
+          "PD0488-C.g69.CIDRg.2626",
+          "PD0488-C.g41.CIDRg.3568",
+          "PD0488-C.g10.CIDRg.6040",
+          "PD0488-C.g82.CIDRg.1570",
+          "PD0488-C.g74.CIDRg.4159",
+          "PD0488-C.g25.CIDRg.1405",
+          "PD0488-C.g6.CIDRg.4120",
+          "PD0488-C.g43.CIDRg.3748",
+          "PD0488-C.g68.CIDRg.4006"
+        ]
+      },
+      "PD0489-C": {
+        "count": 24,
+        "samples": [
+          "PD0489-C.g22.CIDRg.4834",
+          "PD0489-C.g116.CIDRg.4090",
+          "PD0489-C.g117.CIDRg.3922",
+          "PD0489-C.g4.CIDRg.5926",
+          "PD0489-C.g98.CIDRg.4222",
+          "PD0489-C.g76.CIDRg.3910",
+          "PD0489-C.g50.CIDRg.3460",
+          "PD0489-C.g49.CIDRg.4240",
+          "PD0489-C.g38.CIDRg.4075",
+          "PD0489-C.g89.CIDRg.4546",
+          "PD0489-C.g58.CIDRg.4210",
+          "PD0489-C.g124.CIDRg.3535",
+          "PD0489-C.g102.CIDRg.1018",
+          "PD0489-C.g21.CIDRg.1381",
+          "PD0489-C.g56.CIDRg.5563",
+          "PD0489-C.g1.CIDRg.4075",
+          "PD0489-C.g29.CIDRg.3829",
+          "PD0489-C.g47.CIDRg.4954",
+          "PD0489-C.g48.CIDRg.3808",
+          "PD0489-C.g54.CIDRg.4993",
+          "PD0489-C.g118.CIDRg.3244",
+          "PD0489-C.g24.CIDRg.1384",
+          "PD0489-C.g93.CIDRg.3970",
+          "PD0489-C.g5.CIDRg.6022"
+        ]
+      },
+      "PD0490-C": {
+        "count": 10,
+        "samples": [
+          "PD0490-C.g26.CIDRg.4735",
+          "PD0490-C.g33.CIDRg.7990",
+          "PD0490-C.g24.CIDRg.4210",
+          "PD0490-C.g34.CIDRg.5494",
+          "PD0490-C.g68.CIDRg.4096",
+          "PD0490-C.g6.CIDRg.5032",
+          "PD0490-C.g56.CIDRg.3748",
+          "PD0490-C.g62.CIDRg.4273",
+          "PD0490-C.g19.CIDRg.5917",
+          "PD0490-C.g78.CIDRg.3922"
+        ]
+      },
+      "PD0492-C": {
+        "count": 30,
+        "samples": [
+          "PD0492-C.g5.CIDRg.7246",
+          "PD0492-C.g75.CIDRg.4036",
+          "PD0492-C.g30.CIDRg.3886",
+          "PD0492-C.g102.CIDRg.553",
+          "PD0492-C.g45.CIDRg.5968",
+          "PD0492-C.g67.CIDRg.1336",
+          "PD0492-C.g7.CIDRg.5545",
+          "PD0492-C.g31.CIDRg.4003",
+          "PD0492-C.g44.CIDRg.1384",
+          "PD0492-C.g1.CIDRg.4075",
+          "PD0492-C.g73.CIDRg.3970",
+          "PD0492-C.g6.CIDRg.4009",
+          "PD0492-C.g99.CIDRg.1102",
+          "PD0492-C.g26.CIDRg.3715",
+          "PD0492-C.g80.CIDRg.4069",
+          "PD0492-C.g41.CIDRg.4015",
+          "PD0492-C.g40.CIDRg.1387",
+          "PD0492-C.g78.CIDRg.4207",
+          "PD0492-C.g70.CIDRg.3922",
+          "PD0492-C.g35.CIDRg.3568",
+          "PD0492-C.g43.CIDRg.4954",
+          "PD0492-C.g12.CIDRg.3997",
+          "PD0492-C.g105.CIDRg.2953",
+          "PD0492-C.g135.CIDRg.829",
+          "PD0492-C.g11.CIDRg.4159",
+          "PD0492-C.g144.CIDRg.913",
+          "PD0492-C.g19.CIDRg.6022",
+          "PD0492-C.g9.CIDRg.6124",
+          "PD0492-C.g48.CIDRg.5191",
+          "PD0492-C.g17.CIDRg.4735"
+        ]
+      },
+      "PD0493-C": {
+        "count": 14,
+        "samples": [
+          "PD0493-C.g48.CIDRg.4036",
+          "PD0493-C.g6.CIDRg.6157",
+          "PD0493-C.g49.CIDRg.700",
+          "PD0493-C.g49.CIDRg.5401",
+          "PD0493-C.g107.CIDRg.4048",
+          "PD0493-C.g38.CIDRg.6304",
+          "PD0493-C.g58.CIDRg.5302",
+          "PD0493-C.g55.CIDRg.4099",
+          "PD0493-C.g78.CIDRg.3967",
+          "PD0493-C.g108.CIDRg.3775",
+          "PD0493-C.g8.CIDRg.6253",
+          "PD0493-C.g60.CIDRg.6388",
+          "PD0493-C.g56.CIDRg.6199",
+          "PD0493-C.g10.CIDRg.4105"
+        ]
+      },
+      "PD0494-C": {
+        "count": 15,
+        "samples": [
+          "PD0494-C.g22.CIDRg.3997",
+          "PD0494-C.g88.CIDRg.1303",
+          "PD0494-C.g47.CIDRg.6022",
+          "PD0494-C.g86.CIDRg.3946",
+          "PD0494-C.g8.CIDRg.4255",
+          "PD0494-C.g42.CIDRg.4708",
+          "PD0494-C.g56.CIDRg.4066",
+          "PD0494-C.g104.CIDRg.4027",
+          "PD0494-C.g3.CIDRg.4165",
+          "PD0494-C.g27.CIDRg.6103",
+          "PD0494-C.g74.CIDRg.1387",
+          "PD0494-C.g44.CIDRg.1384",
+          "PD0494-C.g23.CIDRg.4159",
+          "PD0494-C.g46.CIDRg.6499",
+          "PD0494-C.g15.CIDRg.4015"
+        ]
+      },
+      "PD0496-C": {
+        "count": 18,
+        "samples": [
+          "PD0496-C.g18.CIDRg.3568",
+          "PD0496-C.g55.CIDRg.1402",
+          "PD0496-C.g51.CIDRg.3691",
+          "PD0496-C.g75.CIDRg.4159",
+          "PD0496-C.g41.CIDRg.4759",
+          "PD0496-C.g17.CIDRg.6103",
+          "PD0496-C.g39.CIDRg.4150",
+          "PD0496-C.g91.CIDRg.4018",
+          "PD0496-C.g40.CIDRg.3955",
+          "PD0496-C.g52.CIDRg.4240",
+          "PD0496-C.g23.CIDRg.6043",
+          "PD0496-C.g57.CIDRg.5926",
+          "PD0496-C.g74.CIDRg.4006",
+          "PD0496-C.g26.CIDRg.3835",
+          "PD0496-C.g45.CIDRg.4075",
+          "PD0496-C.g37.CIDRg.4756",
+          "PD0496-C.g6.CIDRg.6022",
+          "PD0496-C.g101.CIDRg.4054"
+        ]
+      },
+      "PD0499-C": {
+        "count": 30,
+        "samples": [
+          "PD0499-C.g123.CIDRg.4165",
+          "PD0499-C.g105.CIDRg.4069",
+          "PD0499-C.g23.CIDRg.5041",
+          "PD0499-C.g14.CIDRg.5926",
+          "PD0499-C.g112.CIDRg.4060",
+          "PD0499-C.g28.CIDRg.5134",
+          "PD0499-C.g88.CIDRg.3919",
+          "PD0499-C.g24.CIDRg.643",
+          "PD0499-C.g124.CIDRg.1807",
+          "PD0499-C.g62.CIDRg.4120",
+          "PD0499-C.g37.CIDRg.1372",
+          "PD0499-C.g183.CIDRg.2845",
+          "PD0499-C.g102.CIDRg.4171",
+          "PD0499-C.g49.CIDRg.5407",
+          "PD0499-C.g11.CIDRg.7990",
+          "PD0499-C.g130.CIDRg.3886",
+          "PD0499-C.g160.CIDRg.2521",
+          "PD0499-C.g30.CIDRg.3940",
+          "PD0499-C.g107.CIDRg.4048",
+          "PD0499-C.g7.CIDRg.1387",
+          "PD0499-C.g12.CIDRg.6022",
+          "PD0499-C.g20.CIDRg.4345",
+          "PD0499-C.g33.CIDRg.1420",
+          "PD0499-C.g125.CIDRg.4024",
+          "PD0499-C.g77.CIDRg.3943",
+          "PD0499-C.g32.CIDRg.4615",
+          "PD0499-C.g116.CIDRg.3799",
+          "PD0499-C.g38.CIDRg.1384",
+          "PD0499-C.g114.CIDRg.4177",
+          "PD0499-C.g101.CIDRg.4360"
+        ]
+      },
+      "PD0500-C": {
+        "count": 13,
+        "samples": [
+          "PD0500-C.g55.CIDRg.3943",
+          "PD0500-C.g30.CIDRg.1372",
+          "PD0500-C.g7.CIDRg.6373",
+          "PD0500-C.g109.CIDRg.766",
+          "PD0500-C.g29.CIDRg.3568",
+          "PD0500-C.g49.CIDRg.4243",
+          "PD0500-C.g100.CIDRg.1243",
+          "PD0500-C.g9.CIDRg.4618",
+          "PD0500-C.g41.CIDRg.5407",
+          "PD0500-C.g20.CIDRg.4090",
+          "PD0500-C.g3.CIDRg.6022",
+          "PD0500-C.g17.CIDRg.3790",
+          "PD0500-C.g10.CIDRg.4855"
+        ]
+      },
+      "PD0501-C": {
+        "count": 13,
+        "samples": [
+          "PD0501-C.g52.CIDRg.5407",
+          "PD0501-C.g16.CIDRg.3790",
+          "PD0501-C.g91.CIDRg.1537",
+          "PD0501-C.g12.CIDRg.6373",
+          "PD0501-C.g3.CIDRg.6022",
+          "PD0501-C.g46.CIDRg.3943",
+          "PD0501-C.g39.CIDRg.3976",
+          "PD0501-C.g36.CIDRg.1372",
+          "PD0501-C.g37.CIDRg.3568",
+          "PD0501-C.g25.CIDRg.4075",
+          "PD0501-C.g21.CIDRg.4618",
+          "PD0501-C.g30.CIDRg.4090",
+          "PD0501-C.g17.CIDRg.4855"
+        ]
+      },
+      "PD0503-C": {
+        "count": 13,
+        "samples": [
+          "PD0503-C.g46.CIDRg.6706",
+          "PD0503-C.g54.CIDRg.5509",
+          "PD0503-C.g58.CIDRg.3817",
+          "PD0503-C.g17.CIDRg.6658",
+          "PD0503-C.g18.CIDRg.1375",
+          "PD0503-C.g105.CIDRg.4120",
+          "PD0503-C.g66.CIDRg.4075",
+          "PD0503-C.g60.CIDRg.4177",
+          "PD0503-C.g52.CIDRg.6523",
+          "PD0503-C.g92.CIDRg.4177",
+          "PD0503-C.g26.CIDRg.3970",
+          "PD0503-C.g28.CIDRg.5077",
+          "PD0503-C.g40.CIDRg.3907"
+        ]
+      },
+      "PD0504-C": {
+        "count": 18,
+        "samples": [
+          "PD0504-C.g84.CIDRg.3829",
+          "PD0504-C.g37.CIDRg.5626",
+          "PD0504-C.g38.CIDRg.4198",
+          "PD0504-C.g52.CIDRg.5281",
+          "PD0504-C.g24.CIDRg.3835",
+          "PD0504-C.g40.CIDRg.1405",
+          "PD0504-C.g65.CIDRg.1384",
+          "PD0504-C.g29.CIDRg.4219",
+          "PD0504-C.g48.CIDRg.1288",
+          "PD0504-C.g23.CIDRg.1399",
+          "PD0504-C.g41.CIDRg.2566",
+          "PD0504-C.g68.CIDRg.4894",
+          "PD0504-C.g71.CIDRg.3757",
+          "PD0504-C.g92.CIDRg.3607",
+          "PD0504-C.g36.CIDRg.4807",
+          "PD0504-C.g66.CIDRg.3985",
+          "PD0504-C.g53.CIDRg.3718",
+          "PD0504-C.g69.CIDRg.4405"
+        ]
+      },
+      "PD0506-C": {
+        "count": 18,
+        "samples": [
+          "PD0506-C.g78.CIDRg.6199",
+          "PD0506-C.g71.CIDRg.1405",
+          "PD0506-C.g26.CIDRg.6079",
+          "PD0506-C.g92.CIDRg.4954",
+          "PD0506-C.g54.CIDRg.4198",
+          "PD0506-C.g72.CIDRg.4807",
+          "PD0506-C.g28.CIDRg.1399",
+          "PD0506-C.g25.CIDRg.4219",
+          "PD0506-C.g93.CIDRg.6157",
+          "PD0506-C.g29.CIDRg.3835",
+          "PD0506-C.g16.CIDRg.4015",
+          "PD0506-C.g108.CIDRg.3985",
+          "PD0506-C.g102.CIDRg.3967",
+          "PD0506-C.g83.CIDRg.1384",
+          "PD0506-C.g34.CIDRg.3718",
+          "PD0506-C.g77.CIDRg.5281",
+          "PD0506-C.g94.CIDRg.4405",
+          "PD0506-C.g69.CIDRg.4165"
+        ]
+      },
+      "PD0507-C": {
+        "count": 15,
+        "samples": [
+          "PD0507-C.g46.CIDRg.5359",
+          "PD0507-C.g21.CIDRg.7420",
+          "PD0507-C.g38.CIDRg.5254",
+          "PD0507-C.g64.CIDRg.3952",
+          "PD0507-C.g78.CIDRg.4075",
+          "PD0507-C.g43.CIDRg.4696",
+          "PD0507-C.g45.CIDRg.4198",
+          "PD0507-C.g12.CIDRg.1366",
+          "PD0507-C.g76.CIDRg.5281",
+          "PD0507-C.g96.CIDRg.4114",
+          "PD0507-C.g61.CIDRg.3916",
+          "PD0507-C.g59.CIDRg.5518",
+          "PD0507-C.g40.CIDRg.3952",
+          "PD0507-C.g24.CIDRg.4618",
+          "PD0507-C.g52.CIDRg.3568"
+        ]
+      },
+      "PD0508-C": {
+        "count": 18,
+        "samples": [
+          "PD0508-C.g12.CIDRg.6079",
+          "PD0508-C.g38.CIDRg.1384",
+          "PD0508-C.g39.CIDRg.1312",
+          "PD0508-C.g88.CIDRg.4405",
+          "PD0508-C.g47.CIDRg.1405",
+          "PD0508-C.g75.CIDRg.3967",
+          "PD0508-C.g83.CIDRg.5281",
+          "PD0508-C.g34.CIDRg.4807",
+          "PD0508-C.g16.CIDRg.3985",
+          "PD0508-C.g98.CIDRg.4249",
+          "PD0508-C.g13.CIDRg.6157",
+          "PD0508-C.g101.CIDRg.4015",
+          "PD0508-C.g69.CIDRg.4954",
+          "PD0508-C.g46.CIDRg.4198",
+          "PD0508-C.g24.CIDRg.3718",
+          "PD0508-C.g44.CIDRg.6199",
+          "PD0508-C.g23.CIDRg.3835",
+          "PD0508-C.g21.CIDRg.4219"
+        ]
+      },
+      "PF0022-C": {
+        "count": 2,
+        "samples": [
+          "PF0022-C.g25.CIDRg.4750",
+          "PF0022-C.g70.CIDRg.1399"
+        ]
+      },
+      "PF0043-C": {
+        "count": 3,
+        "samples": [
+          "PF0043-C.g94.CIDRg.844",
+          "PF0043-C.g39.CIDRg.5281",
+          "PF0043-C.g37.CIDRg.1384"
+        ]
+      },
+      "PF0051-C": {
+        "count": 7,
+        "samples": [
+          "PF0051-C.g79.CIDRg.4087",
+          "PF0051-C.g101.CIDRg.4105",
+          "PF0051-C.g5.CIDRg.6514",
+          "PF0051-C.g63.CIDRg.4096",
+          "PF0051-C.g37.CIDRg.1354",
+          "PF0051-C.g19.CIDRg.5242",
+          "PF0051-C.g9.CIDRg.4939"
+        ]
+      },
+      "PF0057-C": {
+        "count": 22,
+        "samples": [
+          "PF0057-C.g54.CIDRg.4168",
+          "PF0057-C.g33.CIDRg.5200",
+          "PF0057-C.g76.CIDRg.4372",
+          "PF0057-C.g101.CIDRg.3925",
+          "PF0057-C.g30.CIDRg.5614",
+          "PF0057-C.g106.CIDRg.4084",
+          "PF0057-C.g97.CIDRg.4114",
+          "PF0057-C.g66.CIDRg.5005",
+          "PF0057-C.g14.CIDRg.6040",
+          "PF0057-C.g78.CIDRg.3178",
+          "PF0057-C.g121.CIDRg.1129",
+          "PF0057-C.g44.CIDRg.4120",
+          "PF0057-C.g69.CIDRg.4441",
+          "PF0057-C.g131.CIDRg.1162",
+          "PF0057-C.g43.CIDRg.6202",
+          "PF0057-C.g17.CIDRg.5830",
+          "PF0057-C.g49.CIDRg.3844",
+          "PF0057-C.g86.CIDRg.4255",
+          "PF0057-C.g45.CIDRg.4192",
+          "PF0057-C.g55.CIDRg.3940",
+          "PF0057-C.g23.CIDRg.4933",
+          "PF0057-C.g19.CIDRg.8032"
+        ]
+      },
+      "PF0062-C": {
+        "count": 15,
+        "samples": [
+          "PF0062-C.g26.CIDRg.5983",
+          "PF0062-C.g79.CIDRg.4222",
+          "PF0062-C.g36.CIDRg.4741",
+          "PF0062-C.g40.CIDRg.4237",
+          "PF0062-C.g18.CIDRg.4216",
+          "PF0062-C.g23.CIDRg.1393",
+          "PF0062-C.g51.CIDRg.4102",
+          "PF0062-C.g44.CIDRg.5254",
+          "PF0062-C.g25.CIDRg.4171",
+          "PF0062-C.g87.CIDRg.4165",
+          "PF0062-C.g19.CIDRg.7528",
+          "PF0062-C.g83.CIDRg.4174",
+          "PF0062-C.g77.CIDRg.4327",
+          "PF0062-C.g27.CIDRg.4369",
+          "PF0062-C.g65.CIDRg.4057"
+        ]
+      },
+      "PF0063-C": {
+        "count": 6,
+        "samples": [
+          "PF0063-C.g53.CIDRg.4465",
+          "PF0063-C.g107.CIDRg.2881",
+          "PF0063-C.g11.CIDRg.4999",
+          "PF0063-C.g52.CIDRg.70",
+          "PF0063-C.g19.CIDRg.1405",
+          "PF0063-C.g102.CIDRg.2938"
+        ]
+      },
+      "PF0069-C": {
+        "count": 17,
+        "samples": [
+          "PF0069-C.g47.CIDRg.3358",
+          "PF0069-C.g64.CIDRg.4168",
+          "PF0069-C.g21.CIDRg.4972",
+          "PF0069-C.g22.CIDRg.4063",
+          "PF0069-C.g86.CIDRg.4063",
+          "PF0069-C.g91.CIDRg.4174",
+          "PF0069-C.g29.CIDRg.4627",
+          "PF0069-C.g62.CIDRg.4240",
+          "PF0069-C.g98.CIDRg.3934",
+          "PF0069-C.g39.CIDRg.4219",
+          "PF0069-C.g38.CIDRg.5269",
+          "PF0069-C.g58.CIDRg.4870",
+          "PF0069-C.g36.CIDRg.5782",
+          "PF0069-C.g96.CIDRg.4114",
+          "PF0069-C.g40.CIDRg.4108",
+          "PF0069-C.g67.CIDRg.4960",
+          "PF0069-C.g19.CIDRg.4318"
+        ]
+      },
+      "PF0080-C": {
+        "count": 3,
+        "samples": [
+          "PF0080-C.g87.CIDRg.1360",
+          "PF0080-C.g55.CIDRg.4660",
+          "PF0080-C.g18.CIDRg.4627"
+        ]
+      },
+      "PF0097-C": {
+        "count": 12,
+        "samples": [
+          "PF0097-C.g13.CIDRg.5290",
+          "PF0097-C.g79.CIDRg.3961",
+          "PF0097-C.g4.CIDRg.6007",
+          "PF0097-C.g75.CIDRg.5755",
+          "PF0097-C.g52.CIDRg.1375",
+          "PF0097-C.g98.CIDRg.4246",
+          "PF0097-C.g75.CIDRg.1399",
+          "PF0097-C.g6.CIDRg.8908",
+          "PF0097-C.g21.CIDRg.4021",
+          "PF0097-C.g23.CIDRg.4051",
+          "PF0097-C.g48.CIDRg.5254",
+          "PF0097-C.g103.CIDRg.4228"
+        ]
+      },
+      "PF0100-C": {
+        "count": 13,
+        "samples": [
+          "PF0100-C.g75.CIDRg.3967",
+          "PF0100-C.g111.CIDRg.3928",
+          "PF0100-C.g25.CIDRg.4690",
+          "PF0100-C.g81.CIDRg.3919",
+          "PF0100-C.g31.CIDRg.8005",
+          "PF0100-C.g101.CIDRg.4216",
+          "PF0100-C.g17.CIDRg.4237",
+          "PF0100-C.g32.CIDRg.8134",
+          "PF0100-C.g49.CIDRg.6946",
+          "PF0100-C.g82.CIDRg.5254",
+          "PF0100-C.g86.CIDRg.4204",
+          "PF0100-C.g24.CIDRg.4279",
+          "PF0100-C.g71.CIDRg.3979"
+        ]
+      },
+      "PF0101-C": {
+        "count": 7,
+        "samples": [
+          "PF0101-C.g59.CIDRg.3577",
+          "PF0101-C.g67.CIDRg.4102",
+          "PF0101-C.g32.CIDRg.1369",
+          "PF0101-C.g26.CIDRg.5128",
+          "PF0101-C.g91.CIDRg.3265",
+          "PF0101-C.g33.CIDRg.3865",
+          "PF0101-C.g39.CIDRg.4012"
+        ]
+      },
+      "PF0102-C": {
+        "count": 10,
+        "samples": [
+          "PF0102-C.g14.CIDRg.4027",
+          "PF0102-C.g72.CIDRg.4174",
+          "PF0102-C.g21.CIDRg.4876",
+          "PF0102-C.g76.CIDRg.4336",
+          "PF0102-C.g86.CIDRg.4054",
+          "PF0102-C.g28.CIDRg.1390",
+          "PF0102-C.g94.CIDRg.4267",
+          "PF0102-C.g68.CIDRg.4198",
+          "PF0102-C.g99.CIDRg.3790",
+          "PF0102-C.g69.CIDRg.4051"
+        ]
+      },
+      "PF0103-C": {
+        "count": 15,
+        "samples": [
+          "PF0103-C.g118.CIDRg.3919",
+          "PF0103-C.g37.CIDRg.4618",
+          "PF0103-C.g18.CIDRg.4153",
+          "PF0103-C.g59.CIDRg.5293",
+          "PF0103-C.g20.CIDRg.6010",
+          "PF0103-C.g83.CIDRg.4084",
+          "PF0103-C.g111.CIDRg.4414",
+          "PF0103-C.g72.CIDRg.1627",
+          "PF0103-C.g60.CIDRg.7507",
+          "PF0103-C.g22.CIDRg.5278",
+          "PF0103-C.g138.CIDRg.4030",
+          "PF0103-C.g58.CIDRg.3793",
+          "PF0103-C.g99.CIDRg.4294",
+          "PF0103-C.g126.CIDRg.3937",
+          "PF0103-C.g105.CIDRg.5338"
+        ]
+      },
+      "PF0109-C": {
+        "count": 10,
+        "samples": [
+          "PF0109-C.g38.CIDRg.4366",
+          "PF0109-C.g12.CIDRg.4954",
+          "PF0109-C.g73.CIDRg.4306",
+          "PF0109-C.g25.CIDRg.5761",
+          "PF0109-C.g16.CIDRg.6073",
+          "PF0109-C.g22.CIDRg.3796",
+          "PF0109-C.g23.CIDRg.4204",
+          "PF0109-C.g3.CIDRg.10183",
+          "PF0109-C.g37.CIDRg.5287",
+          "PF0109-C.g18.CIDRg.4810"
+        ]
+      },
+      "PF0116-C": {
+        "count": 10,
+        "samples": [
+          "PF0116-C.g32.CIDRg.1360",
+          "PF0116-C.g112.CIDRg.3166",
+          "PF0116-C.g11.CIDRg.5929",
+          "PF0116-C.g87.CIDRg.1744",
+          "PF0116-C.g75.CIDRg.4120",
+          "PF0116-C.g24.CIDRg.7039",
+          "PF0116-C.g71.CIDRg.4375",
+          "PF0116-C.g29.CIDRg.3997",
+          "PF0116-C.g12.CIDRg.1441",
+          "PF0116-C.g85.CIDRg.3859"
+        ]
+      },
+      "PF0117-C": {
+        "count": 16,
+        "samples": [
+          "PF0117-C.g40.CIDRg.4186",
+          "PF0117-C.g47.CIDRg.4138",
+          "PF0117-C.g50.CIDRg.4261",
+          "PF0117-C.g39.CIDRg.4330",
+          "PF0117-C.g7.CIDRg.5089",
+          "PF0117-C.g19.CIDRg.5224",
+          "PF0117-C.g13.CIDRg.565",
+          "PF0117-C.g32.CIDRg.4318",
+          "PF0117-C.g69.CIDRg.3910",
+          "PF0117-C.g9.CIDRg.4012",
+          "PF0117-C.g31.CIDRg.4084",
+          "PF0117-C.g21.CIDRg.1387",
+          "PF0117-C.g12.CIDRg.6592",
+          "PF0117-C.g6.CIDRg.3940",
+          "PF0117-C.g20.CIDRg.1207",
+          "PF0117-C.g55.CIDRg.4117"
+        ]
+      },
+      "PF0127-C": {
+        "count": 10,
+        "samples": [
+          "PF0127-C.g23.CIDRg.1396",
+          "PF0127-C.g12.CIDRg.3940",
+          "PF0127-C.g41.CIDRg.4111",
+          "PF0127-C.g18.CIDRg.5131",
+          "PF0127-C.g27.CIDRg.4123",
+          "PF0127-C.g67.CIDRg.3883",
+          "PF0127-C.g14.CIDRg.6574",
+          "PF0127-C.g28.CIDRg.4297",
+          "PF0127-C.g46.CIDRg.4213",
+          "PF0127-C.g30.CIDRg.4189"
+        ]
+      },
+      "PF0132-C": {
+        "count": 10,
+        "samples": [
+          "PF0132-C.g112.CIDRg.3844",
+          "PF0132-C.g39.CIDRg.8182",
+          "PF0132-C.g94.CIDRg.4993",
+          "PF0132-C.g110.CIDRg.4084",
+          "PF0132-C.g92.CIDRg.4831",
+          "PF0132-C.g67.CIDRg.1801",
+          "PF0132-C.g6.CIDRg.6616",
+          "PF0132-C.g28.CIDRg.6259",
+          "PF0132-C.g100.CIDRg.4018",
+          "PF0132-C.g51.CIDRg.4258"
+        ]
+      },
+      "PF0136-C": {
+        "count": 4,
+        "samples": [
+          "PF0136-C.g21.CIDRg.6127",
+          "PF0136-C.g101.CIDRg.4231",
+          "PF0136-C.g7.CIDRg.3997",
+          "PF0136-C.g44.CIDRg.1375"
+        ]
+      },
+      "PF0141-C": {
+        "count": 11,
+        "samples": [
+          "PF0141-C.g16.CIDRg.2011",
+          "PF0141-C.g63.CIDRg.1951",
+          "PF0141-C.g4.CIDRg.5599",
+          "PF0141-C.g7.CIDRg.4618",
+          "PF0141-C.g14.CIDRg.4639",
+          "PF0141-C.g105.CIDRg.1168",
+          "PF0141-C.g66.CIDRg.4165",
+          "PF0141-C.g56.CIDRg.4264",
+          "PF0141-C.g99.CIDRg.1180",
+          "PF0141-C.g90.CIDRg.4132",
+          "PF0141-C.g33.CIDRg.5161"
+        ]
+      },
+      "PF0148-C": {
+        "count": 11,
+        "samples": [
+          "PF0148-C.g50.CIDRg.4321",
+          "PF0148-C.g81.CIDRg.4066",
+          "PF0148-C.g61.CIDRg.3970",
+          "PF0148-C.g46.CIDRg.4228",
+          "PF0148-C.g35.CIDRg.1429",
+          "PF0148-C.g27.CIDRg.6928",
+          "PF0148-C.g3.CIDRg.3952",
+          "PF0148-C.g75.CIDRg.1537",
+          "PF0148-C.g6.CIDRg.7192",
+          "PF0148-C.g72.CIDRg.3892",
+          "PF0148-C.g68.CIDRg.3979"
+        ]
+      },
+      "PF0180-C": {
+        "count": 10,
+        "samples": [
+          "PF0180-C.g53.CIDRg.6064",
+          "PF0180-C.g110.CIDRg.3700",
+          "PF0180-C.g30.CIDRg.6136",
+          "PF0180-C.g88.CIDRg.4246",
+          "PF0180-C.g69.CIDRg.6145",
+          "PF0180-C.g99.CIDRg.4246",
+          "PF0180-C.g97.CIDRg.4318",
+          "PF0180-C.g87.CIDRg.4141",
+          "PF0180-C.g90.CIDRg.4216",
+          "PF0180-C.g40.CIDRg.6145"
+        ]
+      },
+      "PF0184-C": {
+        "count": 12,
+        "samples": [
+          "PF0184-C.g47.CIDRg.5404",
+          "PF0184-C.g91.CIDRg.262",
+          "PF0184-C.g33.CIDRg.5287",
+          "PF0184-C.g2.CIDRg.6382",
+          "PF0184-C.g88.CIDRg.4084",
+          "PF0184-C.g59.CIDRg.3961",
+          "PF0184-C.g54.CIDRg.4279",
+          "PF0184-C.g36.CIDRg.4060",
+          "PF0184-C.g68.CIDRg.4750",
+          "PF0184-C.g23.CIDRg.1396",
+          "PF0184-C.g111.CIDRg.3499",
+          "PF0184-C.g23.CIDRg.5908"
+        ]
+      },
+      "PF0185-C": {
+        "count": 12,
+        "samples": [
+          "PF0185-C.g89.CIDRg.4870",
+          "PF0185-C.g67.CIDRg.3949",
+          "PF0185-C.g71.CIDRg.4180",
+          "PF0185-C.g98.CIDRg.4051",
+          "PF0185-C.g10.CIDRg.5131",
+          "PF0185-C.g11.CIDRg.4396",
+          "PF0185-C.g41.CIDRg.5230",
+          "PF0185-C.g85.CIDRg.4075",
+          "PF0185-C.g45.CIDRg.3043",
+          "PF0185-C.g69.CIDRg.3931",
+          "PF0185-C.g70.CIDRg.4384",
+          "PF0185-C.g36.CIDRg.4606"
+        ]
+      },
+      "PF0188-C": {
+        "count": 9,
+        "samples": [
+          "PF0188-C.g64.CIDRg.4168",
+          "PF0188-C.g21.CIDRg.8998",
+          "PF0188-C.g45.CIDRg.4276",
+          "PF0188-C.g70.CIDRg.4105",
+          "PF0188-C.g36.CIDRg.4009",
+          "PF0188-C.g32.CIDRg.6016",
+          "PF0188-C.g57.CIDRg.4270",
+          "PF0188-C.g39.CIDRg.5296",
+          "PF0188-C.g41.CIDRg.3949"
+        ]
+      },
+      "PF0190-C": {
+        "count": 5,
+        "samples": [
+          "PF0190-C.g2.CIDRg.4120",
+          "PF0190-C.g21.CIDRg.4864",
+          "PF0190-C.g109.CIDRg.4036",
+          "PF0190-C.g40.CIDRg.3853",
+          "PF0190-C.g13.CIDRg.3724"
+        ]
+      },
+      "PF0192-C": {
+        "count": 11,
+        "samples": [
+          "PF0192-C.g97.CIDRg.1318",
+          "PF0192-C.g63.CIDRg.3964",
+          "PF0192-C.g9.CIDRg.5872",
+          "PF0192-C.g57.CIDRg.5068",
+          "PF0192-C.g58.CIDRg.61",
+          "PF0192-C.g51.CIDRg.4312",
+          "PF0192-C.g101.CIDRg.1012",
+          "PF0192-C.g112.CIDRg.1900",
+          "PF0192-C.g54.CIDRg.3874",
+          "PF0192-C.g59.CIDRg.4039",
+          "PF0192-C.g15.CIDRg.3907"
+        ]
+      },
+      "PF0197-C": {
+        "count": 17,
+        "samples": [
+          "PF0197-C.g60.CIDRg.6664",
+          "PF0197-C.g87.CIDRg.4267",
+          "PF0197-C.g65.CIDRg.4348",
+          "PF0197-C.g66.CIDRg.4561",
+          "PF0197-C.g51.CIDRg.1378",
+          "PF0197-C.g71.CIDRg.4252",
+          "PF0197-C.g28.CIDRg.7342",
+          "PF0197-C.g86.CIDRg.4189",
+          "PF0197-C.g119.CIDRg.3298",
+          "PF0197-C.g92.CIDRg.4252",
+          "PF0197-C.g91.CIDRg.4999",
+          "PF0197-C.g23.CIDRg.3895",
+          "PF0197-C.g77.CIDRg.3925",
+          "PF0197-C.g34.CIDRg.1393",
+          "PF0197-C.g5.CIDRg.4000",
+          "PF0197-C.g94.CIDRg.4381",
+          "PF0197-C.g27.CIDRg.4885"
+        ]
+      },
+      "PF0202-C": {
+        "count": 8,
+        "samples": [
+          "PF0202-C.g39.CIDRg.1369",
+          "PF0202-C.g24.CIDRg.5941",
+          "PF0202-C.g117.CIDRg.991",
+          "PF0202-C.g80.CIDRg.2404",
+          "PF0202-C.g23.CIDRg.6022",
+          "PF0202-C.g28.CIDRg.1378",
+          "PF0202-C.g79.CIDRg.3877",
+          "PF0202-C.g116.CIDRg.1108"
+        ]
+      },
+      "PF0208-C": {
+        "count": 17,
+        "samples": [
+          "PF0208-C.g135.CIDRg.3973",
+          "PF0208-C.g88.CIDRg.4018",
+          "PF0208-C.g96.CIDRg.4315",
+          "PF0208-C.g42.CIDRg.6952",
+          "PF0208-C.g130.CIDRg.4090",
+          "PF0208-C.g71.CIDRg.5239",
+          "PF0208-C.g50.CIDRg.3982",
+          "PF0208-C.g63.CIDRg.5149",
+          "PF0208-C.g64.CIDRg.3982",
+          "PF0208-C.g119.CIDRg.4156",
+          "PF0208-C.g17.CIDRg.1363",
+          "PF0208-C.g97.CIDRg.4225",
+          "PF0208-C.g131.CIDRg.4081",
+          "PF0208-C.g132.CIDRg.3895",
+          "PF0208-C.g134.CIDRg.3094",
+          "PF0208-C.g52.CIDRg.5281",
+          "PF0208-C.g121.CIDRg.4015"
+        ]
+      },
+      "PF0214-C": {
+        "count": 5,
+        "samples": [
+          "PF0214-C.g16.CIDRg.4753",
+          "PF0214-C.g47.CIDRg.1687",
+          "PF0214-C.g15.CIDRg.5887",
+          "PF0214-C.g50.CIDRg.4258",
+          "PF0214-C.g57.CIDRg.1528"
+        ]
+      },
+      "PF0219-C": {
+        "count": 11,
+        "samples": [
+          "PF0219-C.g131.CIDRg.4360",
+          "PF0219-C.g54.CIDRg.5140",
+          "PF0219-C.g141.CIDRg.4333",
+          "PF0219-C.g123.CIDRg.4048",
+          "PF0219-C.g50.CIDRg.4240",
+          "PF0219-C.g53.CIDRg.1369",
+          "PF0219-C.g127.CIDRg.4261",
+          "PF0219-C.g156.CIDRg.3982",
+          "PF0219-C.g130.CIDRg.4207",
+          "PF0219-C.g53.CIDRg.5869",
+          "PF0219-C.g174.CIDRg.3985"
+        ]
+      },
+      "PF0228-C": {
+        "count": 4,
+        "samples": [
+          "PF0228-C.g32.CIDRg.2599",
+          "PF0228-C.g35.CIDRg.5254",
+          "PF0228-C.g38.CIDRg.4051",
+          "PF0228-C.g22.CIDRg.4159"
+        ]
+      },
+      "PF0231-C": {
+        "count": 15,
+        "samples": [
+          "PF0231-C.g27.CIDRg.5059",
+          "PF0231-C.g48.CIDRg.4204",
+          "PF0231-C.g26.CIDRg.7906",
+          "PF0231-C.g84.CIDRg.4297",
+          "PF0231-C.g31.CIDRg.1396",
+          "PF0231-C.g31.CIDRg.4654",
+          "PF0231-C.g72.CIDRg.1387",
+          "PF0231-C.g32.CIDRg.6271",
+          "PF0231-C.g43.CIDRg.1369",
+          "PF0231-C.g23.CIDRg.5965",
+          "PF0231-C.g85.CIDRg.4177",
+          "PF0231-C.g25.CIDRg.6358",
+          "PF0231-C.g39.CIDRg.6178",
+          "PF0231-C.g70.CIDRg.1372",
+          "PF0231-C.g73.CIDRg.4021"
+        ]
+      },
+      "PF0232-C": {
+        "count": 11,
+        "samples": [
+          "PF0232-C.g17.CIDRg.4630",
+          "PF0232-C.g32.CIDRg.4786",
+          "PF0232-C.g72.CIDRg.1402",
+          "PF0232-C.g86.CIDRg.4114",
+          "PF0232-C.g17.CIDRg.1393",
+          "PF0232-C.g9.CIDRg.5479",
+          "PF0232-C.g52.CIDRg.5605",
+          "PF0232-C.g67.CIDRg.4201",
+          "PF0232-C.g19.CIDRg.5959",
+          "PF0232-C.g46.CIDRg.4414",
+          "PF0232-C.g33.CIDRg.4354"
+        ]
+      },
+      "PF0234-C": {
+        "count": 12,
+        "samples": [
+          "PF0234-C.g74.CIDRg.4270",
+          "PF0234-C.g80.CIDRg.4138",
+          "PF0234-C.g57.CIDRg.3982",
+          "PF0234-C.g14.CIDRg.922",
+          "PF0234-C.g61.CIDRg.4462",
+          "PF0234-C.g11.CIDRg.5041",
+          "PF0234-C.g37.CIDRg.3850",
+          "PF0234-C.g18.CIDRg.4084",
+          "PF0234-C.g29.CIDRg.3976",
+          "PF0234-C.g54.CIDRg.4582",
+          "PF0234-C.g72.CIDRg.4204",
+          "PF0234-C.g49.CIDRg.4258"
+        ]
+      },
+      "PF0235-C": {
+        "count": 5,
+        "samples": [
+          "PF0235-C.g28.CIDRg.1654",
+          "PF0235-C.g68.CIDRg.1447",
+          "PF0235-C.g23.CIDRg.6076",
+          "PF0235-C.g51.CIDRg.3799",
+          "PF0235-C.g38.CIDRg.1372"
+        ]
+      },
+      "PF0241-C": {
+        "count": 8,
+        "samples": [
+          "PF0241-C.g86.CIDRg.1474",
+          "PF0241-C.g18.CIDRg.1390",
+          "PF0241-C.g72.CIDRg.4231",
+          "PF0241-C.g32.CIDRg.4270",
+          "PF0241-C.g71.CIDRg.1603",
+          "PF0241-C.g33.CIDRg.3973",
+          "PF0241-C.g25.CIDRg.4216",
+          "PF0241-C.g9.CIDRg.4099"
+        ]
+      },
+      "PF0242-C": {
+        "count": 8,
+        "samples": [
+          "PF0242-C.g52.CIDRg.4153",
+          "PF0242-C.g30.CIDRg.4375",
+          "PF0242-C.g77.CIDRg.3379",
+          "PF0242-C.g59.CIDRg.1393",
+          "PF0242-C.g48.CIDRg.4180",
+          "PF0242-C.g42.CIDRg.4018",
+          "PF0242-C.g26.CIDRg.4063",
+          "PF0242-C.g21.CIDRg.4891"
+        ]
+      },
+      "PF0248-C": {
+        "count": 13,
+        "samples": [
+          "PF0248-C.g62.CIDRg.4846",
+          "PF0248-C.g84.CIDRg.4129",
+          "PF0248-C.g30.CIDRg.4948",
+          "PF0248-C.g86.CIDRg.5842",
+          "PF0248-C.g71.CIDRg.1375",
+          "PF0248-C.g31.CIDRg.1399",
+          "PF0248-C.g44.CIDRg.1381",
+          "PF0248-C.g21.CIDRg.4153",
+          "PF0248-C.g88.CIDRg.3973",
+          "PF0248-C.g100.CIDRg.4048",
+          "PF0248-C.g27.CIDRg.6016",
+          "PF0248-C.g66.CIDRg.1390",
+          "PF0248-C.g79.CIDRg.4018"
+        ]
+      },
+      "PF0258-C": {
+        "count": 22,
+        "samples": [
+          "PF0258-C.g136.CIDRg.4123",
+          "PF0258-C.g69.CIDRg.5527",
+          "PF0258-C.g64.CIDRg.5320",
+          "PF0258-C.g38.CIDRg.4516",
+          "PF0258-C.g62.CIDRg.4081",
+          "PF0258-C.g61.CIDRg.4084",
+          "PF0258-C.g29.CIDRg.4951",
+          "PF0258-C.g49.CIDRg.1438",
+          "PF0258-C.g70.CIDRg.4813",
+          "PF0258-C.g67.CIDRg.835",
+          "PF0258-C.g65.CIDRg.6055",
+          "PF0258-C.g173.CIDRg.3208",
+          "PF0258-C.g112.CIDRg.4171",
+          "PF0258-C.g85.CIDRg.5290",
+          "PF0258-C.g86.CIDRg.5641",
+          "PF0258-C.g32.CIDRg.6055",
+          "PF0258-C.g38.CIDRg.1342",
+          "PF0258-C.g12.CIDRg.4816",
+          "PF0258-C.g76.CIDRg.3940",
+          "PF0258-C.g39.CIDRg.1384",
+          "PF0258-C.g41.CIDRg.6604",
+          "PF0258-C.g114.CIDRg.3874"
+        ]
+      },
+      "PF0260-C": {
+        "count": 17,
+        "samples": [
+          "PF0260-C.g68.CIDRg.7183",
+          "PF0260-C.g71.CIDRg.1384",
+          "PF0260-C.g98.CIDRg.4414",
+          "PF0260-C.g36.CIDRg.1429",
+          "PF0260-C.g7.CIDRg.3937",
+          "PF0260-C.g53.CIDRg.1384",
+          "PF0260-C.g39.CIDRg.6031",
+          "PF0260-C.g24.CIDRg.5959",
+          "PF0260-C.g35.CIDRg.5137",
+          "PF0260-C.g114.CIDRg.4255",
+          "PF0260-C.g84.CIDRg.4009",
+          "PF0260-C.g65.CIDRg.4144",
+          "PF0260-C.g106.CIDRg.4558",
+          "PF0260-C.g73.CIDRg.4207",
+          "PF0260-C.g37.CIDRg.4702",
+          "PF0260-C.g83.CIDRg.5605",
+          "PF0260-C.g52.CIDRg.3136"
+        ]
+      },
+      "PF0263-C": {
+        "count": 13,
+        "samples": [
+          "PF0263-C.g24.CIDRg.4102",
+          "PF0263-C.g38.CIDRg.3928",
+          "PF0263-C.g11.CIDRg.6010",
+          "PF0263-C.g59.CIDRg.4177",
+          "PF0263-C.g30.CIDRg.4003",
+          "PF0263-C.g46.CIDRg.4207",
+          "PF0263-C.g67.CIDRg.4036",
+          "PF0263-C.g82.CIDRg.4309",
+          "PF0263-C.g92.CIDRg.4312",
+          "PF0263-C.g36.CIDRg.4069",
+          "PF0263-C.g43.CIDRg.6571",
+          "PF0263-C.g29.CIDRg.1387",
+          "PF0263-C.g93.CIDRg.4156"
+        ]
+      },
+      "PF0264-C": {
+        "count": 16,
+        "samples": [
+          "PF0264-C.g64.CIDRg.4285",
+          "PF0264-C.g63.CIDRg.4024",
+          "PF0264-C.g80.CIDRg.4099",
+          "PF0264-C.g65.CIDRg.4090",
+          "PF0264-C.g6.CIDRg.5077",
+          "PF0264-C.g68.CIDRg.4189",
+          "PF0264-C.g2.CIDRg.6367",
+          "PF0264-C.g37.CIDRg.5317",
+          "PF0264-C.g74.CIDRg.4204",
+          "PF0264-C.g118.CIDRg.973",
+          "PF0264-C.g5.CIDRg.1456",
+          "PF0264-C.g61.CIDRg.4636",
+          "PF0264-C.g50.CIDRg.1381",
+          "PF0264-C.g69.CIDRg.4174",
+          "PF0264-C.g73.CIDRg.4108",
+          "PF0264-C.g90.CIDRg.4054"
+        ]
+      },
+      "PF0269-C": {
+        "count": 9,
+        "samples": [
+          "PF0269-C.g84.CIDRg.4306",
+          "PF0269-C.g59.CIDRg.1045",
+          "PF0269-C.g96.CIDRg.4468",
+          "PF0269-C.g70.CIDRg.3928",
+          "PF0269-C.g65.CIDRg.3907",
+          "PF0269-C.g81.CIDRg.3973",
+          "PF0269-C.g53.CIDRg.859",
+          "PF0269-C.g9.CIDRg.4261",
+          "PF0269-C.g56.CIDRg.6061"
+        ]
+      },
+      "PF0272-C": {
+        "count": 12,
+        "samples": [
+          "PF0272-C.g81.CIDRg.4012",
+          "PF0272-C.g8.CIDRg.5947",
+          "PF0272-C.g23.CIDRg.3943",
+          "PF0272-C.g46.CIDRg.5038",
+          "PF0272-C.g66.CIDRg.4240",
+          "PF0272-C.g16.CIDRg.5998",
+          "PF0272-C.g76.CIDRg.4096",
+          "PF0272-C.g68.CIDRg.4096",
+          "PF0272-C.g51.CIDRg.4060",
+          "PF0272-C.g57.CIDRg.4138",
+          "PF0272-C.g14.CIDRg.1426",
+          "PF0272-C.g9.CIDRg.5092"
+        ]
+      },
+      "PF0280-C": {
+        "count": 12,
+        "samples": [
+          "PF0280-C.g73.CIDRg.3472",
+          "PF0280-C.g4.CIDRg.6349",
+          "PF0280-C.g46.CIDRg.3880",
+          "PF0280-C.g29.CIDRg.5197",
+          "PF0280-C.g17.CIDRg.4141",
+          "PF0280-C.g37.CIDRg.4309",
+          "PF0280-C.g66.CIDRg.2641",
+          "PF0280-C.g56.CIDRg.4036",
+          "PF0280-C.g7.CIDRg.7147",
+          "PF0280-C.g8.CIDRg.1399",
+          "PF0280-C.g41.CIDRg.4627",
+          "PF0280-C.g34.CIDRg.4615"
+        ]
+      },
+      "PF0281-C": {
+        "count": 15,
+        "samples": [
+          "PF0281-C.g60.CIDRg.6043",
+          "PF0281-C.g49.CIDRg.4111",
+          "PF0281-C.g106.CIDRg.4066",
+          "PF0281-C.g13.CIDRg.1399",
+          "PF0281-C.g12.CIDRg.6586",
+          "PF0281-C.g69.CIDRg.4360",
+          "PF0281-C.g61.CIDRg.4294",
+          "PF0281-C.g119.CIDRg.1333",
+          "PF0281-C.g95.CIDRg.1108",
+          "PF0281-C.g48.CIDRg.4228",
+          "PF0281-C.g12.CIDRg.1336",
+          "PF0281-C.g34.CIDRg.4",
+          "PF0281-C.g108.CIDRg.3982",
+          "PF0281-C.g13.CIDRg.6373",
+          "PF0281-C.g115.CIDRg.4246"
+        ]
+      },
+      "PF0282-C": {
+        "count": 11,
+        "samples": [
+          "PF0282-C.g45.CIDRg.4228",
+          "PF0282-C.g16.CIDRg.6853",
+          "PF0282-C.g40.CIDRg.2173",
+          "PF0282-C.g5.CIDRg.5317",
+          "PF0282-C.g75.CIDRg.4180",
+          "PF0282-C.g56.CIDRg.4288",
+          "PF0282-C.g73.CIDRg.4216",
+          "PF0282-C.g21.CIDRg.4921",
+          "PF0282-C.g101.CIDRg.3022",
+          "PF0282-C.g28.CIDRg.1387",
+          "PF0282-C.g19.CIDRg.5428"
+        ]
+      },
+      "PF0287-C": {
+        "count": 13,
+        "samples": [
+          "PF0287-C.g71.CIDRg.1399",
+          "PF0287-C.g55.CIDRg.4069",
+          "PF0287-C.g121.CIDRg.1561",
+          "PF0287-C.g47.CIDRg.5080",
+          "PF0287-C.g25.CIDRg.1384",
+          "PF0287-C.g40.CIDRg.5938",
+          "PF0287-C.g135.CIDRg.1228",
+          "PF0287-C.g87.CIDRg.4066",
+          "PF0287-C.g84.CIDRg.4090",
+          "PF0287-C.g110.CIDRg.4186",
+          "PF0287-C.g17.CIDRg.4828",
+          "PF0287-C.g70.CIDRg.5254",
+          "PF0287-C.g25.CIDRg.4555"
+        ]
+      },
+      "PF0288-C": {
+        "count": 7,
+        "samples": [
+          "PF0288-C.g78.CIDRg.4291",
+          "PF0288-C.g75.CIDRg.4396",
+          "PF0288-C.g103.CIDRg.3874",
+          "PF0288-C.g54.CIDRg.4213",
+          "PF0288-C.g69.CIDRg.5305",
+          "PF0288-C.g86.CIDRg.4201",
+          "PF0288-C.g16.CIDRg.3922"
+        ]
+      },
+      "PF0289-C": {
+        "count": 8,
+        "samples": [
+          "PF0289-C.g89.CIDRg.4099",
+          "PF0289-C.g71.CIDRg.4180",
+          "PF0289-C.g27.CIDRg.6115",
+          "PF0289-C.g35.CIDRg.5320",
+          "PF0289-C.g25.CIDRg.6106",
+          "PF0289-C.g94.CIDRg.4258",
+          "PF0289-C.g98.CIDRg.1513",
+          "PF0289-C.g9.CIDRg.5254"
+        ]
+      },
+      "PF0290-C": {
+        "count": 10,
+        "samples": [
+          "PF0290-C.g87.CIDRg.3982",
+          "PF0290-C.g38.CIDRg.5137",
+          "PF0290-C.g63.CIDRg.4777",
+          "PF0290-C.g24.CIDRg.3574",
+          "PF0290-C.g29.CIDRg.1384",
+          "PF0290-C.g22.CIDRg.4612",
+          "PF0290-C.g104.CIDRg.1249",
+          "PF0290-C.g39.CIDRg.1441",
+          "PF0290-C.g13.CIDRg.2983",
+          "PF0290-C.g46.CIDRg.3598"
+        ]
+      },
+      "PF0305-C": {
+        "count": 3,
+        "samples": [
+          "PF0305-C.g27.CIDRg.4015",
+          "PF0305-C.g52.CIDRg.3139",
+          "PF0305-C.g51.CIDRg.3196"
+        ]
+      },
+      "PF0321-C": {
+        "count": 15,
+        "samples": [
+          "PF0321-C.g96.CIDRg.4153",
+          "PF0321-C.g52.CIDRg.2881",
+          "PF0321-C.g44.CIDRg.5254",
+          "PF0321-C.g32.CIDRg.3787",
+          "PF0321-C.g8.CIDRg.4654",
+          "PF0321-C.g53.CIDRg.4231",
+          "PF0321-C.g118.CIDRg.3985",
+          "PF0321-C.g117.CIDRg.3976",
+          "PF0321-C.g98.CIDRg.3871",
+          "PF0321-C.g14.CIDRg.1378",
+          "PF0321-C.g6.CIDRg.7933",
+          "PF0321-C.g10.CIDRg.5935",
+          "PF0321-C.g4.CIDRg.5971",
+          "PF0321-C.g61.CIDRg.4264",
+          "PF0321-C.g12.CIDRg.5908"
+        ]
+      },
+      "PF0326-C": {
+        "count": 10,
+        "samples": [
+          "PF0326-C.g50.CIDRg.1378",
+          "PF0326-C.g66.CIDRg.4264",
+          "PF0326-C.g34.CIDRg.4654",
+          "PF0326-C.g92.CIDRg.4066",
+          "PF0326-C.g34.CIDRg.1396",
+          "PF0326-C.g82.CIDRg.4183",
+          "PF0326-C.g57.CIDRg.4291",
+          "PF0326-C.g85.CIDRg.4048",
+          "PF0326-C.g35.CIDRg.5167",
+          "PF0326-C.g71.CIDRg.4315"
+        ]
+      },
+      "PF0330-C": {
+        "count": 12,
+        "samples": [
+          "PF0330-C.g49.CIDRg.8056",
+          "PF0330-C.g48.CIDRg.5986",
+          "PF0330-C.g41.CIDRg.6070",
+          "PF0330-C.g32.CIDRg.6121",
+          "PF0330-C.g84.CIDRg.2377",
+          "PF0330-C.g102.CIDRg.4333",
+          "PF0330-C.g105.CIDRg.4249",
+          "PF0330-C.g50.CIDRg.6265",
+          "PF0330-C.g68.CIDRg.4081",
+          "PF0330-C.g98.CIDRg.4108",
+          "PF0330-C.g94.CIDRg.4108",
+          "PF0330-C.g77.CIDRg.4231"
+        ]
+      },
+      "PF0471-C": {
+        "count": 17,
+        "samples": [
+          "PF0471-C.g4.CIDRg.4744",
+          "PF0471-C.g105.CIDRg.3988",
+          "PF0471-C.g3.CIDRg.6139",
+          "PF0471-C.g44.CIDRg.3856",
+          "PF0471-C.g125.CIDRg.1420",
+          "PF0471-C.g109.CIDRg.4051",
+          "PF0471-C.g28.CIDRg.4201",
+          "PF0471-C.g119.CIDRg.2866",
+          "PF0471-C.g10.CIDRg.6007",
+          "PF0471-C.g46.CIDRg.5317",
+          "PF0471-C.g92.CIDRg.4108",
+          "PF0471-C.g6.CIDRg.1336",
+          "PF0471-C.g35.CIDRg.3991",
+          "PF0471-C.g21.CIDRg.4651",
+          "PF0471-C.g107.CIDRg.2146",
+          "PF0471-C.g20.CIDRg.5992",
+          "PF0471-C.g4.CIDRg.1390"
+        ]
+      },
+      "PF0493-C": {
+        "count": 14,
+        "samples": [
+          "PF0493-C.g71.CIDRg.4075",
+          "PF0493-C.g73.CIDRg.4285",
+          "PF0493-C.g94.CIDRg.4090",
+          "PF0493-C.g39.CIDRg.3883",
+          "PF0493-C.g89.CIDRg.4156",
+          "PF0493-C.g92.CIDRg.4138",
+          "PF0493-C.g45.CIDRg.4126",
+          "PF0493-C.g69.CIDRg.3994",
+          "PF0493-C.g81.CIDRg.3967",
+          "PF0493-C.g60.CIDRg.4327",
+          "PF0493-C.g100.CIDRg.4039",
+          "PF0493-C.g75.CIDRg.3952",
+          "PF0493-C.g87.CIDRg.4258",
+          "PF0493-C.g59.CIDRg.5995"
+        ]
+      },
+      "PF0510-C": {
+        "count": 14,
+        "samples": [
+          "PF0510-C.g773.CIDRg.4312",
+          "PF0510-C.g309.CIDRg.4618",
+          "PF0510-C.g824.CIDRg.1381",
+          "PF0510-C.g930.CIDRg.4039",
+          "PF0510-C.g921.CIDRg.4210",
+          "PF0510-C.g849.CIDRg.4231",
+          "PF0510-C.g479.CIDRg.4102",
+          "PF0510-C.g851.CIDRg.4003",
+          "PF0510-C.g878.CIDRg.4342",
+          "PF0510-C.g898.CIDRg.4300",
+          "PF0510-C.g1190.CIDRg.1384",
+          "PF0510-C.g952.CIDRg.4156",
+          "PF0510-C.g922.CIDRg.4159",
+          "PF0510-C.g826.CIDRg.4180"
+        ]
+      },
+      "PH0010-C": {
+        "count": 9,
+        "samples": [
+          "PH0010-C.g18.CIDRg.4066",
+          "PH0010-C.g8.CIDRg.5320",
+          "PH0010-C.g37.CIDRg.1288",
+          "PH0010-C.g12.CIDRg.4954",
+          "PH0010-C.g7.CIDRg.3940",
+          "PH0010-C.g35.CIDRg.1012",
+          "PH0010-C.g24.CIDRg.4117",
+          "PH0010-C.g3.CIDRg.4606",
+          "PH0010-C.g26.CIDRg.4033"
+        ]
+      },
+      "PH0021-C": {
+        "count": 12,
+        "samples": [
+          "PH0021-C.g50.CIDRg.1570",
+          "PH0021-C.g46.CIDRg.1993",
+          "PH0021-C.g40.CIDRg.4069",
+          "PH0021-C.g15.CIDRg.3940",
+          "PH0021-C.g10.CIDRg.1414",
+          "PH0021-C.g27.CIDRg.5215",
+          "PH0021-C.g48.CIDRg.3925",
+          "PH0021-C.g45.CIDRg.4057",
+          "PH0021-C.g8.CIDRg.4705",
+          "PH0021-C.g24.CIDRg.4855",
+          "PH0021-C.g42.CIDRg.4159",
+          "PH0021-C.g28.CIDRg.4954"
+        ]
+      },
+      "PH0023-C": {
+        "count": 9,
+        "samples": [
+          "PH0023-C.g62.CIDRg.4570",
+          "PH0023-C.g46.CIDRg.6661",
+          "PH0023-C.g101.CIDRg.4",
+          "PH0023-C.g102.CIDRg.3925",
+          "PH0023-C.g38.CIDRg.4240",
+          "PH0023-C.g31.CIDRg.5368",
+          "PH0023-C.g111.CIDRg.3814",
+          "PH0023-C.g60.CIDRg.4447",
+          "PH0023-C.g56.CIDRg.5215"
+        ]
+      },
+      "PH0044-C": {
+        "count": 14,
+        "samples": [
+          "PH0044-C.g76.CIDRg.3907",
+          "PH0044-C.g65.CIDRg.4087",
+          "PH0044-C.g29.CIDRg.1387",
+          "PH0044-C.g19.CIDRg.1369",
+          "PH0044-C.g82.CIDRg.1336",
+          "PH0044-C.g16.CIDRg.4963",
+          "PH0044-C.g30.CIDRg.4954",
+          "PH0044-C.g15.CIDRg.4855",
+          "PH0044-C.g11.CIDRg.4618",
+          "PH0044-C.g2.CIDRg.3568",
+          "PH0044-C.g17.CIDRg.5203",
+          "PH0044-C.g38.CIDRg.4075",
+          "PH0044-C.g8.CIDRg.3820",
+          "PH0044-C.g23.CIDRg.4177"
+        ]
+      },
+      "PH0045-C": {
+        "count": 13,
+        "samples": [
+          "PH0045-C.g27.CIDRg.4075",
+          "PH0045-C.g58.CIDRg.4087",
+          "PH0045-C.g37.CIDRg.4954",
+          "PH0045-C.g11.CIDRg.4855",
+          "PH0045-C.g18.CIDRg.4618",
+          "PH0045-C.g72.CIDRg.1336",
+          "PH0045-C.g28.CIDRg.1387",
+          "PH0045-C.g3.CIDRg.3568",
+          "PH0045-C.g43.CIDRg.1387",
+          "PH0045-C.g39.CIDRg.4177",
+          "PH0045-C.g14.CIDRg.1498",
+          "PH0045-C.g17.CIDRg.4963",
+          "PH0045-C.g35.CIDRg.3907"
+        ]
+      },
+      "PH0046-C": {
+        "count": 2,
+        "samples": [
+          "PH0046-C.g4.CIDRg.3475",
+          "PH0046-C.g1.CIDRg.4693"
+        ]
+      },
+      "PH0059-C": {
+        "count": 8,
+        "samples": [
+          "PH0059-C.g45.CIDRg.3850",
+          "PH0059-C.g9.CIDRg.4744",
+          "PH0059-C.g38.CIDRg.1207",
+          "PH0059-C.g7.CIDRg.5197",
+          "PH0059-C.g15.CIDRg.4096",
+          "PH0059-C.g19.CIDRg.3841",
+          "PH0059-C.g13.CIDRg.4150",
+          "PH0059-C.g54.CIDRg.1186"
+        ]
+      },
+      "PH0064-C": {
+        "count": 14,
+        "samples": [
+          "PH0064-C.g116.CIDRg.3919",
+          "PH0064-C.g94.CIDRg.1402",
+          "PH0064-C.g63.CIDRg.6040",
+          "PH0064-C.g112.CIDRg.4360",
+          "PH0064-C.g114.CIDRg.4102",
+          "PH0064-C.g95.CIDRg.3856",
+          "PH0064-C.g81.CIDRg.5041",
+          "PH0064-C.g84.CIDRg.3940",
+          "PH0064-C.g97.CIDRg.3943",
+          "PH0064-C.g99.CIDRg.5356",
+          "PH0064-C.g105.CIDRg.5494",
+          "PH0064-C.g82.CIDRg.3979",
+          "PH0064-C.g85.CIDRg.1384",
+          "PH0064-C.g90.CIDRg.4075"
+        ]
+      },
+      "PH0110-C": {
+        "count": 4,
+        "samples": [
+          "PH0110-C.g10.CIDRg.6157",
+          "PH0110-C.g21.CIDRg.1870",
+          "PH0110-C.g18.CIDRg.4027",
+          "PH0110-C.g5.CIDRg.5896"
+        ]
+      },
+      "PH0111-C": {
+        "count": 7,
+        "samples": [
+          "PH0111-C.g49.CIDRg.6580",
+          "PH0111-C.g50.CIDRg.6061",
+          "PH0111-C.g64.CIDRg.1006",
+          "PH0111-C.g82.CIDRg.1384",
+          "PH0111-C.g56.CIDRg.1063",
+          "PH0111-C.g27.CIDRg.5401",
+          "PH0111-C.g76.CIDRg.4216"
+        ]
+      },
+      "PH0112-C": {
+        "count": 9,
+        "samples": [
+          "PH0112-C.g89.CIDRg.4132",
+          "PH0112-C.g69.CIDRg.3790",
+          "PH0112-C.g48.CIDRg.5023",
+          "PH0112-C.g36.CIDRg.3568",
+          "PH0112-C.g52.CIDRg.5098",
+          "PH0112-C.g24.CIDRg.6022",
+          "PH0112-C.g18.CIDRg.4075",
+          "PH0112-C.g106.CIDRg.802",
+          "PH0112-C.g66.CIDRg.4033"
+        ]
+      },
+      "PH0134-C": {
+        "count": 13,
+        "samples": [
+          "PH0134-C.g98.CIDRg.3964",
+          "PH0134-C.g57.CIDRg.4060",
+          "PH0134-C.g41.CIDRg.4705",
+          "PH0134-C.g73.CIDRg.5134",
+          "PH0134-C.g39.CIDRg.6022",
+          "PH0134-C.g50.CIDRg.3790",
+          "PH0134-C.g46.CIDRg.4954",
+          "PH0134-C.g69.CIDRg.3943",
+          "PH0134-C.g84.CIDRg.5521",
+          "PH0134-C.g85.CIDRg.1372",
+          "PH0134-C.g19.CIDRg.4075",
+          "PH0134-C.g68.CIDRg.1384",
+          "PH0134-C.g17.CIDRg.3568"
+        ]
+      },
+      "PH0136-C": {
+        "count": 11,
+        "samples": [
+          "PH0136-C.g29.CIDRg.1429",
+          "PH0136-C.g115.CIDRg.808",
+          "PH0136-C.g105.CIDRg.883",
+          "PH0136-C.g59.CIDRg.2020",
+          "PH0136-C.g17.CIDRg.4075",
+          "PH0136-C.g62.CIDRg.1213",
+          "PH0136-C.g74.CIDRg.1276",
+          "PH0136-C.g89.CIDRg.4060",
+          "PH0136-C.g69.CIDRg.4093",
+          "PH0136-C.g36.CIDRg.3568",
+          "PH0136-C.g55.CIDRg.1414"
+        ]
+      },
+      "PH0157-C": {
+        "count": 9,
+        "samples": [
+          "PH0157-C.g53.CIDRg.3940",
+          "PH0157-C.g84.CIDRg.4036",
+          "PH0157-C.g42.CIDRg.5134",
+          "PH0157-C.g102.CIDRg.4081",
+          "PH0157-C.g109.CIDRg.3919",
+          "PH0157-C.g79.CIDRg.5083",
+          "PH0157-C.g35.CIDRg.6043",
+          "PH0157-C.g26.CIDRg.6061",
+          "PH0157-C.g55.CIDRg.5158"
+        ]
+      },
+      "PH0161-C": {
+        "count": 15,
+        "samples": [
+          "PH0161-C.g47.CIDRg.3802",
+          "PH0161-C.g54.CIDRg.4120",
+          "PH0161-C.g63.CIDRg.5083",
+          "PH0161-C.g58.CIDRg.1327",
+          "PH0161-C.g39.CIDRg.3940",
+          "PH0161-C.g86.CIDRg.3907",
+          "PH0161-C.g83.CIDRg.3865",
+          "PH0161-C.g17.CIDRg.4954",
+          "PH0161-C.g33.CIDRg.3940",
+          "PH0161-C.g42.CIDRg.5134",
+          "PH0161-C.g29.CIDRg.3844",
+          "PH0161-C.g78.CIDRg.4171",
+          "PH0161-C.g46.CIDRg.4048",
+          "PH0161-C.g82.CIDRg.3976",
+          "PH0161-C.g5.CIDRg.4078"
+        ]
+      },
+      "PH0163-C": {
+        "count": 6,
+        "samples": [
+          "PH0163-C.g49.CIDRg.6700",
+          "PH0163-C.g54.CIDRg.5215",
+          "PH0163-C.g105.CIDRg.1918",
+          "PH0163-C.g98.CIDRg.4159",
+          "PH0163-C.g36.CIDRg.7789",
+          "PH0163-C.g31.CIDRg.5392"
+        ]
+      },
+      "PH0164-C": {
+        "count": 10,
+        "samples": [
+          "PH0164-C.g36.CIDRg.6652",
+          "PH0164-C.g34.CIDRg.6229",
+          "PH0164-C.g93.CIDRg.4057",
+          "PH0164-C.g29.CIDRg.5296",
+          "PH0164-C.g35.CIDRg.4195",
+          "PH0164-C.g44.CIDRg.4084",
+          "PH0164-C.g76.CIDRg.4090",
+          "PH0164-C.g59.CIDRg.1414",
+          "PH0164-C.g37.CIDRg.4705",
+          "PH0164-C.g98.CIDRg.1312"
+        ]
+      },
+      "PH0165-C": {
+        "count": 15,
+        "samples": [
+          "PH0165-C.g20.CIDRg.3937",
+          "PH0165-C.g24.CIDRg.3940",
+          "PH0165-C.g21.CIDRg.3940",
+          "PH0165-C.g60.CIDRg.4171",
+          "PH0165-C.g9.CIDRg.4618",
+          "PH0165-C.g34.CIDRg.1324",
+          "PH0165-C.g42.CIDRg.5083",
+          "PH0165-C.g61.CIDRg.4120",
+          "PH0165-C.g29.CIDRg.3844",
+          "PH0165-C.g30.CIDRg.5134",
+          "PH0165-C.g15.CIDRg.4954",
+          "PH0165-C.g67.CIDRg.3976",
+          "PH0165-C.g57.CIDRg.3865",
+          "PH0165-C.g70.CIDRg.3802",
+          "PH0165-C.g4.CIDRg.4078"
+        ]
+      },
+      "PH0167-C": {
+        "count": 8,
+        "samples": [
+          "PH0167-C.g50.CIDRg.4096",
+          "PH0167-C.g35.CIDRg.2410",
+          "PH0167-C.g27.CIDRg.4447",
+          "PH0167-C.g37.CIDRg.4159",
+          "PH0167-C.g8.CIDRg.5392",
+          "PH0167-C.g17.CIDRg.6550",
+          "PH0167-C.g54.CIDRg.3925",
+          "PH0167-C.g24.CIDRg.5215"
+        ]
+      },
+      "PH0169-C": {
+        "count": 18,
+        "samples": [
+          "PH0169-C.g3.CIDRg.4618",
+          "PH0169-C.g15.CIDRg.3940",
+          "PH0169-C.g21.CIDRg.3844",
+          "PH0169-C.g35.CIDRg.1282",
+          "PH0169-C.g22.CIDRg.5134",
+          "PH0169-C.g45.CIDRg.4243",
+          "PH0169-C.g64.CIDRg.3865",
+          "PH0169-C.g65.CIDRg.3907",
+          "PH0169-C.g23.CIDRg.3937",
+          "PH0169-C.g13.CIDRg.4954",
+          "PH0169-C.g62.CIDRg.3976",
+          "PH0169-C.g57.CIDRg.4171",
+          "PH0169-C.g44.CIDRg.4078",
+          "PH0169-C.g30.CIDRg.4120",
+          "PH0169-C.g38.CIDRg.5083",
+          "PH0169-C.g28.CIDRg.3940",
+          "PH0169-C.g8.CIDRg.7951",
+          "PH0169-C.g55.CIDRg.4048"
+        ]
+      },
+      "PH0172-C": {
+        "count": 9,
+        "samples": [
+          "PH0172-C.g78.CIDRg.3982",
+          "PH0172-C.g104.CIDRg.3232",
+          "PH0172-C.g19.CIDRg.4075",
+          "PH0172-C.g79.CIDRg.3337",
+          "PH0172-C.g92.CIDRg.4087",
+          "PH0172-C.g43.CIDRg.6022",
+          "PH0172-C.g7.CIDRg.5173",
+          "PH0172-C.g24.CIDRg.3568",
+          "PH0172-C.g25.CIDRg.6658"
+        ]
+      },
+      "PH0173-C": {
+        "count": 10,
+        "samples": [
+          "PH0173-C.g6.CIDRg.6022",
+          "PH0173-C.g56.CIDRg.3937",
+          "PH0173-C.g80.CIDRg.5083",
+          "PH0173-C.g53.CIDRg.3844",
+          "PH0173-C.g77.CIDRg.1408",
+          "PH0173-C.g8.CIDRg.4618",
+          "PH0173-C.g36.CIDRg.6037",
+          "PH0173-C.g40.CIDRg.4954",
+          "PH0173-C.g85.CIDRg.4171",
+          "PH0173-C.g11.CIDRg.4078"
+        ]
+      },
+      "PH0191-C": {
+        "count": 11,
+        "samples": [
+          "PH0191-C.g21.CIDRg.4855",
+          "PH0191-C.g63.CIDRg.3937",
+          "PH0191-C.g49.CIDRg.3772",
+          "PH0191-C.g3.CIDRg.3997",
+          "PH0191-C.g17.CIDRg.3940",
+          "PH0191-C.g38.CIDRg.5188",
+          "PH0191-C.g68.CIDRg.4381",
+          "PH0191-C.g90.CIDRg.4063",
+          "PH0191-C.g59.CIDRg.3958",
+          "PH0191-C.g83.CIDRg.3850",
+          "PH0191-C.g50.CIDRg.4156"
+        ]
+      },
+      "PH0192-C": {
+        "count": 8,
+        "samples": [
+          "PH0192-C.g62.CIDRg.481",
+          "PH0192-C.g85.CIDRg.3850",
+          "PH0192-C.g50.CIDRg.4954",
+          "PH0192-C.g13.CIDRg.4165",
+          "PH0192-C.g52.CIDRg.3772",
+          "PH0192-C.g82.CIDRg.4156",
+          "PH0192-C.g68.CIDRg.3535",
+          "PH0192-C.g30.CIDRg.3940"
+        ]
+      },
+      "PH0194-C": {
+        "count": 9,
+        "samples": [
+          "PH0194-C.g69.CIDRg.4279",
+          "PH0194-C.g52.CIDRg.1330",
+          "PH0194-C.g26.CIDRg.6202",
+          "PH0194-C.g14.CIDRg.4075",
+          "PH0194-C.g60.CIDRg.3988",
+          "PH0194-C.g85.CIDRg.4111",
+          "PH0194-C.g79.CIDRg.3577",
+          "PH0194-C.g64.CIDRg.1501",
+          "PH0194-C.g29.CIDRg.3568"
+        ]
+      },
+      "PH0196-C": {
+        "count": 7,
+        "samples": [
+          "PH0196-C.g69.CIDRg.1348",
+          "PH0196-C.g20.CIDRg.4693",
+          "PH0196-C.g1.CIDRg.3568",
+          "PH0196-C.g85.CIDRg.2851",
+          "PH0196-C.g16.CIDRg.4075",
+          "PH0196-C.g81.CIDRg.3241",
+          "PH0196-C.g75.CIDRg.1498"
+        ]
+      },
+      "PH0197-C": {
+        "count": 15,
+        "samples": [
+          "PH0197-C.g37.CIDRg.6400",
+          "PH0197-C.g15.CIDRg.4075",
+          "PH0197-C.g28.CIDRg.4855",
+          "PH0197-C.g12.CIDRg.6022",
+          "PH0197-C.g115.CIDRg.856",
+          "PH0197-C.g17.CIDRg.3568",
+          "PH0197-C.g81.CIDRg.832",
+          "PH0197-C.g48.CIDRg.4237",
+          "PH0197-C.g46.CIDRg.4090",
+          "PH0197-C.g39.CIDRg.4618",
+          "PH0197-C.g75.CIDRg.3943",
+          "PH0197-C.g56.CIDRg.1372",
+          "PH0197-C.g67.CIDRg.5407",
+          "PH0197-C.g10.CIDRg.4081",
+          "PH0197-C.g36.CIDRg.3790"
+        ]
+      },
+      "PH0198-C": {
+        "count": 10,
+        "samples": [
+          "PH0198-C.g40.CIDRg.6022",
+          "PH0198-C.g4.CIDRg.4075",
+          "PH0198-C.g101.CIDRg.1276",
+          "PH0198-C.g36.CIDRg.3568",
+          "PH0198-C.g110.CIDRg.709",
+          "PH0198-C.g87.CIDRg.4132",
+          "PH0198-C.g35.CIDRg.5098",
+          "PH0198-C.g56.CIDRg.3739",
+          "PH0198-C.g42.CIDRg.4033",
+          "PH0198-C.g65.CIDRg.3808"
+        ]
+      },
+      "PH0199-C": {
+        "count": 2,
+        "samples": [
+          "PH0199-C.g4.CIDRg.1387",
+          "PH0199-C.g4.CIDRg.6088"
+        ]
+      },
+      "PH0201-C": {
+        "count": 14,
+        "samples": [
+          "PH0201-C.g72.CIDRg.3850",
+          "PH0201-C.g80.CIDRg.3700",
+          "PH0201-C.g19.CIDRg.3913",
+          "PH0201-C.g27.CIDRg.3916",
+          "PH0201-C.g41.CIDRg.5083",
+          "PH0201-C.g11.CIDRg.7543",
+          "PH0201-C.g36.CIDRg.5215",
+          "PH0201-C.g21.CIDRg.6565",
+          "PH0201-C.g23.CIDRg.6148",
+          "PH0201-C.g26.CIDRg.4171",
+          "PH0201-C.g42.CIDRg.4843",
+          "PH0201-C.g24.CIDRg.3946",
+          "PH0201-C.g29.CIDRg.1399",
+          "PH0201-C.g17.CIDRg.1396"
+        ]
+      },
+      "PH0203-C": {
+        "count": 13,
+        "samples": [
+          "PH0203-C.g31.CIDRg.5278",
+          "PH0203-C.g17.CIDRg.4150",
+          "PH0203-C.g76.CIDRg.3973",
+          "PH0203-C.g19.CIDRg.6826",
+          "PH0203-C.g10.CIDRg.6532",
+          "PH0203-C.g20.CIDRg.760",
+          "PH0203-C.g16.CIDRg.5257",
+          "PH0203-C.g27.CIDRg.1390",
+          "PH0203-C.g38.CIDRg.5149",
+          "PH0203-C.g18.CIDRg.1381",
+          "PH0203-C.g95.CIDRg.1027",
+          "PH0203-C.g72.CIDRg.4168",
+          "PH0203-C.g8.CIDRg.7885"
+        ]
+      },
+      "PH0204-C": {
+        "count": 18,
+        "samples": [
+          "PH0204-C.g44.CIDRg.1036",
+          "PH0204-C.g1.CIDRg.11704",
+          "PH0204-C.g17.CIDRg.6805",
+          "PH0204-C.g23.CIDRg.3568",
+          "PH0204-C.g8.CIDRg.1384",
+          "PH0204-C.g3.CIDRg.4126",
+          "PH0204-C.g12.CIDRg.5056",
+          "PH0204-C.g29.CIDRg.4045",
+          "PH0204-C.g86.CIDRg.1402",
+          "PH0204-C.g35.CIDRg.4075",
+          "PH0204-C.g32.CIDRg.5854",
+          "PH0204-C.g7.CIDRg.1375",
+          "PH0204-C.g30.CIDRg.4063",
+          "PH0204-C.g11.CIDRg.4705",
+          "PH0204-C.g87.CIDRg.1111",
+          "PH0204-C.g7.CIDRg.5764",
+          "PH0204-C.g31.CIDRg.3718",
+          "PH0204-C.g13.CIDRg.4618"
+        ]
+      },
+      "PH0205-C": {
+        "count": 15,
+        "samples": [
+          "PH0205-C.g57.CIDRg.3976",
+          "PH0205-C.g2.CIDRg.6001",
+          "PH0205-C.g21.CIDRg.4099",
+          "PH0205-C.g22.CIDRg.1396",
+          "PH0205-C.g76.CIDRg.3565",
+          "PH0205-C.g49.CIDRg.4147",
+          "PH0205-C.g13.CIDRg.4087",
+          "PH0205-C.g71.CIDRg.1402",
+          "PH0205-C.g6.CIDRg.3934",
+          "PH0205-C.g10.CIDRg.1372",
+          "PH0205-C.g4.CIDRg.5848",
+          "PH0205-C.g47.CIDRg.4168",
+          "PH0205-C.g23.CIDRg.5560",
+          "PH0205-C.g67.CIDRg.4108",
+          "PH0205-C.g52.CIDRg.2254"
+        ]
+      },
+      "PH0206-C": {
+        "count": 11,
+        "samples": [
+          "PH0206-C.g50.CIDRg.3844",
+          "PH0206-C.g53.CIDRg.4039",
+          "PH0206-C.g59.CIDRg.5083",
+          "PH0206-C.g100.CIDRg.4048",
+          "PH0206-C.g112.CIDRg.3433",
+          "PH0206-C.g55.CIDRg.4072",
+          "PH0206-C.g47.CIDRg.4477",
+          "PH0206-C.g40.CIDRg.7951",
+          "PH0206-C.g32.CIDRg.4954",
+          "PH0206-C.g78.CIDRg.1399",
+          "PH0206-C.g54.CIDRg.3970"
+        ]
+      },
+      "PH0207-C": {
+        "count": 14,
+        "samples": [
+          "PH0207-C.g15.CIDRg.3940",
+          "PH0207-C.g1.CIDRg.5356",
+          "PH0207-C.g64.CIDRg.3919",
+          "PH0207-C.g44.CIDRg.5494",
+          "PH0207-C.g28.CIDRg.4048",
+          "PH0207-C.g84.CIDRg.1222",
+          "PH0207-C.g19.CIDRg.5041",
+          "PH0207-C.g11.CIDRg.6040",
+          "PH0207-C.g31.CIDRg.1402",
+          "PH0207-C.g73.CIDRg.1597",
+          "PH0207-C.g48.CIDRg.4204",
+          "PH0207-C.g22.CIDRg.4075",
+          "PH0207-C.g23.CIDRg.3979",
+          "PH0207-C.g16.CIDRg.1384"
+        ]
+      },
+      "PH0208-C": {
+        "count": 17,
+        "samples": [
+          "PH0208-C.g20.CIDRg.3940",
+          "PH0208-C.g56.CIDRg.3865",
+          "PH0208-C.g44.CIDRg.4078",
+          "PH0208-C.g14.CIDRg.5134",
+          "PH0208-C.g28.CIDRg.4954",
+          "PH0208-C.g51.CIDRg.3976",
+          "PH0208-C.g30.CIDRg.4243",
+          "PH0208-C.g9.CIDRg.3940",
+          "PH0208-C.g43.CIDRg.4171",
+          "PH0208-C.g15.CIDRg.3844",
+          "PH0208-C.g7.CIDRg.4618",
+          "PH0208-C.g37.CIDRg.4120",
+          "PH0208-C.g55.CIDRg.3907",
+          "PH0208-C.g49.CIDRg.4048",
+          "PH0208-C.g16.CIDRg.3937",
+          "PH0208-C.g4.CIDRg.7951",
+          "PH0208-C.g25.CIDRg.1399"
+        ]
+      },
+      "PH0209-C": {
+        "count": 19,
+        "samples": [
+          "PH0209-C.g26.CIDRg.5959",
+          "PH0209-C.g86.CIDRg.4666",
+          "PH0209-C.g102.CIDRg.3919",
+          "PH0209-C.g25.CIDRg.6658",
+          "PH0209-C.g97.CIDRg.3988",
+          "PH0209-C.g17.CIDRg.5296",
+          "PH0209-C.g63.CIDRg.4222",
+          "PH0209-C.g18.CIDRg.6088",
+          "PH0209-C.g57.CIDRg.4171",
+          "PH0209-C.g18.CIDRg.1387",
+          "PH0209-C.g114.CIDRg.3910",
+          "PH0209-C.g9.CIDRg.4153",
+          "PH0209-C.g42.CIDRg.6022",
+          "PH0209-C.g75.CIDRg.4033",
+          "PH0209-C.g34.CIDRg.4855",
+          "PH0209-C.g50.CIDRg.4939",
+          "PH0209-C.g118.CIDRg.3964",
+          "PH0209-C.g24.CIDRg.5320",
+          "PH0209-C.g52.CIDRg.1402"
+        ]
+      },
+      "PH0210-C": {
+        "count": 10,
+        "samples": [
+          "PH0210-C.g53.CIDRg.751",
+          "PH0210-C.g44.CIDRg.3907",
+          "PH0210-C.g17.CIDRg.5833",
+          "PH0210-C.g9.CIDRg.3940",
+          "PH0210-C.g12.CIDRg.5134",
+          "PH0210-C.g38.CIDRg.4036",
+          "PH0210-C.g33.CIDRg.4159",
+          "PH0210-C.g37.CIDRg.3919",
+          "PH0210-C.g4.CIDRg.6787",
+          "PH0210-C.g4.CIDRg.6061"
+        ]
+      },
+      "PH0212-C": {
+        "count": 16,
+        "samples": [
+          "PH0212-C.g11.CIDRg.4078",
+          "PH0212-C.g113.CIDRg.3988",
+          "PH0212-C.g67.CIDRg.3937",
+          "PH0212-C.g80.CIDRg.3940",
+          "PH0212-C.g92.CIDRg.4120",
+          "PH0212-C.g94.CIDRg.4072",
+          "PH0212-C.g108.CIDRg.4222",
+          "PH0212-C.g86.CIDRg.1405",
+          "PH0212-C.g49.CIDRg.5425",
+          "PH0212-C.g79.CIDRg.5134",
+          "PH0212-C.g104.CIDRg.3907",
+          "PH0212-C.g54.CIDRg.4243",
+          "PH0212-C.g118.CIDRg.3976",
+          "PH0212-C.g87.CIDRg.5083",
+          "PH0212-C.g97.CIDRg.4048",
+          "PH0212-C.g55.CIDRg.4954"
+        ]
+      },
+      "PH0213-C": {
+        "count": 16,
+        "samples": [
+          "PH0213-C.g43.CIDRg.4048",
+          "PH0213-C.g27.CIDRg.1405",
+          "PH0213-C.g53.CIDRg.3865",
+          "PH0213-C.g45.CIDRg.4171",
+          "PH0213-C.g11.CIDRg.3940",
+          "PH0213-C.g47.CIDRg.4120",
+          "PH0213-C.g36.CIDRg.4078",
+          "PH0213-C.g50.CIDRg.3976",
+          "PH0213-C.g28.CIDRg.4954",
+          "PH0213-C.g8.CIDRg.4618",
+          "PH0213-C.g16.CIDRg.5134",
+          "PH0213-C.g17.CIDRg.3844",
+          "PH0213-C.g18.CIDRg.3937",
+          "PH0213-C.g26.CIDRg.3940",
+          "PH0213-C.g29.CIDRg.5083",
+          "PH0213-C.g5.CIDRg.7951"
+        ]
+      },
+      "PH0246-C": {
+        "count": 2,
+        "samples": [
+          "PH0246-C.g85.CIDRg.1210",
+          "PH0246-C.g62.CIDRg.970"
+        ]
+      },
+      "PH0259-C": {
+        "count": 9,
+        "samples": [
+          "PH0259-C.g1.CIDRg.1222",
+          "PH0259-C.g16.CIDRg.4954",
+          "PH0259-C.g49.CIDRg.2953",
+          "PH0259-C.g62.CIDRg.1237",
+          "PH0259-C.g48.CIDRg.1573",
+          "PH0259-C.g45.CIDRg.1351",
+          "PH0259-C.g19.CIDRg.5884",
+          "PH0259-C.g1.CIDRg.4417",
+          "PH0259-C.g77.CIDRg.724"
+        ]
+      },
+      "PH0274-C": {
+        "count": 3,
+        "samples": [
+          "PH0274-C.g32.CIDRg.1621",
+          "PH0274-C.g59.CIDRg.1225",
+          "PH0274-C.g14.CIDRg.1354"
+        ]
+      },
+      "PH0292-C": {
+        "count": 6,
+        "samples": [
+          "PH0292-C.g91.CIDRg.1651",
+          "PH0292-C.g73.CIDRg.2200",
+          "PH0292-C.g39.CIDRg.3940",
+          "PH0292-C.g77.CIDRg.4042",
+          "PH0292-C.g61.CIDRg.3865",
+          "PH0292-C.g27.CIDRg.3940"
+        ]
+      },
+      "PH0294-C": {
+        "count": 14,
+        "samples": [
+          "PH0294-C.g88.CIDRg.3919",
+          "PH0294-C.g56.CIDRg.3790",
+          "PH0294-C.g73.CIDRg.1402",
+          "PH0294-C.g12.CIDRg.3568",
+          "PH0294-C.g70.CIDRg.3763",
+          "PH0294-C.g106.CIDRg.4114",
+          "PH0294-C.g16.CIDRg.4954",
+          "PH0294-C.g19.CIDRg.4075",
+          "PH0294-C.g93.CIDRg.3874",
+          "PH0294-C.g87.CIDRg.4060",
+          "PH0294-C.g116.CIDRg.1057",
+          "PH0294-C.g83.CIDRg.1312",
+          "PH0294-C.g52.CIDRg.3943",
+          "PH0294-C.g62.CIDRg.6061"
+        ]
+      },
+      "PH0326-C": {
+        "count": 9,
+        "samples": [
+          "PH0326-C.g26.CIDRg.3856",
+          "PH0326-C.g3.CIDRg.6214",
+          "PH0326-C.g94.CIDRg.1087",
+          "PH0326-C.g42.CIDRg.3895",
+          "PH0326-C.g31.CIDRg.4117",
+          "PH0326-C.g30.CIDRg.4039",
+          "PH0326-C.g20.CIDRg.1366",
+          "PH0326-C.g21.CIDRg.5977",
+          "PH0326-C.g64.CIDRg.4207"
+        ]
+      },
+      "PH0330-C": {
+        "count": 16,
+        "samples": [
+          "PH0330-C.g84.CIDRg.4954",
+          "PH0330-C.g66.CIDRg.3940",
+          "PH0330-C.g38.CIDRg.4618",
+          "PH0330-C.g140.CIDRg.4048",
+          "PH0330-C.g62.CIDRg.3937",
+          "PH0330-C.g63.CIDRg.1393",
+          "PH0330-C.g65.CIDRg.5167",
+          "PH0330-C.g46.CIDRg.5203",
+          "PH0330-C.g88.CIDRg.3811",
+          "PH0330-C.g69.CIDRg.4195",
+          "PH0330-C.g79.CIDRg.3907",
+          "PH0330-C.g90.CIDRg.4123",
+          "PH0330-C.g13.CIDRg.4078",
+          "PH0330-C.g119.CIDRg.3940",
+          "PH0330-C.g73.CIDRg.4120",
+          "PH0330-C.g128.CIDRg.3976"
+        ]
+      },
+      "PH0333-C": {
+        "count": 12,
+        "samples": [
+          "PH0333-C.g68.CIDRg.3958",
+          "PH0333-C.g93.CIDRg.4075",
+          "PH0333-C.g83.CIDRg.1249",
+          "PH0333-C.g32.CIDRg.4705",
+          "PH0333-C.g60.CIDRg.4129",
+          "PH0333-C.g29.CIDRg.3568",
+          "PH0333-C.g30.CIDRg.6199",
+          "PH0333-C.g18.CIDRg.5920",
+          "PH0333-C.g87.CIDRg.1372",
+          "PH0333-C.g79.CIDRg.4150",
+          "PH0333-C.g69.CIDRg.6295",
+          "PH0333-C.g85.CIDRg.658"
+        ]
+      },
+      "PH0340-C": {
+        "count": 10,
+        "samples": [
+          "PH0340-C.g57.CIDRg.4114",
+          "PH0340-C.g44.CIDRg.4366",
+          "PH0340-C.g36.CIDRg.3913",
+          "PH0340-C.g19.CIDRg.4984",
+          "PH0340-C.g59.CIDRg.4084",
+          "PH0340-C.g75.CIDRg.3700",
+          "PH0340-C.g74.CIDRg.1621",
+          "PH0340-C.g32.CIDRg.3820",
+          "PH0340-C.g23.CIDRg.3946",
+          "PH0340-C.g84.CIDRg.1969"
+        ]
+      },
+      "PH0344-C": {
+        "count": 5,
+        "samples": [
+          "PH0344-C.g2.CIDRg.4123",
+          "PH0344-C.g27.CIDRg.1483",
+          "PH0344-C.g44.CIDRg.3190",
+          "PH0344-C.g32.CIDRg.1453",
+          "PH0344-C.g1.CIDRg.4501"
+        ]
+      },
+      "PH0380-C": {
+        "count": 8,
+        "samples": [
+          "PH0380-C.g18.CIDRg.6052",
+          "PH0380-C.g48.CIDRg.6013",
+          "PH0380-C.g36.CIDRg.4786",
+          "PH0380-C.g88.CIDRg.3703",
+          "PH0380-C.g119.CIDRg.2896",
+          "PH0380-C.g33.CIDRg.4186",
+          "PH0380-C.g68.CIDRg.3808",
+          "PH0380-C.g104.CIDRg.1402"
+        ]
+      },
+      "PH0463-C": {
+        "count": 7,
+        "samples": [
+          "PH0463-C.g12.CIDRg.4618",
+          "PH0463-C.g84.CIDRg.997",
+          "PH0463-C.g72.CIDRg.4048",
+          "PH0463-C.g20.CIDRg.1396",
+          "PH0463-C.g30.CIDRg.4036",
+          "PH0463-C.g73.CIDRg.1348",
+          "PH0463-C.g67.CIDRg.3865"
+        ]
+      },
+      "PH0509-C": {
+        "count": 30,
+        "samples": [
+          "PH0509-C.g1969.CIDRg.4132",
+          "PH0509-C.g2006.CIDRg.4168",
+          "PH0509-C.g1986.CIDRg.1075",
+          "PH0509-C.g2052.CIDRg.3457",
+          "PH0509-C.g2028.CIDRg.1210",
+          "PH0509-C.g1916.CIDRg.6112",
+          "PH0509-C.g1968.CIDRg.4396",
+          "PH0509-C.g1942.CIDRg.3265",
+          "PH0509-C.g1964.CIDRg.4144",
+          "PH0509-C.g2077.CIDRg.3250",
+          "PH0509-C.g1963.CIDRg.4318",
+          "PH0509-C.g1934.CIDRg.3763",
+          "PH0509-C.g1987.CIDRg.3949",
+          "PH0509-C.g2074.CIDRg.919",
+          "PH0509-C.g1933.CIDRg.4453",
+          "PH0509-C.g2015.CIDRg.4030",
+          "PH0509-C.g1960.CIDRg.3943",
+          "PH0509-C.g1937.CIDRg.4021",
+          "PH0509-C.g2091.CIDRg.2905",
+          "PH0509-C.g1946.CIDRg.3919",
+          "PH0509-C.g1956.CIDRg.2665",
+          "PH0509-C.g1959.CIDRg.4348",
+          "PH0509-C.g1988.CIDRg.4138",
+          "PH0509-C.g1935.CIDRg.3427",
+          "PH0509-C.g1977.CIDRg.3928",
+          "PH0509-C.g2063.CIDRg.1342",
+          "PH0509-C.g1973.CIDRg.4240",
+          "PH0509-C.g2053.CIDRg.3175",
+          "PH0509-C.g2051.CIDRg.3673",
+          "PH0509-C.g2020.CIDRg.3892"
+        ]
+      },
+      "PH0518-C": {
+        "count": 11,
+        "samples": [
+          "PH0518-C.g26.CIDRg.3844",
+          "PH0518-C.g104.CIDRg.475",
+          "PH0518-C.g30.CIDRg.6094",
+          "PH0518-C.g12.CIDRg.4705",
+          "PH0518-C.g48.CIDRg.4213",
+          "PH0518-C.g22.CIDRg.4618",
+          "PH0518-C.g16.CIDRg.3790",
+          "PH0518-C.g33.CIDRg.3940",
+          "PH0518-C.g17.CIDRg.8320",
+          "PH0518-C.g29.CIDRg.3943",
+          "PH0518-C.g82.CIDRg.3343"
+        ]
+      },
+      "PH0523-C": {
+        "count": 8,
+        "samples": [
+          "PH0523-C.g56.CIDRg.4111",
+          "PH0523-C.g38.CIDRg.5326",
+          "PH0523-C.g66.CIDRg.4789",
+          "PH0523-C.g41.CIDRg.4039",
+          "PH0523-C.g51.CIDRg.4069",
+          "PH0523-C.g24.CIDRg.4039",
+          "PH0523-C.g65.CIDRg.643",
+          "PH0523-C.g26.CIDRg.7486"
+        ]
+      },
+      "PH0524-C": {
+        "count": 15,
+        "samples": [
+          "PH0524-C.g21.CIDRg.5596",
+          "PH0524-C.g33.CIDRg.4015",
+          "PH0524-C.g39.CIDRg.3850",
+          "PH0524-C.g43.CIDRg.5350",
+          "PH0524-C.g17.CIDRg.1360",
+          "PH0524-C.g58.CIDRg.3949",
+          "PH0524-C.g52.CIDRg.4264",
+          "PH0524-C.g37.CIDRg.3955",
+          "PH0524-C.g67.CIDRg.4045",
+          "PH0524-C.g65.CIDRg.4222",
+          "PH0524-C.g35.CIDRg.4069",
+          "PH0524-C.g8.CIDRg.5896",
+          "PH0524-C.g61.CIDRg.4231",
+          "PH0524-C.g27.CIDRg.4822",
+          "PH0524-C.g76.CIDRg.1201"
+        ]
+      },
+      "PH0527-C": {
+        "count": 19,
+        "samples": [
+          "PH0527-C.g19.CIDRg.4078",
+          "PH0527-C.g75.CIDRg.5134",
+          "PH0527-C.g51.CIDRg.4195",
+          "PH0527-C.g79.CIDRg.3940",
+          "PH0527-C.g60.CIDRg.3844",
+          "PH0527-C.g80.CIDRg.3937",
+          "PH0527-C.g63.CIDRg.3988",
+          "PH0527-C.g99.CIDRg.5083",
+          "PH0527-C.g61.CIDRg.4954",
+          "PH0527-C.g107.CIDRg.3907",
+          "PH0527-C.g52.CIDRg.7951",
+          "PH0527-C.g49.CIDRg.4618",
+          "PH0527-C.g58.CIDRg.4120",
+          "PH0527-C.g47.CIDRg.3940",
+          "PH0527-C.g98.CIDRg.4048",
+          "PH0527-C.g125.CIDRg.5329",
+          "PH0527-C.g95.CIDRg.3976",
+          "PH0527-C.g139.CIDRg.4222",
+          "PH0527-C.g82.CIDRg.1393"
+        ]
+      },
+      "PH0596-C": {
+        "count": 17,
+        "samples": [
+          "PH0596-C.g49.CIDRg.4048",
+          "PH0596-C.g71.CIDRg.3835",
+          "PH0596-C.g16.CIDRg.3568",
+          "PH0596-C.g67.CIDRg.4066",
+          "PH0596-C.g41.CIDRg.4075",
+          "PH0596-C.g36.CIDRg.4447",
+          "PH0596-C.g35.CIDRg.5629",
+          "PH0596-C.g23.CIDRg.4234",
+          "PH0596-C.g42.CIDRg.3940",
+          "PH0596-C.g26.CIDRg.4642",
+          "PH0596-C.g46.CIDRg.3982",
+          "PH0596-C.g60.CIDRg.2692",
+          "PH0596-C.g48.CIDRg.1588",
+          "PH0596-C.g26.CIDRg.1417",
+          "PH0596-C.g50.CIDRg.4024",
+          "PH0596-C.g14.CIDRg.3997",
+          "PH0596-C.g21.CIDRg.5077"
+        ]
+      },
+      "PH0820-C": {
+        "count": 14,
+        "samples": [
+          "PH0820-C.g68.CIDRg.4081",
+          "PH0820-C.g13.CIDRg.7705",
+          "PH0820-C.g36.CIDRg.2260",
+          "PH0820-C.g41.CIDRg.3943",
+          "PH0820-C.g17.CIDRg.6043",
+          "PH0820-C.g48.CIDRg.4009",
+          "PH0820-C.g25.CIDRg.5392",
+          "PH0820-C.g38.CIDRg.5134",
+          "PH0820-C.g12.CIDRg.6499",
+          "PH0820-C.g95.CIDRg.838",
+          "PH0820-C.g15.CIDRg.4168",
+          "PH0820-C.g16.CIDRg.3790",
+          "PH0820-C.g37.CIDRg.3568",
+          "PH0820-C.g11.CIDRg.8161"
+        ]
+      },
+      "PH0824-C": {
+        "count": 23,
+        "samples": [
+          "PH0824-C.g23.CIDRg.3937",
+          "PH0824-C.g36.CIDRg.1186",
+          "PH0824-C.g84.CIDRg.3865",
+          "PH0824-C.g12.CIDRg.5392",
+          "PH0824-C.g32.CIDRg.3568",
+          "PH0824-C.g27.CIDRg.3943",
+          "PH0824-C.g69.CIDRg.4081",
+          "PH0824-C.g4.CIDRg.4492",
+          "PH0824-C.g77.CIDRg.4120",
+          "PH0824-C.g75.CIDRg.4168",
+          "PH0824-C.g74.CIDRg.4171",
+          "PH0824-C.g105.CIDRg.1420",
+          "PH0824-C.g64.CIDRg.4078",
+          "PH0824-C.g51.CIDRg.2545",
+          "PH0824-C.g119.CIDRg.685",
+          "PH0824-C.g57.CIDRg.3748",
+          "PH0824-C.g2.CIDRg.6499",
+          "PH0824-C.g62.CIDRg.4048",
+          "PH0824-C.g15.CIDRg.3940",
+          "PH0824-C.g3.CIDRg.3790",
+          "PH0824-C.g10.CIDRg.7705",
+          "PH0824-C.g13.CIDRg.4618",
+          "PH0824-C.g9.CIDRg.8161"
+        ]
+      },
+      "PT0001-CW": {
+        "count": 5,
+        "samples": [
+          "PT0001-CW.g31.CIDRg.3853",
+          "PT0001-CW.g21.CIDRg.4312",
+          "PT0001-CW.g6.CIDRg.1393",
+          "PT0001-CW.g20.CIDRg.1033",
+          "PT0001-CW.g10.CIDRg.5806"
+        ]
+      },
+      "PT0002-CW": {
+        "count": 5,
+        "samples": [
+          "PT0002-CW.g28.CIDRg.1534",
+          "PT0002-CW.g22.CIDRg.1132",
+          "PT0002-CW.g16.CIDRg.1315",
+          "PT0002-CW.g27.CIDRg.3145",
+          "PT0002-CW.g1.CIDRg.7735"
+        ]
+      },
+      "PT0003-CW": {
+        "count": 19,
+        "samples": [
+          "PT0003-CW.g48.CIDRg.4033",
+          "PT0003-CW.g43.CIDRg.4264",
+          "PT0003-CW.g101.CIDRg.3100",
+          "PT0003-CW.g51.CIDRg.4165",
+          "PT0003-CW.g84.CIDRg.3736",
+          "PT0003-CW.g4.CIDRg.5098",
+          "PT0003-CW.g69.CIDRg.646",
+          "PT0003-CW.g99.CIDRg.3109",
+          "PT0003-CW.g66.CIDRg.3703",
+          "PT0003-CW.g9.CIDRg.1402",
+          "PT0003-CW.g58.CIDRg.4093",
+          "PT0003-CW.g24.CIDRg.5389",
+          "PT0003-CW.g104.CIDRg.3370",
+          "PT0003-CW.g113.CIDRg.901",
+          "PT0003-CW.g63.CIDRg.4003",
+          "PT0003-CW.g72.CIDRg.4213",
+          "PT0003-CW.g109.CIDRg.3343",
+          "PT0003-CW.g40.CIDRg.4213",
+          "PT0003-CW.g97.CIDRg.1435"
+        ]
+      },
+      "PT0004-CW": {
+        "count": 8,
+        "samples": [
+          "PT0004-CW.g4.CIDRg.1378",
+          "PT0004-CW.g12.CIDRg.1072",
+          "PT0004-CW.g22.CIDRg.5539",
+          "PT0004-CW.g66.CIDRg.3370",
+          "PT0004-CW.g45.CIDRg.4021",
+          "PT0004-CW.g4.CIDRg.4615",
+          "PT0004-CW.g36.CIDRg.1168",
+          "PT0004-CW.g30.CIDRg.4330"
+        ]
+      },
+      "PT0005-CW": {
+        "count": 16,
+        "samples": [
+          "PT0005-CW.g38.CIDRg.6007",
+          "PT0005-CW.g60.CIDRg.922",
+          "PT0005-CW.g65.CIDRg.5587",
+          "PT0005-CW.g41.CIDRg.1405",
+          "PT0005-CW.g52.CIDRg.4066",
+          "PT0005-CW.g67.CIDRg.5098",
+          "PT0005-CW.g49.CIDRg.4180",
+          "PT0005-CW.g129.CIDRg.3151",
+          "PT0005-CW.g54.CIDRg.4570",
+          "PT0005-CW.g66.CIDRg.4228",
+          "PT0005-CW.g40.CIDRg.6034",
+          "PT0005-CW.g42.CIDRg.4348",
+          "PT0005-CW.g47.CIDRg.1417",
+          "PT0005-CW.g44.CIDRg.4114",
+          "PT0005-CW.g84.CIDRg.3955",
+          "PT0005-CW.g74.CIDRg.3925"
+        ]
+      },
+      "PT0006-CW": {
+        "count": 13,
+        "samples": [
+          "PT0006-CW.g12.CIDRg.1369",
+          "PT0006-CW.g87.CIDRg.1960",
+          "PT0006-CW.g56.CIDRg.4300",
+          "PT0006-CW.g70.CIDRg.4105",
+          "PT0006-CW.g93.CIDRg.4003",
+          "PT0006-CW.g12.CIDRg.4627",
+          "PT0006-CW.g81.CIDRg.4372",
+          "PT0006-CW.g36.CIDRg.3046",
+          "PT0006-CW.g26.CIDRg.7768",
+          "PT0006-CW.g24.CIDRg.4894",
+          "PT0006-CW.g66.CIDRg.4111",
+          "PT0006-CW.g27.CIDRg.7510",
+          "PT0006-CW.g84.CIDRg.4063"
+        ]
+      },
+      "PT0007-CW": {
+        "count": 8,
+        "samples": [
+          "PT0007-CW.g59.CIDRg.3955",
+          "PT0007-CW.g18.CIDRg.1393",
+          "PT0007-CW.g58.CIDRg.4078",
+          "PT0007-CW.g61.CIDRg.4204",
+          "PT0007-CW.g55.CIDRg.4237",
+          "PT0007-CW.g15.CIDRg.5260",
+          "PT0007-CW.g52.CIDRg.4189",
+          "PT0007-CW.g49.CIDRg.4075"
+        ]
+      },
+      "PT0008-CW": {
+        "count": 8,
+        "samples": [
+          "PT0008-CW.g3.CIDRg.3301",
+          "PT0008-CW.g27.CIDRg.1396",
+          "PT0008-CW.g29.CIDRg.1921",
+          "PT0008-CW.g11.CIDRg.5266",
+          "PT0008-CW.g15.CIDRg.1429",
+          "PT0008-CW.g16.CIDRg.4150",
+          "PT0008-CW.g25.CIDRg.4180",
+          "PT0008-CW.g14.CIDRg.4897"
+        ]
+      },
+      "PT0009-CW": {
+        "count": 7,
+        "samples": [
+          "PT0009-CW.g110.CIDRg.4075",
+          "PT0009-CW.g72.CIDRg.5260",
+          "PT0009-CW.g129.CIDRg.4204",
+          "PT0009-CW.g126.CIDRg.4078",
+          "PT0009-CW.g125.CIDRg.3955",
+          "PT0009-CW.g104.CIDRg.4297",
+          "PT0009-CW.g116.CIDRg.4189"
+        ]
+      },
+      "PT0010-CW": {
+        "count": 16,
+        "samples": [
+          "PT0010-CW.g53.CIDRg.4087",
+          "PT0010-CW.g22.CIDRg.3811",
+          "PT0010-CW.g34.CIDRg.1369",
+          "PT0010-CW.g22.CIDRg.1375",
+          "PT0010-CW.g23.CIDRg.2890",
+          "PT0010-CW.g9.CIDRg.4162",
+          "PT0010-CW.g62.CIDRg.922",
+          "PT0010-CW.g70.CIDRg.313",
+          "PT0010-CW.g7.CIDRg.1423",
+          "PT0010-CW.g7.CIDRg.4960",
+          "PT0010-CW.g83.CIDRg.1627",
+          "PT0010-CW.g65.CIDRg.2962",
+          "PT0010-CW.g63.CIDRg.3262",
+          "PT0010-CW.g37.CIDRg.1873",
+          "PT0010-CW.g29.CIDRg.5338",
+          "PT0010-CW.g61.CIDRg.3871"
+        ]
+      },
+      "PT0013-CW": {
+        "count": 2,
+        "samples": [
+          "PT0013-CW.g2.CIDRg.5296",
+          "PT0013-CW.g5.CIDRg.3976"
+        ]
+      },
+      "PT0014-CW": {
+        "count": 13,
+        "samples": [
+          "PT0014-CW.g21.CIDRg.5140",
+          "PT0014-CW.g20.CIDRg.4741",
+          "PT0014-CW.g65.CIDRg.4207",
+          "PT0014-CW.g36.CIDRg.1384",
+          "PT0014-CW.g56.CIDRg.4882",
+          "PT0014-CW.g39.CIDRg.4123",
+          "PT0014-CW.g48.CIDRg.4309",
+          "PT0014-CW.g75.CIDRg.4195",
+          "PT0014-CW.g69.CIDRg.4312",
+          "PT0014-CW.g38.CIDRg.6868",
+          "PT0014-CW.g70.CIDRg.4255",
+          "PT0014-CW.g60.CIDRg.4291",
+          "PT0014-CW.g51.CIDRg.4366"
+        ]
+      },
+      "PT0015-CW": {
+        "count": 6,
+        "samples": [
+          "PT0015-CW.g16.CIDRg.3880",
+          "PT0015-CW.g7.CIDRg.1378",
+          "PT0015-CW.g15.CIDRg.4183",
+          "PT0015-CW.g13.CIDRg.4801",
+          "PT0015-CW.g4.CIDRg.6166",
+          "PT0015-CW.g10.CIDRg.3490"
+        ]
+      },
+      "PT0027-C": {
+        "count": 8,
+        "samples": [
+          "PT0027-C.g43.CIDRg.4138",
+          "PT0027-C.g19.CIDRg.4657",
+          "PT0027-C.g70.CIDRg.4156",
+          "PT0027-C.g78.CIDRg.3730",
+          "PT0027-C.g34.CIDRg.1438",
+          "PT0027-C.g36.CIDRg.1384",
+          "PT0027-C.g16.CIDRg.6208",
+          "PT0027-C.g42.CIDRg.5326"
+        ]
+      },
+      "PT0035-C": {
+        "count": 10,
+        "samples": [
+          "PT0035-C.g66.CIDRg.4084",
+          "PT0035-C.g28.CIDRg.6469",
+          "PT0035-C.g60.CIDRg.4273",
+          "PT0035-C.g65.CIDRg.4177",
+          "PT0035-C.g2.CIDRg.6049",
+          "PT0035-C.g24.CIDRg.6880",
+          "PT0035-C.g22.CIDRg.4246",
+          "PT0035-C.g25.CIDRg.4249",
+          "PT0035-C.g70.CIDRg.4258",
+          "PT0035-C.g54.CIDRg.4162"
+        ]
+      },
+      "PT0044-C": {
+        "count": 13,
+        "samples": [
+          "PT0044-C.g16.CIDRg.4135",
+          "PT0044-C.g8.CIDRg.1396",
+          "PT0044-C.g15.CIDRg.4228",
+          "PT0044-C.g79.CIDRg.3934",
+          "PT0044-C.g5.CIDRg.3892",
+          "PT0044-C.g105.CIDRg.3862",
+          "PT0044-C.g45.CIDRg.5086",
+          "PT0044-C.g57.CIDRg.3157",
+          "PT0044-C.g38.CIDRg.5617",
+          "PT0044-C.g51.CIDRg.5284",
+          "PT0044-C.g39.CIDRg.1408",
+          "PT0044-C.g119.CIDRg.3019",
+          "PT0044-C.g32.CIDRg.4954"
+        ]
+      },
+      "PT0048-C": {
+        "count": 19,
+        "samples": [
+          "PT0048-C.g95.CIDRg.4081",
+          "PT0048-C.g32.CIDRg.6874",
+          "PT0048-C.g38.CIDRg.3961",
+          "PT0048-C.g33.CIDRg.3715",
+          "PT0048-C.g87.CIDRg.4033",
+          "PT0048-C.g49.CIDRg.4021",
+          "PT0048-C.g64.CIDRg.4249",
+          "PT0048-C.g99.CIDRg.4138",
+          "PT0048-C.g83.CIDRg.4126",
+          "PT0048-C.g23.CIDRg.1357",
+          "PT0048-C.g67.CIDRg.4174",
+          "PT0048-C.g19.CIDRg.5023",
+          "PT0048-C.g86.CIDRg.4201",
+          "PT0048-C.g10.CIDRg.1375",
+          "PT0048-C.g37.CIDRg.4195",
+          "PT0048-C.g25.CIDRg.5851",
+          "PT0048-C.g88.CIDRg.4048",
+          "PT0048-C.g24.CIDRg.5188",
+          "PT0048-C.g10.CIDRg.8638"
+        ]
+      },
+      "PT0051-C": {
+        "count": 2,
+        "samples": [
+          "PT0051-C.g20.CIDRg.370",
+          "PT0051-C.g5.CIDRg.5959"
+        ]
+      },
+      "PT0053-C": {
+        "count": 2,
+        "samples": [
+          "PT0053-C.g1.CIDRg.5950",
+          "PT0053-C.g4.CIDRg.3910"
+        ]
+      },
+      "PT0054-C": {
+        "count": 5,
+        "samples": [
+          "PT0054-C.g6.CIDRg.4606",
+          "PT0054-C.g11.CIDRg.2977",
+          "PT0054-C.g22.CIDRg.3073",
+          "PT0054-C.g7.CIDRg.5158",
+          "PT0054-C.g9.CIDRg.4174"
+        ]
+      },
+      "PT0055-C": {
+        "count": 9,
+        "samples": [
+          "PT0055-C.g5.CIDRg.5995",
+          "PT0055-C.g9.CIDRg.4213",
+          "PT0055-C.g31.CIDRg.3940",
+          "PT0055-C.g54.CIDRg.2923",
+          "PT0055-C.g1.CIDRg.9310",
+          "PT0055-C.g7.CIDRg.4129",
+          "PT0055-C.g19.CIDRg.4129",
+          "PT0055-C.g32.CIDRg.1672",
+          "PT0055-C.g3.CIDRg.6016"
+        ]
+      },
+      "PT0056-C": {
+        "count": 13,
+        "samples": [
+          "PT0056-C.g45.CIDRg.2602",
+          "PT0056-C.g33.CIDRg.4135",
+          "PT0056-C.g12.CIDRg.4120",
+          "PT0056-C.g8.CIDRg.6421",
+          "PT0056-C.g36.CIDRg.4021",
+          "PT0056-C.g19.CIDRg.4021",
+          "PT0056-C.g48.CIDRg.4081",
+          "PT0056-C.g23.CIDRg.871",
+          "PT0056-C.g25.CIDRg.5806",
+          "PT0056-C.g43.CIDRg.4225",
+          "PT0056-C.g53.CIDRg.4237",
+          "PT0056-C.g15.CIDRg.6553",
+          "PT0056-C.g57.CIDRg.3976"
+        ]
+      },
+      "PT0058-C": {
+        "count": 15,
+        "samples": [
+          "PT0058-C.g79.CIDRg.4111",
+          "PT0058-C.g67.CIDRg.3676",
+          "PT0058-C.g36.CIDRg.8113",
+          "PT0058-C.g65.CIDRg.4072",
+          "PT0058-C.g19.CIDRg.4276",
+          "PT0058-C.g48.CIDRg.1399",
+          "PT0058-C.g68.CIDRg.4135",
+          "PT0058-C.g50.CIDRg.4204",
+          "PT0058-C.g112.CIDRg.3745",
+          "PT0058-C.g88.CIDRg.3850",
+          "PT0058-C.g21.CIDRg.6133",
+          "PT0058-C.g75.CIDRg.1846",
+          "PT0058-C.g54.CIDRg.3955",
+          "PT0058-C.g81.CIDRg.4306",
+          "PT0058-C.g92.CIDRg.3997"
+        ]
+      },
+      "PT0059-C": {
+        "count": 15,
+        "samples": [
+          "PT0059-C.g1.CIDRg.5098",
+          "PT0059-C.g10.CIDRg.5956",
+          "PT0059-C.g39.CIDRg.4456",
+          "PT0059-C.g30.CIDRg.4276",
+          "PT0059-C.g46.CIDRg.4393",
+          "PT0059-C.g27.CIDRg.4141",
+          "PT0059-C.g38.CIDRg.3994",
+          "PT0059-C.g79.CIDRg.1393",
+          "PT0059-C.g13.CIDRg.5032",
+          "PT0059-C.g85.CIDRg.1726",
+          "PT0059-C.g55.CIDRg.4213",
+          "PT0059-C.g67.CIDRg.4048",
+          "PT0059-C.g24.CIDRg.5959",
+          "PT0059-C.g3.CIDRg.6274",
+          "PT0059-C.g77.CIDRg.4123"
+        ]
+      },
+      "PT0060-C": {
+        "count": 13,
+        "samples": [
+          "PT0060-C.g71.CIDRg.4111",
+          "PT0060-C.g78.CIDRg.4147",
+          "PT0060-C.g87.CIDRg.3892",
+          "PT0060-C.g88.CIDRg.4021",
+          "PT0060-C.g57.CIDRg.4117",
+          "PT0060-C.g121.CIDRg.4192",
+          "PT0060-C.g19.CIDRg.6040",
+          "PT0060-C.g63.CIDRg.4426",
+          "PT0060-C.g15.CIDRg.1429",
+          "PT0060-C.g14.CIDRg.7693",
+          "PT0060-C.g47.CIDRg.850",
+          "PT0060-C.g40.CIDRg.5074",
+          "PT0060-C.g18.CIDRg.9181"
+        ]
+      },
+      "PT0062-C": {
+        "count": 2,
+        "samples": [
+          "PT0062-C.g3.CIDRg.1612",
+          "PT0062-C.g5.CIDRg.3595"
+        ]
+      },
+      "PT0069-C": {
+        "count": 40,
+        "samples": [
+          "PT0069-C.g151.CIDRg.1381",
+          "PT0069-C.g271.CIDRg.4165",
+          "PT0069-C.g79.CIDRg.5176",
+          "PT0069-C.g128.CIDRg.1417",
+          "PT0069-C.g180.CIDRg.6016",
+          "PT0069-C.g268.CIDRg.4081",
+          "PT0069-C.g248.CIDRg.4813",
+          "PT0069-C.g174.CIDRg.1384",
+          "PT0069-C.g185.CIDRg.5347",
+          "PT0069-C.g77.CIDRg.8200",
+          "PT0069-C.g338.CIDRg.4174",
+          "PT0069-C.g69.CIDRg.6385",
+          "PT0069-C.g179.CIDRg.3919",
+          "PT0069-C.g263.CIDRg.4234",
+          "PT0069-C.g210.CIDRg.5023",
+          "PT0069-C.g311.CIDRg.4003",
+          "PT0069-C.g191.CIDRg.865",
+          "PT0069-C.g241.CIDRg.4411",
+          "PT0069-C.g178.CIDRg.5527",
+          "PT0069-C.g127.CIDRg.6190",
+          "PT0069-C.g274.CIDRg.4108",
+          "PT0069-C.g123.CIDRg.6103",
+          "PT0069-C.g230.CIDRg.4288",
+          "PT0069-C.g181.CIDRg.3793",
+          "PT0069-C.g211.CIDRg.5620",
+          "PT0069-C.g287.CIDRg.4183",
+          "PT0069-C.g47.CIDRg.7618",
+          "PT0069-C.g276.CIDRg.4144",
+          "PT0069-C.g285.CIDRg.4015",
+          "PT0069-C.g48.CIDRg.7858",
+          "PT0069-C.g279.CIDRg.4114",
+          "PT0069-C.g84.CIDRg.5227",
+          "PT0069-C.g130.CIDRg.4351",
+          "PT0069-C.g235.CIDRg.4027",
+          "PT0069-C.g253.CIDRg.4162",
+          "PT0069-C.g280.CIDRg.4192",
+          "PT0069-C.g252.CIDRg.4348",
+          "PT0069-C.g270.CIDRg.4228",
+          "PT0069-C.g349.CIDRg.3892",
+          "PT0069-C.g82.CIDRg.1381"
+        ]
+      },
+      "PT0070-C": {
+        "count": 13,
+        "samples": [
+          "PT0070-C.g30.CIDRg.6052",
+          "PT0070-C.g66.CIDRg.4822",
+          "PT0070-C.g96.CIDRg.3145",
+          "PT0070-C.g28.CIDRg.4000",
+          "PT0070-C.g19.CIDRg.4039",
+          "PT0070-C.g68.CIDRg.3967",
+          "PT0070-C.g92.CIDRg.3145",
+          "PT0070-C.g78.CIDRg.4135",
+          "PT0070-C.g60.CIDRg.5167",
+          "PT0070-C.g42.CIDRg.4000",
+          "PT0070-C.g43.CIDRg.4132",
+          "PT0070-C.g21.CIDRg.5323",
+          "PT0070-C.g27.CIDRg.6883"
+        ]
+      },
+      "PT0072-C": {
+        "count": 21,
+        "samples": [
+          "PT0072-C.g129.CIDRg.748",
+          "PT0072-C.g17.CIDRg.5887",
+          "PT0072-C.g82.CIDRg.3991",
+          "PT0072-C.g102.CIDRg.3700",
+          "PT0072-C.g72.CIDRg.853",
+          "PT0072-C.g15.CIDRg.6196",
+          "PT0072-C.g60.CIDRg.4111",
+          "PT0072-C.g62.CIDRg.4045",
+          "PT0072-C.g35.CIDRg.5164",
+          "PT0072-C.g74.CIDRg.4078",
+          "PT0072-C.g80.CIDRg.4000",
+          "PT0072-C.g9.CIDRg.5971",
+          "PT0072-C.g69.CIDRg.4258",
+          "PT0072-C.g21.CIDRg.5959",
+          "PT0072-C.g125.CIDRg.3238",
+          "PT0072-C.g83.CIDRg.4078",
+          "PT0072-C.g37.CIDRg.4084",
+          "PT0072-C.g19.CIDRg.3925",
+          "PT0072-C.g95.CIDRg.1843",
+          "PT0072-C.g50.CIDRg.4108",
+          "PT0072-C.g41.CIDRg.1777"
+        ]
+      },
+      "PT0073-C": {
+        "count": 17,
+        "samples": [
+          "PT0073-C.g69.CIDRg.4564",
+          "PT0073-C.g42.CIDRg.1384",
+          "PT0073-C.g108.CIDRg.1414",
+          "PT0073-C.g43.CIDRg.4462",
+          "PT0073-C.g46.CIDRg.5461",
+          "PT0073-C.g36.CIDRg.4231",
+          "PT0073-C.g57.CIDRg.4336",
+          "PT0073-C.g35.CIDRg.5212",
+          "PT0073-C.g85.CIDRg.4036",
+          "PT0073-C.g66.CIDRg.4279",
+          "PT0073-C.g1.CIDRg.8032",
+          "PT0073-C.g33.CIDRg.5572",
+          "PT0073-C.g40.CIDRg.3805",
+          "PT0073-C.g89.CIDRg.4222",
+          "PT0073-C.g97.CIDRg.3991",
+          "PT0073-C.g99.CIDRg.3913",
+          "PT0073-C.g34.CIDRg.1408"
+        ]
+      },
+      "PT0074-C": {
+        "count": 17,
+        "samples": [
+          "PT0074-C.g11.CIDRg.6331",
+          "PT0074-C.g67.CIDRg.3145",
+          "PT0074-C.g71.CIDRg.1228",
+          "PT0074-C.g3.CIDRg.1399",
+          "PT0074-C.g3.CIDRg.4603",
+          "PT0074-C.g29.CIDRg.4375",
+          "PT0074-C.g28.CIDRg.4276",
+          "PT0074-C.g20.CIDRg.1411",
+          "PT0074-C.g38.CIDRg.4003",
+          "PT0074-C.g69.CIDRg.1240",
+          "PT0074-C.g17.CIDRg.6106",
+          "PT0074-C.g5.CIDRg.6484",
+          "PT0074-C.g52.CIDRg.3958",
+          "PT0074-C.g66.CIDRg.3634",
+          "PT0074-C.g14.CIDRg.5188",
+          "PT0074-C.g36.CIDRg.4213",
+          "PT0074-C.g82.CIDRg.3061"
+        ]
+      },
+      "PT0076-C": {
+        "count": 20,
+        "samples": [
+          "PT0076-C.g21.CIDRg.4231",
+          "PT0076-C.g62.CIDRg.4351",
+          "PT0076-C.g54.CIDRg.4318",
+          "PT0076-C.g24.CIDRg.5212",
+          "PT0076-C.g76.CIDRg.3901",
+          "PT0076-C.g64.CIDRg.4291",
+          "PT0076-C.g68.CIDRg.4561",
+          "PT0076-C.g9.CIDRg.5077",
+          "PT0076-C.g55.CIDRg.3964",
+          "PT0076-C.g65.CIDRg.4204",
+          "PT0076-C.g103.CIDRg.4249",
+          "PT0076-C.g28.CIDRg.6103",
+          "PT0076-C.g1.CIDRg.6136",
+          "PT0076-C.g8.CIDRg.6130",
+          "PT0076-C.g28.CIDRg.1234",
+          "PT0076-C.g91.CIDRg.3910",
+          "PT0076-C.g36.CIDRg.1396",
+          "PT0076-C.g4.CIDRg.1408",
+          "PT0076-C.g87.CIDRg.4060",
+          "PT0076-C.g30.CIDRg.4279"
+        ]
+      },
+      "PT0077-Cx": {
+        "count": 24,
+        "samples": [
+          "PT0077-Cx.g57.CIDRg.4099",
+          "PT0077-Cx.g76.CIDRg.4234",
+          "PT0077-Cx.g78.CIDRg.4057",
+          "PT0077-Cx.g119.CIDRg.4",
+          "PT0077-Cx.g118.CIDRg.3160",
+          "PT0077-Cx.g24.CIDRg.5395",
+          "PT0077-Cx.g9.CIDRg.6073",
+          "PT0077-Cx.g77.CIDRg.1462",
+          "PT0077-Cx.g18.CIDRg.1399",
+          "PT0077-Cx.g7.CIDRg.5992",
+          "PT0077-Cx.g38.CIDRg.1429",
+          "PT0077-Cx.g18.CIDRg.5854",
+          "PT0077-Cx.g88.CIDRg.1756",
+          "PT0077-Cx.g29.CIDRg.4411",
+          "PT0077-Cx.g136.CIDRg.2968",
+          "PT0077-Cx.g100.CIDRg.3793",
+          "PT0077-Cx.g4.CIDRg.6319",
+          "PT0077-Cx.g3.CIDRg.6508",
+          "PT0077-Cx.g14.CIDRg.6745",
+          "PT0077-Cx.g81.CIDRg.3925",
+          "PT0077-Cx.g85.CIDRg.3943",
+          "PT0077-Cx.g64.CIDRg.4174",
+          "PT0077-Cx.g138.CIDRg.3121",
+          "PT0077-Cx.g26.CIDRg.4318"
+        ]
+      },
+      "PT0078-Cx": {
+        "count": 24,
+        "samples": [
+          "PT0078-Cx.g18.CIDRg.6274",
+          "PT0078-Cx.g94.CIDRg.4249",
+          "PT0078-Cx.g46.CIDRg.4222",
+          "PT0078-Cx.g21.CIDRg.5059",
+          "PT0078-Cx.g88.CIDRg.4213",
+          "PT0078-Cx.g86.CIDRg.4213",
+          "PT0078-Cx.g34.CIDRg.4780",
+          "PT0078-Cx.g42.CIDRg.4396",
+          "PT0078-Cx.g73.CIDRg.2860",
+          "PT0078-Cx.g69.CIDRg.4180",
+          "PT0078-Cx.g74.CIDRg.3952",
+          "PT0078-Cx.g72.CIDRg.1405",
+          "PT0078-Cx.g26.CIDRg.7468",
+          "PT0078-Cx.g19.CIDRg.1375",
+          "PT0078-Cx.g38.CIDRg.1399",
+          "PT0078-Cx.g81.CIDRg.4162",
+          "PT0078-Cx.g27.CIDRg.6187",
+          "PT0078-Cx.g85.CIDRg.4117",
+          "PT0078-Cx.g141.CIDRg.3262",
+          "PT0078-Cx.g65.CIDRg.4882",
+          "PT0078-Cx.g99.CIDRg.4069",
+          "PT0078-Cx.g160.CIDRg.3136",
+          "PT0078-Cx.g105.CIDRg.4561",
+          "PT0078-Cx.g10.CIDRg.6346"
+        ]
+      },
+      "PT0079-C": {
+        "count": 9,
+        "samples": [
+          "PT0079-C.g46.CIDRg.4066",
+          "PT0079-C.g57.CIDRg.5059",
+          "PT0079-C.g23.CIDRg.1384",
+          "PT0079-C.g83.CIDRg.4207",
+          "PT0079-C.g17.CIDRg.6190",
+          "PT0079-C.g7.CIDRg.3976",
+          "PT0079-C.g35.CIDRg.5092",
+          "PT0079-C.g22.CIDRg.4627",
+          "PT0079-C.g36.CIDRg.5344"
+        ]
+      },
+      "PT0082-C": {
+        "count": 7,
+        "samples": [
+          "PT0082-C.g47.CIDRg.1552",
+          "PT0082-C.g6.CIDRg.6019",
+          "PT0082-C.g4.CIDRg.5026",
+          "PT0082-C.g34.CIDRg.4006",
+          "PT0082-C.g13.CIDRg.1366",
+          "PT0082-C.g59.CIDRg.3163",
+          "PT0082-C.g51.CIDRg.1432"
+        ]
+      },
+      "PT0083-C": {
+        "count": 14,
+        "samples": [
+          "PT0083-C.g10.CIDRg.6217",
+          "PT0083-C.g87.CIDRg.3976",
+          "PT0083-C.g53.CIDRg.4279",
+          "PT0083-C.g22.CIDRg.6436",
+          "PT0083-C.g92.CIDRg.4189",
+          "PT0083-C.g90.CIDRg.4003",
+          "PT0083-C.g102.CIDRg.4027",
+          "PT0083-C.g11.CIDRg.6220",
+          "PT0083-C.g53.CIDRg.994",
+          "PT0083-C.g51.CIDRg.3910",
+          "PT0083-C.g62.CIDRg.4207",
+          "PT0083-C.g109.CIDRg.3883",
+          "PT0083-C.g26.CIDRg.871",
+          "PT0083-C.g129.CIDRg.2911"
+        ]
+      },
+      "PT0084-C": {
+        "count": 11,
+        "samples": [
+          "PT0084-C.g36.CIDRg.4345",
+          "PT0084-C.g37.CIDRg.4084",
+          "PT0084-C.g8.CIDRg.4798",
+          "PT0084-C.g27.CIDRg.4963",
+          "PT0084-C.g15.CIDRg.4117",
+          "PT0084-C.g30.CIDRg.4306",
+          "PT0084-C.g49.CIDRg.3946",
+          "PT0084-C.g13.CIDRg.5989",
+          "PT0084-C.g41.CIDRg.4126",
+          "PT0084-C.g47.CIDRg.3901",
+          "PT0084-C.g14.CIDRg.4264"
+        ]
+      },
+      "PT0085-C": {
+        "count": 12,
+        "samples": [
+          "PT0085-C.g5.CIDRg.3646",
+          "PT0085-C.g11.CIDRg.6040",
+          "PT0085-C.g14.CIDRg.1372",
+          "PT0085-C.g74.CIDRg.4048",
+          "PT0085-C.g19.CIDRg.4201",
+          "PT0085-C.g17.CIDRg.4285",
+          "PT0085-C.g65.CIDRg.4141",
+          "PT0085-C.g83.CIDRg.3370",
+          "PT0085-C.g62.CIDRg.1204",
+          "PT0085-C.g88.CIDRg.3448",
+          "PT0085-C.g10.CIDRg.3883",
+          "PT0085-C.g3.CIDRg.6190"
+        ]
+      },
+      "PT0086-C": {
+        "count": 15,
+        "samples": [
+          "PT0086-C.g55.CIDRg.4039",
+          "PT0086-C.g51.CIDRg.3616",
+          "PT0086-C.g19.CIDRg.6037",
+          "PT0086-C.g85.CIDRg.4048",
+          "PT0086-C.g28.CIDRg.6085",
+          "PT0086-C.g34.CIDRg.4180",
+          "PT0086-C.g15.CIDRg.6247",
+          "PT0086-C.g24.CIDRg.4027",
+          "PT0086-C.g80.CIDRg.4216",
+          "PT0086-C.g21.CIDRg.5086",
+          "PT0086-C.g45.CIDRg.4321",
+          "PT0086-C.g39.CIDRg.4378",
+          "PT0086-C.g36.CIDRg.6721",
+          "PT0086-C.g87.CIDRg.4027",
+          "PT0086-C.g50.CIDRg.4090"
+        ]
+      },
+      "PT0088-C": {
+        "count": 14,
+        "samples": [
+          "PT0088-C.g11.CIDRg.6103",
+          "PT0088-C.g16.CIDRg.4714",
+          "PT0088-C.g24.CIDRg.1390",
+          "PT0088-C.g15.CIDRg.1399",
+          "PT0088-C.g41.CIDRg.3913",
+          "PT0088-C.g51.CIDRg.4162",
+          "PT0088-C.g15.CIDRg.6175",
+          "PT0088-C.g7.CIDRg.6064",
+          "PT0088-C.g43.CIDRg.4231",
+          "PT0088-C.g33.CIDRg.4069",
+          "PT0088-C.g5.CIDRg.4096",
+          "PT0088-C.g36.CIDRg.4954",
+          "PT0088-C.g61.CIDRg.4261",
+          "PT0088-C.g68.CIDRg.3925"
+        ]
+      },
+      "PT0089-C": {
+        "count": 17,
+        "samples": [
+          "PT0089-C.g113.CIDRg.2932",
+          "PT0089-C.g20.CIDRg.4855",
+          "PT0089-C.g15.CIDRg.1417",
+          "PT0089-C.g41.CIDRg.4366",
+          "PT0089-C.g19.CIDRg.5503",
+          "PT0089-C.g4.CIDRg.6178",
+          "PT0089-C.g51.CIDRg.4129",
+          "PT0089-C.g6.CIDRg.5974",
+          "PT0089-C.g37.CIDRg.1096",
+          "PT0089-C.g46.CIDRg.4108",
+          "PT0089-C.g14.CIDRg.3928",
+          "PT0089-C.g57.CIDRg.4471",
+          "PT0089-C.g47.CIDRg.4213",
+          "PT0089-C.g98.CIDRg.3892",
+          "PT0089-C.g28.CIDRg.5257",
+          "PT0089-C.g7.CIDRg.4636",
+          "PT0089-C.g26.CIDRg.5119"
+        ]
+      },
+      "PT0090-C": {
+        "count": 14,
+        "samples": [
+          "PT0090-C.g7.CIDRg.5248",
+          "PT0090-C.g36.CIDRg.4216",
+          "PT0090-C.g27.CIDRg.4120",
+          "PT0090-C.g96.CIDRg.4279",
+          "PT0090-C.g79.CIDRg.4078",
+          "PT0090-C.g35.CIDRg.4213",
+          "PT0090-C.g127.CIDRg.1363",
+          "PT0090-C.g80.CIDRg.4189",
+          "PT0090-C.g55.CIDRg.1393",
+          "PT0090-C.g88.CIDRg.4204",
+          "PT0090-C.g21.CIDRg.4102",
+          "PT0090-C.g87.CIDRg.4135",
+          "PT0090-C.g20.CIDRg.1399",
+          "PT0090-C.g12.CIDRg.3922"
+        ]
+      },
+      "PT0091-C": {
+        "count": 3,
+        "samples": [
+          "PT0091-C.g7.CIDRg.4546",
+          "PT0091-C.g8.CIDRg.1387",
+          "PT0091-C.g7.CIDRg.1375"
+        ]
+      },
+      "PT0092-C": {
+        "count": 31,
+        "samples": [
+          "PT0092-C.g145.CIDRg.3307",
+          "PT0092-C.g22.CIDRg.6082",
+          "PT0092-C.g38.CIDRg.4270",
+          "PT0092-C.g121.CIDRg.940",
+          "PT0092-C.g83.CIDRg.1108",
+          "PT0092-C.g61.CIDRg.4138",
+          "PT0092-C.g37.CIDRg.4300",
+          "PT0092-C.g88.CIDRg.3958",
+          "PT0092-C.g127.CIDRg.3640",
+          "PT0092-C.g165.CIDRg.1759",
+          "PT0092-C.g113.CIDRg.3991",
+          "PT0092-C.g67.CIDRg.4078",
+          "PT0092-C.g7.CIDRg.4015",
+          "PT0092-C.g130.CIDRg.3715",
+          "PT0092-C.g140.CIDRg.1399",
+          "PT0092-C.g141.CIDRg.3838",
+          "PT0092-C.g153.CIDRg.3187",
+          "PT0092-C.g15.CIDRg.5611",
+          "PT0092-C.g42.CIDRg.4294",
+          "PT0092-C.g76.CIDRg.4015",
+          "PT0092-C.g58.CIDRg.1399",
+          "PT0092-C.g118.CIDRg.4279",
+          "PT0092-C.g52.CIDRg.4162",
+          "PT0092-C.g109.CIDRg.4237",
+          "PT0092-C.g139.CIDRg.829",
+          "PT0092-C.g62.CIDRg.4033",
+          "PT0092-C.g63.CIDRg.4276",
+          "PT0092-C.g44.CIDRg.4909",
+          "PT0092-C.g24.CIDRg.3616",
+          "PT0092-C.g17.CIDRg.952",
+          "PT0092-C.g12.CIDRg.5035"
+        ]
+      },
+      "PT0094-C": {
+        "count": 13,
+        "samples": [
+          "PT0094-C.g98.CIDRg.3865",
+          "PT0094-C.g44.CIDRg.3106",
+          "PT0094-C.g37.CIDRg.4339",
+          "PT0094-C.g56.CIDRg.4303",
+          "PT0094-C.g27.CIDRg.1429",
+          "PT0094-C.g90.CIDRg.1708",
+          "PT0094-C.g26.CIDRg.6007",
+          "PT0094-C.g24.CIDRg.6049",
+          "PT0094-C.g10.CIDRg.6895",
+          "PT0094-C.g129.CIDRg.949",
+          "PT0094-C.g53.CIDRg.4288",
+          "PT0094-C.g36.CIDRg.5527",
+          "PT0094-C.g71.CIDRg.4174"
+        ]
+      },
+      "PT0095-C": {
+        "count": 7,
+        "samples": [
+          "PT0095-C.g69.CIDRg.4030",
+          "PT0095-C.g10.CIDRg.1393",
+          "PT0095-C.g55.CIDRg.4084",
+          "PT0095-C.g20.CIDRg.4009",
+          "PT0095-C.g16.CIDRg.4222",
+          "PT0095-C.g26.CIDRg.3706",
+          "PT0095-C.g67.CIDRg.3958"
+        ]
+      },
+      "PT0096-C": {
+        "count": 20,
+        "samples": [
+          "PT0096-C.g53.CIDRg.4009",
+          "PT0096-C.g117.CIDRg.1375",
+          "PT0096-C.g26.CIDRg.4084",
+          "PT0096-C.g78.CIDRg.3793",
+          "PT0096-C.g118.CIDRg.3190",
+          "PT0096-C.g11.CIDRg.1369",
+          "PT0096-C.g30.CIDRg.2626",
+          "PT0096-C.g105.CIDRg.3490",
+          "PT0096-C.g76.CIDRg.4018",
+          "PT0096-C.g81.CIDRg.3727",
+          "PT0096-C.g10.CIDRg.4174",
+          "PT0096-C.g9.CIDRg.1393",
+          "PT0096-C.g42.CIDRg.4126",
+          "PT0096-C.g21.CIDRg.1396",
+          "PT0096-C.g39.CIDRg.3919",
+          "PT0096-C.g19.CIDRg.3895",
+          "PT0096-C.g49.CIDRg.4195",
+          "PT0096-C.g58.CIDRg.3862",
+          "PT0096-C.g29.CIDRg.2734",
+          "PT0096-C.g44.CIDRg.5068"
+        ]
+      },
+      "PT0097-C": {
+        "count": 5,
+        "samples": [
+          "PT0097-C.g1.CIDRg.5437",
+          "PT0097-C.g17.CIDRg.5356",
+          "PT0097-C.g13.CIDRg.6028",
+          "PT0097-C.g50.CIDRg.2617",
+          "PT0097-C.g7.CIDRg.1369"
+        ]
+      },
+      "PT0098-C": {
+        "count": 8,
+        "samples": [
+          "PT0098-C.g20.CIDRg.4279",
+          "PT0098-C.g49.CIDRg.4171",
+          "PT0098-C.g15.CIDRg.3730",
+          "PT0098-C.g30.CIDRg.4156",
+          "PT0098-C.g17.CIDRg.5626",
+          "PT0098-C.g16.CIDRg.4168",
+          "PT0098-C.g11.CIDRg.5542",
+          "PT0098-C.g12.CIDRg.5971"
+        ]
+      },
+      "PT0099-C": {
+        "count": 24,
+        "samples": [
+          "PT0099-C.g29.CIDRg.5116",
+          "PT0099-C.g17.CIDRg.6094",
+          "PT0099-C.g148.CIDRg.3565",
+          "PT0099-C.g101.CIDRg.3982",
+          "PT0099-C.g32.CIDRg.4654",
+          "PT0099-C.g103.CIDRg.4201",
+          "PT0099-C.g110.CIDRg.4036",
+          "PT0099-C.g133.CIDRg.3946",
+          "PT0099-C.g70.CIDRg.4258",
+          "PT0099-C.g92.CIDRg.4219",
+          "PT0099-C.g14.CIDRg.6247",
+          "PT0099-C.g62.CIDRg.4441",
+          "PT0099-C.g102.CIDRg.4027",
+          "PT0099-C.g83.CIDRg.4186",
+          "PT0099-C.g72.CIDRg.4048",
+          "PT0099-C.g53.CIDRg.5047",
+          "PT0099-C.g12.CIDRg.6232",
+          "PT0099-C.g90.CIDRg.4363",
+          "PT0099-C.g12.CIDRg.1399",
+          "PT0099-C.g75.CIDRg.4636",
+          "PT0099-C.g9.CIDRg.6583",
+          "PT0099-C.g116.CIDRg.3871",
+          "PT0099-C.g80.CIDRg.2959",
+          "PT0099-C.g74.CIDRg.4363"
+        ]
+      },
+      "PT0100-C": {
+        "count": 17,
+        "samples": [
+          "PT0100-C.g10.CIDRg.1387",
+          "PT0100-C.g4.CIDRg.6073",
+          "PT0100-C.g89.CIDRg.2995",
+          "PT0100-C.g90.CIDRg.2929",
+          "PT0100-C.g42.CIDRg.4186",
+          "PT0100-C.g78.CIDRg.382",
+          "PT0100-C.g65.CIDRg.3298",
+          "PT0100-C.g9.CIDRg.3745",
+          "PT0100-C.g23.CIDRg.3016",
+          "PT0100-C.g18.CIDRg.4231",
+          "PT0100-C.g91.CIDRg.3241",
+          "PT0100-C.g41.CIDRg.4180",
+          "PT0100-C.g30.CIDRg.4339",
+          "PT0100-C.g40.CIDRg.3949",
+          "PT0100-C.g35.CIDRg.3256",
+          "PT0100-C.g1.CIDRg.5935",
+          "PT0100-C.g28.CIDRg.4189"
+        ]
+      },
+      "PT0101-C": {
+        "count": 15,
+        "samples": [
+          "PT0101-C.g26.CIDRg.5311",
+          "PT0101-C.g1.CIDRg.1432",
+          "PT0101-C.g19.CIDRg.3835",
+          "PT0101-C.g7.CIDRg.6190",
+          "PT0101-C.g28.CIDRg.4288",
+          "PT0101-C.g42.CIDRg.4291",
+          "PT0101-C.g73.CIDRg.3145",
+          "PT0101-C.g37.CIDRg.4219",
+          "PT0101-C.g21.CIDRg.3901",
+          "PT0101-C.g33.CIDRg.5113",
+          "PT0101-C.g9.CIDRg.4627",
+          "PT0101-C.g49.CIDRg.3985",
+          "PT0101-C.g36.CIDRg.4282",
+          "PT0101-C.g52.CIDRg.4414",
+          "PT0101-C.g14.CIDRg.4045"
+        ]
+      },
+      "PT0102-C": {
+        "count": 13,
+        "samples": [
+          "PT0102-C.g2.CIDRg.6505",
+          "PT0102-C.g15.CIDRg.6106",
+          "PT0102-C.g10.CIDRg.619",
+          "PT0102-C.g23.CIDRg.3880",
+          "PT0102-C.g8.CIDRg.5155",
+          "PT0102-C.g38.CIDRg.4189",
+          "PT0102-C.g44.CIDRg.4231",
+          "PT0102-C.g32.CIDRg.4087",
+          "PT0102-C.g77.CIDRg.3172",
+          "PT0102-C.g50.CIDRg.4276",
+          "PT0102-C.g75.CIDRg.3211",
+          "PT0102-C.g71.CIDRg.1375",
+          "PT0102-C.g21.CIDRg.5518"
+        ]
+      },
+      "PT0103-C": {
+        "count": 32,
+        "samples": [
+          "PT0103-C.g87.CIDRg.4090",
+          "PT0103-C.g105.CIDRg.4099",
+          "PT0103-C.g22.CIDRg.5953",
+          "PT0103-C.g81.CIDRg.4060",
+          "PT0103-C.g98.CIDRg.4057",
+          "PT0103-C.g75.CIDRg.4120",
+          "PT0103-C.g17.CIDRg.4246",
+          "PT0103-C.g113.CIDRg.1357",
+          "PT0103-C.g91.CIDRg.4234",
+          "PT0103-C.g68.CIDRg.4369",
+          "PT0103-C.g23.CIDRg.5407",
+          "PT0103-C.g82.CIDRg.4066",
+          "PT0103-C.g48.CIDRg.1384",
+          "PT0103-C.g67.CIDRg.4318",
+          "PT0103-C.g36.CIDRg.4279",
+          "PT0103-C.g33.CIDRg.1372",
+          "PT0103-C.g5.CIDRg.1390",
+          "PT0103-C.g26.CIDRg.4387",
+          "PT0103-C.g38.CIDRg.6067",
+          "PT0103-C.g49.CIDRg.4294",
+          "PT0103-C.g44.CIDRg.5515",
+          "PT0103-C.g28.CIDRg.4225",
+          "PT0103-C.g5.CIDRg.6454",
+          "PT0103-C.g10.CIDRg.6082",
+          "PT0103-C.g34.CIDRg.6112",
+          "PT0103-C.g16.CIDRg.5992",
+          "PT0103-C.g95.CIDRg.4243",
+          "PT0103-C.g30.CIDRg.3979",
+          "PT0103-C.g109.CIDRg.3688",
+          "PT0103-C.g31.CIDRg.4273",
+          "PT0103-C.g6.CIDRg.1378",
+          "PT0103-C.g14.CIDRg.3703"
+        ]
+      },
+      "PT0104-C": {
+        "count": 11,
+        "samples": [
+          "PT0104-C.g104.CIDRg.4090",
+          "PT0104-C.g84.CIDRg.4300",
+          "PT0104-C.g88.CIDRg.4180",
+          "PT0104-C.g86.CIDRg.3988",
+          "PT0104-C.g31.CIDRg.4801",
+          "PT0104-C.g56.CIDRg.3742",
+          "PT0104-C.g22.CIDRg.6361",
+          "PT0104-C.g82.CIDRg.3700",
+          "PT0104-C.g34.CIDRg.4093",
+          "PT0104-C.g107.CIDRg.4009",
+          "PT0104-C.g119.CIDRg.1513"
+        ]
+      },
+      "PT0106-C": {
+        "count": 10,
+        "samples": [
+          "PT0106-C.g21.CIDRg.4882",
+          "PT0106-C.g16.CIDRg.5122",
+          "PT0106-C.g32.CIDRg.4237",
+          "PT0106-C.g15.CIDRg.4423",
+          "PT0106-C.g28.CIDRg.4909",
+          "PT0106-C.g26.CIDRg.6391",
+          "PT0106-C.g54.CIDRg.3988",
+          "PT0106-C.g53.CIDRg.5833",
+          "PT0106-C.g96.CIDRg.3946",
+          "PT0106-C.g35.CIDRg.7426"
+        ]
+      },
+      "PT0107-C": {
+        "count": 11,
+        "samples": [
+          "PT0107-C.g30.CIDRg.4108",
+          "PT0107-C.g22.CIDRg.5935",
+          "PT0107-C.g66.CIDRg.3280",
+          "PT0107-C.g5.CIDRg.1402",
+          "PT0107-C.g48.CIDRg.4078",
+          "PT0107-C.g4.CIDRg.5959",
+          "PT0107-C.g42.CIDRg.4147",
+          "PT0107-C.g17.CIDRg.3925",
+          "PT0107-C.g27.CIDRg.4084",
+          "PT0107-C.g33.CIDRg.4213",
+          "PT0107-C.g13.CIDRg.6064"
+        ]
+      },
+      "PT0111-C": {
+        "count": 16,
+        "samples": [
+          "PT0111-C.g35.CIDRg.5023",
+          "PT0111-C.g22.CIDRg.3967",
+          "PT0111-C.g4.CIDRg.9304",
+          "PT0111-C.g50.CIDRg.4246",
+          "PT0111-C.g27.CIDRg.5959",
+          "PT0111-C.g46.CIDRg.2467",
+          "PT0111-C.g16.CIDRg.6040",
+          "PT0111-C.g7.CIDRg.5992",
+          "PT0111-C.g67.CIDRg.907",
+          "PT0111-C.g29.CIDRg.5710",
+          "PT0111-C.g76.CIDRg.1465",
+          "PT0111-C.g95.CIDRg.3265",
+          "PT0111-C.g28.CIDRg.3667",
+          "PT0111-C.g36.CIDRg.5035",
+          "PT0111-C.g42.CIDRg.4306",
+          "PT0111-C.g85.CIDRg.1372"
+        ]
+      },
+      "PT0113-C": {
+        "count": 1,
+        "samples": [
+          "PT0113-C.g5.CIDRg.2095"
+        ]
+      },
+      "PV0002-C": {
+        "count": 3,
+        "samples": [
+          "PV0002-C.g11.CIDRg.3301",
+          "PV0002-C.g37.CIDRg.3454",
+          "PV0002-C.g41.CIDRg.1699"
+        ]
+      },
+      "PV0004-C": {
+        "count": 5,
+        "samples": [
+          "PV0004-C.g15.CIDRg.535",
+          "PV0004-C.g33.CIDRg.514",
+          "PV0004-C.g3.CIDRg.1387",
+          "PV0004-C.g36.CIDRg.1006",
+          "PV0004-C.g20.CIDRg.1327"
+        ]
+      },
+      "PV0006-C": {
+        "count": 2,
+        "samples": [
+          "PV0006-C.g3.CIDRg.1393",
+          "PV0006-C.g7.CIDRg.4087"
+        ]
+      },
+      "PV0020-C": {
+        "count": 8,
+        "samples": [
+          "PV0020-C.g9.CIDRg.4630",
+          "PV0020-C.g45.CIDRg.3973",
+          "PV0020-C.g33.CIDRg.4234",
+          "PV0020-C.g23.CIDRg.4267",
+          "PV0020-C.g34.CIDRg.3985",
+          "PV0020-C.g20.CIDRg.4117",
+          "PV0020-C.g38.CIDRg.4009",
+          "PV0020-C.g41.CIDRg.3964"
+        ]
+      },
+      "PV0023-C": {
+        "count": 7,
+        "samples": [
+          "PV0023-C.g45.CIDRg.5476",
+          "PV0023-C.g11.CIDRg.1372",
+          "PV0023-C.g44.CIDRg.4234",
+          "PV0023-C.g23.CIDRg.3856",
+          "PV0023-C.g116.CIDRg.2923",
+          "PV0023-C.g106.CIDRg.733",
+          "PV0023-C.g32.CIDRg.4114"
+        ]
+      },
+      "PV0028-C": {
+        "count": 11,
+        "samples": [
+          "PV0028-C.g107.CIDRg.4045",
+          "PV0028-C.g78.CIDRg.5827",
+          "PV0028-C.g110.CIDRg.3970",
+          "PV0028-C.g39.CIDRg.4708",
+          "PV0028-C.g50.CIDRg.4162",
+          "PV0028-C.g65.CIDRg.3790",
+          "PV0028-C.g71.CIDRg.5134",
+          "PV0028-C.g20.CIDRg.6157",
+          "PV0028-C.g83.CIDRg.3748",
+          "PV0028-C.g43.CIDRg.4108",
+          "PV0028-C.g67.CIDRg.1384"
+        ]
+      },
+      "PV0031-C": {
+        "count": 13,
+        "samples": [
+          "PV0031-C.g72.CIDRg.3922",
+          "PV0031-C.g43.CIDRg.3808",
+          "PV0031-C.g40.CIDRg.6061",
+          "PV0031-C.g83.CIDRg.4084",
+          "PV0031-C.g26.CIDRg.6001",
+          "PV0031-C.g35.CIDRg.1381",
+          "PV0031-C.g92.CIDRg.670",
+          "PV0031-C.g53.CIDRg.4282",
+          "PV0031-C.g68.CIDRg.4378",
+          "PV0031-C.g48.CIDRg.3811",
+          "PV0031-C.g36.CIDRg.1375",
+          "PV0031-C.g71.CIDRg.4087",
+          "PV0031-C.g50.CIDRg.3907"
+        ]
+      },
+      "PV0035-C": {
+        "count": 7,
+        "samples": [
+          "PV0035-C.g11.CIDRg.1372",
+          "PV0035-C.g40.CIDRg.4213",
+          "PV0035-C.g9.CIDRg.4129",
+          "PV0035-C.g37.CIDRg.4069",
+          "PV0035-C.g14.CIDRg.4336",
+          "PV0035-C.g18.CIDRg.3970",
+          "PV0035-C.g45.CIDRg.4087"
+        ]
+      },
+      "PV0041-C": {
+        "count": 8,
+        "samples": [
+          "PV0041-C.g6.CIDRg.4009",
+          "PV0041-C.g43.CIDRg.4267",
+          "PV0041-C.g42.CIDRg.4234",
+          "PV0041-C.g97.CIDRg.3973",
+          "PV0041-C.g35.CIDRg.4630",
+          "PV0041-C.g91.CIDRg.3985",
+          "PV0041-C.g80.CIDRg.4117",
+          "PV0041-C.g57.CIDRg.3964"
+        ]
+      },
+      "PV0046-C": {
+        "count": 17,
+        "samples": [
+          "PV0046-C.g57.CIDRg.4225",
+          "PV0046-C.g59.CIDRg.3841",
+          "PV0046-C.g65.CIDRg.5797",
+          "PV0046-C.g106.CIDRg.1222",
+          "PV0046-C.g53.CIDRg.1375",
+          "PV0046-C.g35.CIDRg.4984",
+          "PV0046-C.g88.CIDRg.1591",
+          "PV0046-C.g38.CIDRg.3523",
+          "PV0046-C.g21.CIDRg.5263",
+          "PV0046-C.g68.CIDRg.4276",
+          "PV0046-C.g43.CIDRg.2629",
+          "PV0046-C.g55.CIDRg.1360",
+          "PV0046-C.g27.CIDRg.3865",
+          "PV0046-C.g67.CIDRg.3991",
+          "PV0046-C.g2.CIDRg.5971",
+          "PV0046-C.g52.CIDRg.4501",
+          "PV0046-C.g10.CIDRg.6295"
+        ]
+      },
+      "PV0048-C": {
+        "count": 6,
+        "samples": [
+          "PV0048-C.g45.CIDRg.4855",
+          "PV0048-C.g89.CIDRg.4096",
+          "PV0048-C.g77.CIDRg.1255",
+          "PV0048-C.g36.CIDRg.1393",
+          "PV0048-C.g96.CIDRg.1051",
+          "PV0048-C.g48.CIDRg.1450"
+        ]
+      },
+      "PV0081-C": {
+        "count": 12,
+        "samples": [
+          "PV0081-C.g55.CIDRg.3991",
+          "PV0081-C.g64.CIDRg.3997",
+          "PV0081-C.g5.CIDRg.4114",
+          "PV0081-C.g72.CIDRg.4033",
+          "PV0081-C.g91.CIDRg.1417",
+          "PV0081-C.g51.CIDRg.4075",
+          "PV0081-C.g57.CIDRg.4825",
+          "PV0081-C.g65.CIDRg.3982",
+          "PV0081-C.g96.CIDRg.3073",
+          "PV0081-C.g50.CIDRg.3961",
+          "PV0081-C.g7.CIDRg.9049",
+          "PV0081-C.g48.CIDRg.1384"
+        ]
+      },
+      "PV0082-C": {
+        "count": 14,
+        "samples": [
+          "PV0082-C.g77.CIDRg.3919",
+          "PV0082-C.g27.CIDRg.4624",
+          "PV0082-C.g8.CIDRg.7609",
+          "PV0082-C.g52.CIDRg.1396",
+          "PV0082-C.g47.CIDRg.5389",
+          "PV0082-C.g16.CIDRg.1378",
+          "PV0082-C.g79.CIDRg.4006",
+          "PV0082-C.g48.CIDRg.4258",
+          "PV0082-C.g53.CIDRg.3949",
+          "PV0082-C.g22.CIDRg.4966",
+          "PV0082-C.g38.CIDRg.4024",
+          "PV0082-C.g76.CIDRg.4126",
+          "PV0082-C.g40.CIDRg.3946",
+          "PV0082-C.g32.CIDRg.1402"
+        ]
+      },
+      "PV0083-C": {
+        "count": 18,
+        "samples": [
+          "PV0083-C.g60.CIDRg.4225",
+          "PV0083-C.g61.CIDRg.4243",
+          "PV0083-C.g63.CIDRg.3517",
+          "PV0083-C.g20.CIDRg.3568",
+          "PV0083-C.g59.CIDRg.4246",
+          "PV0083-C.g46.CIDRg.4186",
+          "PV0083-C.g70.CIDRg.3241",
+          "PV0083-C.g57.CIDRg.1144",
+          "PV0083-C.g18.CIDRg.5977",
+          "PV0083-C.g89.CIDRg.3985",
+          "PV0083-C.g69.CIDRg.1372",
+          "PV0083-C.g56.CIDRg.4087",
+          "PV0083-C.g29.CIDRg.6745",
+          "PV0083-C.g52.CIDRg.4447",
+          "PV0083-C.g64.CIDRg.4192",
+          "PV0083-C.g31.CIDRg.8107",
+          "PV0083-C.g47.CIDRg.1372",
+          "PV0083-C.g25.CIDRg.9571"
+        ]
+      },
+      "PV0084-C": {
+        "count": 7,
+        "samples": [
+          "PV0084-C.g32.CIDRg.1384",
+          "PV0084-C.g51.CIDRg.4081",
+          "PV0084-C.g42.CIDRg.3940",
+          "PV0084-C.g50.CIDRg.6046",
+          "PV0084-C.g48.CIDRg.4849",
+          "PV0084-C.g17.CIDRg.1396",
+          "PV0084-C.g22.CIDRg.6049"
+        ]
+      },
+      "PV0085-C": {
+        "count": 12,
+        "samples": [
+          "PV0085-C.g63.CIDRg.4267",
+          "PV0085-C.g88.CIDRg.3898",
+          "PV0085-C.g76.CIDRg.4075",
+          "PV0085-C.g75.CIDRg.4960",
+          "PV0085-C.g29.CIDRg.3958",
+          "PV0085-C.g41.CIDRg.4243",
+          "PV0085-C.g64.CIDRg.3805",
+          "PV0085-C.g9.CIDRg.3568",
+          "PV0085-C.g33.CIDRg.3820",
+          "PV0085-C.g69.CIDRg.5500",
+          "PV0085-C.g17.CIDRg.4981",
+          "PV0085-C.g8.CIDRg.6037"
+        ]
+      },
+      "PV0089-C": {
+        "count": 13,
+        "samples": [
+          "PV0089-C.g23.CIDRg.6040",
+          "PV0089-C.g76.CIDRg.4183",
+          "PV0089-C.g35.CIDRg.6979",
+          "PV0089-C.g37.CIDRg.3976",
+          "PV0089-C.g34.CIDRg.1384",
+          "PV0089-C.g10.CIDRg.4183",
+          "PV0089-C.g80.CIDRg.4087",
+          "PV0089-C.g79.CIDRg.4207",
+          "PV0089-C.g15.CIDRg.1393",
+          "PV0089-C.g17.CIDRg.5959",
+          "PV0089-C.g16.CIDRg.6205",
+          "PV0089-C.g1.CIDRg.5200",
+          "PV0089-C.g60.CIDRg.4954"
+        ]
+      },
+      "PV0098-C": {
+        "count": 12,
+        "samples": [
+          "PV0098-C.g51.CIDRg.4333",
+          "PV0098-C.g74.CIDRg.3844",
+          "PV0098-C.g35.CIDRg.4135",
+          "PV0098-C.g42.CIDRg.3814",
+          "PV0098-C.g119.CIDRg.874",
+          "PV0098-C.g53.CIDRg.5131",
+          "PV0098-C.g68.CIDRg.4069",
+          "PV0098-C.g71.CIDRg.2125",
+          "PV0098-C.g60.CIDRg.1396",
+          "PV0098-C.g27.CIDRg.4921",
+          "PV0098-C.g61.CIDRg.4213",
+          "PV0098-C.g17.CIDRg.6040"
+        ]
+      },
+      "PV0099-C": {
+        "count": 8,
+        "samples": [
+          "PV0099-C.g73.CIDRg.1402",
+          "PV0099-C.g28.CIDRg.6097",
+          "PV0099-C.g56.CIDRg.4129",
+          "PV0099-C.g34.CIDRg.1387",
+          "PV0099-C.g91.CIDRg.4474",
+          "PV0099-C.g12.CIDRg.5935",
+          "PV0099-C.g63.CIDRg.3979",
+          "PV0099-C.g36.CIDRg.4183"
+        ]
+      },
+      "PV0110-C": {
+        "count": 22,
+        "samples": [
+          "PV0110-C.g98.CIDRg.4018",
+          "PV0110-C.g61.CIDRg.4111",
+          "PV0110-C.g81.CIDRg.4468",
+          "PV0110-C.g101.CIDRg.3886",
+          "PV0110-C.g52.CIDRg.5149",
+          "PV0110-C.g133.CIDRg.1480",
+          "PV0110-C.g112.CIDRg.3982",
+          "PV0110-C.g132.CIDRg.559",
+          "PV0110-C.g19.CIDRg.1387",
+          "PV0110-C.g18.CIDRg.7945",
+          "PV0110-C.g70.CIDRg.4159",
+          "PV0110-C.g28.CIDRg.4978",
+          "PV0110-C.g36.CIDRg.4129",
+          "PV0110-C.g9.CIDRg.1384",
+          "PV0110-C.g128.CIDRg.3907",
+          "PV0110-C.g12.CIDRg.4654",
+          "PV0110-C.g72.CIDRg.5044",
+          "PV0110-C.g13.CIDRg.3967",
+          "PV0110-C.g120.CIDRg.3910",
+          "PV0110-C.g136.CIDRg.649",
+          "PV0110-C.g93.CIDRg.4030",
+          "PV0110-C.g108.CIDRg.4363"
+        ]
+      },
+      "PV0113-C": {
+        "count": 17,
+        "samples": [
+          "PV0113-C.g67.CIDRg.4222",
+          "PV0113-C.g34.CIDRg.1366",
+          "PV0113-C.g78.CIDRg.4441",
+          "PV0113-C.g115.CIDRg.3436",
+          "PV0113-C.g122.CIDRg.3379",
+          "PV0113-C.g103.CIDRg.1525",
+          "PV0113-C.g105.CIDRg.3571",
+          "PV0113-C.g62.CIDRg.4072",
+          "PV0113-C.g31.CIDRg.3940",
+          "PV0113-C.g30.CIDRg.6400",
+          "PV0113-C.g131.CIDRg.3133",
+          "PV0113-C.g36.CIDRg.5827",
+          "PV0113-C.g45.CIDRg.5476",
+          "PV0113-C.g43.CIDRg.3427",
+          "PV0113-C.g140.CIDRg.73",
+          "PV0113-C.g136.CIDRg.2965",
+          "PV0113-C.g46.CIDRg.4231"
+        ]
+      },
+      "PV0114-C": {
+        "count": 13,
+        "samples": [
+          "PV0114-C.g80.CIDRg.3925",
+          "PV0114-C.g8.CIDRg.1366",
+          "PV0114-C.g39.CIDRg.5215",
+          "PV0114-C.g46.CIDRg.4159",
+          "PV0114-C.g16.CIDRg.979",
+          "PV0114-C.g25.CIDRg.4324",
+          "PV0114-C.g40.CIDRg.2824",
+          "PV0114-C.g66.CIDRg.4438",
+          "PV0114-C.g16.CIDRg.5680",
+          "PV0114-C.g11.CIDRg.1393",
+          "PV0114-C.g11.CIDRg.6115",
+          "PV0114-C.g60.CIDRg.4171",
+          "PV0114-C.g37.CIDRg.6001"
+        ]
+      },
+      "PV0116-C": {
+        "count": 13,
+        "samples": [
+          "PV0116-C.g19.CIDRg.6001",
+          "PV0116-C.g5.CIDRg.1366",
+          "PV0116-C.g20.CIDRg.7654",
+          "PV0116-C.g26.CIDRg.5215",
+          "PV0116-C.g23.CIDRg.4324",
+          "PV0116-C.g18.CIDRg.6115",
+          "PV0116-C.g64.CIDRg.4159",
+          "PV0116-C.g61.CIDRg.4171",
+          "PV0116-C.g21.CIDRg.4015",
+          "PV0116-C.g16.CIDRg.6091",
+          "PV0116-C.g77.CIDRg.3925",
+          "PV0116-C.g18.CIDRg.1393",
+          "PV0116-C.g16.CIDRg.1390"
+        ]
+      },
+      "PV0117-C": {
+        "count": 11,
+        "samples": [
+          "PV0117-C.g47.CIDRg.6181",
+          "PV0117-C.g13.CIDRg.5959",
+          "PV0117-C.g53.CIDRg.4114",
+          "PV0117-C.g68.CIDRg.4129",
+          "PV0117-C.g39.CIDRg.4135",
+          "PV0117-C.g51.CIDRg.6043",
+          "PV0117-C.g29.CIDRg.4087",
+          "PV0117-C.g38.CIDRg.4123",
+          "PV0117-C.g6.CIDRg.3997",
+          "PV0117-C.g24.CIDRg.5977",
+          "PV0117-C.g37.CIDRg.6823"
+        ]
+      },
+      "PV0118-C": {
+        "count": 11,
+        "samples": [
+          "PV0118-C.g82.CIDRg.4084",
+          "PV0118-C.g8.CIDRg.1366",
+          "PV0118-C.g21.CIDRg.5215",
+          "PV0118-C.g13.CIDRg.6091",
+          "PV0118-C.g71.CIDRg.4159",
+          "PV0118-C.g13.CIDRg.1390",
+          "PV0118-C.g25.CIDRg.4015",
+          "PV0118-C.g27.CIDRg.4324",
+          "PV0118-C.g36.CIDRg.6001",
+          "PV0118-C.g58.CIDRg.2965",
+          "PV0118-C.g81.CIDRg.3925"
+        ]
+      },
+      "PV0127-C": {
+        "count": 15,
+        "samples": [
+          "PV0127-C.g83.CIDRg.4063",
+          "PV0127-C.g115.CIDRg.3925",
+          "PV0127-C.g34.CIDRg.4159",
+          "PV0127-C.g18.CIDRg.4210",
+          "PV0127-C.g50.CIDRg.3877",
+          "PV0127-C.g60.CIDRg.5215",
+          "PV0127-C.g25.CIDRg.1387",
+          "PV0127-C.g87.CIDRg.1312",
+          "PV0127-C.g78.CIDRg.4159",
+          "PV0127-C.g44.CIDRg.5320",
+          "PV0127-C.g85.CIDRg.3901",
+          "PV0127-C.g15.CIDRg.4045",
+          "PV0127-C.g26.CIDRg.3697",
+          "PV0127-C.g12.CIDRg.4252",
+          "PV0127-C.g118.CIDRg.4189"
+        ]
+      },
+      "PV0128-C": {
+        "count": 13,
+        "samples": [
+          "PV0128-C.g94.CIDRg.4156",
+          "PV0128-C.g61.CIDRg.3394",
+          "PV0128-C.g42.CIDRg.1399",
+          "PV0128-C.g8.CIDRg.4078",
+          "PV0128-C.g40.CIDRg.3985",
+          "PV0128-C.g68.CIDRg.1576",
+          "PV0128-C.g20.CIDRg.6016",
+          "PV0128-C.g110.CIDRg.2239",
+          "PV0128-C.g83.CIDRg.4225",
+          "PV0128-C.g88.CIDRg.4390",
+          "PV0128-C.g79.CIDRg.4243",
+          "PV0128-C.g62.CIDRg.3826",
+          "PV0128-C.g67.CIDRg.1366"
+        ]
+      },
+      "PV0129-C": {
+        "count": 13,
+        "samples": [
+          "PV0129-C.g26.CIDRg.4087",
+          "PV0129-C.g16.CIDRg.3940",
+          "PV0129-C.g37.CIDRg.4315",
+          "PV0129-C.g19.CIDRg.4186",
+          "PV0129-C.g18.CIDRg.1399",
+          "PV0129-C.g60.CIDRg.3991",
+          "PV0129-C.g20.CIDRg.1402",
+          "PV0129-C.g63.CIDRg.4093",
+          "PV0129-C.g64.CIDRg.4144",
+          "PV0129-C.g18.CIDRg.5134",
+          "PV0129-C.g91.CIDRg.3643",
+          "PV0129-C.g23.CIDRg.4129",
+          "PV0129-C.g46.CIDRg.4045"
+        ]
+      },
+      "PV0130-C": {
+        "count": 8,
+        "samples": [
+          "PV0130-C.g62.CIDRg.3787",
+          "PV0130-C.g38.CIDRg.4756",
+          "PV0130-C.g85.CIDRg.4132",
+          "PV0130-C.g32.CIDRg.6280",
+          "PV0130-C.g29.CIDRg.4075",
+          "PV0130-C.g86.CIDRg.3997",
+          "PV0130-C.g65.CIDRg.5344",
+          "PV0130-C.g110.CIDRg.1582"
+        ]
+      },
+      "PV0133-C": {
+        "count": 17,
+        "samples": [
+          "PV0133-C.g38.CIDRg.1378",
+          "PV0133-C.g6.CIDRg.6040",
+          "PV0133-C.g107.CIDRg.4006",
+          "PV0133-C.g87.CIDRg.3865",
+          "PV0133-C.g13.CIDRg.4174",
+          "PV0133-C.g83.CIDRg.4534",
+          "PV0133-C.g33.CIDRg.6787",
+          "PV0133-C.g150.CIDRg.2905",
+          "PV0133-C.g28.CIDRg.4837",
+          "PV0133-C.g41.CIDRg.4198",
+          "PV0133-C.g29.CIDRg.1396",
+          "PV0133-C.g119.CIDRg.2995",
+          "PV0133-C.g76.CIDRg.4249",
+          "PV0133-C.g127.CIDRg.3676",
+          "PV0133-C.g136.CIDRg.3580",
+          "PV0133-C.g20.CIDRg.4855",
+          "PV0133-C.g80.CIDRg.4639"
+        ]
+      },
+      "PV0134-C": {
+        "count": 18,
+        "samples": [
+          "PV0134-C.g24.CIDRg.1381",
+          "PV0134-C.g17.CIDRg.1387",
+          "PV0134-C.g92.CIDRg.4015",
+          "PV0134-C.g4.CIDRg.4255",
+          "PV0134-C.g33.CIDRg.4210",
+          "PV0134-C.g65.CIDRg.4126",
+          "PV0134-C.g94.CIDRg.4114",
+          "PV0134-C.g63.CIDRg.3985",
+          "PV0134-C.g64.CIDRg.1393",
+          "PV0134-C.g41.CIDRg.4045",
+          "PV0134-C.g23.CIDRg.3970",
+          "PV0134-C.g67.CIDRg.4063",
+          "PV0134-C.g54.CIDRg.5320",
+          "PV0134-C.g71.CIDRg.4159",
+          "PV0134-C.g26.CIDRg.7663",
+          "PV0134-C.g50.CIDRg.3877",
+          "PV0134-C.g25.CIDRg.3850",
+          "PV0134-C.g35.CIDRg.4156"
+        ]
+      },
+      "PV0135-C": {
+        "count": 9,
+        "samples": [
+          "PV0135-C.g9.CIDRg.4741",
+          "PV0135-C.g62.CIDRg.4255",
+          "PV0135-C.g56.CIDRg.4018",
+          "PV0135-C.g23.CIDRg.4165",
+          "PV0135-C.g10.CIDRg.3697",
+          "PV0135-C.g11.CIDRg.1384",
+          "PV0135-C.g39.CIDRg.4240",
+          "PV0135-C.g55.CIDRg.4171",
+          "PV0135-C.g27.CIDRg.4066"
+        ]
+      },
+      "PV0139-C": {
+        "count": 17,
+        "samples": [
+          "PV0139-C.g62.CIDRg.3979",
+          "PV0139-C.g117.CIDRg.4252",
+          "PV0139-C.g45.CIDRg.4885",
+          "PV0139-C.g45.CIDRg.1384",
+          "PV0139-C.g90.CIDRg.1372",
+          "PV0139-C.g49.CIDRg.3940",
+          "PV0139-C.g75.CIDRg.3982",
+          "PV0139-C.g57.CIDRg.4117",
+          "PV0139-C.g52.CIDRg.6016",
+          "PV0139-C.g107.CIDRg.4360",
+          "PV0139-C.g63.CIDRg.6391",
+          "PV0139-C.g61.CIDRg.4177",
+          "PV0139-C.g34.CIDRg.6094",
+          "PV0139-C.g30.CIDRg.4168",
+          "PV0139-C.g44.CIDRg.4063",
+          "PV0139-C.g125.CIDRg.4000",
+          "PV0139-C.g80.CIDRg.4270"
+        ]
+      },
+      "PV0140-C": {
+        "count": 7,
+        "samples": [
+          "PV0140-C.g39.CIDRg.3862",
+          "PV0140-C.g45.CIDRg.5344",
+          "PV0140-C.g18.CIDRg.4756",
+          "PV0140-C.g41.CIDRg.3787",
+          "PV0140-C.g20.CIDRg.6280",
+          "PV0140-C.g30.CIDRg.4075",
+          "PV0140-C.g64.CIDRg.4132"
+        ]
+      },
+      "PV0147-C": {
+        "count": 11,
+        "samples": [
+          "PV0147-C.g77.CIDRg.4069",
+          "PV0147-C.g97.CIDRg.4201",
+          "PV0147-C.g55.CIDRg.3919",
+          "PV0147-C.g101.CIDRg.3793",
+          "PV0147-C.g68.CIDRg.6106",
+          "PV0147-C.g22.CIDRg.4183",
+          "PV0147-C.g58.CIDRg.4018",
+          "PV0147-C.g17.CIDRg.4678",
+          "PV0147-C.g43.CIDRg.6673",
+          "PV0147-C.g37.CIDRg.4234",
+          "PV0147-C.g17.CIDRg.1381"
+        ]
+      },
+      "PV0151-C": {
+        "count": 8,
+        "samples": [
+          "PV0151-C.g22.CIDRg.5344",
+          "PV0151-C.g8.CIDRg.3568",
+          "PV0151-C.g7.CIDRg.4756",
+          "PV0151-C.g18.CIDRg.4075",
+          "PV0151-C.g48.CIDRg.4132",
+          "PV0151-C.g10.CIDRg.6280",
+          "PV0151-C.g14.CIDRg.1384",
+          "PV0151-C.g61.CIDRg.1405"
+        ]
+      },
+      "PV0183-C": {
+        "count": 18,
+        "samples": [
+          "PV0183-C.g83.CIDRg.4129",
+          "PV0183-C.g106.CIDRg.3925",
+          "PV0183-C.g8.CIDRg.5974",
+          "PV0183-C.g43.CIDRg.5275",
+          "PV0183-C.g9.CIDRg.5896",
+          "PV0183-C.g21.CIDRg.4855",
+          "PV0183-C.g49.CIDRg.5281",
+          "PV0183-C.g19.CIDRg.5200",
+          "PV0183-C.g3.CIDRg.6352",
+          "PV0183-C.g24.CIDRg.4075",
+          "PV0183-C.g73.CIDRg.4213",
+          "PV0183-C.g51.CIDRg.5215",
+          "PV0183-C.g123.CIDRg.3817",
+          "PV0183-C.g14.CIDRg.1366",
+          "PV0183-C.g71.CIDRg.3892",
+          "PV0183-C.g16.CIDRg.5206",
+          "PV0183-C.g22.CIDRg.4303",
+          "PV0183-C.g99.CIDRg.4534"
+        ]
+      },
+      "PV0186-C": {
+        "count": 10,
+        "samples": [
+          "PV0186-C.g17.CIDRg.6568",
+          "PV0186-C.g79.CIDRg.4225",
+          "PV0186-C.g15.CIDRg.6001",
+          "PV0186-C.g101.CIDRg.1252",
+          "PV0186-C.g57.CIDRg.5125",
+          "PV0186-C.g86.CIDRg.4051",
+          "PV0186-C.g18.CIDRg.1396",
+          "PV0186-C.g59.CIDRg.5302",
+          "PV0186-C.g23.CIDRg.6022",
+          "PV0186-C.g83.CIDRg.4255"
+        ]
+      },
+      "PV0195-C": {
+        "count": 12,
+        "samples": [
+          "PV0195-C.g40.CIDRg.3808",
+          "PV0195-C.g13.CIDRg.3568",
+          "PV0195-C.g12.CIDRg.5098",
+          "PV0195-C.g52.CIDRg.4060",
+          "PV0195-C.g45.CIDRg.4075",
+          "PV0195-C.g92.CIDRg.754",
+          "PV0195-C.g33.CIDRg.4033",
+          "PV0195-C.g20.CIDRg.6022",
+          "PV0195-C.g29.CIDRg.1393",
+          "PV0195-C.g53.CIDRg.3790",
+          "PV0195-C.g17.CIDRg.4618",
+          "PV0195-C.g65.CIDRg.3976"
+        ]
+      },
+      "PV0202-C": {
+        "count": 14,
+        "samples": [
+          "PV0202-C.g57.CIDRg.4165",
+          "PV0202-C.g48.CIDRg.5038",
+          "PV0202-C.g85.CIDRg.4000",
+          "PV0202-C.g31.CIDRg.4627",
+          "PV0202-C.g54.CIDRg.3928",
+          "PV0202-C.g86.CIDRg.4222",
+          "PV0202-C.g56.CIDRg.4111",
+          "PV0202-C.g46.CIDRg.4045",
+          "PV0202-C.g79.CIDRg.4039",
+          "PV0202-C.g17.CIDRg.1432",
+          "PV0202-C.g58.CIDRg.5215",
+          "PV0202-C.g36.CIDRg.4039",
+          "PV0202-C.g77.CIDRg.4159",
+          "PV0202-C.g83.CIDRg.3925"
+        ]
+      },
+      "PV0211-C": {
+        "count": 12,
+        "samples": [
+          "PV0211-C.g100.CIDRg.4183",
+          "PV0211-C.g47.CIDRg.5014",
+          "PV0211-C.g110.CIDRg.3940",
+          "PV0211-C.g93.CIDRg.4051",
+          "PV0211-C.g39.CIDRg.6760",
+          "PV0211-C.g45.CIDRg.8320",
+          "PV0211-C.g34.CIDRg.6040",
+          "PV0211-C.g44.CIDRg.8041",
+          "PV0211-C.g10.CIDRg.6145",
+          "PV0211-C.g105.CIDRg.3940",
+          "PV0211-C.g109.CIDRg.4177",
+          "PV0211-C.g64.CIDRg.4162"
+        ]
+      },
+      "PV0212-C": {
+        "count": 20,
+        "samples": [
+          "PV0212-C.g1.CIDRg.6037",
+          "PV0212-C.g25.CIDRg.5320",
+          "PV0212-C.g67.CIDRg.4117",
+          "PV0212-C.g53.CIDRg.3040",
+          "PV0212-C.g22.CIDRg.3934",
+          "PV0212-C.g28.CIDRg.2671",
+          "PV0212-C.g108.CIDRg.3475",
+          "PV0212-C.g46.CIDRg.4303",
+          "PV0212-C.g18.CIDRg.4564",
+          "PV0212-C.g15.CIDRg.1360",
+          "PV0212-C.g62.CIDRg.4252",
+          "PV0212-C.g40.CIDRg.1312",
+          "PV0212-C.g20.CIDRg.6391",
+          "PV0212-C.g75.CIDRg.3958",
+          "PV0212-C.g64.CIDRg.4117",
+          "PV0212-C.g11.CIDRg.1390",
+          "PV0212-C.g42.CIDRg.4171",
+          "PV0212-C.g60.CIDRg.4288",
+          "PV0212-C.g3.CIDRg.6214",
+          "PV0212-C.g55.CIDRg.4153"
+        ]
+      },
+      "PV0223-C": {
+        "count": 8,
+        "samples": [
+          "PV0223-C.g15.CIDRg.3568",
+          "PV0223-C.g13.CIDRg.6280",
+          "PV0223-C.g14.CIDRg.4738",
+          "PV0223-C.g69.CIDRg.4132",
+          "PV0223-C.g86.CIDRg.1300",
+          "PV0223-C.g61.CIDRg.5344",
+          "PV0223-C.g39.CIDRg.4075",
+          "PV0223-C.g24.CIDRg.1384"
+        ]
+      },
+      "PV0224-C": {
+        "count": 13,
+        "samples": [
+          "PV0224-C.g19.CIDRg.6688",
+          "PV0224-C.g3.CIDRg.6214",
+          "PV0224-C.g8.CIDRg.4900",
+          "PV0224-C.g47.CIDRg.4117",
+          "PV0224-C.g21.CIDRg.3934",
+          "PV0224-C.g76.CIDRg.1405",
+          "PV0224-C.g52.CIDRg.4213",
+          "PV0224-C.g85.CIDRg.3544",
+          "PV0224-C.g10.CIDRg.1390",
+          "PV0224-C.g1.CIDRg.6037",
+          "PV0224-C.g89.CIDRg.3055",
+          "PV0224-C.g59.CIDRg.3958",
+          "PV0224-C.g45.CIDRg.4288"
+        ]
+      },
+      "PV0225-C": {
+        "count": 18,
+        "samples": [
+          "PV0225-C.g86.CIDRg.2002",
+          "PV0225-C.g5.CIDRg.3568",
+          "PV0225-C.g109.CIDRg.3076",
+          "PV0225-C.g58.CIDRg.1591",
+          "PV0225-C.g2.CIDRg.6451",
+          "PV0225-C.g107.CIDRg.1276",
+          "PV0225-C.g21.CIDRg.3856",
+          "PV0225-C.g55.CIDRg.2662",
+          "PV0225-C.g16.CIDRg.1378",
+          "PV0225-C.g70.CIDRg.4132",
+          "PV0225-C.g50.CIDRg.5344",
+          "PV0225-C.g9.CIDRg.1384",
+          "PV0225-C.g143.CIDRg.3094",
+          "PV0225-C.g25.CIDRg.4039",
+          "PV0225-C.g22.CIDRg.5203",
+          "PV0225-C.g44.CIDRg.4075",
+          "PV0225-C.g62.CIDRg.4156",
+          "PV0225-C.g2.CIDRg.1399"
+        ]
+      },
+      "PV0226-C": {
+        "count": 14,
+        "samples": [
+          "PV0226-C.g17.CIDRg.3907",
+          "PV0226-C.g66.CIDRg.4147",
+          "PV0226-C.g13.CIDRg.4135",
+          "PV0226-C.g103.CIDRg.1156",
+          "PV0226-C.g28.CIDRg.5971",
+          "PV0226-C.g51.CIDRg.4240",
+          "PV0226-C.g61.CIDRg.4111",
+          "PV0226-C.g6.CIDRg.4654",
+          "PV0226-C.g79.CIDRg.949",
+          "PV0226-C.g87.CIDRg.3613",
+          "PV0226-C.g16.CIDRg.1387",
+          "PV0226-C.g24.CIDRg.3922",
+          "PV0226-C.g1.CIDRg.6655",
+          "PV0226-C.g46.CIDRg.5044"
+        ]
+      },
+      "PV0229-C": {
+        "count": 20,
+        "samples": [
+          "PV0229-C.g30.CIDRg.1384",
+          "PV0229-C.g86.CIDRg.3916",
+          "PV0229-C.g81.CIDRg.1603",
+          "PV0229-C.g57.CIDRg.4075",
+          "PV0229-C.g35.CIDRg.4078",
+          "PV0229-C.g17.CIDRg.5386",
+          "PV0229-C.g6.CIDRg.6016",
+          "PV0229-C.g21.CIDRg.1399",
+          "PV0229-C.g52.CIDRg.4390",
+          "PV0229-C.g37.CIDRg.4243",
+          "PV0229-C.g41.CIDRg.1366",
+          "PV0229-C.g14.CIDRg.6022",
+          "PV0229-C.g29.CIDRg.4033",
+          "PV0229-C.g59.CIDRg.3985",
+          "PV0229-C.g65.CIDRg.4174",
+          "PV0229-C.g67.CIDRg.3826",
+          "PV0229-C.g10.CIDRg.9049",
+          "PV0229-C.g8.CIDRg.7903",
+          "PV0229-C.g89.CIDRg.3739",
+          "PV0229-C.g58.CIDRg.3982"
+        ]
+      },
+      "PV0231-C": {
+        "count": 21,
+        "samples": [
+          "PV0231-C.g35.CIDRg.5134",
+          "PV0231-C.g21.CIDRg.4855",
+          "PV0231-C.g75.CIDRg.4534",
+          "PV0231-C.g86.CIDRg.1384",
+          "PV0231-C.g14.CIDRg.6280",
+          "PV0231-C.g37.CIDRg.3862",
+          "PV0231-C.g142.CIDRg.3154",
+          "PV0231-C.g52.CIDRg.4144",
+          "PV0231-C.g22.CIDRg.4756",
+          "PV0231-C.g78.CIDRg.4027",
+          "PV0231-C.g66.CIDRg.4081",
+          "PV0231-C.g64.CIDRg.4024",
+          "PV0231-C.g39.CIDRg.4303",
+          "PV0231-C.g91.CIDRg.1765",
+          "PV0231-C.g104.CIDRg.4075",
+          "PV0231-C.g25.CIDRg.3568",
+          "PV0231-C.g31.CIDRg.4765",
+          "PV0231-C.g35.CIDRg.1399",
+          "PV0231-C.g98.CIDRg.4078",
+          "PV0231-C.g27.CIDRg.4762",
+          "PV0231-C.g31.CIDRg.55"
+        ]
+      },
+      "PV0233-C": {
+        "count": 14,
+        "samples": [
+          "PV0233-C.g90.CIDRg.4147",
+          "PV0233-C.g111.CIDRg.4369",
+          "PV0233-C.g109.CIDRg.3949",
+          "PV0233-C.g28.CIDRg.4093",
+          "PV0233-C.g155.CIDRg.1387",
+          "PV0233-C.g22.CIDRg.4708",
+          "PV0233-C.g21.CIDRg.6022",
+          "PV0233-C.g125.CIDRg.3970",
+          "PV0233-C.g77.CIDRg.4270",
+          "PV0233-C.g19.CIDRg.4855",
+          "PV0233-C.g25.CIDRg.7210",
+          "PV0233-C.g32.CIDRg.3871",
+          "PV0233-C.g31.CIDRg.6040",
+          "PV0233-C.g37.CIDRg.5275"
+        ]
+      },
+      "PV0234-C": {
+        "count": 11,
+        "samples": [
+          "PV0234-C.g46.CIDRg.1381",
+          "PV0234-C.g17.CIDRg.9256",
+          "PV0234-C.g33.CIDRg.4954",
+          "PV0234-C.g25.CIDRg.1405",
+          "PV0234-C.g44.CIDRg.3943",
+          "PV0234-C.g96.CIDRg.3079",
+          "PV0234-C.g59.CIDRg.4081",
+          "PV0234-C.g29.CIDRg.5545",
+          "PV0234-C.g30.CIDRg.5689",
+          "PV0234-C.g79.CIDRg.4021",
+          "PV0234-C.g45.CIDRg.5260"
+        ]
+      },
+      "PV0237-C": {
+        "count": 11,
+        "samples": [
+          "PV0237-C.g69.CIDRg.4069",
+          "PV0237-C.g28.CIDRg.6451",
+          "PV0237-C.g11.CIDRg.4126",
+          "PV0237-C.g72.CIDRg.4156",
+          "PV0237-C.g28.CIDRg.1399",
+          "PV0237-C.g32.CIDRg.3856",
+          "PV0237-C.g39.CIDRg.1378",
+          "PV0237-C.g34.CIDRg.4039",
+          "PV0237-C.g22.CIDRg.5203",
+          "PV0237-C.g49.CIDRg.4039",
+          "PV0237-C.g79.CIDRg.4108"
+        ]
+      },
+      "PV0239-C": {
+        "count": 7,
+        "samples": [
+          "PV0239-C.g23.CIDRg.3922",
+          "PV0239-C.g68.CIDRg.5083",
+          "PV0239-C.g11.CIDRg.6655",
+          "PV0239-C.g31.CIDRg.4102",
+          "PV0239-C.g4.CIDRg.3940",
+          "PV0239-C.g70.CIDRg.4183",
+          "PV0239-C.g26.CIDRg.6016"
+        ]
+      },
+      "PV0240-C": {
+        "count": 13,
+        "samples": [
+          "PV0240-C.g27.CIDRg.8644",
+          "PV0240-C.g44.CIDRg.4228",
+          "PV0240-C.g62.CIDRg.4108",
+          "PV0240-C.g48.CIDRg.3970",
+          "PV0240-C.g57.CIDRg.4186",
+          "PV0240-C.g43.CIDRg.4207",
+          "PV0240-C.g70.CIDRg.4075",
+          "PV0240-C.g50.CIDRg.3859",
+          "PV0240-C.g5.CIDRg.3886",
+          "PV0240-C.g24.CIDRg.6943",
+          "PV0240-C.g34.CIDRg.6073",
+          "PV0240-C.g66.CIDRg.4369",
+          "PV0240-C.g45.CIDRg.4984"
+        ]
+      },
+      "PV0241-C": {
+        "count": 12,
+        "samples": [
+          "PV0241-C.g17.CIDRg.1405",
+          "PV0241-C.g50.CIDRg.5260",
+          "PV0241-C.g48.CIDRg.5107",
+          "PV0241-C.g67.CIDRg.4081",
+          "PV0241-C.g14.CIDRg.5545",
+          "PV0241-C.g15.CIDRg.4954",
+          "PV0241-C.g74.CIDRg.1246",
+          "PV0241-C.g37.CIDRg.3940",
+          "PV0241-C.g72.CIDRg.1381",
+          "PV0241-C.g13.CIDRg.5920",
+          "PV0241-C.g84.CIDRg.946",
+          "PV0241-C.g8.CIDRg.9256"
+        ]
+      },
+      "PV0256-C": {
+        "count": 18,
+        "samples": [
+          "PV0256-C.g64.CIDRg.4066",
+          "PV0256-C.g38.CIDRg.820",
+          "PV0256-C.g30.CIDRg.5968",
+          "PV0256-C.g31.CIDRg.5236",
+          "PV0256-C.g26.CIDRg.3823",
+          "PV0256-C.g12.CIDRg.1393",
+          "PV0256-C.g8.CIDRg.7636",
+          "PV0256-C.g67.CIDRg.3892",
+          "PV0256-C.g21.CIDRg.3820",
+          "PV0256-C.g74.CIDRg.3988",
+          "PV0256-C.g56.CIDRg.4336",
+          "PV0256-C.g13.CIDRg.5029",
+          "PV0256-C.g14.CIDRg.4246",
+          "PV0256-C.g37.CIDRg.1570",
+          "PV0256-C.g44.CIDRg.4174",
+          "PV0256-C.g32.CIDRg.4081",
+          "PV0256-C.g19.CIDRg.6031",
+          "PV0256-C.g13.CIDRg.1384"
+        ]
+      },
+      "PV0276-C": {
+        "count": 14,
+        "samples": [
+          "PV0276-C.g35.CIDRg.3799",
+          "PV0276-C.g46.CIDRg.4174",
+          "PV0276-C.g38.CIDRg.4117",
+          "PV0276-C.g30.CIDRg.1393",
+          "PV0276-C.g29.CIDRg.4015",
+          "PV0276-C.g56.CIDRg.4033",
+          "PV0276-C.g53.CIDRg.4093",
+          "PV0276-C.g17.CIDRg.3961",
+          "PV0276-C.g21.CIDRg.3691",
+          "PV0276-C.g26.CIDRg.5410",
+          "PV0276-C.g25.CIDRg.1387",
+          "PV0276-C.g43.CIDRg.4093",
+          "PV0276-C.g61.CIDRg.3943",
+          "PV0276-C.g62.CIDRg.3991"
+        ]
+      },
+      "PV0277-C": {
+        "count": 14,
+        "samples": [
+          "PV0277-C.g16.CIDRg.6061",
+          "PV0277-C.g41.CIDRg.1399",
+          "PV0277-C.g30.CIDRg.4159",
+          "PV0277-C.g24.CIDRg.6400",
+          "PV0277-C.g27.CIDRg.3997",
+          "PV0277-C.g17.CIDRg.5401",
+          "PV0277-C.g38.CIDRg.5575",
+          "PV0277-C.g44.CIDRg.4252",
+          "PV0277-C.g49.CIDRg.3970",
+          "PV0277-C.g37.CIDRg.3985",
+          "PV0277-C.g31.CIDRg.5554",
+          "PV0277-C.g22.CIDRg.4864",
+          "PV0277-C.g15.CIDRg.1363",
+          "PV0277-C.g40.CIDRg.5206"
+        ]
+      },
+      "PV0293-C": {
+        "count": 26,
+        "samples": [
+          "PV0293-C.g43.CIDRg.3898",
+          "PV0293-C.g111.CIDRg.3301",
+          "PV0293-C.g8.CIDRg.6022",
+          "PV0293-C.g10.CIDRg.6922",
+          "PV0293-C.g60.CIDRg.4333",
+          "PV0293-C.g30.CIDRg.6781",
+          "PV0293-C.g28.CIDRg.3910",
+          "PV0293-C.g78.CIDRg.4033",
+          "PV0293-C.g95.CIDRg.1045",
+          "PV0293-C.g35.CIDRg.3817",
+          "PV0293-C.g88.CIDRg.4153",
+          "PV0293-C.g44.CIDRg.3808",
+          "PV0293-C.g26.CIDRg.6295",
+          "PV0293-C.g31.CIDRg.5134",
+          "PV0293-C.g114.CIDRg.958",
+          "PV0293-C.g13.CIDRg.5506",
+          "PV0293-C.g29.CIDRg.3928",
+          "PV0293-C.g16.CIDRg.4738",
+          "PV0293-C.g48.CIDRg.1384",
+          "PV0293-C.g61.CIDRg.4195",
+          "PV0293-C.g77.CIDRg.4141",
+          "PV0293-C.g41.CIDRg.1417",
+          "PV0293-C.g53.CIDRg.2494",
+          "PV0293-C.g63.CIDRg.4234",
+          "PV0293-C.g101.CIDRg.4117",
+          "PV0293-C.g59.CIDRg.1372"
+        ]
+      },
+      "PV0298-C": {
+        "count": 8,
+        "samples": [
+          "PV0298-C.g63.CIDRg.4021",
+          "PV0298-C.g78.CIDRg.1711",
+          "PV0298-C.g26.CIDRg.4147",
+          "PV0298-C.g8.CIDRg.6097",
+          "PV0298-C.g30.CIDRg.5173",
+          "PV0298-C.g53.CIDRg.4111",
+          "PV0298-C.g19.CIDRg.8059",
+          "PV0298-C.g57.CIDRg.1531"
+        ]
+      },
+      "PV0301-C": {
+        "count": 12,
+        "samples": [
+          "PV0301-C.g60.CIDRg.4288",
+          "PV0301-C.g57.CIDRg.3595",
+          "PV0301-C.g120.CIDRg.3127",
+          "PV0301-C.g11.CIDRg.4045",
+          "PV0301-C.g83.CIDRg.3655",
+          "PV0301-C.g59.CIDRg.3940",
+          "PV0301-C.g41.CIDRg.1384",
+          "PV0301-C.g82.CIDRg.3817",
+          "PV0301-C.g28.CIDRg.1399",
+          "PV0301-C.g99.CIDRg.4075",
+          "PV0301-C.g65.CIDRg.5476",
+          "PV0301-C.g28.CIDRg.5134"
+        ]
+      }
+    }
+  },
+  "skipped_samples": 116
+}

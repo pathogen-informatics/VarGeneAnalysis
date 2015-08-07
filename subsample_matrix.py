@@ -6,67 +6,52 @@ import sys
 import logging
 import numpy
 
-from map_to_clusters import get_data, filter_rows, filter_columns, \
-                            filter_row_labels, filter_column_labels
+def get_sample_names(subsets, split_file):
+  sample_names = []
+  split_file.seek(0)
+  for row in csv.reader(split_file, delimiter='\t'):
+    subset_name, samples_string = row[0], row[3]
+    if subset_name in subsets:
+      sample_names += samples_string.strip().split(',')
+  return sample_names
 
-def build_filter_function(desired):
-  def parse_sample_name(sample_name):
+def get_column_labels(input_file):
+  input_file.seek(0)
+  header_row = csv.reader(input_file, delimiter='\t').next()
+  return header_row[1:]
+
+def build_row_filter(column_labels, desired_columns):
+  def isolate_name(sample_name):
     try:
       isolate_name, gene, domain, _ = sample_name.split('.')
       return isolate_name
     except:
       return None
 
-  def filter_sample_names(sample_name):
-    isolate_name = parse_sample_name(sample_name)
-    return isolate_name in desired
+  desired_column_indexes = [index+1 for index,column_label in enumerate(column_labels) if isolate_name(column_label) in desired_columns]
 
-  return numpy.vectorize(filter_sample_names)
-    
+  def row_filter(row, force=False):
+    sample_name = row[0]
+    if force or isolate_name(sample_name) in desired_columns:
+      return [sample_name] + [row[c] for c in desired_column_indexes]
+    return None
 
-def filter_rows(data, original, desired):
-  """Filters data keeping rows from "original" which are in "desired"
+  return row_filter
 
-  Preserves order of the retained rows in the "original" ordering"""
-  row_filter = build_filter_function(desired)
-  rows_to_keep = row_filter(original)
-  return data[rows_to_keep,:]
+def reformat_rows(input_file, row_filter):
+  input_file.seek(0)
+  rows = csv.reader(input_file, delimiter='\t')
+  header_row = rows.next()
+  yield row_filter(header_row, force=True)
+  for row in rows:
+    reformatted_row = row_filter(row)
+    if reformatted_row is None:
+      continue
+    else:
+      yield reformatted_row
 
-def filter_columns(data, original, desired):
-  """Filters data keeping columns from "original" which are in "desired"
-
-  Preserves order of the retained columns in the "original" ordering"""
-  column_filter = build_filter_function(desired)
-  columns_to_keep = column_filter(original)
-  return data[:, columns_to_keep]
-
-def filter_row_labels(row_labels, desired):
-  row_filter = build_filter_function(desired)
-  rows_to_keep = row_filter(row_labels)
-  return row_labels[rows_to_keep]
-
-def filter_column_labels(column_labels, desired):
-  column_filter = build_filter_function(desired)
-  columns_to_keep = column_filter(column_labels)
-  return column_labels[columns_to_keep]
-
-def get_sample_names(subsets, split_file):
-  sample_names = []
-  for row in csv.reader(split_file, delimiter='\t'):
-    subset_name, samples_string = row[0], row[3]
-    if subset_name in subsets:
-      sample_names += samples_string.strip().split(',')
-  return list(set(sample_names))
-
-def header_row(column_labels):
-  return numpy.array([[""] + list(column_labels)])
-
-def print_data(column_labels, row_labels, data):
-  row_labels = numpy.array([row_labels]).T
-  data_rows = numpy.append(row_labels, data, axis=1)
-  all_rows = numpy.append(header_row(column_labels), data_rows, axis=0)
-  for row in all_rows:
-    print "\t".join(map(str,row))
+def print_row(row):
+  print "\t".join(map(str,row))
 
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()
@@ -76,16 +61,14 @@ if __name__ == '__main__':
   
   args = parser.parse_args()
 
-  logging.basicConfig(level=logging.WARN)
+  logging.basicConfig(level=logging.DEBUG)
 
   sample_names = get_sample_names(args.subsets, args.split_file)
   logging.debug("Looking for the following isolates: %s" % ','.join(sample_names))
 
-  column_labels, row_labels, data = get_data(args.full_matrix)
+  column_labels = get_column_labels(args.full_matrix)
   logging.debug("Found the following sample names in '%s': %s" % (args.full_matrix.name, ','.join(column_labels)))
-  relevant_rows = filter_rows(data, row_labels, sample_names)
-  relevant_data = filter_columns(relevant_rows, column_labels, sample_names)
-  relevant_row_labels = filter_row_labels(row_labels, sample_names)
-  relevant_column_labels = filter_column_labels(column_labels, sample_names)
 
-  print_data(relevant_column_labels, relevant_row_labels, relevant_data)
+  row_filter = build_row_filter(column_labels, sample_names)
+  for row in reformat_rows(args.full_matrix, row_filter):
+    print_row(row)

@@ -68,10 +68,23 @@ def filter_rows(data, original, desired):
   rows_to_keep = check_in_desired(original)
   return data[rows_to_keep,:]
 
+def filter_columns(data, original, desired):
+  """Filters data keeping columns from "original" which are in "desired"
+
+  Preserves order of the retained columns in the "original" ordering"""
+  check_in_desired = numpy.vectorize(lambda el: el in desired)
+  columns_to_keep = check_in_desired(original)
+  return data[:, columns_to_keep]
+
 def filter_row_labels(row_labels, desired):
   check_in_desired = numpy.vectorize(lambda el: el in desired)
   labels_to_keep = check_in_desired(row_labels)
   return row_labels[labels_to_keep]
+
+def filter_column_labels(column_labels, desired):
+  check_in_desired = numpy.vectorize(lambda el: el in desired)
+  labels_to_keep = check_in_desired(column_labels)
+  return column_labels[labels_to_keep]
 
 def get_training_data(input_file):
   """Returns data with a row for each training sample and a column for each

@@ -7,7 +7,7 @@ import numpy
 import sys
 import unittest
 
-from collections import namedtuple
+from collections import namedtuple, OrderedDict
 from mock import patch
 from sklearn import metrics
 from sklearn.cluster import KMeans
@@ -168,6 +168,48 @@ def predict_cluster(classifier, test_data):
   clusters = classifier.predict(test_data.data)
   return dict(zip(test_data.sample_names, clusters))
 
+def get_best_cluster_score_tuple(t1, t2):
+  cluster_number_1, score_1 = t1
+  cluster_number_2, score_2 = t2
+  if score_1 > score_2:
+    return t1
+  elif score_1 < score_2:
+    return t2
+  elif cluster_number_2 < cluster_number_1:
+    return t2
+  else:
+    return t1
+
+def get_most_internally_consistent_cluster(scores):
+  # NB scores is a 2D dictionary showing the similarity between two clusters (e.g. score[A][B])
+  # it shouldn't normally contain score[A][A] but it shouldn't matter too much if it does
+  top_5_scores = {cluster: sorted(cluster_scores.values(),reverse=True)[:5] for cluster, cluster_scores in scores.items()}
+  mean_top_scores = {cluster: numpy.mean(cluster_scores) for cluster,cluster_scores in top_5_scores.items()}
+  best_cluster_number, best_score = reduce(get_best_cluster_score_tuple, mean_top_scores.items())
+  return best_cluster_number
+
+def get_most_externally_consistent_cluster(all_scores, internally_consistent_cluster):
+  # NB scores is a 1D dictionary mapping a single cluster to each of the other clusters in clusterings
+  scores = all_scores[internally_consistent_cluster] 
+  best_cluster_number, best_score = reduce(get_best_cluster_score_tuple, scores.items())
+  return best_cluster_number
+
+def clusters_to_string(cluster):
+  cluster_map = {}
+  for sample_name,cluster_number in cluster.items():
+    cluster_map.setdefault(cluster_number, []).append(sample_name)
+  for cluster_number in cluster_map:
+    cluster_map[cluster_number].sort()
+  def by_cluster_size(t):
+    cluster_number,sample_names = t
+    return len(sample_names)
+  cluster_strings = (",".join(sample_names) for cluster_number,sample_names in sorted(cluster_map.items(), key=by_cluster_size))
+  return ";".join(cluster_strings)
+
+def write_row(output_file, row):
+  output_line = "\t".join(map(str, row))
+  output_file.write(output_line + "\n")
+
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()
   parser.add_argument('split_file', type=argparse.FileType('r'))
@@ -225,20 +267,31 @@ if __name__ == '__main__':
       all_test_predictions_from_b.append(test_predictions_from_b)
 
     logging.debug("Writing internal consistency scores for k=%s" % k)
+    internal_score_matrix = {}
     for i, prediction_1 in enumerate(all_training_predictions_from_a[:-1]):
       for j, prediction_2 in enumerate(all_training_predictions_from_a[i+1:]):
         score = compare_cluster_maps(prediction_1, prediction_2)
         row = [k, "internal", score, i, i+j+1, args.max_iters, args.cluster_seeds]
-        output_line = "\t".join(map(str, row))
-        args.output_file.write(output_line + "\n")
+        write_row(args.output_file, row)
+        internal_score_matrix.setdefault(i, {})[j] = score
+        internal_score_matrix.setdefault(j, {})[i] = score
 
     logging.debug("Writing external consistency scores for k=%s" % k)
+    external_score_matrix = {}
     for i, prediction_1 in enumerate(all_test_predictions_from_a):
       for j, prediction_2 in enumerate(all_test_predictions_from_b):
         score = compare_cluster_maps(prediction_1, prediction_2)
         row = [k, "external", score, i, j, args.max_iters, args.cluster_seeds]
-        output_line = "\t".join(map(str, row))
-        args.output_file.write(output_line + "\n")
+        write_row(args.output_file, row)
+        external_score_matrix.setdefault(i, {})[j] = score
+
+    logging.debug("Analysing the best clusters for k=%s" % k)
+    best_cluster_a = get_most_internally_consistent_cluster(internal_score_matrix)
+    best_cluster_b = get_most_externally_consistent_cluster(external_score_matrix, best_cluster_a)
+    best_cluster = all_test_predictions_from_b[best_cluster_b]
+    cluster_string = clusters_to_string(best_cluster)
+    row = [k, "best", external_score_matrix[best_cluster_a][best_cluster_b], best_cluster_a, best_cluster_b, args.max_iters, args.cluster_seeds, cluster_string]
+    write_row(args.output_file, row)
 
     args.output_file.flush()
 
@@ -371,3 +424,55 @@ test_4.g4.DBLa.4	0.7	0.8	0.9	0.0""")
     score_mock.return_value = 0.0
     self.assertEqual(compare_cluster_maps(cluster_a, cluster_b), 0.0)
     score_mock.assert_called_with([1,3,4], [1,4,5])
+
+  def test_get_most_internally_consistent_cluster(self):
+    clusterings = [
+      numpy.array([0,1,2,2,2]),
+      numpy.array([2,1,0,0,0]),
+      numpy.array([0,1,2,2,2]),
+      numpy.array([2,1,2,2,2]),
+      numpy.array([1,1,2,2,2]),
+      numpy.array([0,1,2,2,0]),
+      numpy.array([0,1,0,1,2]),
+      numpy.array([0,1,1,0,2])
+    ]
+    scores = {
+      0: {         1:  1.0,  2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
+      1: {0:  1.0,           2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
+      2: {0:  1.0, 1:  1.0,            3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
+      3: {0:  0.4, 1:  0.4,  2:  0.4,            4:  0.2,  5:  0.3,  6: -0.1,  7: -0.1 }, 
+      4: {0:  0.8, 1:  0.8,  2:  0.8,  3:  0.2,            5:  0.1,  6: -0.4,  7: -0.4 }, 
+      5: {0:  0.2, 1:  0.2,  2:  0.2,  3:  0.3,  4:  0.1,            6: -0.25, 7: -0.25}, 
+      6: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25,           7: -0.25}, 
+      7: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25, 6: -0.25          }
+    }
+    actual = get_most_internally_consistent_cluster(scores)
+    numpy.testing.assert_array_almost_equal(actual, 0)
+
+  def test_get_most_externally_consistent_cluster(self):
+    scores = {
+      0: {         1:  1.0,  2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
+      1: {0:  1.0,           2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
+      2: {0:  1.0, 1:  1.0,            3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
+      3: {0:  0.4, 1:  0.4,  2:  0.4,            4:  0.2,  5:  0.3,  6: -0.1,  7: -0.1 }, 
+      4: {0:  0.8, 1:  0.8,  2:  0.8,  3:  0.2,            5:  0.1,  6: -0.4,  7: -0.4 }, 
+      5: {0:  0.2, 1:  0.2,  2:  0.2,  3:  0.3,  4:  0.1,            6: -0.25, 7: -0.25}, 
+      6: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25,           7: -0.25}, 
+      7: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25, 6: -0.25          }
+    }
+    actual = get_most_externally_consistent_cluster(scores, 0)
+    numpy.testing.assert_array_almost_equal(actual, 1)
+
+  def test_clusters_to_string(self):
+    # clusters is normally just a dict not an OrderedDict
+    clusters = OrderedDict([
+      ('d', 1),
+      ('b', 0),
+      ('a', 0),
+      ('c', 1),
+      ('e', 1),
+      ('f', 2)
+    ])
+    expected = "f;a,b;c,d,e"
+    actual = clusters_to_string(clusters)
+    self.assertEqual(actual, expected)

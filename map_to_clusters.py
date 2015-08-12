@@ -31,7 +31,7 @@ class TrainingData(namedtuple('TestData', 'sample_names feature_names data')):
     csv_file.next() # skip the header this time
     data = numpy.array([row[1:] for row in csv_file]).astype('float')
     return cls(row_labels, column_labels, data)
-  
+
   def sort_sample_names(self, desired):
     row_lookup_table = {value: index for index,value in enumerate(self.sample_names)}
     lookup_row_indices = numpy.vectorize(row_lookup_table.get)
@@ -41,7 +41,7 @@ class TrainingData(namedtuple('TestData', 'sample_names feature_names data')):
              self.feature_names,
              self.data[new_row_ordering,:]
            )
-  
+
   def sort_feature_names(self, desired):
     column_lookup_table = {value: index for index,value in enumerate(self.feature_names)}
     lookup_column_indices = numpy.vectorize(column_lookup_table.get)
@@ -51,10 +51,10 @@ class TrainingData(namedtuple('TestData', 'sample_names feature_names data')):
              self.feature_names[new_column_ordering],
              self.data[:,new_column_ordering]
            )
-  
+
   def filter_sample_names(self, desired):
     """Filters data keeping rows from "original" which are in "desired"
-  
+
     Preserves order of the retained rows in the "original" ordering"""
     check_in_desired = numpy.vectorize(lambda el: el in desired)
     rows_to_keep = check_in_desired(self.sample_names)
@@ -63,10 +63,10 @@ class TrainingData(namedtuple('TestData', 'sample_names feature_names data')):
              self.feature_names,
              self.data[rows_to_keep,:]
            )
-  
+
   def filter_feature_names(self, desired):
     """Filters data keeping columns from "original" which are in "desired"
-  
+
     Preserves order of the retained columns in the "original" ordering"""
     check_in_desired = numpy.vectorize(lambda el: el in desired)
     columns_to_keep = check_in_desired(self.feature_names)
@@ -75,27 +75,27 @@ class TrainingData(namedtuple('TestData', 'sample_names feature_names data')):
              self.feature_names[columns_to_keep],
              self.data[:,columns_to_keep]
            )
-  
+
   def get_relevant_sample_names(self, desired_isolates):
     """Returns a list of the samples from the desired isolates"""
     def isolate_name(sample_name):
       isolate, gene, domain = parse_sample(sample_name)
       return isolate
-  
+
     def is_desired_sample(sample_name):
       try:
         return isolate_name(sample_name) in desired_isolates
       except ValueError:
         return False
-  
+
     desired_samples = filter(is_desired_sample, self.sample_names)
     return sorted(desired_samples)
-  
+
   @classmethod
   def get_training_data(cls, input_file, isolate_names):
     """Returns data with a row for each training sample and a column for each
     feature.
-  
+
     Columns are sorted alphabetically by feature name; rows remain unsorted.  The
     names of the training samples are taken to be the first N_SEQUENCES samples
     listed in the header row of input_file; the rest are assumed to be test
@@ -105,19 +105,19 @@ class TrainingData(namedtuple('TestData', 'sample_names feature_names data')):
     feature_names = training_data.get_relevant_sample_names(isolate_names)
     training_data = training_data.sort_feature_names(feature_names)
     training_data = training_data.filter_sample_names(feature_names)
-  
+
     logging.debug("Found %s samples and %s features" %
                   (len(training_data.sample_names), len(training_data.feature_names)))
     logging.debug("First five sample names: %s..." % sorted(training_data.sample_names)[:5])
     return training_data
-  
+
   def get_testing_data(self, input_file, isolate_names):
     logging.info("Getting testing data")
     test_data = TrainingData.from_file(input_file)
     test_names = test_data.get_relevant_sample_names(isolate_names)
     test_data = test_data.sort_feature_names(self.feature_names)
     test_data = test_data.filter_sample_names(test_names)
-  
+
     logging.debug("Found %s samples and %s features" %
                   (len(test_data.sample_names), len(test_data.feature_names)))
     logging.debug("First five sample names: %s..." % sorted(test_data.sample_names)[:5])
@@ -190,7 +190,7 @@ def get_most_internally_consistent_cluster(scores):
 
 def get_most_externally_consistent_cluster(all_scores, internally_consistent_cluster):
   # NB scores is a 1D dictionary mapping a single cluster to each of the other clusters in clusterings
-  scores = all_scores[internally_consistent_cluster] 
+  scores = all_scores[internally_consistent_cluster]
   best_cluster_number, best_score = reduce(get_best_cluster_score_tuple, scores.items())
   return best_cluster_number
 
@@ -224,11 +224,11 @@ if __name__ == '__main__':
   parser.add_argument('-i', '--max-iters', type=int, default=300)
   parser.add_argument('-s', '--cluster-seeds', type=int, default=10)
   parser.add_argument('-r', '--repetitions', type=int, default=5)
-  
+
   args = parser.parse_args()
 
   splits = {split.name: split for split in Split.from_file(args.split_file)}
-  
+
   test_isolates = splits[args.test_subset].isolates
   training_isolates_a = splits[args.training_subset_a].isolates
   training_isolates_b = splits[args.training_subset_b].isolates
@@ -301,7 +301,7 @@ class TestAll(unittest.TestCase):
     data = numpy.array([[3,2,1,4,5]]).astype('float').transpose()
     original = numpy.array(['third','second','first','forth','fifth']).astype('str')
     desired = numpy.array(['first','second','third']).astype('str')
-    features = numpy.array(['sample_1']) 
+    features = numpy.array(['sample_1'])
     training_data = TrainingData(original, features, data)
     actual = training_data.sort_sample_names(desired)
     numpy.testing.assert_array_almost_equal(actual.data, expected)
@@ -437,13 +437,13 @@ test_4.g4.DBLa.4	0.7	0.8	0.9	0.0""")
       numpy.array([0,1,1,0,2])
     ]
     scores = {
-      0: {         1:  1.0,  2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
-      1: {0:  1.0,           2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
-      2: {0:  1.0, 1:  1.0,            3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
-      3: {0:  0.4, 1:  0.4,  2:  0.4,            4:  0.2,  5:  0.3,  6: -0.1,  7: -0.1 }, 
-      4: {0:  0.8, 1:  0.8,  2:  0.8,  3:  0.2,            5:  0.1,  6: -0.4,  7: -0.4 }, 
-      5: {0:  0.2, 1:  0.2,  2:  0.2,  3:  0.3,  4:  0.1,            6: -0.25, 7: -0.25}, 
-      6: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25,           7: -0.25}, 
+      0: {         1:  1.0,  2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 },
+      1: {0:  1.0,           2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 },
+      2: {0:  1.0, 1:  1.0,            3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 },
+      3: {0:  0.4, 1:  0.4,  2:  0.4,            4:  0.2,  5:  0.3,  6: -0.1,  7: -0.1 },
+      4: {0:  0.8, 1:  0.8,  2:  0.8,  3:  0.2,            5:  0.1,  6: -0.4,  7: -0.4 },
+      5: {0:  0.2, 1:  0.2,  2:  0.2,  3:  0.3,  4:  0.1,            6: -0.25, 7: -0.25},
+      6: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25,           7: -0.25},
       7: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25, 6: -0.25          }
     }
     actual = get_most_internally_consistent_cluster(scores)
@@ -451,13 +451,13 @@ test_4.g4.DBLa.4	0.7	0.8	0.9	0.0""")
 
   def test_get_most_externally_consistent_cluster(self):
     scores = {
-      0: {         1:  1.0,  2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
-      1: {0:  1.0,           2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
-      2: {0:  1.0, 1:  1.0,            3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 }, 
-      3: {0:  0.4, 1:  0.4,  2:  0.4,            4:  0.2,  5:  0.3,  6: -0.1,  7: -0.1 }, 
-      4: {0:  0.8, 1:  0.8,  2:  0.8,  3:  0.2,            5:  0.1,  6: -0.4,  7: -0.4 }, 
-      5: {0:  0.2, 1:  0.2,  2:  0.2,  3:  0.3,  4:  0.1,            6: -0.25, 7: -0.25}, 
-      6: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25,           7: -0.25}, 
+      0: {         1:  1.0,  2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 },
+      1: {0:  1.0,           2:  1.0,  3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 },
+      2: {0:  1.0, 1:  1.0,            3:  0.4,  4:  0.8,  5:  0.2,  6: -0.3,  7: -0.3 },
+      3: {0:  0.4, 1:  0.4,  2:  0.4,            4:  0.2,  5:  0.3,  6: -0.1,  7: -0.1 },
+      4: {0:  0.8, 1:  0.8,  2:  0.8,  3:  0.2,            5:  0.1,  6: -0.4,  7: -0.4 },
+      5: {0:  0.2, 1:  0.2,  2:  0.2,  3:  0.3,  4:  0.1,            6: -0.25, 7: -0.25},
+      6: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25,           7: -0.25},
       7: {0: -0.3, 1: -0.3,  2: -0.3,  3: -0.1,  4: -0.4,  5: -0.25, 6: -0.25          }
     }
     actual = get_most_externally_consistent_cluster(scores, 0)

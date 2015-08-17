@@ -7,7 +7,7 @@ import logging
 import random
 import sys
 
-from split_samples import get_isolate_counts
+from create_subsets_of_isolate_names import get_isolate_counts
 
 class Split(object):
   @classmethod

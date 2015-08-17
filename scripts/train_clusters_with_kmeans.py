@@ -13,8 +13,8 @@ from sklearn import metrics
 from sklearn.cluster import KMeans
 from StringIO import StringIO
 
-from split_other_samples import Split
-from sample_stats import parse_sample
+from create_subsets_for_other_domains import Split
+from domain_frequency_stats_from_sample_names import parse_sample
 
 logging.basicConfig(level=logging.DEBUG)
 

@@ -167,3 +167,7 @@ a sample classified as cluster_a in one table is classified as cluster_b in
 the other.
 
 This is useful to compare two different clustering algorithms.
+
+## `build_fastas_for_subset.py`
+
+Build a fasta of amino acids for one or more subsets for use with `parse_hmmer_tblout.py`

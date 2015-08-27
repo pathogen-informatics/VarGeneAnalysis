@@ -7,6 +7,8 @@ import numpy
 import sys
 import unittest
 
+import pandas as pd
+
 from collections import namedtuple, OrderedDict
 from mock import patch
 from sklearn import metrics
@@ -14,79 +16,57 @@ from sklearn.cluster import KMeans
 from StringIO import StringIO
 
 from create_subsets_for_other_domains import Split
-from domain_frequency_stats_from_sample_names import parse_sample
 
 logging.basicConfig(level=logging.DEBUG)
 
 DEFAULT_NUMBER_OF_CLUSTERS=10
 
-class TrainingData(namedtuple('TestData', 'sample_names feature_names data')):
+class TrainingData(object):
   @classmethod
   def from_file(cls, input_file):
     input_file.seek(0)
-    csv_file = csv.reader(input_file, delimiter='\t')
-    column_labels = numpy.array(csv_file.next()[1:]).astype('str')
-    row_labels = numpy.array([row[0] for row in csv_file]).astype('str')
-    input_file.seek(0)
-    csv_file.next() # skip the header this time
-    data = numpy.array([row[1:] for row in csv_file]).astype('float')
-    return cls(row_labels, column_labels, data)
+    csv_file = pd.read_csv(input_file, delimiter='\t')
+    csv_file.set_index('id', inplace=True)
+    return cls(csv_file)
+
+  def __init__(self, data):
+    self.data = data
+    logging.debug("Creating new data object: %s by %s" % self.data.shape)
+    self.feature_names = data.columns
+    self.sample_names = data.index.values
 
   def sort_sample_names(self, desired):
-    row_lookup_table = {value: index for index,value in enumerate(self.sample_names)}
-    lookup_row_indices = numpy.vectorize(row_lookup_table.get)
-    new_row_ordering = lookup_row_indices(desired)
-    return TrainingData(
-             self.sample_names[new_row_ordering],
-             self.feature_names,
-             self.data[new_row_ordering,:]
-           )
+    return TrainingData(self.data.loc[desired])
 
   def sort_feature_names(self, desired):
-    column_lookup_table = {value: index for index,value in enumerate(self.feature_names)}
-    lookup_column_indices = numpy.vectorize(column_lookup_table.get)
-    new_column_ordering = lookup_column_indices(desired)
-    return TrainingData(
-             self.sample_names,
-             self.feature_names[new_column_ordering],
-             self.data[:,new_column_ordering]
-           )
+    return TrainingData(self.data.loc[:,desired])
 
   def filter_sample_names(self, desired):
     """Filters data keeping rows from "original" which are in "desired"
 
     Preserves order of the retained rows in the "original" ordering"""
-    check_in_desired = numpy.vectorize(lambda el: el in desired)
-    rows_to_keep = check_in_desired(self.sample_names)
-    return TrainingData(
-             self.sample_names[rows_to_keep],
-             self.feature_names,
-             self.data[rows_to_keep,:]
-           )
+    matching_rows = self.data.reset_index()['id'].isin(desired)
+    matching_data = self.data.reset_index()[matching_rows].set_index('id')
+    return TrainingData(matching_data)
 
   def filter_feature_names(self, desired):
     """Filters data keeping columns from "original" which are in "desired"
 
     Preserves order of the retained columns in the "original" ordering"""
-    check_in_desired = numpy.vectorize(lambda el: el in desired)
-    columns_to_keep = check_in_desired(self.feature_names)
-    return TrainingData(
-             self.sample_names,
-             self.feature_names[columns_to_keep],
-             self.data[:,columns_to_keep]
-           )
+    pivot_table = self.data.stack().reset_index()
+    pivot_table.columns = ['id', 'isolate', 'distance']
+    matching_rows = pivot_table['id'].isin(desired)
+    matching_data = pivot_table[matching_rows].set_index(['id', 'isolate']).unstack()
+    return TrainingData(matching_data)
 
   def get_relevant_sample_names(self, desired_isolates):
     """Returns a list of the samples from the desired isolates"""
-    def isolate_name(sample_name):
-      isolate, gene, domain = parse_sample(sample_name)
-      return isolate
-
     def is_desired_sample(sample_name):
       try:
-        return isolate_name(sample_name) in desired_isolates
+        isolate_name, gene, domain, position = sample_name.split('.')
       except ValueError:
         return False
+      return isolate_name in desired_isolates
 
     desired_samples = filter(is_desired_sample, self.sample_names)
     return sorted(desired_samples)

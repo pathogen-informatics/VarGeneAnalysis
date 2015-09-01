@@ -35,7 +35,7 @@ class TrainingData(object):
   def __init__(self, data):
     self.data = data
     logging.debug("Creating new data object: %s by %s" % self.data.shape)
-    self.feature_names = data.columns
+    self.feature_names = data.columns.values
     self.sample_names = data.index.values
 
   def sort_sample_names(self, desired):
@@ -58,8 +58,9 @@ class TrainingData(object):
     Preserves order of the retained columns in the "original" ordering"""
     pivot_table = self.data.stack().reset_index()
     pivot_table.columns = ['id', 'isolate', 'distance']
-    matching_rows = pivot_table['id'].isin(desired)
+    matching_rows = pivot_table['isolate'].isin(desired)
     matching_data = pivot_table[matching_rows].set_index(['id', 'isolate']).unstack()
+    matching_data.columns = [isolate for _,isolate in matching_data.columns]
     return TrainingData(matching_data)
 
   def get_relevant_sample_names(self, desired_isolates):
@@ -74,44 +75,18 @@ class TrainingData(object):
     desired_samples = filter(is_desired_sample, self.sample_names)
     return sorted(desired_samples)
 
-  @classmethod
-  def get_training_data(cls, input_file, isolate_names):
-    """Returns data with a row for each training sample and a column for each
-    feature.
+  def remove(self, sample_names):
+    pivot_table = self.data.stack().reset_index()
+    pivot_table.columns = ['id', 'isolate', 'distance']
+    matching_rows = pivot_table['id'].isin(sample_names) | pivot_table['isolate'].isin(sample_names)
+    non_matching_data = pivot_table[~matching_rows].set_index(['id', 'isolate']).unstack()
+    return TrainingData(non_matching_data)
 
-    Columns are sorted alphabetically by feature name; rows remain unsorted.  The
-    names of the training samples are taken to be the first N_SEQUENCES samples
-    listed in the header row of input_file; the rest are assumed to be test
-    data"""
-    logging.info("Getting training data")
-    training_data = cls.from_file(input_file)
-    feature_names = training_data.get_relevant_sample_names(isolate_names)
-    training_data = training_data.sort_feature_names(feature_names)
-    training_data = training_data.filter_sample_names(feature_names)
-
-    logging.debug("Found %s samples and %s features" %
-                  (len(training_data.sample_names), len(training_data.feature_names)))
-    logging.debug("First five sample names: %s..." % sorted(training_data.sample_names)[:5])
-    return training_data
-
-  def get_testing_data(self, input_file, isolate_names):
-    logging.info("Getting testing data")
-    test_data = TrainingData.from_file(input_file)
-    test_names = test_data.get_relevant_sample_names(isolate_names)
-    test_data = test_data.sort_feature_names(self.feature_names)
-    test_data = test_data.filter_sample_names(test_names)
-
-    logging.debug("Found %s samples and %s features" %
-                  (len(test_data.sample_names), len(test_data.feature_names)))
-    logging.debug("First five sample names: %s..." % sorted(test_data.sample_names)[:5])
-    return test_data
-
-  def subsample(self, p=0.7):
-    number_to_keep = int(p*len(self.feature_names))
-    features_to_keep = numpy.random.choice(self.feature_names, number_to_keep, replace=False)
-    training_data = self.sort_feature_names(features_to_keep)
-    training_data = training_data.filter_sample_names(features_to_keep)
-    return training_data
+  def subsample(self, p=0.7, remove_features=True):
+    some_data = TrainingData(self.data.sample(frac=p, replace=False))
+    if remove_features:
+      some_data = some_data.filter_feature_names(some_data.sample_names) 
+    return some_data
 
 def _train_classifier(training_data, k=DEFAULT_NUMBER_OF_CLUSTERS, n_init=10, max_iter=300):
   classifier = KMeans(n_clusters=k, n_init=n_init, max_iter=max_iter, n_jobs=1)
@@ -149,33 +124,9 @@ def compare_cluster_maps(cluster_map_a, cluster_map_b):
 
 def predict_cluster(classifier, test_data):
   clusters = classifier.predict(test_data.data)
-  return dict(zip(test_data.sample_names, clusters))
-
-def get_best_cluster_score_tuple(t1, t2):
-  cluster_number_1, score_1 = t1
-  cluster_number_2, score_2 = t2
-  if score_1 > score_2:
-    return t1
-  elif score_1 < score_2:
-    return t2
-  elif cluster_number_2 < cluster_number_1:
-    return t2
-  else:
-    return t1
-
-def get_most_internally_consistent_cluster(scores):
-  # NB scores is a 2D dictionary showing the similarity between two clusters (e.g. score[A][B])
-  # it shouldn't normally contain score[A][A] but it shouldn't matter too much if it does
-  top_5_scores = {cluster: sorted(cluster_scores.values(),reverse=True)[:5] for cluster, cluster_scores in scores.items()}
-  mean_top_scores = {cluster: numpy.mean(cluster_scores) for cluster,cluster_scores in top_5_scores.items()}
-  best_cluster_number, best_score = reduce(get_best_cluster_score_tuple, mean_top_scores.items())
-  return best_cluster_number
-
-def get_most_externally_consistent_cluster(all_scores, internally_consistent_cluster):
-  # NB scores is a 1D dictionary mapping a single cluster to each of the other clusters in clusterings
-  scores = all_scores[internally_consistent_cluster]
-  best_cluster_number, best_score = reduce(get_best_cluster_score_tuple, scores.items())
-  return best_cluster_number
+  predictions = dict(zip(test_data.sample_names, clusters))
+  logging.debug("Produced predictions")
+  return predictions
 
 def clusters_to_string(cluster):
   cluster_map = {}
@@ -195,12 +146,7 @@ def write_row(output_file, row):
 
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()
-  parser.add_argument('split_file', type=argparse.FileType('r'))
-  parser.add_argument('matrix_file_a', type=argparse.FileType('r'))
-  parser.add_argument('matrix_file_b', type=argparse.FileType('r'))
-  parser.add_argument('test_subset', type=str)
-  parser.add_argument('training_subset_a', type=str)
-  parser.add_argument('training_subset_b', type=str)
+  parser.add_argument('distance_matrix', type=argparse.FileType('r'))
   parser.add_argument('output_file', type=argparse.FileType('a'), default=sys.stdout)
   parser.add_argument('-f', '--min-k', type=int, default=10)
   parser.add_argument('-t', '--max-k', type=int, default=50)
@@ -210,70 +156,47 @@ if __name__ == '__main__':
 
   args = parser.parse_args()
 
-  splits = {split.name: split for split in Split.from_file(args.split_file)}
-
-  test_isolates = splits[args.test_subset].isolates
-  training_isolates_a = splits[args.training_subset_a].isolates
-  training_isolates_b = splits[args.training_subset_b].isolates
-
-  training_data_a = TrainingData.get_training_data(args.matrix_file_a, training_isolates_a)
-  logging.debug("Shape of training_data_a is %s by %s" % training_data_a.data.shape)
-  testing_data_a = training_data_a.get_testing_data(args.matrix_file_a, test_isolates)
-  logging.debug("Shape of testing_data_a is %s by %s" % testing_data_a.data.shape)
-  training_data_b = TrainingData.get_training_data(args.matrix_file_b, training_isolates_b)
-  logging.debug("Shape of training_data_b is %s by %s" % training_data_b.data.shape)
-  testing_data_b = training_data_b.get_testing_data(args.matrix_file_b, test_isolates)
-  logging.debug("Shape of testing_data_b is %s by %s" % testing_data_b.data.shape)
+  all_data = TrainingData.from_file(args.distance_matrix)
+  logging.debug("Shape of all_data is %s by %s" % all_data.data.shape)
 
   train_classifier = get_classifier_trainer(n_init=args.cluster_seeds, max_iter=args.max_iters)
 
   for k in xrange(args.min_k, args.max_k):
     logging.debug("Running analysis for k=%s" % k)
-    all_training_predictions_from_a = []
-    all_test_predictions_from_a = []
-    all_test_predictions_from_b = []
+    scores = []
     for i in xrange(args.repetitions):
       logging.debug("Running iteration %s for k=%s" % (i, k))
-      training_subsample_a = training_data_a.subsample()
+      test_data = all_data.subsample(p=0.2, remove_features=False)
+      training_data = all_data.remove(test_data.sample_names)
+
+      logging.debug("Training on set a for i=%s, k=%s" % (i, k))
+      training_subsample_a = training_data.subsample(p=0.7, remove_features=True)
       classifier_a = train_classifier(training_subsample_a, k=k)
-      training_predictions_from_a = predict_cluster(classifier_a, training_subsample_a)
-      all_training_predictions_from_a.append(training_predictions_from_a)
-
-      testing_subsample_a = testing_data_a.sort_feature_names(training_subsample_a.feature_names)
+      testing_subsample_a = test_data.sort_feature_names(training_subsample_a.feature_names)
       test_predictions_from_a = predict_cluster(classifier_a, testing_subsample_a)
-      all_test_predictions_from_a.append(test_predictions_from_a)
+      del classifier_a
 
-      training_subsample_b = training_data_b.subsample()
+      logging.debug("Training on set b for i=%s, k=%s" % (i, k))
+      training_subsample_b = training_data.subsample(p=0.7, remove_features=True)
       classifier_b = train_classifier(training_subsample_b, k=k)
-      testing_subsample_b = testing_data_b.sort_feature_names(training_subsample_b.feature_names)
+      testing_subsample_b = test_data.sort_feature_names(training_subsample_b.feature_names)
       test_predictions_from_b = predict_cluster(classifier_b, testing_subsample_b)
-      all_test_predictions_from_b.append(test_predictions_from_b)
 
-    logging.debug("Writing internal consistency scores for k=%s" % k)
-    internal_score_matrix = {}
-    for i, prediction_1 in enumerate(all_training_predictions_from_a[:-1]):
-      for j, prediction_2 in enumerate(all_training_predictions_from_a[i+1:]):
-        score = compare_cluster_maps(prediction_1, prediction_2)
-        row = [k, "internal", score, i, i+j+1, args.max_iters, args.cluster_seeds]
-        write_row(args.output_file, row)
-        internal_score_matrix.setdefault(i, {})[j] = score
-        internal_score_matrix.setdefault(j, {})[i] = score
+      logging.debug("Creating predictions for i=%s, k=%s" % (i, k))
+      all_predictions = predict_cluster(classifier_b, all_data.sort_feature_names(training_subsample_b.feature_names))
+      del classifier_b
 
-    logging.debug("Writing external consistency scores for k=%s" % k)
-    external_score_matrix = {}
-    for i, prediction_1 in enumerate(all_test_predictions_from_a):
-      for j, prediction_2 in enumerate(all_test_predictions_from_b):
-        score = compare_cluster_maps(prediction_1, prediction_2)
-        row = [k, "external", score, i, j, args.max_iters, args.cluster_seeds]
-        write_row(args.output_file, row)
-        external_score_matrix.setdefault(i, {})[j] = score
+      logging.debug("Calculating scores for i=%s, k=%s" % (i, k))
+      score = compare_cluster_maps(test_predictions_from_a, test_predictions_from_b)
+      row = [k, "external", score, i, i, args.max_iters, args.cluster_seeds]
+      write_row(args.output_file, row)
+      scores.append((score, i, all_predictions))
 
     logging.debug("Analysing the best clusters for k=%s" % k)
-    best_cluster_a = get_most_internally_consistent_cluster(internal_score_matrix)
-    best_cluster_b = get_most_externally_consistent_cluster(external_score_matrix, best_cluster_a)
-    best_cluster = all_test_predictions_from_b[best_cluster_b]
-    cluster_string = clusters_to_string(best_cluster)
-    row = [k, "best", external_score_matrix[best_cluster_a][best_cluster_b], best_cluster_a, best_cluster_b, args.max_iters, args.cluster_seeds, cluster_string]
+    # take the predictions in the 80th percentile
+    score, i, predictions = sorted(scores)[int(args.repetitions*0.8)]
+    cluster_string = clusters_to_string(predictions)
+    row = [k, "best", score, i, i, args.max_iters, args.cluster_seeds, cluster_string]
     write_row(args.output_file, row)
 
     args.output_file.flush()
@@ -322,72 +245,6 @@ sample_3	0.3	0.5	0.0""")
     numpy.testing.assert_array_equal(actual_data.feature_names, expected_column_labels)
     numpy.testing.assert_array_equal(actual_data.sample_names, expected_row_labels)
     numpy.testing.assert_array_almost_equal(actual_data.data, expected_data)
-
-  def test_get_training_data(self):
-    input_file = StringIO("""\
-id	train_1.g1.DBLa.1	train_1.g2.DBLa.1	test_3.g3.DBLa.3	test_4.g4.DBLa.4
-test_3.g3.DBLa.3	0.3	0.5	0.0	0.9
-train_1.g2.DBLa.1	0.2	0.0	0.5	0.8
-train_1.g1.DBLa.1	0.0	0.2	0.3	0.7
-test_4.g4.DBLa.4	0.7	0.8	0.9	0.0""")
-    expected_sample_names = numpy.array(['train_1.g2.DBLa.1', 'train_1.g1.DBLa.1']).astype('str')
-    expected_feature_names = numpy.array(['train_1.g1.DBLa.1', 'train_1.g2.DBLa.1']).astype('str')
-    expected_training_data = numpy.array([[0.2, 0.0], [0.0, 0.2]]).astype('float')
-    training_data = TrainingData.get_training_data(input_file, ['train_1'])
-    numpy.testing.assert_array_equal(training_data.sample_names, expected_sample_names)
-    numpy.testing.assert_array_equal(training_data.feature_names, expected_feature_names)
-    numpy.testing.assert_array_almost_equal(training_data.data, expected_training_data)
-
-  def test_get_training_data_subset(self):
-    input_file = StringIO("""\
-id	train_1.g1.DBLa.1	train_2.g2.DBLa.1	test_3.g3.DBLa.3	test_4.g4.DBLa.4
-test_3.g3.DBLa.3	0.3	0.5	0.0	0.9
-train_2.g2.DBLa.1	0.2	0.0	0.5	0.8
-train_1.g1.DBLa.1	0.0	0.2	0.3	0.7
-test_4.g4.DBLa.4	0.7	0.8	0.9	0.0""")
-    expected_sample_names = numpy.array(['train_1.g1.DBLa.1']).astype('str')
-    expected_feature_names = numpy.array(['train_1.g1.DBLa.1']).astype('str')
-    expected_training_data = numpy.array([[0.0]]).astype('float')
-    training_data = TrainingData.get_training_data(input_file, ['train_1'])
-    numpy.testing.assert_array_equal(training_data.sample_names, expected_sample_names)
-    numpy.testing.assert_array_equal(training_data.feature_names, expected_feature_names)
-    numpy.testing.assert_array_almost_equal(training_data.data, expected_training_data)
-
-  def test_get_testing_data(self):
-    input_file = StringIO("""\
-id	train_1.g1.DBLa.1	train_2.g2.DBLa.2	test_3.g3.DBLa.3	test_4.g4.DBLa.4
-test_3.g3.DBLa.3	0.3	0.5	0.0	0.9
-train_2.g2.DBLa.2	0.2	0.0	0.5	0.8
-train_1.g1.DBLa.1	0.0	0.2	0.3	0.7
-test_4.g4.DBLa.4	0.7	0.8	0.9	0.0""")
-    feature_names = numpy.array(['train_1.g1.DBLa.1', 'train_2.g2.DBLa.2']).astype('str')
-
-    expected_sample_names = numpy.array(['test_3.g3.DBLa.3', 'test_4.g4.DBLa.4']).astype('str')
-    expected_feature_names = numpy.array(['train_1.g1.DBLa.1', 'train_2.g2.DBLa.2']).astype('str')
-    expected_testing_data = numpy.array([[0.3, 0.5], [0.7, 0.8]]).astype('float')
-    training_data = TrainingData.get_training_data(input_file, ['train_1', 'train_2'])
-    testing_data = training_data.get_testing_data(input_file, ['test_3', 'test_4'])
-    numpy.testing.assert_array_equal(testing_data.sample_names, expected_sample_names)
-    numpy.testing.assert_array_equal(testing_data.feature_names, expected_feature_names)
-    numpy.testing.assert_array_almost_equal(testing_data.data, expected_testing_data)
-
-  def test_get_testing_data_subset(self):
-    input_file = StringIO("""\
-id	train_1.g1.DBLa.1	train_2.g2.DBLa.2	test_3.g3.DBLa.3	test_4.g4.DBLa.4
-test_3.g3.DBLa.3	0.3	0.5	0.0	0.9
-train_2.g2.DBLa.2	0.2	0.0	0.5	0.8
-train_1.g1.DBLa.1	0.0	0.2	0.3	0.7
-test_4.g4.DBLa.4	0.7	0.8	0.9	0.0""")
-    feature_names = numpy.array(['train_1.g1.DBLa.1', 'train_2.g2.DBLa.2']).astype('str')
-
-    expected_sample_names = numpy.array(['test_3.g3.DBLa.3']).astype('str')
-    expected_feature_names = numpy.array(['train_1.g1.DBLa.1', 'train_2.g2.DBLa.2']).astype('str')
-    expected_testing_data = numpy.array([[0.3, 0.5]]).astype('float')
-    training_data = TrainingData.get_training_data(input_file, ['train_1', 'train_2'])
-    testing_data = training_data.get_testing_data(input_file, ['test_3'])
-    numpy.testing.assert_array_equal(testing_data.sample_names, expected_sample_names)
-    numpy.testing.assert_array_equal(testing_data.feature_names, expected_feature_names)
-    numpy.testing.assert_array_almost_equal(testing_data.data, expected_testing_data)
 
   @patch("%s.metrics.adjusted_rand_score" % __name__)
   def test_compare_cluster_maps(self, score_mock):

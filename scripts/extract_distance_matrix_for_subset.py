@@ -50,13 +50,14 @@ def reformat_rows(input_file, row_filter):
     else:
       yield reformatted_row
 
-def print_row(row):
-  print "\t".join(map(str,row))
+def write_row(output_file, row):
+  output_file.write("\t".join(map(str,row)) + "\n")
 
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()
   parser.add_argument('split_file', type=argparse.FileType('r'), default=sys.stdin)
-  parser.add_argument('full_matrix', type=argparse.FileType('r'), default=sys.stdin)
+  parser.add_argument('full_matrix', type=argparse.FileType('r'))
+  parser.add_argument('output_file', type=argparse.FileType('w'))
   parser.add_argument('subsets', type=str, nargs="*")
   
   args = parser.parse_args()
@@ -71,4 +72,4 @@ if __name__ == '__main__':
 
   row_filter = build_row_filter(column_labels, sample_names)
   for row in reformat_rows(args.full_matrix, row_filter):
-    print_row(row)
+    write_row(args.output_file, row)

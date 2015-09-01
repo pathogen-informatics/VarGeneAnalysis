@@ -24,7 +24,10 @@ DEFAULT_NUMBER_OF_CLUSTERS=10
 class TrainingData(object):
   @classmethod
   def from_file(cls, input_file):
-    input_file.seek(0)
+    try:
+      input_file.seek(0)
+    except AttributeError:
+      input_file = open(input_file, 'r')
     csv_file = pd.read_csv(input_file, delimiter='\t')
     csv_file.set_index('id', inplace=True)
     return cls(csv_file)

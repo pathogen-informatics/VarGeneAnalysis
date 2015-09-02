@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+
+import argparse
+import pandas as pd
+
 from compare_lots_of_clusters import plot_heatmap, normalise_along_axis
 
 def stack_with_source(data, source_name):
@@ -22,15 +27,30 @@ def join(data_a, data_b):
   
 
 if __name__ == '__main__':
-  original_data = pd.read_csv("original_seven_genomes_domains.table.log", delimiter='\t')
-  original_data.columns = ['gene', 'CIDRa', 'DBLa']
+  parser = argparse.ArgumentParser()
+  parser.add_argument("original_data_table", type=argparse.FileType('r'))
+  parser.add_argument("new_data_table", type=argparse.FileType('r'))
+  parser.add_argument("domains", nargs="+", type=str)
+  args = parser.parse_args()
+
+  original_data = pd.read_csv(args.original_data_table,
+                              delimiter='\t')
+  original_data.columns = ['gene'] + args.domains
   original_data = stack_with_source(original_data, 'original')
   
-  new_data = pd.read_csv("seven_genomes_data.CIDRa_k12_DBLa_k6.table.log",
+  new_data = pd.read_csv(args.new_data_table,
                          delimiter='\t')
-  new_data.columns = ['gene', 'CIDRa', 'DBLa']
+  new_data.columns = ['gene'] + args.domains
   new_data = stack_with_source(new_data, 'new')
   
   matrices = join(new_data, original_data)
-  plot_heatmap(matrices.loc['CIDRa'].dropna(how='all', axis=1))
-  plot_heatmapmatrices.loc['DBLa'].dropna(how='all', axis=1))
+  for domain in args.domains:
+    domain_matrix = matrices.loc[domain].dropna(how='all', axis=1)
+    normalised_matrix = normalise_along_axis(domain_matrix, 0)
+    plot_heatmap(normalised_matrix)
+    print normalised_matrix.T.fillna(0).to_csv(sep='\t')
+
+  try:
+    input("Press ENTER to close the windows")
+  except:
+    pass

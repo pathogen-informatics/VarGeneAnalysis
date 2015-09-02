@@ -76,10 +76,9 @@ class TrainingData(object):
     return sorted(desired_samples)
 
   def remove(self, sample_names):
-    pivot_table = self.data.stack().reset_index()
-    pivot_table.columns = ['id', 'isolate', 'distance']
-    matching_rows = pivot_table['id'].isin(sample_names) | pivot_table['isolate'].isin(sample_names)
-    non_matching_data = pivot_table[~matching_rows].set_index(['id', 'isolate']).unstack()
+    matching_rows = self.data.index[~self.data.index.isin(sample_names)]
+    matching_columns = self.data.columns[~self.data.columns.isin(sample_names)]
+    non_matching_data = self.data.loc[matching_rows, matching_columns]
     return TrainingData(non_matching_data)
 
   def subsample(self, p=0.7, remove_features=True):

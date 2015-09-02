@@ -48,20 +48,17 @@ class TrainingData(object):
     """Filters data keeping rows from "original" which are in "desired"
 
     Preserves order of the retained rows in the "original" ordering"""
-    matching_rows = self.data.reset_index()['id'].isin(desired)
-    matching_data = self.data.reset_index()[matching_rows].set_index('id')
-    return TrainingData(matching_data)
+    matching_rows = self.data.index[self.data.index.isin(desired)]
+    non_matching_data = self.data.loc[matching_rows]
+    return TrainingData(non_matching_data)
 
   def filter_feature_names(self, desired):
     """Filters data keeping columns from "original" which are in "desired"
 
     Preserves order of the retained columns in the "original" ordering"""
-    pivot_table = self.data.stack().reset_index()
-    pivot_table.columns = ['id', 'isolate', 'distance']
-    matching_rows = pivot_table['isolate'].isin(desired)
-    matching_data = pivot_table[matching_rows].set_index(['id', 'isolate']).unstack()
-    matching_data.columns = [isolate for _,isolate in matching_data.columns]
-    return TrainingData(matching_data)
+    matching_columns = self.data.columns[self.data.columns.isin(desired)]
+    non_matching_data = self.data.loc[:, matching_columns]
+    return TrainingData(non_matching_data)
 
   def get_relevant_sample_names(self, desired_isolates):
     """Returns a list of the samples from the desired isolates"""

@@ -32,9 +32,12 @@ def plot_kmeans(data, block=False, title=None):
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()
   parser.add_argument('-t', '--title', type=str, default=None)
-  parser.add_argument('input_file', type=argparse.FileType('r'))
+  parser.add_argument('input_files', nargs='+', type=argparse.FileType('r'))
   args = parser.parse_args()
 
   style.use('ggplot')
-  data = load_without_best(args.input_file)
+  data = load_without_best(args.input_files[0])
+  for input_file in args.input_files[1:]:
+    data = data.append(load_without_best(input_file))
+
   plot_kmeans(data, block=True, title=args.title)

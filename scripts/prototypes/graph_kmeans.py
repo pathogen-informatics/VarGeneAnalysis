@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import argparse
+import re
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -9,9 +10,12 @@ from matplotlib import style
 from StringIO import StringIO
 
 def load_without_best(raw_file):
-  """Remove the 7th column and 'best' rows"""
+  """Remove comments, the 7th column and 'best' rows"""
   fake_file = StringIO()
   for line in raw_file:
+    line = re.sub('\s+#.+$', '', line)
+    if line.strip() == '':
+      continue
     fake_file.write("\t".join(line.split("\t")[:7])+"\n")
   fake_file.seek(0)
   data = pd.read_csv(fake_file, delimiter='\t', names=['k', 'type', 'score', 'i', 'j', 'i','r'])

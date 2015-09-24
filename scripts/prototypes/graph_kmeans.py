@@ -13,7 +13,7 @@ def load_without_best(raw_file):
   """Remove comments, the 7th column and 'best' rows"""
   fake_file = StringIO()
   for line in raw_file:
-    line = re.sub('\s+#.+$', '', line)
+    line = re.sub('\s*#.+$', '', line)
     if line.strip() == '':
       continue
     fake_file.write("\t".join(line.split("\t")[:7])+"\n")
@@ -23,11 +23,10 @@ def load_without_best(raw_file):
   return data
 
 def plot_kmeans(data, block=False, title=None):
+  data['k'] = map(int, data['k'])
   stats = data[['k', 'type', 'score']].groupby(['k', 'type']).apply(lambda df: pd.Series({'mean': df['score'].mean(), 'std': df['score'].std()}))
-#  means = stats['mean'].unstack()[['internal', 'external']]
-#  errors = stats['std'].unstack()[['internal', 'external']]
-  means = stats['mean'].unstack()[['external']]
-  errors = stats['std'].unstack()[['external']]
+  means = stats['mean'].unstack()[['external']].sort_index()
+  errors = stats['std'].unstack()[['external']].sort_index()
   chart = means.plot(yerr=errors, kind='bar')
   if title:
     chart.set_title(title)

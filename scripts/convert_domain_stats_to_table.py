@@ -21,24 +21,17 @@ if __name__ == '__main__':
   args = parser.parse_args()
 
   data = json.load(args.input_json)['data']
-  
-  write_row(args.output_table, ['name', 'CIDRa_subdomain', 'DBLa_subdomain'])
+  all_domains = set()
+  rows = {}
 
   for sample in data:
     sample_name = sample['sample_name']
-    all_domains = sample['domains']
+    domains = sample['domains']
 
-    CIDRa_subdomains = [domain['sub_domain'] for domain in all_domains if domain['domain'] == "CIDRa"]
-    if len(CIDRa_subdomains) == 0:
-      CIDRa_subdomain = ''
-    else:
-      (CIDRa_subdomain,) = CIDRa_subdomains
+    all_domains.update([domain['domain'] for domain in domains])
+    rows[sample_name] = {domain['domain']: domain['sub_domain'] for domain in domains}
 
-    DBLa_subdomains = [domain['sub_domain'] for domain in all_domains if domain['domain'] == "DBLa"]
-    if len(DBLa_subdomains) == 0:
-      DBLa_subdomain = ''
-    else:
-      (DBLa_subdomain,) = DBLa_subdomains
-
-    row = [sample_name, CIDRa_subdomain, DBLa_subdomain]
+  write_row(args.output_table, ['name'] + list(all_domains))
+  for sample_name, sample_data in rows.items():
+    row = [sample_name] + [sample_data.get(domain, '') for domain in all_domains]
     write_row(args.output_table, row)

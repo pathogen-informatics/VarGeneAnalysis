@@ -16,7 +16,8 @@ def write_row(f, row):
   f.write(row_string + "\n")
 
 def domain_from_subdomain(subdomain):
-  (domain,) = re.findall("^cluster\.\d+\.([^_]+)_k\d+$", subdomain)
+  # gets domain from something like cluster.5.DBLa
+  (domain,) = re.findall("^cluster\.\d+\.([^_]+)$", subdomain)
   return domain
 
 def get_best_hits_for_query(query, threshold=None):

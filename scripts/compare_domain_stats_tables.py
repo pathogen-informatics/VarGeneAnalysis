@@ -7,6 +7,10 @@ import re
 import sys
 import csv
 
+import pandas as pd
+
+from sklearn.metrics import adjusted_rand_score
+
 def write_row(f, row):
   row_string = "\t".join(map(str, row))
   f.write(row_string + "\n")
@@ -21,53 +25,38 @@ if __name__ == '__main__':
 
   args = parser.parse_args()
 
-  csv_a = csv.reader(args.input_a, delimiter="\t")
-  csv_b = csv.reader(args.input_b, delimiter="\t")
+  csv_a = pd.read_csv(args.input_a, delimiter="\t")
+  csv_b = pd.read_csv(args.input_b, delimiter="\t")
 
-  columns_a = csv_a.next()[1:]
-  columns_b = csv_b.next()[1:]
+  # Get union of domains in a and b; report A AND !B / B AND !A
+  domains_a = set(csv_a.columns.values[1:])
+  domains_b = set(csv_b.columns.values[1:])
+  domains_both = domains_a.intersection(domains_b)
+  logging.info("A and B have the following domains in common: %s" %
+               ', '.join(sorted(map(str, domains_both))))
+  only_a = domains_a.difference(domains_b)
+  only_b = domains_b.difference(domains_a)
+  if only_a:
+    logging.info("Only A has: %s" %
+                 ', '.join(sorted(map(str, only_a))))
+  if only_b:
+    logging.info("Only B has: %s" %
+                 ', '.join(sorted(map(str, only_b))))
 
-  sample_cluster_map = {}
-  row_cluster_names = {}
-  logging.debug("Making our way through A")
-  for row in csv_a:
-    sample_name = row[0]
-    sample_clusters = row[1:]
-    for column_label,cluster_name_a in zip(columns_a, sample_clusters):
-      sample_cluster_map.setdefault(column_label, {})[sample_name] = cluster_name_a
-      row_cluster_names.setdefault(column_label, set()).add(cluster_name_a)
-  for column_label, cluster_names in row_cluster_names.items():
-    logging.debug("Found %s cluster names for %s in A" % (len(cluster_names), column_label))
-
-  cluster_cluster_map = {}
-  column_cluster_names = {}
-  logging.debug("Making our way through B")
-  for row in csv_b:
-    sample_name = row[0]
-    sample_clusters = row[1:]
-    for column_label,cluster_name_b in zip(columns_b, sample_clusters):
-      try:
-        cluster_name_a = sample_cluster_map[column_label][sample_name]
-      except:
-        continue
-      previous_count = cluster_cluster_map.setdefault(column_label, {}).setdefault(cluster_name_a, {}).setdefault(cluster_name_b, 0)
-      cluster_cluster_map[column_label][cluster_name_a][cluster_name_b] = previous_count + 1
-      column_cluster_names.setdefault(column_label, set()).add(cluster_name_b)
-
-  for column_label, cluster_names in column_cluster_names.items():
-    logging.debug("Found %s cluster names for %s in B" % (len(cluster_names), column_label))
-
-  for column_name,cluster_matrix in cluster_cluster_map.items():
-    logging.debug("Outputing matrix for %s" % column_name)
-    logging.debug("Expecting a %s by %s matrix" % (len(column_cluster_names.get(column_name, [])), len(row_cluster_names.get(column_name, []))))
-    header_row = [column_name] + sorted(column_cluster_names.get(column_name, []))
-    header_row = [el if el != '' else 'unknown' for el in header_row]
-    write_row(args.output_file, header_row)
-
-    for row_cluster in sorted(row_cluster_names.get(column_name, [])):
-      row = [row_cluster]
-      for column_cluster in sorted(column_cluster_names.get(column_name, [])):
-        row.append(cluster_matrix.get(row_cluster, {}).get(column_cluster, 0))
-      row = [el if el != '' else 'unknown' for el in row]
-      write_row(args.output_file, row)
-    args.output_file.write("\n\n")
+  for domain in sorted(domains_both):
+    joint_data = pd.merge(csv_a[['name', domain]],
+                          csv_b[['name', domain]],
+                          on='name', how='outer')
+    joint_data.columns = ['name', 'A', 'B']
+    unknown_sample_names = joint_data[pd.isnull(joint_data).any(axis=1)]['name']
+    if not unknown_sample_names.empty:
+      logging.debug("The following samples could not be classified:\n%s" %
+                    "\n".join(map(str, unknown_sample_names)))
+    joint_data[pd.isnull(joint_data)] = 'unknown'
+    confusion_matrix = joint_data.groupby(['A', 'B']).aggregate(len).unstack()
+    confusion_matrix[pd.isnull(confusion_matrix)] = 0
+    args.output_file.write("Confusion matrix for %s:\n" % domain)
+    confusion_matrix.to_csv(args.output_file, sep='\t')
+    joint_data_only_known = joint_data[(joint_data != 'unknown').any(axis=1)]
+    score = adjusted_rand_score(joint_data_only_known['A'], joint_data_only_known['B'])
+    args.output_file.write("Score for %s: %s\n\n" % (domain, score))

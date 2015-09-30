@@ -38,14 +38,14 @@ def get_domain_classifications(data, domain_a, domain_b):
   domain_data = domain_data.unstack()
   return domain_data
 
-def plot_heatmap(matrix, title=None):
+def plot_heatmap(matrix, title=None, block=False):
   plt.figure()
   sns.heatmap(matrix, mask=np.isnan(matrix))
   plt.yticks(rotation=0)
   plt.xticks(rotation=90)
   if title:
     plt.suptitle(title)
-  plt.show(block=False)
+  plt.show(block=block)
 
 def normalise_along_axis(matrix, axis=0):
   assert axis in [0,1], "axis should be 0 or 1"

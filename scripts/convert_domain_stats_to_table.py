@@ -31,7 +31,9 @@ if __name__ == '__main__':
     all_domains.update([domain['domain'] for domain in domains])
     rows[sample_name] = {domain['domain']: domain['sub_domain'] for domain in domains}
 
-  write_row(args.output_table, ['name'] + list(all_domains))
+  sorted_domains = sorted(all_domains)
+  write_row(args.output_table, ['name'] + list(sorted_domains))
   for sample_name, sample_data in rows.items():
-    row = [sample_name] + [sample_data.get(domain, '') for domain in all_domains]
+    row = [sample_name] + [sample_data.get(domain, '') for domain in
+                           sorted_domains]
     write_row(args.output_table, row)

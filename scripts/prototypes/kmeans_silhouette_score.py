@@ -55,7 +55,7 @@ if __name__ == '__main__':
   parser = argparse.ArgumentParser()
   parser.add_argument('distance_matrix', type=argparse.FileType('r'))
   parser.add_argument('kmeans_results', type=argparse.FileType('r'), nargs='*')
-  parser.add_argument('output_file'), type=argparse.FileType('w'), default=sys.stdout)
+  parser.add_argument('output_file', type=argparse.FileType('a'))
   args = parser.parse_args()
 
   distance_matrix = pd.read_csv(args.distance_matrix, delimiter='\t')

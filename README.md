@@ -249,7 +249,7 @@ The original seven genomes subdomains can be found here:
 ```
 original_seven_genomes_domains.just_ATS.table
 original_seven_genomes_domains.just_NTS.table
-original_seven_genomes_domains.table.log
+original_seven_genomes_domains.table
 ```
 
 ## `compare_domain_stats_tables.py`

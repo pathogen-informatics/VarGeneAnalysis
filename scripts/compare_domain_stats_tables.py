@@ -11,6 +11,8 @@ import pandas as pd
 
 from sklearn.metrics import adjusted_rand_score
 
+from prototypes.compare_lots_of_clusters import plot_heatmap, normalise_along_axis
+
 def write_row(f, row):
   row_string = "\t".join(map(str, row))
   f.write(row_string + "\n")
@@ -21,6 +23,7 @@ if __name__ == '__main__':
   parser = argparse.ArgumentParser()
   parser.add_argument("input_a", type=argparse.FileType('r'))
   parser.add_argument("input_b", type=argparse.FileType('r'))
+  parser.add_argument("--plot", help="Plot a heatmap", action='store_true')
   parser.add_argument("output_file", type=argparse.FileType('wb'), default=sys.stdout)
 
   args = parser.parse_args()
@@ -50,13 +53,15 @@ if __name__ == '__main__':
     joint_data.columns = ['name', 'A', 'B']
     unknown_sample_names = joint_data[pd.isnull(joint_data).any(axis=1)]['name']
     if not unknown_sample_names.empty:
-      logging.debug("The following samples could not be classified:\n%s" %
-                    "\n".join(map(str, unknown_sample_names)))
+      logging.debug("The following samples could not be classified:\n  %s" %
+                    "\n  ".join(map(str, unknown_sample_names)))
     joint_data[pd.isnull(joint_data)] = 'unknown'
-    confusion_matrix = joint_data.groupby(['A', 'B']).aggregate(len).unstack()
+    confusion_matrix = joint_data.groupby(['A', 'B']).aggregate(len).unstack()['name']
     confusion_matrix[pd.isnull(confusion_matrix)] = 0
     args.output_file.write("Confusion matrix for %s:\n" % domain)
     confusion_matrix.to_csv(args.output_file, sep='\t')
     joint_data_only_known = joint_data[(joint_data != 'unknown').any(axis=1)]
     score = adjusted_rand_score(joint_data_only_known['A'], joint_data_only_known['B'])
     args.output_file.write("Score for %s: %s\n\n" % (domain, score))
+    if args.plot:
+      plot_heatmap(normalise_along_axis(confusion_matrix, axis=0), block=True)

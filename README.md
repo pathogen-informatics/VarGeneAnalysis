@@ -6,11 +6,11 @@ This work was somewhat successful but further work would be required to make the
 
 This code is published here for reference, you shouldn't run it without reading it to understand what it's doing.
 
-# High level overview
+## High level overview
 
 The idea is that, for each VarGene domain, there are probably clusters of examples of domains which share something in common and that we could identify some subdomains.  By analysing a lot of examples of each domain, we can group examples into each subdomain and use them to train a HMMer model to categorise future samples.
 
-## Basic steps
+### Basic steps
 
 We start with N sequences for each domain and an N by N distance matrix showing the similarity between each example.
 
@@ -18,17 +18,17 @@ We then split the data into training and test sets whcih we will later use to ev
 
 Using different training sets we build models to claisfy the training set.  We repeat the process using a different training set and compare the consistency of the classification of the test set.
 
-## Structure
+### Structure
 
 This repo is made up of lots of simple scripts which each do one simple job, commonly on the output of the previous script.  In many cases data can be piped from one script into the next.
 
 The contents of the `scripts` directory are pretty good, the contents of the `prototype` subdirectory are a lot hackier and may require manual tweaking to get around poor command line options.
 
-# Instructions
+## Instructions
 
 If you are going to try and run this, here are some notes on how you might do it.
 
-## Dependencies
+### Dependencies
 
 Install dependencies:
 
@@ -43,11 +43,11 @@ sudo apt-get install libopenblas-base \
 pip install -r requirements.txt
 ```
 
-# Create subsets of data
+## Create subsets of data
 
 Scripts used to split the data into training and test sets.
 
-## `list_samples_from_distance_matrix.py`
+### `list_samples_from_distance_matrix.py`
 
 Takes a distance matrix and outputs the samples listed in the first header row as a list, one samples per line.
 
@@ -101,7 +101,7 @@ It creates some json like so:
 
 Examples from our dataset can be found in `domain_frequency_stats/`
 
-## `domain_frequency_stats_to_table.py`
+### `domain_frequency_stats_to_table.py`
 
 Converts the json based statistics from `domain_frequency_stats_from_sample_names.py` into a table like:
 
@@ -111,7 +111,7 @@ Converts the json based statistics from `domain_frequency_stats_from_sample_name
 
 This is just a more humanly readable output to check for wierdness.
 
-## `create_subsets_of_isolate_names.py`
+### `create_subsets_of_isolate_names.py`
 
 Used to subsample a dataset into subsets with approximately equal numbers of 
 examples.  You give it json from `domain_frequency_stats_from_sample_names.py`,
@@ -129,7 +129,7 @@ subset_1	5 99	PH0246-C,PD0123-C,PF0214-C,PH0259-C,PD0091-C
 
 Play with the `target_size` parameter until you get your prefered number of subsets.  I picked 7 subsets: I used 3 as one training set, 3 as another and kept one as a test set.
 
-## `create_subsets_for_other_domains.py`
+### `create_subsets_for_other_domains.py`
 
 Takes the output from `create_subsets_of_isolate_names.py` and the names of
 isolates in each subset of the data (from `list_samples_from_distance_matrix.py`) and outputs a similar table for another
@@ -139,18 +139,18 @@ frequencies for the other domains.  In this case it didn't.
 
 An example from out dataset can be found in `isolates_per_subset/`
 
-## `create_subsets_for_all_other_domains.sh`
+### `create_subsets_for_all_other_domains.sh`
 
 A convienience shell script which runs `create_subsets_for_other_domains.py` for a group of domains.
 
-## `compare_domain_counts_across_subsets.py`
+### `compare_domain_counts_across_subsets.py`
 
 Creates a table from files created by `create_subsets_for_other_domains.py`
 with the number of samples of each domain in each subset of the data.
 
 Use to double check that the data segmentations isn't wierd across domains.
 
-## `extract_distance_matrix_for_subset.py`
+### `extract_distance_matrix_for_subset.py`
 
 Creates a distance matrix file for one or more subsets of the data.
 
@@ -159,18 +159,18 @@ file and a list of subsets and pulls out the relevant bits.
 
 Pass it the names of multiple subsets to create one file with a combined matrix.
 
-## `extract_distance_matrix_for_tests_set.sh`
+### `extract_distance_matrix_for_tests_set.sh`
 
 Wrapper script around `extract_distance_matrix_for_subset.py` to create the
 training and test sets we need.
 
-# Model training and selection
+## Model training and selection
 
 Scripts used to train the kmeans models and pick which value of k is best.
 
 We create models from a training set using different values of K and evaluate their consistency.  We then do the same with the other training set and use this to reasure ourselves that we've picked a good value for K (if that value is consistenly good regardless of the data used to evaluate it).
 
-## `train_clusters_with_kmeans.py`
+### `train_clusters_with_kmeans.py`
 
 For a number of values of k, repeatedly train clusters and output consistency
 scores from cross validation.
@@ -189,7 +189,7 @@ Having does this a number of times (often 15); it picks one of the better correl
 <k>	best <consistency_score_for_clusters_with_different_data>	<clustering_attempt_index>	<other_clustering_attempt_index> <number_of_iterations>	<number_of_initial_conditions_tried> <list_of_samples_in_each_cluster>
 ```
 
-## `prototypes/graph_kmeans.py`
+### `prototypes/graph_kmeans.py`
 
 This is a hacky script which you can run locally to graph the results of `train_clusters_with_kmeans.py`.  For a given file, it finds all of the 'external' lines and produces a graph of mean and standard deviation of consistency scores for each value of K.
 
@@ -199,17 +199,17 @@ You then use these graphs to pick a value of K.  Exactly how to do this is outsi
 
 It is important to hold back some data while selecting K for a final validation set which will help you to detect if your model has overfitted to your data.
 
-## `build_fastas_for_cluster.py`
+### `build_fastas_for_cluster.py`
 
 Having picked a value for K, this is used to build a fasta file for each cluster.  You do this by finding the line in the output created by `train_clusters_with_kmeans.py` which corresponds to the 'best' clustering for the value or K.  At the end of this line is a list of samples separated by commas and semi-colons.  Semi-colons
 distinguish the boundaries of a cluster, commas separe the names of samples.
 
-## `make_hmmer_models.sh`
+### `make_hmmer_models.sh`
 
 Takes a list of fasta files as arguments.  For each it aligns the contents of the
 fasta with `clustalw` and then builds a hmmer profile with `hmmbuild`
 
-## Run HMMer
+### Run HMMer
 
 `hmmer` is run by first `cat`-ing profiles together, then `hmmpress`, then running the `hmmscan`
 
@@ -223,7 +223,7 @@ hmmscan --cpu 4 -E 1e-6 --domE 1e-6 --tblout res.SevenGenomes.CIDRa_k12_DBLa_k6.
         cluster_files/hmm.all.CIDRa_k12_DBLa_k6.hmm ../SevenGenomes.aa.fasta
 ```
 
-## `parse_hmmer_tblout.py`
+### `parse_hmmer_tblout.py`
 
 Parses the output from `hmmscan` into json for all of the best hits above an optional threshold
 
@@ -231,14 +231,14 @@ Parses the output from `hmmscan` into json for all of the best hits above an opt
 ./parse_hmmer_tblout.py res.SevenGenomes.CIDRa_k12_DBLa_k6.tblout.txt - | python -mjson.tool | less -S
 ```
 
-## `parse_seven_genomes_subdomain_info.py`
+### `parse_seven_genomes_subdomain_info.py`
 
 Script which parses the output from the [VarDom service](http://www.cbs.dtu.dk/services/VarDom/)
 to output details of which subdomains are in which of the genes in the original Seven Genomes.
 
 You can find the results of this script in `original_seven_genomes_domains.json`
 
-## `convert_domain_stats_to_table.py`
+### `convert_domain_stats_to_table.py`
 
 Takes json from `parse_seven_genomes_subdomain_info.py` or `parse_hmmer_tblout.py`
 and outputs a table.  Each line is a sample and the subdomain for CIDRa
@@ -252,7 +252,7 @@ original_seven_genomes_domains.just_NTS.table
 original_seven_genomes_domains.table
 ```
 
-## `compare_domain_stats_tables.py`
+### `compare_domain_stats_tables.py`
 
 Takes a couple of tables from `convert_domain_stats_to_table.py` and creates a
 matrix for each column in the input table.
@@ -264,6 +264,6 @@ the other.
 
 This is useful to compare two different clustering algorithms.
 
-## `build_fastas_for_subset.py`
+### `build_fastas_for_subset.py`
 
 Build a fasta of amino acids for one or more subsets for use with `parse_hmmer_tblout.py`
